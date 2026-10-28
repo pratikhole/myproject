@@ -2,842 +2,976 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="noindex, nofollow">
-    <title>Website</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>3RI Technologies | Website Monitor</title>
 
-    <style>
-        :root {
-            --bg: #f4f6fa;
-            --card: #ffffff;
-            --text: #172033;
-            --muted: #687386;
-            --border: #e3e8f0;
-            --primary: #3157d5;
-            --green: #16845b;
-            --red: #c43b45;
-            --orange: #b96a12;
-            --shadow: 0 4px 18px rgba(20, 35, 70, 0.05);
-        }
+<style>
+:root {
+    --bg: #f4f6fa;
+    --panel: #ffffff;
+    --text: #172033;
+    --muted: #687386;
+    --border: #e2e7ef;
+    --blue: #3157d5;
+    --green: #16834d;
+    --red: #d12635;
+    --orange: #b96a12;
+    --shadow: 0 3px 14px rgba(25, 40, 75, .05);
+}
 
-        * {
-            box-sizing: border-box;
-        }
+* { box-sizing: border-box; }
 
-        body {
-            margin: 0;
-            font-family: Arial, Helvetica, sans-serif;
-            background: var(--bg);
-            color: var(--text);
-        }
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
 
-        .container {
-            max-width: 1500px;
-            margin: auto;
-            padding: 28px;
-        }
+.container {
+    max-width: 1500px;
+    margin: auto;
+    padding: 28px;
+}
 
-        header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            gap: 20px;
-            flex-wrap: wrap;
-            margin-bottom: 25px;
-        }
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 24px;
+}
 
-        h1 {
-            margin: 0 0 8px;
-            font-size: 27px;
-        }
+h1 {
+    font-size: 25px;
+    margin: 0 0 7px;
+}
 
-        .subtitle {
-            color: var(--muted);
-            font-size: 14px;
-        }
+.subtitle { color: var(--muted); }
 
-        .site-link {
-            color: var(--primary);
-            text-decoration: none;
-            font-size: 14px;
-            font-weight: bold;
-        }
+a {
+    color: var(--blue);
+    text-decoration: none;
+}
 
-        .cards {
-            display: grid;
-            grid-template-columns: repeat(4, minmax(0, 1fr));
-            gap: 16px;
-            margin-bottom: 25px;
-        }
+a:hover { text-decoration: underline; }
 
-        .card {
-            background: var(--card);
-            border: 1px solid var(--border);
-            border-radius: 13px;
-            padding: 21px;
-            box-shadow: var(--shadow);
-        }
+.cards {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 14px;
+    margin-bottom: 22px;
+}
 
-        .card-label {
-            font-size: 13px;
-            color: var(--muted);
-            margin-bottom: 12px;
-        }
+.metric {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 19px;
+    box-shadow: var(--shadow);
+}
 
-        .card-value {
-            font-size: 30px;
-            font-weight: 700;
-        }
+.metric-label {
+    color: var(--muted);
+    font-size: 12px;
+    margin-bottom: 12px;
+}
 
-        .card-note {
-            margin-top: 8px;
-            font-size: 12px;
-            color: var(--muted);
-        }
+.metric-value {
+    font-size: 28px;
+    font-weight: 700;
+}
 
-        .section {
-            background: var(--card);
-            border: 1px solid var(--border);
-            border-radius: 13px;
-            box-shadow: var(--shadow);
-            margin-bottom: 25px;
-            overflow: hidden;
-        }
+.metric-note {
+    color: var(--muted);
+    font-size: 11px;
+    margin-top: 8px;
+}
 
-        .section-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            flex-wrap: wrap;
-            gap: 15px;
-            padding: 20px;
-            border-bottom: 1px solid var(--border);
-        }
+.panel {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    margin-bottom: 22px;
+    overflow: hidden;
+}
 
-        h2 {
-            margin: 0;
-            font-size: 18px;
-        }
+.panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 14px;
+    padding: 18px 20px;
+    border-bottom: 1px solid var(--border);
+}
 
-        .controls {
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-        }
+h2 {
+    font-size: 17px;
+    margin: 0;
+}
 
-        input,
-        select {
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            padding: 10px 12px;
-            background: white;
-            color: var(--text);
-            font-size: 13px;
-            outline: none;
-        }
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 9px;
+}
 
-        input:focus,
-        select:focus {
-            border-color: var(--primary);
-        }
+input, select, button {
+    font: inherit;
+}
 
-        input {
-            min-width: 230px;
-        }
+input, select {
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    padding: 10px 12px;
+    background: #fff;
+    color: var(--text);
+    min-height: 36px;
+}
 
-        .table-wrap {
-            overflow-x: auto;
-        }
+input { min-width: 230px; }
 
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            min-width: 900px;
-        }
+button {
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    background: #fff;
+    padding: 8px 12px;
+    cursor: pointer;
+}
 
-        th,
-        td {
-            text-align: left;
-            padding: 14px 16px;
-            border-bottom: 1px solid var(--border);
-            font-size: 13px;
-            vertical-align: top;
-        }
+button:disabled {
+    opacity: .4;
+    cursor: not-allowed;
+}
 
-        th {
-            background: #f9fafc;
-            color: var(--muted);
-            font-weight: 600;
-            white-space: nowrap;
-        }
+.table-wrap { overflow-x: auto; }
 
-        tr:last-child td {
-            border-bottom: none;
-        }
+table {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 900px;
+}
 
-        .url-cell {
-            max-width: 340px;
-            overflow-wrap: anywhere;
-        }
+th, td {
+    text-align: left;
+    padding: 13px 15px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+}
 
-        .url-cell a {
-            color: var(--primary);
-            text-decoration: none;
-        }
+th {
+    background: #f9fafc;
+    color: var(--muted);
+    font-weight: 600;
+    white-space: nowrap;
+}
 
-        .url-cell a:hover {
-            text-decoration: underline;
-        }
+.url-cell {
+    max-width: 300px;
+    overflow-wrap: anywhere;
+}
 
-        .badge {
-            display: inline-block;
-            padding: 5px 9px;
-            border-radius: 20px;
-            font-size: 11px;
-            font-weight: 700;
-            white-space: nowrap;
-        }
+.badge {
+    display: inline-block;
+    border-radius: 20px;
+    padding: 4px 8px;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
 
-        .badge-new {
-            color: var(--green);
-            background: #e8f7ef;
-        }
+.badge-new {
+    color: #087a45;
+    background: #e5f8ed;
+}
 
-        .badge-changed {
-            color: var(--orange);
-            background: #fff4e5;
-        }
+.badge-changed {
+    color: #a94c00;
+    background: #fff0df;
+}
 
-        .badge-removed {
-            color: var(--red);
-            background: #fdecee;
-        }
+.badge-removed {
+    color: #b42332;
+    background: #fde9eb;
+}
 
-        .badge-unchanged {
-            color: #536176;
-            background: #edf0f5;
-        }
+.badge-unchanged {
+    color: #536176;
+    background: #edf0f5;
+}
 
-        .badge-failed {
-            color: var(--red);
-            background: #fdecee;
-        }
+.badge-failed {
+    color: #b42332;
+    background: #fde9eb;
+}
 
-        .empty {
-            padding: 35px;
-            text-align: center;
-            color: var(--muted);
-            font-size: 14px;
-        }
+.badge-high {
+    color: #b42332;
+    background: #fde9eb;
+}
 
-        .pagination {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            gap: 12px;
-            padding: 16px 20px;
-            border-top: 1px solid var(--border);
-            color: var(--muted);
-            font-size: 13px;
-        }
+.badge-medium {
+    color: #a94c00;
+    background: #fff0df;
+}
 
-        .pagination button {
-            border: 1px solid var(--border);
-            background: white;
-            padding: 8px 12px;
-            border-radius: 7px;
-            cursor: pointer;
-        }
+.badge-low {
+    color: #536176;
+    background: #edf0f5;
+}
 
-        .pagination button:disabled {
-            opacity: 0.4;
-            cursor: not-allowed;
-        }
+.empty {
+    text-align: center;
+    padding: 35px;
+    color: var(--muted);
+}
 
-        .history-list {
-            padding: 20px;
-        }
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 15px 20px;
+    color: var(--muted);
+}
 
-        .history-item {
-            display: flex;
-            justify-content: space-between;
-            gap: 20px;
-            padding: 13px 0;
-            border-bottom: 1px solid var(--border);
-            font-size: 13px;
-        }
+.change-list {
+    padding: 18px;
+}
 
-        .history-item:last-child {
-            border-bottom: none;
-        }
+.change-card {
+    border: 1px solid var(--border);
+    border-radius: 11px;
+    margin-bottom: 13px;
+    overflow: hidden;
+    background: #fff;
+}
 
-        .history-date {
-            color: var(--muted);
-        }
+.change-card:last-child { margin-bottom: 0; }
 
-        .error-message {
-            display: none;
-            padding: 15px;
-            margin-bottom: 20px;
-            background: #fff0f0;
-            color: #9c2424;
-            border: 1px solid #f3cccc;
-            border-radius: 9px;
-            font-size: 13px;
-        }
+.change-top {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 9px;
+    padding: 12px;
+}
 
-        footer {
-            text-align: center;
-            color: var(--muted);
-            font-size: 12px;
-            padding: 15px 0;
-        }
+.change-url {
+    overflow-wrap: anywhere;
+    font-size: 12px;
+}
 
-        @media (max-width: 900px) {
-            .cards {
-                grid-template-columns: repeat(2, minmax(0, 1fr));
-            }
+.change-fields {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0 12px 13px;
+}
 
-            .container {
-                padding: 18px;
-            }
-        }
+.field-change {
+    border-top: 1px solid #edf0f5;
+    padding-top: 10px;
+}
 
-        @media (max-width: 550px) {
-            .cards {
-                grid-template-columns: 1fr;
-            }
+.field-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 9px;
+    font-weight: 700;
+}
 
-            h1 {
-                font-size: 22px;
-            }
+.old-new {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 32px minmax(0, 1fr);
+    align-items: stretch;
+    gap: 8px;
+}
 
-            input {
-                min-width: 100%;
-            }
+.value-box {
+    border-radius: 8px;
+    padding: 12px;
+    min-width: 0;
+    overflow-wrap: anywhere;
+    white-space: pre-wrap;
+    line-height: 1.5;
+}
 
-            .controls {
-                width: 100%;
-            }
+.old-box {
+    background: #fff0f1;
+    border: 1px solid #ffd0d5;
+}
 
-            select {
-                flex: 1;
-            }
-        }
-    </style>
+.new-box {
+    background: #eafff2;
+    border: 1px solid #a8f0c7;
+}
+
+.value-label {
+    font-size: 11px;
+    font-weight: 700;
+    margin-bottom: 7px;
+}
+
+.old-box .value-label { color: #b42332; }
+.new-box .value-label { color: #13834a; }
+
+.arrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #778397;
+    font-size: 20px;
+}
+
+.change-note {
+    color: var(--muted);
+    font-size: 11px;
+    margin-top: 7px;
+}
+
+.history-item {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.history-item:last-child { border-bottom: 0; }
+
+.history-list { padding: 18px 20px; }
+
+.error {
+    display: none;
+    padding: 14px;
+    border-radius: 8px;
+    background: #fff0f1;
+    color: #b42332;
+    margin-bottom: 18px;
+}
+
+footer {
+    color: var(--muted);
+    text-align: center;
+    padding: 15px;
+    font-size: 11px;
+}
+
+@media (max-width: 1050px) {
+    .cards { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+
+@media (max-width: 700px) {
+    .container { padding: 14px; }
+    .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    input { min-width: 100%; }
+    .controls { width: 100%; }
+    .controls select { flex: 1; }
+    .old-new { grid-template-columns: 1fr; }
+    .arrow { transform: rotate(90deg); }
+}
+
+@media (max-width: 430px) {
+    .cards { grid-template-columns: 1fr; }
+}
+</style>
 </head>
 
 <body>
 <div class="container">
 
-    <header>
+<header>
+    <div>
+        <h1>3RI Technologies Website Monitor</h1>
+        <div class="subtitle">
+            Website content, SEO and competitor change monitoring
+        </div>
+    </div>
+
+    <a href="https://www.3ritechnologies.com/"
+       target="_blank" rel="noopener">
+        Visit Website ↗
+    </a>
+</header>
+
+<div id="errorBox" class="error"></div>
+
+<section class="cards">
+    <div class="metric">
+        <div class="metric-label">Total URLs</div>
+        <div class="metric-value" id="totalUrls">—</div>
+        <div class="metric-note">Discovered pages</div>
+    </div>
+
+    <div class="metric">
+        <div class="metric-label">Successful Pages</div>
+        <div class="metric-value" id="successfulPages">—</div>
+        <div class="metric-note">Successfully fetched</div>
+    </div>
+
+    <div class="metric">
+        <div class="metric-label">Failed Pages</div>
+        <div class="metric-value" id="failedPages">—</div>
+        <div class="metric-note">Fetch errors</div>
+    </div>
+
+    <div class="metric">
+        <div class="metric-label">Latest Changes</div>
+        <div class="metric-value" id="totalChanges">—</div>
+        <div class="metric-note">Compared with previous run</div>
+    </div>
+
+    <div class="metric">
+        <div class="metric-label">Last Checked</div>
+        <div class="metric-value" id="lastChecked" style="font-size:16px">—</div>
+        <div class="metric-note">Latest monitor run</div>
+    </div>
+</section>
+
+<section class="panel">
+    <div class="panel-header">
+        <h2>Website Pages</h2>
+
+        <div class="controls">
+            <input id="searchInput"
+                   type="search"
+                   placeholder="Search URL, title or description...">
+
+            <select id="fieldSelect">
+                <option value="all">All fields</option>
+                <option value="content">Content</option>
+                <option value="h1">H1</option>
+                <option value="images">Images</option>
+                <option value="internal_links">Internal Links</option>
+                <option value="page">Page</option>
+            </select>
+
+            <select id="statusSelect">
+                <option value="all">All Pages</option>
+                <option value="new">New</option>
+                <option value="changed">Changed</option>
+                <option value="removed">Removed</option>
+                <option value="unchanged">Unchanged</option>
+                <option value="failed">Failed</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="table-wrap">
+        <table>
+            <thead>
+                <tr>
+                    <th>URL</th>
+                    <th>Title</th>
+                    <th>Meta Description</th>
+                    <th>H1</th>
+                    <th>Status</th>
+                    <th>Change</th>
+                </tr>
+            </thead>
+            <tbody id="pagesTable">
+                <tr>
+                    <td colspan="6" class="empty">Loading...</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="pagination">
+        <span id="pageInfo">—</span>
         <div>
-            <h1> Website</h1>
-            <div class="subtitle">
-                Website
-            </div>
+            <button id="prevButton" disabled>Previous</button>
+            <button id="nextButton" disabled>Next</button>
         </div>
+    </div>
+</section>
 
-        <a class="site-link"
-           href="https://www.3ritechnologies.com/"
-           target="_blank"
-           rel="noopener">
-            Visit Website ↗
-        </a>
-    </header>
+<section class="panel">
+    <div class="panel-header">
+        <h2>Detected Changes — Old / New</h2>
+        <span class="subtitle" id="changeCount">0 changes</span>
+    </div>
 
-    <div id="errorMessage" class="error-message"></div>
+    <div class="change-list" id="changeList">
+        <div class="empty">Loading change details...</div>
+    </div>
+</section>
 
-    <section class="cards">
-        <div class="card">
-            <div class="card-label">Total URLs</div>
-            <div class="card-value" id="totalUrls">—</div>
-            <div class="card-note">URLs discovered in sitemap</div>
-        </div>
+<section class="panel">
+    <div class="panel-header">
+        <h2>Monitoring History</h2>
+    </div>
 
-        <div class="card">
-            <div class="card-label">Successful Pages</div>
-            <div class="card-value" id="successfulPages">—</div>
-            <div class="card-note">Pages fetched successfully</div>
-        </div>
+    <div class="history-list" id="historyList">
+        <div class="empty">Loading history...</div>
+    </div>
+</section>
 
-        <div class="card">
-            <div class="card-label">Failed Pages</div>
-            <div class="card-value" id="failedPages">—</div>
-            <div class="card-note">Pages with request errors</div>
-        </div>
-
-        <div class="card">
-            <div class="card-label">Latest Changes</div>
-            <div class="card-value" id="totalChanges">—</div>
-            <div class="card-note">Changes versus previous run</div>
-        </div>
-    </section>
-
-    <section class="section">
-        <div class="section-header">
-            <h2>Website Pages</h2>
-
-            <div class="controls">
-                <input
-                    type="search"
-                    id="searchInput"
-                    placeholder="Search URL, title or description..."
-                >
-
-                <select id="filterSelect">
-                    <option value="all">All Pages</option>
-                    <option value="new">New Pages</option>
-                    <option value="changed">Changed Pages</option>
-                    <option value="removed">Removed Pages</option>
-                    <option value="unchanged">Unchanged Pages</option>
-                    <option value="failed">Failed Pages</option>
-                </select>
-            </div>
-        </div>
-
-        <div class="table-wrap">
-            <table>
-                <thead>
-                    <tr>
-                        <th>URL</th>
-                        <th>Title</th>
-                        <th>Meta Description</th>
-                        <th>H1</th>
-                        <th>Status</th>
-                        <th>Change</th>
-                    </tr>
-                </thead>
-
-                <tbody id="pagesTable">
-                    <tr>
-                        <td colspan="6" class="empty">
-                            Loading website data...
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-
-        <div class="pagination">
-            <span id="pageInfo">Loading...</span>
-
-            <div>
-                <button id="prevButton" disabled>Previous</button>
-                <button id="nextButton" disabled>Next</button>
-            </div>
-        </div>
-    </section>
-
-    <section class="section">
-        <div class="section-header">
-            <h2>Monitoring History</h2>
-            <span class="subtitle" id="lastChecked">Last checked: —</span>
-        </div>
-
-        <div class="history-list" id="historyList">
-            <div class="empty">Loading monitoring history...</div>
-        </div>
-    </section>
-
-    <footer>
-         Website
-    </footer>
-
+<footer>3RI Technologies Website Monitor</footer>
 </div>
 
 <script>
-    const SNAPSHOT_URL = "data/snapshot.json";
-    const HISTORY_URL = "data/history.json";
-    const DIFFS_URL = "data/latest_diffs.json";
+const SNAPSHOT_URL = "data/snapshot.json";
+const HISTORY_URL = "data/history.json";
+const DIFFS_URL = "data/latest_diffs.json";
 
-    const PAGE_SIZE = 25;
+const PAGE_SIZE = 25;
 
-    let snapshot = {};
-    let history = [];
-    let latestDiffs = {};
+let snapshot = {};
+let historyData = [];
+let diffData = {};
 
-    let allRows = [];
-    let filteredRows = [];
-    let currentPage = 1;
+let rows = [];
+let filteredRows = [];
+let currentPage = 1;
 
-    const pagesTable = document.getElementById("pagesTable");
-    const searchInput = document.getElementById("searchInput");
-    const filterSelect = document.getElementById("filterSelect");
+const $ = id => document.getElementById(id);
 
-    function safeText(value) {
-        if (value === null || value === undefined) {
-            return "";
-        }
+function text(value) {
+    if (value === null || value === undefined) return "";
+    if (Array.isArray(value)) return value.join(", ");
+    if (typeof value === "object") return JSON.stringify(value, null, 2);
+    return String(value);
+}
 
-        if (Array.isArray(value)) {
-            return value.join(", ");
-        }
+function escapeHtml(value) {
+    return text(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+}
 
-        return String(value);
+function number(value) {
+    return Number(value || 0).toLocaleString();
+}
+
+function date(value) {
+    if (!value) return "—";
+    const parsed = new Date(value);
+    return Number.isNaN(parsed.getTime())
+        ? value
+        : parsed.toLocaleString();
+}
+
+async function loadJson(url) {
+    const response = await fetch(url, { cache: "no-store" });
+
+    if (!response.ok) {
+        throw new Error(`${url} returned HTTP ${response.status}`);
     }
 
-    function escapeHtml(value) {
-        return safeText(value)
-            .replaceAll("&", "&amp;")
-            .replaceAll("<", "&lt;")
-            .replaceAll(">", "&gt;")
-            .replaceAll('"', "&quot;")
-            .replaceAll("'", "&#039;");
-    }
+    return response.json();
+}
 
-    function formatNumber(value) {
-        return Number(value || 0).toLocaleString();
-    }
+function getChanges() {
+    return Array.isArray(diffData.changes)
+        ? diffData.changes
+        : [];
+}
 
-    function formatDate(value) {
-        if (!value) {
-            return "—";
-        }
+function changeMap() {
+    const map = {};
 
-        const date = new Date(value);
+    getChanges().forEach(change => {
+        map[change.url] = change;
+    });
 
-        if (Number.isNaN(date.getTime())) {
-            return value;
-        }
+    return map;
+}
 
-        return date.toLocaleString();
-    }
+function renderMetrics() {
+    $("totalUrls").textContent = number(snapshot.total_urls);
+    $("successfulPages").textContent = number(snapshot.successful_pages);
+    $("failedPages").textContent = number(snapshot.failed_pages);
+    $("totalChanges").textContent = number(diffData.total_changes);
+    $("lastChecked").textContent = date(snapshot.checked_at);
+}
 
-    function showError(message) {
-        const element = document.getElementById("errorMessage");
+function buildRows() {
+    const pages = snapshot.pages || {};
+    const changes = changeMap();
 
-        element.style.display = "block";
-        element.textContent = message;
-    }
+    rows = Object.entries(pages).map(([url, page]) => {
+        let type = changes[url]?.type || "unchanged";
 
-    async function fetchJson(path) {
-        const response = await fetch(path, {
-            cache: "no-store"
-        });
+        if (!page.success) type = "failed";
 
-        if (!response.ok) {
-            throw new Error(
-                "Unable to load " + path +
-                " (HTTP " + response.status + ")"
-            );
-        }
-
-        return await response.json();
-    }
-
-    function buildChangeMap() {
-        const map = {};
-
-        const changes = latestDiffs.changes || [];
-
-        changes.forEach(change => {
-            map[change.url] = change;
-        });
-
-        return map;
-    }
-
-    function buildRows() {
-        const pages = snapshot.pages || {};
-        const changeMap = buildChangeMap();
-
-        allRows = Object.entries(pages).map(([url, page]) => {
-            const change = changeMap[url];
-
-            let changeType = "unchanged";
-
-            if (change) {
-                changeType = change.type || "changed";
-            }
-
-            if (!page.success) {
-                changeType = "failed";
-            }
-
-            return {
-                url,
-                page,
-                changeType,
-                changedFields: change
-                    ? (change.changed_fields || [])
-                    : []
-            };
-        });
-
-        // Include removed pages, which may not exist in the
-        // latest snapshot anymore.
-        Object.entries(changeMap).forEach(([url, change]) => {
-            if (
-                change.type === "removed" &&
-                !pages[url]
-            ) {
-                allRows.push({
-                    url,
-                    page: {},
-                    changeType: "removed",
-                    changedFields: change.changed_fields || []
-                });
-            }
-        });
-
-        applyFilters();
-    }
-
-    function applyFilters() {
-        const searchTerm = searchInput.value
-            .trim()
-            .toLowerCase();
-
-        const selectedFilter = filterSelect.value;
-
-        filteredRows = allRows.filter(row => {
-            const page = row.page || {};
-
-            const searchableText = [
-                row.url,
-                page.title,
-                page.meta_description,
-                page.h1
-            ].map(safeText).join(" ").toLowerCase();
-
-            const matchesSearch =
-                !searchTerm ||
-                searchableText.includes(searchTerm);
-
-            const matchesFilter =
-                selectedFilter === "all" ||
-                row.changeType === selectedFilter;
-
-            return matchesSearch && matchesFilter;
-        });
-
-        currentPage = 1;
-
-        renderTable();
-    }
-
-    function getBadge(type) {
-        const labels = {
-            new: "New",
-            changed: "Changed",
-            removed: "Removed",
-            unchanged: "Unchanged",
-            failed: "Failed"
+        return {
+            url,
+            page,
+            type,
+            changedFields: changes[url]?.changed_fields || []
         };
+    });
 
-        const label = labels[type] || "Unknown";
+    Object.entries(changes).forEach(([url, change]) => {
+        if (change.type === "removed" && !pages[url]) {
+            rows.push({
+                url,
+                page: {},
+                type: "removed",
+                changedFields: change.changed_fields || []
+            });
+        }
+    });
 
-        return `
-            <span class="badge badge-${escapeHtml(type)}">
-                ${escapeHtml(label)}
-            </span>
-        `;
+    applyFilters();
+}
+
+function searchableValues(row, field) {
+    const page = row.page || {};
+
+    if (field === "content") {
+        return text(page.content);
     }
 
-    function renderTable() {
-        const total = filteredRows.length;
-
-        const totalPages = Math.max(
-            1,
-            Math.ceil(total / PAGE_SIZE)
-        );
-
-        if (currentPage > totalPages) {
-            currentPage = totalPages;
-        }
-
-        const startIndex = (currentPage - 1) * PAGE_SIZE;
-
-        const pageRows = filteredRows.slice(
-            startIndex,
-            startIndex + PAGE_SIZE
-        );
-
-        if (pageRows.length === 0) {
-            pagesTable.innerHTML = `
-                <tr>
-                    <td colspan="6" class="empty">
-                        No matching pages found.
-                    </td>
-                </tr>
-            `;
-        } else {
-            pagesTable.innerHTML = pageRows.map(row => {
-                const page = row.page || {};
-
-                const title = page.title || "—";
-                const description = page.meta_description || "—";
-
-                const h1 = Array.isArray(page.h1)
-                    ? page.h1.join(", ")
-                    : safeText(page.h1 || "—");
-
-                const status = page.status_code || "—";
-
-                return `
-                    <tr>
-                        <td class="url-cell">
-                            <a
-                                href="${escapeHtml(row.url)}"
-                                target="_blank"
-                                rel="noopener"
-                            >
-                                ${escapeHtml(row.url)}
-                            </a>
-                        </td>
-
-                        <td>${escapeHtml(title)}</td>
-
-                        <td>${escapeHtml(description)}</td>
-
-                        <td>${escapeHtml(h1)}</td>
-
-                        <td>${escapeHtml(status)}</td>
-
-                        <td>
-                            ${getBadge(row.changeType)}
-                        </td>
-                    </tr>
-                `;
-            }).join("");
-        }
-
-        document.getElementById("pageInfo").textContent =
-            total === 0
-                ? "0 results"
-                : `Showing ${startIndex + 1}–${Math.min(
-                    startIndex + PAGE_SIZE,
-                    total
-                )} of ${formatNumber(total)} pages`;
-
-        document.getElementById("prevButton").disabled =
-            currentPage <= 1;
-
-        document.getElementById("nextButton").disabled =
-            currentPage >= totalPages;
+    if (field === "h1") {
+        return text(page.h1);
     }
 
-    function renderSummary() {
-        document.getElementById("totalUrls").textContent =
-            formatNumber(snapshot.total_urls);
-
-        document.getElementById("successfulPages").textContent =
-            formatNumber(snapshot.successful_pages);
-
-        document.getElementById("failedPages").textContent =
-            formatNumber(snapshot.failed_pages);
-
-        document.getElementById("totalChanges").textContent =
-            formatNumber(latestDiffs.total_changes);
-
-        document.getElementById("lastChecked").textContent =
-            "Last checked: " + formatDate(snapshot.checked_at);
+    if (field === "images") {
+        return text(page.images);
     }
 
-    function renderHistory() {
-        const historyList = document.getElementById("historyList");
+    if (field === "internal_links") {
+        return text(page.internal_links);
+    }
 
-        if (!Array.isArray(history) || history.length === 0) {
-            historyList.innerHTML = `
-                <div class="empty">
-                    No monitoring history available yet.
-                </div>
-            `;
+    if (field === "page") {
+        return [
+            row.url,
+            page.title,
+            page.meta_description,
+            page.canonical,
+            page.robots,
+            page.status_code
+        ].map(text).join(" ");
+    }
 
-            return;
-        }
+    return [
+        row.url,
+        page.title,
+        page.meta_description,
+        page.h1,
+        page.content,
+        page.images,
+        page.internal_links,
+        page.status_code
+    ].map(text).join(" ");
+}
 
-        const recentHistory = [...history]
-            .reverse()
-            .slice(0, 10);
+function applyFilters() {
+    const query = $("searchInput").value.trim().toLowerCase();
+    const field = $("fieldSelect").value;
+    const status = $("statusSelect").value;
 
-        historyList.innerHTML = recentHistory.map(item => {
+    filteredRows = rows.filter(row => {
+        const matchesQuery =
+            !query ||
+            searchableValues(row, field).toLowerCase().includes(query);
+
+        const matchesStatus =
+            status === "all" || row.type === status;
+
+        return matchesQuery && matchesStatus;
+    });
+
+    currentPage = 1;
+    renderTable();
+}
+
+function badge(type) {
+    const names = {
+        new: "NEW",
+        changed: "CHANGED",
+        removed: "REMOVED",
+        unchanged: "UNCHANGED",
+        failed: "FAILED"
+    };
+
+    return `<span class="badge badge-${escapeHtml(type)}">
+        ${escapeHtml(names[type] || type)}
+    </span>`;
+}
+
+function renderTable() {
+    const total = filteredRows.length;
+    const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+
+    currentPage = Math.min(currentPage, totalPages);
+
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const visible = filteredRows.slice(start, start + PAGE_SIZE);
+
+    if (!visible.length) {
+        $("pagesTable").innerHTML = `
+            <tr><td colspan="6" class="empty">
+                No matching pages found.
+            </td></tr>`;
+    } else {
+        $("pagesTable").innerHTML = visible.map(row => {
+            const p = row.page || {};
+
             return `
-                <div class="history-item">
-                    <div>
-                        <strong>
-                            ${escapeHtml(formatDate(item.checked_at))}
-                        </strong>
-
-                        <div class="history-date">
-                            ${formatNumber(item.total_urls)} URLs checked
-                        </div>
-                    </div>
-
-                    <div>
-                        <strong>
-                            ${formatNumber(item.total_changes)}
-                        </strong>
-                        changes
-                    </div>
-                </div>
-            `;
+            <tr>
+                <td class="url-cell">
+                    <a href="${escapeHtml(row.url)}"
+                       target="_blank" rel="noopener">
+                        ${escapeHtml(row.url)}
+                    </a>
+                </td>
+                <td>${escapeHtml(p.title || "—")}</td>
+                <td>${escapeHtml(p.meta_description || "—")}</td>
+                <td>${escapeHtml(p.h1 || "—")}</td>
+                <td>${escapeHtml(p.status_code || "—")}</td>
+                <td>${badge(row.type)}</td>
+            </tr>`;
         }).join("");
     }
 
-    async function initDashboard() {
-        try {
-            const results = await Promise.all([
-                fetchJson(SNAPSHOT_URL),
-                fetchJson(HISTORY_URL),
-                fetchJson(DIFFS_URL)
-            ]);
+    $("pageInfo").textContent = total
+        ? `Showing ${start + 1}–${Math.min(start + PAGE_SIZE, total)} of ${number(total)}`
+        : "0 results";
 
-            snapshot = results[0] || {};
-            history = results[1] || [];
-            latestDiffs = results[2] || {};
+    $("prevButton").disabled = currentPage <= 1;
+    $("nextButton").disabled = currentPage >= totalPages;
+}
 
-            renderSummary();
-            renderHistory();
-            buildRows();
+/*
+ * Supports detailed change records shaped like:
+ * {
+ *   url: "...",
+ *   type: "changed",
+ *   changed_fields: ["h1"],
+ *   old: { h1: ["Old heading"] },
+ *   new: { h1: ["New heading"] }
+ * }
+ *
+ * Full old/new details require monitor.py to save them
+ * in data/latest_diffs.json or a compatible details file.
+ */
 
-        } catch (error) {
-            console.error(error);
+function severity(field) {
+    const f = String(field || "").toLowerCase();
 
-            showError(
-                "Dashboard data could not be loaded. " +
-                "Make sure the monitor has completed at least one run " +
-                "and the data files are available."
-            );
-
-            pagesTable.innerHTML = `
-                <tr>
-                    <td colspan="6" class="empty">
-                        Dashboard data is not available yet.
-                    </td>
-                </tr>
-            `;
-        }
+    if (
+        f.includes("title") ||
+        f.includes("h1") ||
+        f.includes("canonical") ||
+        f.includes("robots") ||
+        f.includes("status")
+    ) {
+        return "HIGH";
     }
 
-    searchInput.addEventListener("input", applyFilters);
+    if (
+        f.includes("content") ||
+        f.includes("description") ||
+        f.includes("image") ||
+        f.includes("link")
+    ) {
+        return "MEDIUM";
+    }
 
-    filterSelect.addEventListener("change", applyFilters);
+    return "LOW";
+}
 
-    document.getElementById("prevButton")
-        .addEventListener("click", () => {
-            if (currentPage > 1) {
-                currentPage--;
-                renderTable();
-            }
-        });
+function severityBadge(level) {
+    return `<span class="badge badge-${level.toLowerCase()}">
+        ${escapeHtml(level)}
+    </span>`;
+}
 
-    document.getElementById("nextButton")
-        .addEventListener("click", () => {
-            const totalPages = Math.max(
-                1,
-                Math.ceil(filteredRows.length / PAGE_SIZE)
-            );
+function fieldLabel(field) {
+    return String(field || "")
+        .replaceAll("_", " ")
+        .replace(/\b\w/g, char => char.toUpperCase());
+}
 
-            if (currentPage < totalPages) {
-                currentPage++;
-                renderTable();
-            }
-        });
+function getOldNew(change, field) {
+    const oldData = change.old || {};
+    const newData = change.new || {};
 
-    initDashboard();
+    return {
+        oldValue: oldData[field] ?? oldData[field.toLowerCase()] ?? "",
+        newValue: newData[field] ?? newData[field.toLowerCase()] ?? ""
+    };
+}
+
+function renderChangeCards() {
+    const changes = getChanges();
+
+    $("changeCount").textContent =
+        `${number(changes.length)} changes`;
+
+    if (!changes.length) {
+        $("changeList").innerHTML = `
+            <div class="empty">
+                No changes detected in the latest run.
+            </div>`;
+        return;
+    }
+
+    $("changeList").innerHTML = changes.map(change => {
+        const fields = change.changed_fields || [];
+
+        const type = change.type || "changed";
+        const details = fields.length
+            ? fields.map(field => {
+                const values = getOldNew(change, field);
+                const level = severity(field);
+
+                return `
+                <div class="field-change">
+                    <div class="field-title">
+                        ${badge("changed")}
+                        <strong>${escapeHtml(fieldLabel(field))}</strong>
+                        ${severityBadge(level)}
+                    </div>
+
+                    <div class="old-new">
+                        <div class="value-box old-box">
+                            <div class="value-label">
+                                🔴 OLD / BEFORE
+                            </div>
+                            ${escapeHtml(values.oldValue || "Not available")}
+                        </div>
+
+                        <div class="arrow">→</div>
+
+                        <div class="value-box new-box">
+                            <div class="value-label">
+                                🟢 NEW / AFTER
+                            </div>
+                            ${escapeHtml(values.newValue || "Not available")}
+                        </div>
+                    </div>
+
+                    <div class="change-note">
+                        ${escapeHtml(fieldLabel(field))} changed
+                    </div>
+                </div>`;
+            }).join("")
+            : `
+            <div class="empty">
+                Detailed old/new field values are not present
+                in the current change record.
+            </div>`;
+
+        return `
+        <article class="change-card">
+            <div class="change-top">
+                ${badge(type)}
+                <span class="change-url">
+                    <a href="${escapeHtml(change.url)}"
+                       target="_blank" rel="noopener">
+                        ${escapeHtml(change.url)}
+                    </a>
+                </span>
+            </div>
+
+            <div class="change-fields">
+                ${details}
+            </div>
+        </article>`;
+    }).join("");
+}
+
+function renderHistory() {
+    if (!Array.isArray(historyData) || !historyData.length) {
+        $("historyList").innerHTML =
+            `<div class="empty">No monitoring history yet.</div>`;
+        return;
+    }
+
+    $("historyList").innerHTML = [...historyData]
+        .reverse()
+        .slice(0, 10)
+        .map(item => `
+            <div class="history-item">
+                <div>
+                    <strong>${escapeHtml(date(item.checked_at))}</strong>
+                    <div class="subtitle">
+                        ${number(item.total_urls)} URLs checked
+                    </div>
+                </div>
+
+                <div>
+                    <strong>${number(item.total_changes)}</strong>
+                    changes
+                </div>
+            </div>
+        `).join("");
+}
+
+async function init() {
+    try {
+        const [snapshotResult, historyResult, diffResult] =
+            await Promise.all([
+                loadJson(SNAPSHOT_URL),
+                loadJson(HISTORY_URL),
+                loadJson(DIFFS_URL)
+            ]);
+
+        snapshot = snapshotResult || {};
+        historyData = historyResult || [];
+        diffData = diffResult || {};
+
+        renderMetrics();
+        buildRows();
+        renderChangeCards();
+        renderHistory();
+
+    } catch (error) {
+        console.error(error);
+
+        $("errorBox").style.display = "block";
+        $("errorBox").textContent =
+            "Dashboard data could not be loaded. " +
+            "Run the monitor and confirm that the data files exist.";
+
+        $("pagesTable").innerHTML = `
+            <tr><td colspan="6" class="empty">
+                Monitoring data is unavailable.
+            </td></tr>`;
+    }
+}
+
+$("searchInput").addEventListener("input", applyFilters);
+$("fieldSelect").addEventListener("change", applyFilters);
+$("statusSelect").addEventListener("change", applyFilters);
+
+$("prevButton").addEventListener("click", () => {
+    if (currentPage > 1) {
+        currentPage--;
+        renderTable();
+    }
+});
+
+$("nextButton").addEventListener("click", () => {
+    const maxPage = Math.max(
+        1,
+        Math.ceil(filteredRows.length / PAGE_SIZE)
+    );
+
+    if (currentPage < maxPage) {
+        currentPage++;
+        renderTable();
+    }
+});
+
+init();
 </script>
 </body>
 </html>
