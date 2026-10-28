@@ -1,0 +1,320 @@
+{
+  "url": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Create a DevOps Portfolio That Gets You Hired in Pune",
+    "meta_description": "Targeting Pune IT jobs? Build a DevOps portfolio for recruiters with AWS projects, Jenkins pipelines, and GitHub-ready documentation.",
+    "h1": [
+      "How to Build a DevOps Portfolio That Gets Recruiter Attention"
+    ],
+    "content": "Skip to content Home > How to Build a DevOps Portfolio That Gets Recruiter Attention How to Build a DevOps Portfolio That Gets Recruiter Attention Stand out in the hiring market with a DevOps portfolio for recruiters that showcases hands-on tools, cloud expertise, and collaboration. Table of Contents PriyankaS3ri May 28, 2026 11:31 am In today’s tech-driven market, crafting a standout DevOps portfolio is essential to gain a competitive edge in the hiring process. Whether you’re an aspiring engineer, a fresher, or someone upskilling through a DevOps course in Pune , a strong portfolio is more than a showcase of your skills—it’s your gateway to real job opportunities. Many recruiters now expect job-ready engineers to demonstrate real-world project experience, familiarity with tools like Jenkins, Docker, and Kubernetes, and a mindset aligned with continuous delivery and automation. In this blog, we’ll break down how to create a DevOps portfolio that grabs attention and helps you stand out in today’s cloud-native job market. Why DevOps Portfolios Are Becoming a Hiring Standard Gone are the days when a resume and basic certification were enough to land a DevOps job. Employers are increasingly looking for candidates who can demonstrate hands-on experience. If you’re attending a DevOps training in Pune or anywhere in India, it’s crucial to complement your learning with practical projects, cloud deployments, and real-time collaboration examples. Your portfolio becomes a validation of your skills in high-demand areas like CI/CD automation, infrastructure as code (IaC), containerization, and monitoring. At reputed institutes like 3RI Technologies, students are trained with real-time projects that can directly be included in their portfolios, making them job-ready from day one. Key Components of a Winning DevOps Portfolio 1. Personal Projects That Reflect Real-World Scenarios Engaging in personal projects allows you to apply theoretical knowledge to practical scenarios. Documenting these projects with detailed case studies can highlight your problem-solving approach and technical skills. Examples of DevOps Portfolio Projects: CI/CD for E-commerce App : Using Jenkins, Git, and Docker to create a full CI/CD pipeline for a simple Node.js app. IaC with Terraform on AWS : Show how you provision AWS infrastructure for a 3-tier architecture using Terraform modules. Monitoring Stack with ELK or Prometheus : A project where logs and metrics are collected and visualized in Grafana/Elastic Stack. Many students enrolled in DevOps classes in Pune at 3RI Technologies work on these types of industry-based projects as part of their curriculum. 2. Version Control with GitHub/GitLab Using platforms like GitHub to host your codebase is vital. Recruiters almost always review Git repositories to understand your thought process and problem-solving skills. Your GitHub should include: A clear README.md for each project with toolstack explanation. Structured folders: infrastructure/, scripts/, docker/, k8s/. Clean commit history and effective use of branches. In our DevOps course in Pune , we emphasize Git best practices and workflows that you can directly use in professional environments. 3. Hands-On Cloud Deployments Cloud is the backbone of modern DevOps. Showcasing projects hosted on AWS , Azure , or Google Cloud adds credibility. Portfolio Cloud Ideas: Project Tools Used Auto-Scaling Web App AWS EC2, Load Balancer, Terraform, Ansible Kubernetes on GKE GCP, Helm Charts, ArgoCD Serverless App Monitoring AWS Lambda, CloudWatch, SNS Students learning through an AWS-integrated DevOps certification course in Pune are often guided to deploy real services on cloud and document the entire architecture. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send 4. Automation and CI/CD Pipelines DevOps engineers are expected to automate everything—from code integration to production deployments. Your Portfolio Should Showcase: Jenkins Pipelines with proper branching strategies. Dockerized Applications running via Kubernetes clusters. Automated Testing integrated in your pipeline using tools like SonarQube or Selenium. All these are covered in hands-on sessions in structured DevOps programs like ours, where you don’t just learn tools—you implement pipelines from scratch. 5. Technical Documentation and Writing Recruiters love candidates who can communicate technical details well. You should include: A portfolio blog or technical article on “How I Automated CI/CD using Jenkins and Docker”. Markdown documentation or GitHub Wiki explaining each project. Diagrams (using Lucidchart or Draw.io) showing the full architecture of your solution. As part of our DevOps training methodology, students at 3RI Technologies are taught how to document and present their work just like they would in a professional DevOps team. 6. Certifications That Reinforce Credibility A certificate alone doesn’t guarantee a job, but it adds credibility—especially when backed by practical skills. Recommended DevOps Certifications: Certification Ideal For AWS Certified DevOps Engineer Mid-level professionals with AWS focus Docker Certified Associate Those focusing on containerization Kubernetes Administrator (CKA) Engineers targeting orchestration roles When you pursue a structured DevOps certification in Pune with mentorship, mock tests, and real case studies, you gain not just the badge but the competency to prove it. 7. Showcase Soft Skills and Team Contributions DevOps is not just about tools—it’s about collaboration. Use your portfolio to highlight how you: Collaborated with frontend/backend teams in Agile sprints. Managed production releases with real rollback plans. Documented and resolved incidents through root cause analysis. These elements are best learned through peer-driven environments like those offered in a DevOps course with live projects and team labs . Strategies to Enhance Your DevOps Portfolio 1. Engage in Open Source Contributions Contributing to open-source projects can expose you to real-world codebases and collaborative development environments. It also reflects your initiative and willingness to give back to the community. 2. Develop a Personal Website Creating a personal website to host your portfolio provides a centralized platform for recruiters to explore your work. Include sections like: About Me: A brief introduction and career objectives. Projects: Detailed case studies with links to repositories. Blog: Articles or tutorials showcasing your knowledge. 3. Leverage Cloud Platforms Demonstrate proficiency in cloud services by deploying projects on platforms like AWS, Azure, or Google Cloud. Utilize free tiers to host applications and document the deployment process. 4. Implement CI/CD Pipelines Showcase your understanding of continuous integration and deployment by setting up pipelines that automate testing and deployment processes. Tools to consider include: Jenkins: For automating build and deployment tasks. GitLab CI/CD: Integrated pipelines within GitLab repositories. CircleCI: For scalable and efficient CI/CD workflows. 5. Stay Updated with Industry Trends Regularly update your portfolio to reflect the latest tools and practices in the DevOps field. Engage in continuous learning through courses, webinars, and workshops to keep your skills relevant. Tips to Make Your Portfolio Stand Out to Pune Recruiters Creating a strong portfolio is one of the most effective ways to stand out to recruiters in Pune’s competitive IT job market. Whether you are applying for roles in Data Analytics, Cloud Computing, DevOps, Salesforce, Python, or Data Science, recruiters prefer candidates who can showcase practical skills through real-world projects instead of only listing certifications. A professional portfolio demonstrates your technical knowledge, problem-solving ability, project experience, and understanding of industry tools. It also helps recruiters quickly evaluate your capabilities during the hiring process. At 3RI Technologies , we help students build industry-ready portfolios that align with current hiring trends and recruiter expectations. Our training programs focus on practical implementation, live projects, resume building, GitHub profile development, interview preparation, and hands-on assignments that strengthen your professional profile. Tips to Make Your Portfolio Stand Out to Pune Recruiters Add real-world projects related to your domain and explain your role clearly. Showcase technical skills with tools, technologies, and platforms used in projects. Include GitHub, LinkedIn, certifications, and project documentation links. Highlight measurable outcomes, achievements, and problem-solving approaches. Keep your resume and portfolio clean, professional, and easy to navigate. Create projects based on current industry trends like AI, Cloud, DevOps, and Data Analytics. Add case studies, dashboards, deployment screenshots, or application demos whenever possible. Regularly update your portfolio with new skills and completed projects. How We Help You Build a Strong Portfolio Practical assignments designed according to current job market requirements. Hands-on training with live industry projects. Resume preparation and LinkedIn profile optimization. Mock interviews and technical interview guidance. Project mentorship from experienced trainers. Career support and placement assistance. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Conclusion Creating a DevOps portfolio that gets recruiter attention isn’t just about listing tools—it’s about telling a story of your capabilities, from cloud automation to deployment, monitoring, and documentation. Whether you’re just beginning or already part of a DevOps training program in Pune , the best time to start building your portfolio is now. The most effective portfolios come from consistent learning, hands-on implementation, and the confidence that comes from solving real problems. In a city like Pune, where the tech ecosystem is evolving rapidly, showcasing a practical, job-ready DevOps portfolio can be the catalyst that gets you into top-tier companies. Prev Previous What Is the Future of DevOps in 2025? (Updated) Next Why Java Remains Popular: Key Features and Real-World Uses Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/06/Blog-Images-9-1.png",
+        "alt": "Learn how to create a job-winning DevOps portfolio for recruiters with real projects, cloud deployments, CI/CD pipelines, and more.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "DevOps Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+DevOps&cd%5Bpage_title%5D=How+to+Build+a+DevOps+Portfolio+That+Gets+Recruiter+Attention&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=111193&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fhow-to-build-a-devops-portfolio-that-gets-recruiter-attention%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2026/05/28/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-the-future-of-devops-in-2025/",
+      "https://www.3ritechnologies.com/why-is-java-popular/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Create a DevOps Portfolio That Gets You Hired in Pune",
+    "og_description": "Targeting Pune IT jobs? Build a DevOps portfolio for recruiters with AWS projects, Jenkins pipelines, and GitHub-ready documentation.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "How to Build a DevOps Portfolio That Gets Recruiter Attention",
+            "datePublished": "2026-05-28T06:01:00+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/"
+            },
+            "wordCount": 1400,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/06/Blog-Images-9-1.png",
+            "keywords": [
+              "DevOps Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "DevOps"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/",
+            "url": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/",
+            "name": "Create a DevOps Portfolio That Gets You Hired in Pune",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/06/Blog-Images-9-1.png",
+            "datePublished": "2026-05-28T06:01:00+00:00",
+            "description": "Targeting Pune IT jobs? Build a DevOps portfolio for recruiters with AWS projects, Jenkins pipelines, and GitHub-ready documentation.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/06/Blog-Images-9-1.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/06/Blog-Images-9-1.png",
+            "width": 1000,
+            "height": 667,
+            "caption": "Learn how to create a job-winning DevOps portfolio for recruiters with real projects, cloud deployments, CI/CD pipelines, and more."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/how-to-build-a-devops-portfolio-that-gets-recruiter-attention/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "How to Build a DevOps Portfolio That Gets Recruiter Attention"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

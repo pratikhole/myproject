@@ -1,0 +1,332 @@
+{
+  "url": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Analytics vs Analysis: What's the Real Difference? | 3ritechnologies",
+    "meta_description": "Understanding the analytics vs analysis debate is key in the data world. Learn the distinct roles they play in processing data and driving business strategy.",
+    "h1": [
+      "Do Analytics and Analysis of Data Interchange?",
+      "Understanding the Core Difference Between Looking Forward and Looking Back"
+    ],
+    "content": "Skip to content Home > Do Analytics and Analysis of Data Interchange? Do Analytics and Analysis of Data Interchange? Data analytics and data analysis are often confused, but understanding their differences is crucial for effective business decisions. Data analytics involves using advanced tools to extract insights, while data analysis focuses on interpreting those insights. This blog dives into these distinctions to help you leverage data for success. Table of Contents PriyankaS3ri August 9, 2024 4:22 pm Systems for data intelligence are a vital resource for contemporary companies. To make wise business decisions, companies of all sizes—from startups to massive global conglomerates—rely on data-driven, artificial intelligence-based insights. While they sound similar, the distinction in the analytics vs analysis debate is crucial for anyone working with data. Data analysis involves the process of inspecting, cleaning, transforming, and modeling data with the goal of discovering useful information and supporting decision-making. It answers the “what happened?” question. Data analytics, on the other hand, is a broader field that encompasses analysis but also focuses on using the insights gained to predict future outcomes and recommend actions. To master both disciplines and learn how to apply them in a business context, enrolling in one of the top Data Analyst Courses In Pune provides the structured knowledge and practical skills necessary for a successful career. But sometimes, data science terminology can be really perplexing. It’s possible for non-technical users who are unfamiliar with computer science to misuse terminology. Data analytics and data analysis are two such concepts that continue to baffle business owners. Non-technical users may easily confuse these two terms because of how similar they sound and look. That being said, there is significance in their differences. The data intelligence process has two distinct components: data analytics and data analysis. Each has its own goals and techniques. This article will look closely at these two concepts and their distinct meanings. Here is a summary of the key differences between data analytics and data analysis so you know them. Understanding the Core Difference Between Looking Forward and Looking Back The term “data analytics” covers various concepts and actions related to data. It is a procedure that looks at assessments of raw data and perceptions in organizational problem-solving and decision-making to convert basic facts and numbers into particular actions. The goal is to assist companies in becoming more successful and making wiser decisions. Analytics leverage collected data to improve decision-making through statistical analysis, machine learning, data, and computer-based models. When it comes to data analysis, we have a few Different options A data analyst frequently uses technologies, data visualization applications, and statistical analysis to solve real-world business problems using structured data. Businesses and individuals can effectively use data analytics to develop practical answers to their notions. A successful strategy can offer a more all-encompassing plan for the future of your business. Some of the ways that data analytics could be helpful to you are as follows: To recognize patterns and trends. Should look for fresh chances. To determine potential advantages and hazards. To develop an action plan. Data Analysis: What Is It? Data analysis includes cleaning, modifying, modeling, and probing data to find pertinent information. A crucial component of data analytics is this. By giving us information, it aids in finding answers. The Future is Data—Are You Prepared? Join Our Course Now Data Analytics Course in Pune. Several choices are available to us for data analysis. Depending on your goals, you can use any of these techniques. A/B testing: Comparing two test groups is the technique known as A/B testing. Data fusion and integration: Accuracy increases with the evaluation and fusion of data from many sources. Data mining: Data mining is the process of discovering and extracting meaningful patterns from massive data collections. Machine learning: This technique involves automating the creation of analytical research models through the use of computer algorithms. Natural language processing (NLP) studies human languages using computer techniques. Important Distinctions Between Data Analysis and Data Analytics Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send Data Analytics Data Analysis Enterprises employ data analytics, also known as traditional or generic analytics, to make data-driven choices. Businesses utilize data analysis, a specialized form of analytics, to assess data and derive insights. It often comprises data gathering, validation, visualization, and inspection. It can have one or more users. Defining the data, investigating it, cleaning it up, and making changes were required to obtain a helpful outcome. It involves multiple steps, including gathering data and inspecting business data. Before any relevant information can be extracted from the raw data through data conversion and cleaning, it must first be meaningfully characterized. It uses a wide variety of tools for data processing, such as Tableau, Python, Excel, and Google Analytics. It uses a variety of tools for data analysis, including Excel, Node XL, Google Fusion tables, SPARK, and more. Descriptive analysis is not conducive to this. One may perform a descriptive analysis on this. One could find anonymous partnerships by using this. With this, it is impossible to discover undiscovered relationships. This does not contain inferential analysis. This supports inferential analysis. Example of Data Analytics vs Data Analysis With the aid of a few instances, let’s better comprehend both procedures. We’ve divided the examples into business industry categories. We hope that the comparison of the two methods, each illustrated in a similar corporate setting, is clear to you. 1. Healthcare Data Analytics Local authorities in City X are utilizing data analytics to determine the reasons behind an increase in referrals for mental healthcare. They uncover excellent referral rates in lower-income areas by evaluating publicly accessible healthcare and lifestyle data, including income, access to healthcare, and living standards. Enhancing primary healthcare and infrastructure in these underprivileged areas is the suggested approach. Data Analysis Data analysts collect and standardize lifestyle and quality-of-life information to solve the mental health issue in City X. Using pie charts and histograms to clearly show the relationship between living standards and mental health difficulties; they prepare this data for analysis by plotting it against mental health referrals. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send 2. Finance Data Analytics To reduce investment risks and maximize profits, finance professionals use data analytics. For instance, venture capital firm Y employs data analysts to diversify investments during a fintech crisis. The analysts find lower-risk industries by comparing rival portfolios and global equity markets, and they then suggest investments with the lowest risk rankings. Data Analysis For the purpose of gathering and standardizing historical sales and profit data, organizations pay data analysts. To find patterns and correlations, analysts correlate this data to the revenue of the fintech companies. To diversify the VC firm’s portfolio, the team suggests investing in industries with the highest returns during fintech crises. Choose Between Data Analytics and Data Analysis: Which Is Superior? An average person would find it challenging to comprehend the analytics specialist’s research and reasoning methods, let alone make predictions and deductions. It could be difficult for someone lacking the required knowledge to understand post-processing, such as creating new ones from the dataset to arrive at a better and desired conclusion. However, better graphical and visual representations of data analysis are feasible, making it easier and faster for even the most illiterate people to understand the dataset’s contents. Your Dream Career in Data Analytics Starts Here Data Engineering Training with Placement Data Analytics or Data Analysis—Which Do You Need More? For modern firms, data analysis and analytics are both crucial. Rather than viewing the two techniques as competitors, viewing them as unique iterations of the same data intelligence process is preferable. Businesses who want to create predictive models and require a more comprehensive data intelligence system to assist them in optimizing their processes can consider data analytics. Conversely, companies with well-defined issues that are only looking to use business intelligence systems to diagnose them and identify solutions are more suited for data analysis. Type of Data Analysis Techniques for analyzing data come in many different forms. The most well-known are as follows: Text analysis: Another name for this is data mining. This technique uses databases or other data mining techniques to find patterns in big-form data sets. Statistical analysis: This analysis uses historical data in dashboard form to answer the question, “What happened?” Statistics entails gathering data, analyzing it, interpreting it, presenting it, and finally, modeling it. Diagnostic analysis: To determine the cause, this analysis uses the insights from statistical analysis to answer the question, “Why did it happen?” Finding patterns in the behavior of the data is a benefit of this kind of study. Predictive analysis: This study makes predictions about the future based on historical data. Based on the facts, the predictive analysis forecasts future results. Prescriptive Analysis: To decide what action(s) to take to fix a present issue or sway a decision, this kind of analysis integrates the insights from text, statistical, diagnostic, and predictive analysis. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Which Offers Greater Benefits? According to Brack Nelson, Marketing Manager at Incrementors SEO Services, the result of data analytics is more comprehensive and advantageous than the result of data analysis alone. Think about the variations between: Instead of building a dashboard where the business user can interact with descriptive statistics, an analyst may offer the user a spreadsheet of numbers. A web application that displays the forecast and allows the user to engage with predictive analytics is preferable to a business user getting a report that details the campaign’s real worth. According to Brack, the ultimate step is developing a product that uses data analytics to make a forecast based on data and communicates with the API of another system to take action. The Closing Note In conclusion, data is rapidly replacing fuel for enterprises. You may fast raise net income and overall sales by using it correctly. Understanding the distinction between data analytics and data analysis is crucial to accelerate growth in today’s cutthroat industry. Analyzing historical data to improve decision-making is known as data analytics. Data analysis facilitates data interpretation. It offers essential historical context that helps us understand what has happened thus far. Explore expert insights at 3RI Technologies for a rich learning experience. Prev Previous Adoption of DevOps: All Hype or Worth the Effort? Next How to Become an RPA Developer: Skills, Career & Certification Guide Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/08/Data-Analytics-.png",
+        "alt": "differences between data analytics and data analysis",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Data-Science-Certified-Professional.png",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=Do+Analytics+and+Analysis+of+Data+Interchange%3F&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=97333&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fdo-analytics-and-analysis-of-data-interchange%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2024/08/09/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/adoption-of-devops-hype-or-worth-the-effort/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-engineering-training-with-placement/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/rpa-developer-skills-career-and-how-to-become-one/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Analytics vs Analysis: What's the Real Difference? | 3ritechnologies",
+    "og_description": "Understanding the analytics vs analysis debate is key in the data world. Learn the distinct roles they play in processing data and driving business strategy.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Do Analytics and Analysis of Data Interchange?",
+            "datePublished": "2024-08-09T10:52:53+00:00",
+            "dateModified": "2025-06-14T05:10:16+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/"
+            },
+            "wordCount": 1633,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/08/Data-Analytics-.png",
+            "keywords": [
+              "Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/",
+            "url": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/",
+            "name": "Analytics vs Analysis: What's the Real Difference? | 3ritechnologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/08/Data-Analytics-.png",
+            "datePublished": "2024-08-09T10:52:53+00:00",
+            "dateModified": "2025-06-14T05:10:16+00:00",
+            "description": "Understanding the analytics vs analysis debate is key in the data world. Learn the distinct roles they play in processing data and driving business strategy.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/08/Data-Analytics-.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/08/Data-Analytics-.png",
+            "width": 1000,
+            "height": 667,
+            "caption": "Master Data Analytics"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/do-analytics-and-analysis-of-data-interchange/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Do Analytics and Analysis of Data Interchange?"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

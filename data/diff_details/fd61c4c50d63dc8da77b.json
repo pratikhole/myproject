@@ -1,0 +1,517 @@
+{
+  "url": "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "JMeter-Performance-testing-tool - 3RI Technologies Pvt Ltd",
+    "meta_description": "Enroll In JMeter Training in Pune and learn from Industry Experts with Live Projects and get Job assistance assurance.",
+    "h1": [
+      "Jmeter Performance Testing"
+    ],
+    "content": "Home > Courses > JMeter-Performance-testing-tool Jmeter Performance Testing Performance Testing Tools 3RI Technologies offers an in-depth JMeter training course designed for those seeking to master performance testing tools and techniques. This course focuses on JMeter performance testing, giving you hands-on experience with one of the most powerful tools used for load and stress testing. Gain proficiency in creating and executing JMeter testing scenarios, analyzing results, and optimizing web applications for performance. Our performance testing courses and performance testing training equip you with the skills needed to succeed in real-world scenarios. You can also prepare for JMeter certification and performance testing certification through comprehensive sessions. Trained 15000+ Students | 3 Centers in Pune | Job Oriented Courses | Affordable Fees | Pay in Easy No Cost EMIs | Flexible Batch Timings ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.1 out of 5 ★ ★ ★ ★ ★ Rated 5 out of 5 Course Duration 6 weeks Live Project 2 Project Certification Guaranteed Training Format Live Online /Self-Paced/Classroom Enroll Now Download Brochure Chat Now Download Brochure & attend Free Online/Classroom Demo Session! Training Mode Online Classroom Select Branch Online Pimple Saudagar Deccan Nal Stop Send Achievement Trainings Conducted 2500 + Batches Completed 3000 + Companies Tie-ups 400 + Students Placed 3500 + Corporate Trainings 400 + Nothing stops you from learning We provide EMI facility for you Apply Now EMI Plan Registration Percent EMI With 0% Interest On Registration 10% 1st installment – 1st month of joining 70% 2nd installment – 2nd month 20% Key Features Course Duration : 6 Weeks Real-Time Projects : 2 Project Based Learning EMI Option Available Certification & Job Assistance 24 x 7 Support Syllabus Overview Batch Schedule FAQ's Reviews Enroll Now - Payment JMeter Syllabus The detailed syllabus is designed for freshers as well as working professionals Download Brochure Course Content 1. Introduction to Performance Testing What is Performance Testing? Benefits of Performance Testing Types of Performance Testing Performance Testing Life cycle The complete process involved in Performance Testing Projects Key Business Processes & Use Cases Performance Testing concepts and terminologies HTTP Request/Response Structure 2. Tool Introduction Introduction about the JMeter Other tools available in the market Installation & Running Introducing the JMeter GUI 3. JMeter JMeter Overview Features of JMeter- Advantages of JMeter JMeter Architecture Meter Elements- Components of JMeter Installation 4. Building a Test Plan Elements of Test Plan Loading and Saving Elements Configuring Tree Elements Executing a Test Plan Reading Results of Test Plan 5. Scripting using JMeter Recording Web Application Scripts enrichment- Make the script work for different users, different environments Parameterization – Create variables for user input Correlation- Handling dynamic values Validation checks- Check the server response Transactions- Script standards Think Time Pacing 6. Parameterize with test data Identifying the test data on AUT Open a CSV file with JMeter Reading the data from CSV files Using the parameters in JMeterTests 7. Execution Setup of Load Generators machines Scenario Set-up Execution in GUI Mode Execution in Non- GUI Mode 8. Result Analysis Understanding of different formats of results in JMeter Client-side Metrics Server-side Metrics 9. Reporting- Report presentation to the client Configuring and Generating the Spline Visualizer Generating the Aggregate Graph for multi-group test Generating the Aggregate Report for a multi-thread group test Generating the Summary Report Hands-on Experience on Live Project Focus on performance testing core concepts Practice exercises on different live applications JMeter Classes in Pune At 3RI Technologies, we provide expert-led JMeter performance testing training in Pune, equipping you with the essential skills needed to excel in performance testing. This course focuses on practical JMeter performance testing, ensuring you can confidently perform load testing on web applications and APIs. The comprehensive curriculum includes key topics such as JMeter testing tools, performance testing techniques, and best practices for real-world testing scenarios. Our performance testing training program is tailored for professionals looking to advance their careers in testing, including software testers, QA engineers, and developers. By the end of the course, you’ll gain expertise in using JMeter to test the scalability, reliability, and performance of various applications. You will also have the opportunity to earn a JMeter certification, boosting your credentials in the competitive testing domain. Whether you’re interested in performance testing courses, JMeter certification, or overall performance testing strategies, this training provides all the tools you need to succeed. With expert instructors and hands-on labs, 3RI Technologies offers the best platform to learn performance testing. Join us to deepen your knowledge of JMeter and enhance your testing career with top-tier performance testing certification. The protocols supported by JMeter− Web − HTTP, HTTPS site ‘web 1.0’ web 2.0 (ajax, flex , flex-was-amf) Web Services − SOAP / XML-RPC Database via JDBC drivers Directory − LDAP Messaging Oriented service via JMS Service − POP3, IMAP, SMTP FTP Service What is Performance Testing? It is very important to check the product works as expected or required. Unfortunately, we discovered this trap after the delivery of the product. However, performance is an inevitable factor these days, especially for web and mobile applications, as the user’s strength is too great for any application. Performance testing is defined as a type of software testing to ensure that applications run under the expected workload. It focuses on some software factors, such as: Speed: check if the application response is fast. Stability: check if the application is stable under different loads. Scalability – It determines the maximum user load. Performance tests are important in real-time, especially concerning customer satisfaction. Several performance testing tools are available, such as: Apache JMeter LoadRunner WebLOAD LoadUI LoadView NeoLoad How does JMeter perform Testing? Let’s take a look at different steps JMeter took during the test: 1. Create a request and send it to the server. 2. Receives the response from the server, collects it, and displays these details in a diagram or graph. 4. The test result is generated in various formats such as text, XML, JSON so that the tester can analyze the data. Visit our “JMeter Tutorial” now and find out what makes JMeter one of the most preferred test tools. JMeter Features It is available for free as open-source software. It has a simple and intuitive graphical interface. JMeter can perform load and performance tests for different types of servers: Web-HTTP, HTTPS, SOAP, database via JDBC, LDAP, JMS, Mail-POP3, etc. On Linux / Unix, you can invoke JMeter by clicking on the JMeter shell script. On Windows, it can be started by starting the jmeter.bat file. Full support for swing and lightweight components (the precompiled JAR uses the java.swing. This means that you can create a test plan with a text editor. The full multithreaded structure allows simultaneous scanning of many threads and simultaneous scanning of functions other than groups of separate threads. Some additional features of JMeter: Available for free because it is an open source software. Simple and user-friendly interface that can also be used by non-professionals with little information about JMeter. Ability to perform performance and load tests on various servers such as HTTP, HTTPS, SOAP, POP3 mail, LDAP, etc. JMeter is an independent application of the platform. On Windows, tests on JMeter can be run using the JMeter.bat file and under Unix / Linux by clicking on the JMeter shell scripts. JMeter creates and saves his test plan in XML format. This indicates that we can create a test plan with a text editor. JMeter is a multithreaded framework used for multi-threaded simultaneous analysis. It is also useful in automated trigger tests. Job Oriented Courses STEP in Cloud Computing STEP in DevOps Mastering Data Science STEP in Python Full Stack STEP in JAVA Full Stack STEP in Software Testing STEP in MEAN Stack Angular STEP in MERN Stack ReactJS STEP in Salesforce STEP in PHP Python Programming Python Programming Web Development in Python Cloud Computing AWS – Amazon Web Services AWS Cloud Practitioner DevOps with AWS DevOps – Dockers And Kubernetes Salesforce Microsoft Azure Data Analytics Data Science Artificial Intelligence Hadoop 2.X BigData Analytics Apache Spark & Scala Hadoop Admin Business Intelligence Tableau – Data Visualization Informatica Development – datawarehosuing Qlikview QlikSense Software Testing Selenium with Java Selenium With Python Tosca Training API Testing JMeter Testing LoadRunner Testing ETL Testing QTP / UFT RPA - Robotic Process Automation RPA- Ui Path Automation Anywhere Java Technology Core Java Advanced Java Spring Hibernate Spring Framework Web Designing & Development UI Development Angular ReactJS MEAN Stack MERN Stack Web Development in Python Database Technology DBMS: Oracle SQL Oracle : PL/SQL Oracle : DBA I/II RAC with Oracle MS SQL SERVER Development MS SQL SERVER DBA MONGO DB Scripting Languages UNIX Shell Scripting Python Programming Perl scripting .Net Technology Diploma in .Net ASP.NET MVC C# Programming WPF Programming WCF Programming Internet Marketing Digital Marketing SEO Training Classes Mobile App Development Android App Development iOS App Development Soft Skills & Aptitude Soft Skills Training Aptitude Training Basic Programming Languages Fundamentals of Computer C Programming C++ Programming Data Structure Industrial Training Industrial Training Blockchain Blockchain Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Batch Schedule Schedule Your Batch at your convenient time. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 Data Science 27-Oct-26 Mon- Thu 12:30 PM Enroll Now 2 Python 24-Oct-26 Sat - Sun 02:00 PM Enroll Now 3 Data Analytics 24-Oct-26 Sat - Sun 12:15 PM Enroll Now 4 GenAI 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 5 Machine Learning & Deep Learning 28-Oct-26 Mon- Fri 04:00 PM Enroll Now 6 PowerBI 24-Oct-26 Sat - Sun 12:00 PM Enroll Now 7 MySQL 27-Oct-26 Tue - Fri 05:30 PM Enroll Now 8 MySQL 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 9 Soft Skills 25-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 26-Oct-26 Mon - Fri 04:00 PM Enroll Now FAQs Most frequent questions and answers 1.Can I join this course as I don’t have any Programming Background? Yes, you can surely join this course. 2. Will there be any live project covered in this course? We strongly believe in hands on practical training and our trainers make sure that is imparted to our students as well. Saying that, yes we will cover a live project which needs to be completed during the course 3. Will I get any certificate after this course? After the course completion, an exam will be conducted to judge your knowledge along with the live project work completion check and you will be awarded a certificate from 3RI Technologies. 4. Will I get any placement assistance after the course completion? Yes, we provide placement assistance to our students. We have a dedicated team for Placement and tie ups with 300+ MNC’s and SME companies. I'm Interested in This Program Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Our Clients Students Reviews 3RI Technologies is the best institute for Jmeter. Excellent training sessions with in-depth course content.Thanks to trainers and staff. Archana Pawar ***** 3RI Technologies is one of the best platforms for Jmeter training. I had completed a Jmeter course from 3RI; they provide me good calls for an interview... now I'm working in MNC... which I got that opportunity through 3RI. Hitesh ***** This is a very informative institute. Always adjust the time as per student convenience. All course content is in-depth. Shailesh ***** Jmeter Information Jmeter Interview Questions and Answers",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/urbonpro.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/cb18c4_aaa5cc27347d4d1f809e1194612f74f6mv2-1-150x150.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/images-3.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/2249165.png",
+        "alt": "EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/05/eduvanz.png",
+        "alt": "Eduvanz EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/01/22.png",
+        "alt": "Enquire about the 3RI Technologies training program",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon41.jpg",
+        "alt": "ZS",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon40.png",
+        "alt": "Zensar",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon39.png",
+        "alt": "bmc",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon38.png",
+        "alt": "thoughtworks",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon36-768x261.png",
+        "alt": "tata consultancy",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon34.gif",
+        "alt": "synerzip",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon33-e1604575181323.png",
+        "alt": "survik",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon32.png",
+        "alt": "siemens",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon31.jpg",
+        "alt": "R systems",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon30.png",
+        "alt": "pubmatic",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon29.png",
+        "alt": "citi",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon28.jpg",
+        "alt": "persistance",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon26.gif",
+        "alt": "Mphasis",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon25.png",
+        "alt": "Market Reports Center",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon24-e1604575512879.png",
+        "alt": "market and market",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon23-e1604575367263.png",
+        "alt": "accenture",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon22.png",
+        "alt": "sungard",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon21.jpg",
+        "alt": "kpit",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon20.png",
+        "alt": "comp-icon20",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon18.jpg",
+        "alt": "comp-icon18",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon17.png",
+        "alt": "comp-icon17",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon14.png",
+        "alt": "comp-icon14",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon13-e1654928115125.jpg",
+        "alt": "comp-icon13",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon12.png",
+        "alt": "comp-icon12",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon11.png",
+        "alt": "comp-icon11",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon10-e1654925790405.png",
+        "alt": "comp-icon10",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon9.png",
+        "alt": "comp-icon9",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon8.jpg",
+        "alt": "comp-icon8",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon7.jpg",
+        "alt": "comp-icon7",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon6.png",
+        "alt": "comp-icon6",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon5.png",
+        "alt": "comp-icon5",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon4.png",
+        "alt": "comp-icon4",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon3.png",
+        "alt": "comp-icon3",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon2.png",
+        "alt": "comp-icon2",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon1-1.png",
+        "alt": "comp-icon1",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/3d-lpm-logo.jpg",
+        "alt": "3d lpm logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/veritas-logo.jpg",
+        "alt": "veritas logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/synecron-logo.jpg",
+        "alt": "synecron logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/calsoft-logo.jpg",
+        "alt": "calsoft logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=JMeter-Performance-testing-tool&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=700&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcourse%2Fjmeter-training-in-pune%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/",
+      "https://www.3ritechnologies.com/course/Mongo-DB-NoSQLDatabase/",
+      "https://www.3ritechnologies.com/course/Perl-Scripting/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/android-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+      "https://www.3ritechnologies.com/course/aptitude/",
+      "https://www.3ritechnologies.com/course/asp-net-mvc-training-in-pune/",
+      "https://www.3ritechnologies.com/course/asp-net-wpf-training-course/",
+      "https://www.3ritechnologies.com/course/automation-anywhere-training-in-pune/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
+      "https://www.3ritechnologies.com/course/big-data-hadoop-training-in-pune/",
+      "https://www.3ritechnologies.com/course/blockchain-training-in-pune/",
+      "https://www.3ritechnologies.com/course/c-programming-classes-pune/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/cpp-programming-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/csharp-training-institute-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/data-structure-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/digital-marketing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-informatica-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/fundamentals-of-computer/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/hadoop-admin-training-in-pune/",
+      "https://www.3ritechnologies.com/course/industrial-training-company-for-bca-mca-students-pune/",
+      "https://www.3ritechnologies.com/course/ios-app-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-j2ee-training-in-pune/",
+      "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/ms-sql-server-dba-training/",
+      "https://www.3ritechnologies.com/course/oracle-dba-certification-course-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-rac-training-in-pune/",
+      "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/qliksense-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qlikview-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qtp-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/reactjs-training-in-pune/",
+      "https://www.3ritechnologies.com/course/rpa-training-in-pune/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/seo-training-in-pune/",
+      "https://www.3ritechnologies.com/course/softskill-training-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/spring-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/sqlserver-dba-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tableau-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/unix-shell-scripting-training/",
+      "https://www.3ritechnologies.com/course/wcf-training-course/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-dot-net-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
+      "https://www.3ritechnologies.com/course/webservices-with-soapui-testing-training/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/payment/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "JMeter-Performance-testing-tool - 3RI Technologies Pvt Ltd",
+    "og_description": "Enroll In JMeter Training in Pune and learn from Industry Experts with Live Projects and get Job assistance assurance.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+            "url": "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+            "name": "JMeter-Performance-testing-tool - 3RI Technologies Pvt Ltd",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/course/jmeter-training-in-pune/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/course/jmeter-training-in-pune/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
+            "datePublished": "2019-07-05T12:07:31+00:00",
+            "dateModified": "2025-06-09T06:57:10+00:00",
+            "description": "Enroll In JMeter Training in Pune and learn from Industry Experts with Live Projects and get Job assistance assurance.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/course/jmeter-training-in-pune/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/course/jmeter-training-in-pune/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/course/jmeter-training-in-pune/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "width": 192,
+            "height": 192
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/course/jmeter-training-in-pune/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Courses",
+                "item": "https://www.3ritechnologies.com/course/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "JMeter-Performance-testing-tool"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

@@ -1,0 +1,330 @@
+{
+  "url": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "How ChatGPT Can Revolutionize Automated Testing Scripts | 3RI Technologies",
+    "meta_description": "Explore how ChatGPT can streamline the creation of automated test scripts. Learn practical use cases for improving automated testing scripts and boost your QA skills with Automation Testing | Selenium training by 3RI Technologies.",
+    "h1": [
+      "How ChatGPT Can Be Used for Automated Test Scripts in Real-Time QA"
+    ],
+    "content": "Skip to content Home > How ChatGPT Can Be Used for Automated Test Scripts in Real-Time QA How ChatGPT Can Be Used for Automated Test Scripts in Real-Time QA ChatGPT's generative AI can be used for code testing in several situations.This article will discuss ways to use ChatGPT to speed up and automate the test lifecycle. Table of Contents PriyankaS3ri June 25, 2024 12:36 pm Generative Pre-trained Transformer, or ChatGPT, is an artificial intelligence system that can write essays, poems, and stories, answer different kinds of questions in normal language, and have conversations. As a language model, ChatGPT might not always work well as a tool for automating tests. Its goal is to respond to text inputs in a way that sounds like a person would. It has been trained on various tasks and domains, but its primary use is for natural language processing tasks like creating texts, translating languages, answering questions, and summarizing. AI is transforming QA, and ChatGPT is at the forefront of this shift by helping testers write smarter, faster, and more reliable automated test scripts. Whether you’re new to QA or refining your automated testing scripts, integrating ChatGPT can drastically cut development time and increase test coverage. While not a replacement for human insight, ChatGPT complements your efforts by assisting with test case generation, validation logic, and edge-case handling. If you’re serious about scaling your automation skills, explore 3RI’s industry-leading Automation Testing | Selenium course— crafted for future-ready professionals aiming to stay ahead in testing. However, ChatGPT’s generative AI can be used for code testing in several situations. This may make the jobs of testers and quality assurance (QA) experts easier and help with automated testing . This article will discuss ways to use ChatGPT to speed up and automate the test lifecycle. Enhancing Automated Testing Scripts Using AI: The ChatGPT Advantage Here are a few justifications for using ChatGPT’s features in your testing procedure. Automate the creation of test cases and test data for a speedier and more effective testing procedure. ChatGPT may evaluate the requirements provided and produce pertinent test cases and data based on the context and the intended result. This can expedite the testing process significantly and free up the testers’ time for other projects. Tests of chatbots and user interfaces can benefit from their ability to mimic user interactions with a system. Boost the coverage and quality of your tests. With ChatGPT, you can create more intricate and realistic test scenarios that can assist in finding a greater variety of software errors and issues—better test coverage results from its ability to generate more tests faster than a human. Overcome ignorance of a particular technology. ChatGPT is an invaluable tool that can assist in getting beyond the limitations caused by a lack of familiarity with a specific technology. It could produce the first few lines of code if you don’t know where to begin. Naturally, you can’t depend solely on these generated results, but it can be a decent place to start if you’re stuck. It can occasionally even assist with debugging and provide you with the precise cause of the code’s failure. It is imperative to acknowledge that ChatGPT is not a suitable substitute for conventional automated testing tools. These tools are tailored for software system testing and possess an extensive array of features and functionalities that are absent from ChatGPT, such as test integration, test reporting, and test environment management. If you want to become an Expert Software Tester join Software testing course in Pune Drawbacks of Software Testing with ChatGPT Despite its great potential, ChatGPT’s application in testing is subject to several restrictions. ● Training Restrictions Due to its limited training set, ChatGPT may not be able to generate as sophisticated or inventive test cases as it could. ChatGPT will not be able to produce reliable test cases if the training data is not reflective of the software application under test. Additionally, because it is predicated on statistical patterns, it frequently lacks an in-depth understanding of a system that must be verified, context, and hidden meaning. ● More verification is required. Additional validation of the results is necessary since ChatGPT may produce test cases that are not always accurate and reliable. Additionally, the results aren’t always comprehensive. As a result, you still need to be able to improve and complete the system’s reaction. ● High integration complexity within the current procedure Because ChatGPT is a sophisticated technology, it is not intended for use in testing procedures. Including this tool in the current procedure might take more implementation work. Examples of Automated Testing with ChatGPT Let’s look at a few enhanced testing process automation instances using ChatGPT. 1. Automatic creation of test cases ChatGPT can produce test cases using descriptions in natural language. Let’s take an example where we are testing a form for authentication with fields for a username and password. A username and password must meet the following criteria: The password needs to be at least 8 characters long and contain at least one letter, number, and unique character. The username must be at least 4 characters long, but not more than 15, and it can contain both letters and digits. The username and password cannot be the same. After that, we can provide ChatGPT with this data and instruct it to produce some tests to verify functionality. If this is insufficient, you can request that ChatGPT generate further tests for you. The system may begin to recommend extra criteria to strengthen authentication data security once test cases have been created that cover every situation. As previously said, you should verify the obtained findings as they could contain inaccuracies. Although this is untrue, ChatGPT determined that the username in the example output below contained fewer than four symbols.| Enroll our Selenium with Python Course and become an expert in Software Testing. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send 2. Automatic Creation of Unit Tests in A Selected Programming Language ChatGPT has the potential to transform testing automation by producing unit tests across several programming languages. Developers can provide ChatGPT with function or class specs, and it will generate the associated unit test scripts. For example, in Python, ChatGPT may generate ” unittest or pytest” scripts with various test cases that cover both common scenarios and edge cases if it receives information about function names, input arguments, and expected outcomes. This feature improves test coverage and reliability while hastening the test development process. Additionally, by adjusting to the syntax and norms of each language, ChatGPT may produce unit tests in other languages, such as JavaScript (using frameworks like Jest), Java (JUnit), or C# (NUnit). ChatGPT helps developers maintain high-quality codebases by guaranteeing consistency and following best practices in test writing. This automated method of creating unit tests decreases the amount of manual coding required and aids in the early detection of errors. It enhances the overall efficacy and efficiency of the software development lifecycle. 3. Write Documentation ChatGPT can write code, but its primary strength lies in creating explanations and words. Writing testing documentation is an excellent place to use this. For instance, if required, you can ask ChatGPT to establish team guidelines for unit testing. Ideally, you should supply the tool with a list of subjects which should be covered in your documentation. 4. Assist in Reaching A Choice Using Best Practices ChatGPT can help decision-making by offering insights derived from testing automation best practices. For example, ChatGPT may evaluate multiple test automation frameworks (e.g., Selenium, Cypress, and Playwright) and suggest the most appropriate one according to project needs. It can also recommend the best ways to maintain code quality, test coverage, and test scripts. Teams can make sure they follow industry standards and use tried-and-true approaches by utilizing ChatGPT, which will result in testing procedures that are more productive and successful. Furthermore, ChatGPT can be used to create and evaluate test plans, guaranteeing that all necessary details are addressed and assisting in making well-informed, best-practice-based decisions. Check out Online Selenium Training . Enroll now! How can ChatGPT be Used to Build Test Cases? Create test cases and scripts for automated testing with ChatGPT, an AI-driven language model. It is a tool to help human testers, not to replace them, and it speeds up and improves the effectiveness of the testing process. For instance, the following is a condensed tutorial on creating Selenium test scripts and test cases with ChatGPT: 1. Explain the Test Scenario: Choose what you want to test first, such as a particular application feature or user behavior. For example, list the essential stages for the search function on a website while testing it. 2. Choose a Programming Language: Java, Python, and C# are just a few of the languages that Selenium supports. Select one based on your team’s or your own set of skills. 3. Set Up Your Environment for Development: Install the programming language bindings for Selenium WebDriver. You may automate browser interactions in your tests with this configuration. 4. Enter Information Into ChatGPT: Present your test scenario to ChatGPT. Say, “I need to test the search feature on a website,” for example. Could you recommend a few test cases? 5. Get Test Cases from ChatGPT : ChatGPT will send you the pertinent test cases after reviewing your request. Entering a question, hitting the search button, going to the search page, and confirming the results are common steps in a test case for a search function. 6. Create Selenium Scripts from Test Cases: In the language of your choice, develop a Selenium script using ChatGPT’s recommendations. For example, writing a Javascript for the given test case would entail writing code to launch the browser, carrying out the search operations, and verifying the findings. 7. Run the Test Script: Run your script to see if it finds any problems or passes. You may optimize your testing process by integrating ChatGPT into the test case creation process. To ensure the AI-generated examples wholly and accurately satisfy your testing requirements, you must carefully evaluate them . Enroll our Selenium Classes in Pune and become an expert in Software Testing. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send Adding Negative Test Cases with ChatGPT By producing negative test cases, ChatGPT helps improve automated testing. Negative test cases are essential for verifying a system’s response to unexpected or erroneous inputs. Negative test scenarios for a login function could include an incorrect password, an empty username field, or a password longer than the allowed character limit. Depending on the needs of the application, ChatGPT can recommend these scenarios. Give ChatGPT the following request: “Generate negative test cases for a user login system.” Then, the model might generate situations like inserting special characters in the username field, SQL injection strings, or improper email formats. Testing frameworks can more effectively guarantee robustness and security by utilizing these AI-generated negative test cases, which can identify defects or vulnerabilities early in development. Using ChatGPT for Debugging and Adjusting Codes Typical testing scenarios include explicit code embedding of test values, such as the account, password, and URL. These specifics, such as “http://www.example.com/login” or typical username and password pairings like “username” and “password,” might not always be applicable in practical implementations, though. Using Cucumber , an application that allows you to enter variables from feature files into your test cases directly, is a more adaptable strategy. However, occasionally, you can find it challenging to grasp the format of these variables, or you might not have the time to update your entire codebase manually. In these situations, ChatGPT has shown to be a helpful remedy. Using its features to adjust and correct your code will help you save time and work on changing test scenarios to accommodate a broader range of actual inputs. Let’s Combine Cucumber Test Cases That are Positive and Negative For Cucumber, a well-liked behavior-driven development tool, ChatGPT can help create a well-balanced set of positive and negative test cases (BDD). For instance, ChatGPT can produce both positive and negative situations while testing a user registration feature (e.g., valid email and password) (e.g., invalid email format, empty password field). You may ask ChatGPT to “Generate Cucumber test cases for user registration.” After that, the model may generate feature files with both kinds of cases: Feature: User Registration Scenario: Successful registration with valid details Given the user enters a valid email and password When they submit the form Then the registration should be successful Scenario: Registration fails with invalid email Given the user enters an invalid email and a valid password When they submit the form Then an error message should be displayed This guarantees thorough testing coverage, raising the level of quality of the software. To learn more Join 3RI Technologies Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes The Bottom Line In summary, ChatGPT performed admirably for routine everyday chores that don’t require in-depth knowledge of underlying mechanisms or software development. However, it still has a lot of potential for enhancing and expediting the testing life cycle when used in tandem with other automated testing technologies to guarantee the accuracy and quality of the testing procedure. As AI continues to grow, learn, and become more complex, ChatGPT outcomes will likewise become more reliable. Additionally, ChatGPT has the following to say about its future in software testing. Although testing is a complicated process that calls for human perspective, creativity, and critical thinking, AI technology is developing quickly and can automate some duties. Prev Previous Why You Should Use Selenium IDE: Features & Benefits Next 10 Most Popular Robotic Process Automation (RPA) Tools in 2024 Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/How-Can-ChatGPT-Be-Used-for-Automated-Tests.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/03/become-software-testing-certified-professional-1.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Testing&cd%5Bpage_title%5D=%C2%A0How+ChatGPT+Can+Be+Used+for+Automated+Test+Scripts+in+Real-Time+QA&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=95712&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fhow-can-chatgpt-be-used-for-automated-tests%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/10-most-popular-robotic-process-automation-rpa-tools-in-2024/",
+      "https://www.3ritechnologies.com/2024/06/25/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-online-training/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-with-python-training/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/reasons-why-to-use-selenium-ide/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "How ChatGPT Can Revolutionize Automated Testing Scripts | 3RI Technologies",
+    "og_description": "Explore how ChatGPT can streamline the creation of automated test scripts. Learn practical use cases for improving automated testing scripts and boost your QA skills with Automation Testing | Selenium training by 3RI Technologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": " How ChatGPT Can Be Used for Automated Test Scripts in Real-Time QA",
+            "datePublished": "2024-06-25T07:06:35+00:00",
+            "dateModified": "2025-05-19T03:55:41+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/"
+            },
+            "wordCount": 2193,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/How-Can-ChatGPT-Be-Used-for-Automated-Tests.png",
+            "keywords": [
+              "Software Testing Blog Design"
+            ],
+            "articleSection": [
+              "Testing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/",
+            "url": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/",
+            "name": "How ChatGPT Can Revolutionize Automated Testing Scripts | 3RI Technologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/How-Can-ChatGPT-Be-Used-for-Automated-Tests.png",
+            "datePublished": "2024-06-25T07:06:35+00:00",
+            "dateModified": "2025-05-19T03:55:41+00:00",
+            "description": "Explore how ChatGPT can streamline the creation of automated test scripts. Learn practical use cases for improving automated testing scripts and boost your QA skills with Automation Testing | Selenium training by 3RI Technologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/How-Can-ChatGPT-Be-Used-for-Automated-Tests.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/How-Can-ChatGPT-Be-Used-for-Automated-Tests.png",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/how-can-chatgpt-be-used-for-automated-tests/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": " How ChatGPT Can Be Used for Automated Test Scripts in Real-Time QA"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

@@ -1,0 +1,335 @@
+{
+  "url": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "AWS vs Google Cloud: Which Cloud Platform is Better in 2025?",
+    "meta_description": "Explore the key differences between AWS and Google Cloud. Understand which cloud platform suits your goals best and discover expert-led Google Cloud Courses at 3RI Technologies.",
+    "h1": [
+      "AWS vs Google Cloud: A 2025 Comparison for Learners & Professionals"
+    ],
+    "content": "Skip to content Home > AWS vs Google Cloud: A 2025 Comparison for Learners & Professionals AWS vs Google Cloud: A 2025 Comparison for Learners & Professionals Table of Contents PriyankaS3ri May 31, 2024 5:19 pm Before deciding to migrate, startups must comprehend the technical distinctions between Google Cloud and Amazon Web Services (AWS). Fortunately, there is some interoperability throughout contemporary cloud platforms. In our opinion, if you’ve already decided to transfer, Google Cloud’s cutting-edge solutions should pleasantly surprise you. When comparing AWS vs Google Cloud, both platforms offer powerful capabilities, but your choice depends on specific needs. While AWS leads in market share, Google Cloud Platform is gaining momentum with innovation and competitive pricing. Understanding the strengths of Google Cloud and AWS is vital for making informed career or business decisions. Whether you’re an IT professional or a fresher planning your cloud journey, mastering these platforms can open high-paying opportunities. To build hands-on skills, explore our expert-led Google Cloud Courses and stay ahead in the evolving cloud landscape with 3RI Technologies. It’s critical to comprehend not only the workload expenses associated with your application during the migration process but also how a cloud platform can save costs by utilizing more user-friendly or functionally advanced technology. Because of this, Google Cloud distinguishes itself with various tested solutions and APIs that provide alluring features, dependability, and performance at a competitive cost. In certain instances, like with Kubernetes and BigQuery, Google Cloud provides far better services than its rivals. In this post, we’ll review essential factors and comparable technology for startups considering switching from AWS to Google Cloud. In addition, we’ll compare the features, costs, and scalability of the two systems. Continue reading to learn between Amazon vs Google Cloud, which one is superior for your business. Interested to begin a career in AWS? Enroll now for AWS Training in Pune . Google Cloud and AWS – Which One Should You Choose? Amazon Web Services (AWS) offers cloud computing services that are dependable, scalable, adaptable, user-friendly, and reasonably priced. The AWS cloud computing platform has many services that work together to make a complete platform. It’s known as a powerhouse for developers because it has many choices for storage, databases, analytics, networking, and deployment/delivery. Google Cloud : What Is It? With the help of Google Cloud Platform (GCP), you can host your own websites on the same network that Google uses to run YouTube, Gmail, and Google Search.It provides a range of services like computing, storage, networking, security, machine learning, and big data that you can pay for as you go. Long-term agreements or upfront costs are absent. Google Cloud Platform (GCP) is based on the open source technology of Google App Engine. One member of the PaaS product family is Google App Engine. There are two types: the standard version is a public cloud service, and the business version is a private cloud service.Google also offers a managed service for GCP called GCP for Business. This service is for companies that want Google to handle their IT systems. GCP is a very useful tool that can help you make and use all kinds of apps, like web, mobile, and gaming apps. You can also use GCP’s many tools and services to control, watch over, and improve applications. Features of AWS Critical characteristics of Amazon Web Services (AWS) include: Compared to any other private or dedicated server, the total cost of ownership is relatively inexpensive. Provides consolidated administration and invoicing Provides hybrid functionalities With only a few clicks, you may use it to launch your application in numerous global locations. You can explore your knowledge with the help of GCP Online Training . Features of Google Cloud Among the essential features of Google Cloud are: Adding new OSs and languages constantly. Enhancing the user interface facilitates improved user experience. Provides an ad hoc self-service Extensive network connectivity Pooling resources and quick flexibility Amazon Web Services and Google Cloud Pricing Both AWS and Google Cloud provide competitive price structures that are both flexible and include a few free extras. Because Google Cloud charges by the second instead of by the hour like AWS does, businesses can save money with it. Further savings are available from Google Cloud for users who use its services for free upfront over an extended period. Even though there aren’t many differences between the two cloud platforms, it’s still a good idea to keep in mind that costs will vary depending on things like networking requirements, workload levels, and data center location. Enroll in our AWS Online Training today! AWS Pricing: For the most part, AWS charges on a pay-as-you-go basis for its cloud services. As a result, clients can adjust the size of their infrastructure in response to demand, saving money when utilization is low. Additional choices for pricing are as follows: Save when you commit: Companies can receive discounts if they agree to use a specific volume of AWS services for up to three years. Spend less while using more: Businesses receive discounts in proportion to the volume of their usage. Furthermore, AWS provides new users with a limited-resource-free tier to experiment and learn without paying any initial costs. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send Google Cloud Pricing: With Google Cloud’s pay-as-you-go pricing model, customers may only pay for the cloud services they really utilize. Prices vary according to usage and product. Customers don’t have to pay up-front or termination costs to use Google Cloud. With $300 in free credits and access to more than 20 free items, new clients can begin by testing out Google Cloud products. In addition, Google Cloud provides cost management features that assist users in setting warnings, quota restrictions, and budgets. Check out Amazon Web Services Course offered at 3RI Technologies Differences between AWS and Google Cloud Factors AWS Google Cloud Founded The introduction of AWS occurred on March 14, 2006. The first date of the Google Cloud Platform was April 7, 2008. Price Structure on an hourly basis in terms of minutes Definition One safe cloud service is AWS. Amazon is the one who created and oversees the platform. The term “Google Cloud Platform” describes a set of services and technologies offered by Google for use in the public cloud. Containers Kubernetes and Docker Just Kubernetes Top Characteristics By providing a variety of cloud-based goods and services, it leads the public cloud market. Specializing in high-end computing services such as Big Data, it is relatively new to the cloud market. Primary Service Elastic Compute Cloud, or EC2, is AWS’s flagship computing offering. The computing engine is Google’s primary offering. Cost The computing and storage costs are relatively high. With its affordable prices when compared to AWS, it is the apparent victor. Storage of objects S3 stands for Amazon Simple Storage Services Cloud Storage by Google Storing Files Elastic File System (Amazon EFS) on Amazon Cloud Storage Files Support for Hybrids Managed virtual tape infrastructure is available through AWS Storage Gateway for hybrid environments. Depends on partners for hybrid assistance, such as Egnyte. AI services and Machine Learning SageMaker is a proprietary AI solution available from AWS. In contrast to Google, AWS provides a restricted AI solution. Google Cloud uses TPU processors, which are AI chips capable of running frameworks such as TensorFlow. Compared to comparable services, the speed and performance are pretty quick. Big Data Support AWSLambda is an analytical tool for extensive data developed by AWS. Google Cloud Platform uses AI First, a proprietary system, to handle data on its servers. Pros and Cons of AWS Pros Cons Meets a wide range of business demands by offering a broad range of cloud services and features. Even for an essential website, the AWS deployment procedure might take up to 15 to 20 minutes due to its complexity and length. Have data centers spread throughout several global regions? Unreliable deployment lacking an explanation of the error Provides a free tier for a selection of its offerings. For startups that lack technical expertise, AWS is not the best choice. It provides Auto Scaling, which optimizes capacity for optimal performance automatically. You have to manually, with Capistrano or with recipes, deploy your application yourself. One easy way to deploy apps is through Amazon Web Services (AWS). Launching several instances of an application on AWS is a complex process. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes How to Decide Between Google Cloud and AWS Factors AWS Google Cloud Costs Pay-as-you-go model Per-minute billing with sustained use discounts Variety of Products Increased services and unprocessed computing power Concentrates on service management and provides competitive options Data Control Greater control over the access and storage of data A focus on data security with integrated security mechanisms Existing Ecosystem Easily incorporated into the current IT infrastructure. Simple integration with Google Workspace and other apps. Scalability Incredibly scalable for heavy-lifting Provides serverless alternatives for simple scaling Learning Curve Reputable platform with increased resource availability The interface is more straightforward but could require some knowledge of Google products. When it comes to security, AWS and GCP are both reliable cloud computing options. AWS has a greater variety of security options than GCP, which takes a more centralized approach to security. Therefore, the answer to the question of how to choose between Google Cloud and AWS depends mainly on the features and advantages you seek. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send The Bottom Line It is evident from the above that each cloud computing provider has advantages and disadvantages. The global reach of Google Cloud has grown significantly in the last few years.It is also your best bet if speed and price are essential to you. AWS has a lengthy history in the field of cloud computing. Other significant participants in the market are still imitating AWS, who started it all. Thanks to AWS’s availability, redundancy, and support across regions, it has remained at the top. You can be confident that the ongoing competition between the two cloud providers will lead to better performance, more offerings, and more affordable costs for hosting partners and clients. To master the skills from industry experts at 3RI Technologies . Next Comprehensive Guide to API Testing: Concepts and Methods Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Which-is-Better-AWS-vs-Google-Cloud.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-An-AWS-Certified-Professional.png",
+        "alt": "Become An AWS Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Google-Cloud-Certified-Professional.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=aws&cd%5Bpage_title%5D=AWS+vs+Google+Cloud%3A+A+2025+Comparison+for+Learners+%26amp%3B+Professionals&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=95010&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhich-is-better-aws-vs-google-cloud%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2024/05/31/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/concept-of-api-testing/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-online-training/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-with-aws-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/gcp-google-cloud-online-training/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "AWS vs Google Cloud: Which Cloud Platform is Better in 2025?",
+    "og_description": "Explore the key differences between AWS and Google Cloud. Understand which cloud platform suits your goals best and discover expert-led Google Cloud Courses at 3RI Technologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "AWS vs Google Cloud: A 2025 Comparison for Learners &amp; Professionals",
+            "datePublished": "2024-05-31T11:49:28+00:00",
+            "dateModified": "2025-06-02T06:10:25+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/"
+            },
+            "wordCount": 1680,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Which-is-Better-AWS-vs-Google-Cloud.jpg",
+            "keywords": [
+              "AWS Blog Design"
+            ],
+            "articleSection": [
+              "aws"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/",
+            "url": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/",
+            "name": "AWS vs Google Cloud: Which Cloud Platform is Better in 2025?",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Which-is-Better-AWS-vs-Google-Cloud.jpg",
+            "datePublished": "2024-05-31T11:49:28+00:00",
+            "dateModified": "2025-06-02T06:10:25+00:00",
+            "description": "Explore the key differences between AWS and Google Cloud. Understand which cloud platform suits your goals best and discover expert-led Google Cloud Courses at 3RI Technologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Which-is-Better-AWS-vs-Google-Cloud.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Which-is-Better-AWS-vs-Google-Cloud.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "AWS vs Google Cloud: A 2025 Comparison for Learners &amp; Professionals"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

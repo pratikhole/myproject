@@ -1,0 +1,329 @@
+{
+  "url": "https://www.3ritechnologies.com/a-b-testing-using-django-python/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "A/B Testing Using Django & Python | Boost Your Software Performance | 3RI Technologies",
+    "meta_description": "Master A/B testing using Django and Python to improve application performance and user experience. Enroll in our Software Testing Course at 3RI Technologies.",
+    "h1": [
+      "A/B Testing in Django with Python: A Step Toward Smarter Software"
+    ],
+    "content": "Skip to content Home > A/B Testing in Django with Python: A Step Toward Smarter Software A/B Testing in Django with Python: A Step Toward Smarter Software When I make any change on my web page, I always wonder if this change affects the user experience. Table of Contents PriyankaS3ri October 29, 2020 3:22 pm Want to build smarter, data-driven applications? Learn how A/B testing with Django and Python can help you optimize user experiences and drive performance improvements. This guide explores the practical implementation of Django A/B testing, enabling developers and testers to make informed decisions through real-time data experimentation. Whether you’re new to testing or want to upgrade your skills, our Software Testing Course at 3RI Technologies provides a hands-on approach to mastering these concepts. Strengthen your testing strategy and take a decisive step toward impactful development with tools that deliver real, measurable outcomes. Optimize Web Applications with Django A/B Testing Strategies When I make any change on my web page, I always wonder if this change affects the user experience. Here I will be sharing my thoughts on A/B Testing using Django, which I often use in these scenarios before finalizing any change. However, Online training on Python can help you understand the concepts mentioned below. What is Django? Django is a framework used for web development. It is written in Python. It is a free and open-source tool. It is a complete tool for a web developer. It can work with any framework used on the client side. It provides an output in almost all possible formats like HTML, JSON, XML, etc. It is a secured framework. It can store the session information in the database instead of keeping it in the cookie. It saves the password hash instead of directly holding the password. We can easily add hardware at any level of the architecture to manage higher traffic to the website. The code written in Django is reusable and easy to maintain. As the code is written in Python, it can be used on several platforms like Windows, Linux, Mac, etc. What is A/B Testing? Bucket testing or split testing are alternative names for A/B Testing. It is a method by which the developer verifies different versions of the web page or software application. During these experiments, other users will be using different versions of the web page and based on their response, corrective actions, if needed, are taken. During this analysis, direct questions related to change are asked for which data is collected. This data set is considered to study the impact. Why is A/B Testing used? When a user visits or page for different reasons, they are lost a couple of times trying to find the right button to click or find the demo button, and so on. This results in a loss of interest for the visitor, and conversion doesn’t happen. As a result, this or ROI is impacted. So with A/B testing, we can improve our ROI with a better customer experience. Due to the exception mismatch, or many other reasons, the bounce rate may be high for our website. This can be reduced using A/B testing, and our customers can spend more time on our website. A/B Testing will also prevent you from making significant modifications that can impact the ROI. In such a case, you can make smaller improvements to test its usability, and if it works fine, go ahead with other small modifications. The entire change is done in steps saving any trouble that could have been caused due to the significant modification done at once. It is a statistical method used to judge who the winner is and who the loser is. This is full-proof testing of your website to give you better performance and user experience. Want to Upskill to get ahead in your career? Check out the Python Training in Pune. Working principle of A/B testing? The users trying to access the page is divided into two user groups. In this testing, one set of users will be directed to the original web page. While the other set of users are referred to the updated version of the web page. The next step is to analyze the activities done by the different sets of users on their respective pages. The critical data thus obtained is used to understand how useful the web page is for the user. Steps that are taken for A/B testing using Django We divide our set of users into different buckets. We assign a bucket number starting from 1 to 150. Any random number can be chosen as per our needs. The higher the value, the more users test the performance of the page. This will give better results that can be used for further analysis. We need to define two constants, the first being the view through which the user is routed. And the other being specifies the primary view. The tuple for the first constant will contain the range of the users of one bucket. The main view in the second constant will be used only when we do not want anonymous users been included for A/B testing. AB_TEST = { tuple(xrange(1,75)): demo_app.views.view_a’, tuple(xrange(75,150)): demo_app.views.view_b’, } AB_TEST_PRIMARY = demo_app.views.view_a’ 5. Two decorators are then written to wrap each view. The first decorator will handle the view while the other will take the template. 6. The decorator would take the first constant that we defined as a dictionary view. It will also take the primary view, which is specified by the second constant. Along with this, it accepts a Boolean value that will determine if the anonymous users are included in A/B testing or not. The function of decorator for any user that has logged in v It will check what is the bucket number for the user v It will also check which view is assigned to the user After all these checks, it will return the corresponding view for the user. However, in the case of an anonymous user who is not included in the testing, a primary view is returned. In case if we want to include the anonymous user in the testing, we will need to, v Assign a unique cookie to the user, which does not depend on the session. v A fast and straightforward key-value pair is stored like Redis. After making these settings then we need to take the below actions v Get the unique cookie of the user. v Validate if the key is present in Redis for the value of the cookie. v If Redis returns a value, select the appropriate view. v If Redis does not return a value, then choose a random view from the view dictionary. v Now assign the corresponding user for the particular key along with the amount of the view. v Now return the appropriate view satisfying the above conditions. Using this strategy, the anonymous user will be included for A/B Testing, and the corresponding view will be allocated to it throughout the testing cycle. Now let us consider code for a decorator that we can use for A/B Testing. “”” Decorator to A/B test different views. Args: primary_view: Fallback view. anonymous_sticky: Determines whether A/B testing should be performed on anonymous users as well. view_dict: Dictionary for views that contains the buckets as keys. “”” def ab_views( primary_view=None, anonymous _sticky=False, view_dict={}): def decorator(f): @wraps(f) def _ab_views(request, *args, **kwargs): # This is the block of code where you may write anything that needs to be done # on the view # ctx = f(request, *args, **kwargs) view = None try: if user_is_logged_in(): view = _get_view(request, f, view_dict, primary_view) else: redis = initialize_redis_obj() view = _get_view_anonymous(request, redis, f, view_dict, primary_view, anonymous _sticky) except: view = primary_view view = str_to_func(view) return view(request, *args, **kwargs) def _get_view(request, f, view_dict, primary_view): bucket = get_user_bucket(request) view = get_view_for_bucket(bucket) return view def _get_view_anonymous(request, redis, f, view_dict, primary_view, anonymous _sticky): view = None if anonymous _sticky: cookie = get_cookie_from_request(request) if cookie: view = get_value_from_redis(cookie) else: view = random.choice(view_dict.values()) set_cookie_value_in_redis(cookie) else: view = primary_view return view return _ab_views return decorator Now let us break the entire code and understand them. 7. If we have a regular user, it will first check whether the user is logged in or not. If logged in, it will return the view by checking in the view dictionary in the _get_view function(). def _get_view(request, f, view_dict, primary_view): bucket = get_user_bucket(request) view = get_view_for_bucket(bucket) return view 8. If an anonymous user is logged in, it will check if the anonymous_sticky flag is true or false. If correct, it will check for the corresponding value for Redis’s view, depending on the cookie value that is returned. Otherwise, it will return a random view and set the cookie value in Redis. If the anonymous_sticky flag is False, then it will return the primary view. def _get_view_anonymous(request, redis, f, view_dict, primary_view, anonymous _sticky): view = None if anonymous _sticky: cookie = get_cookie_from_request(request) if cookie: view = get_value_from_redis(cookie) else: view = random.choice(view_dict.values()) set_cookie_value_in_redis(cookie) else: view = primary_view return view 9. We also need to understand the code for the function str_to_fun(func_string). This function is used to return a view object based on the path of view. def str_to_func (func_string): func = None func_string_splitted = func_string.split(‘.’) module_name = ‘.’.join(func_string_splitted[:-1]) function_name = func_string_splitted[-1] module = import_module(module_name) if module and function_name: func = getattr(module, function_name) return func This function will split the function using the “.” operator. and store it in the array function_string_splitted. It then segregates the module name and function name from it. It then gets the view object based on the function and module name and returns the view shown to the user. We can do A/B testing on templates as well. This can be achieved by replacing the view dictionary with a template dictionary and returning a template. Putting the views together Let us call view A as view_a and view B as view_b , which are to be tested. Now let us write a new view view_ab. We will wrap this new view_ab with one of the decorators we used in the above code and create a unique URL pointing to this new view. @ab_views( primary_view=AB_TEST_PRIMARY, anonymous_sticky=True, view_dict=AB_TEST, ) def view_ab(request): ctx = {} return ctx Now from the above-written code, we can understand that the primary view is the new primary view AB_TEST_PRIMARY. Also, here, this piece of code is tested for anonymous users as well. Here, in this case, the modern view is returning to the dictionary. Now the last thing we need to do is integrate the framework with analytics. This will help us in understanding which view performs better. You may use any tracking or analytics tool to evaluate the performance. However, we have used Mixedpanel to track the behaviour of the users. To do this experiment with A/B/C testing, the only change would be needed in the AB_TEST constant that has been used in the above code. Looking forward to becoming a Python Developer? Then get certified with 3RI Technologies. How to set up A/B testing in a Django web application? Set the Stage: Django Waffle A Django framework for AB testing is called Django-Experiments. Waffle is a feature-flipped Django module that strives to be clear-cut, compatible with both the Django/Jingo/Jinja2 stack that we use at Mozilla and Django templates right out of the box. Django Waffle is a Django feature flipper that needs to be installed first. We can test and manage which consumers see which iteration of a feature by specifying numerous iterations using Waffle. Additionally, it gives us switches and flags that we can use for A/B testing. Use pip to install Django Waffle: pip install waffle django Open your settings and add “waffle” to the list of installed apps (INSTALLED_APPS). Creating Flags With Waffle, you may provide a variety of justifications for why a request should have a flag raised. For instance, you can configure flags to be active for all authenticated users or superusers. You can also select which subset of “everyone else” will see the flag as active. Create an A/B test flag together. We’ll complete this on the Django admin website. Once a user sets a flag, it applies to all requests and page visits; flags are global. Flags can be used to hide specific views, templates, or even entire views. Waffle allows flags to be activated based on the query string, so you can be certain that a flag will be enabled or disabled for each request for testing. import Flag from waffle.models # Create a new flag. Banner.flag = objects.Create a flag with the text “new feature,” the percentage “50.0,” and the None setting on it.save() The marker ‘new_feature’ is active for 50% of users (percent=’50.0′). Not everyone is impacted because everyone has a value of None. Implementing the Feature Before configuring django-experiments, confirm that your redis server is up and running. Let’s do some A/B testing with a simple view to demonstrate. In this example, we will assess two versions of a homepage. waffle_flag is imported from waffle.decorators @waffle_flag define homepage(request) ‘new_feature’: render(‘new_homepage.html’, request) in return in function homepage(request), return render(request, ‘old_homepage.html’) Upon accessing the homepage, Django Waffle checks to see if the user has activated the new_feature flag. If such is the case, the user sees the new_homepage.html template. If not, the user sees the old_homepage.html template. Logging and Analyzing The first step to getting insight into the inner workings of your apps and infrastructure is to have logging that is dependable and efficient. Although Django is one of the most popular Python web application frameworks, it isn’t practical to manually manage and analyse large Django log files because this may be very time-consuming and difficult to scale with the rest of your organization’s operations. To gauge the performance of each iteration of your feature, you’ll need to set up logging. Here, Django’s integrated logging can be useful. import logging logging.getLogger(__name__) = logger ‘new_feature’, @waffle_flag logger.info(‘Viewed the new homepage’) is the function homepage(request). render(request) and return ‘new_homepage.html’ logger.info(‘Viewed the old homepage’) def homepage(request) render(‘old_homepage.html’, request) in return Every time a version of the homepage is seen, a message is recorded. Later on, you can examine these logs to determine the number of times each version was viewed. But you should take other metrics into account besides views. Measuring conversions—that is, the number of people who viewed the page and completed the intended action—is frequently more significant. This will largely depend on your application, but in order to track these actions, you’ll need to include the necessary logs. What should we take care of while doing A/B Testing? If someone says this payment gateway works for them, you assume that it can work for you. If you don’t include that in your testing, it may give wrong results. So it would help if you had all possible cases after thorough research. Even while undergoing the test rounds, you feel that it might give failed results. Don’t get discouraged. Continue with the test. The results might give you some other statistical insights which might be helpful in some different scenarios. It would help if you took care that the duration of testing is significantly long that traffic to both users’ set is acceptable. Also, if the test is run for a short period or an extended period, it may give incorrect results. So the time factor should depend upon the existing traffic and conversion rate. A failed test run should be used as a foundation for changes that need to be done for the next round of A/B testing. To understand Django better, I would suggest you enroll in Full Stack Course in Pune . 3RI Technologies is a well-known institute that offers a holistically designed online course on Python. It is ISO 9001:2015 certified company providing training in different technology in IT. They have a well-curated syllabus to cover all the concepts that are in demand in today’s industry. The trainers at their institutes have working experience of 8+ years as Python expert in IT companies. Also, their focus is on hands-on training . The institute’s programs make all candidates job-ready, making it easier for them to get absorbed immediately after the course completion. They provide placement assistance with their tie-ups with 300+ software companies across India. They have 1000+ students already placed through them and now working successfully in their new careers. They also provide help in preparing Resumes. They also conduct practice interview rounds. They also share the most commonly asked interview questions, which increase our chance of performing better in interviews in various companies. We can also attend their Personality development workshops to improve our soft skills as part of this Online Training on Python. At the end of the Python online training , you will also be awarded Python Online Course certification recognized by almost all industries. 3RI Technologies also provide Python Training in Noida Python Training Offered In Different Locations are Pune Mumbai Delhi Noida Bangalore Chennai Hyderabad Ahmedabad Kochi Kolkata Chandigarh Prev Previous What is Kubernetes? Your Essential Guide to Container Orchestration Next Full Stack Vs Mean Stack Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/A_B-Testing-Using-Django.jpg",
+        "alt": "A/B Testing Using Django",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Python-Certified-Professional.jpg",
+        "alt": "Python Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/1-5.png",
+        "alt": "a/b testing for views",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/2-3.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Becaome-a-Full-Stack-Certified-Professional.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Programming%2C+Python&cd%5Bpage_title%5D=A%2FB+Testing+in+Django+with+Python%3A+A+Step+Toward+Smarter+Software&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=29133&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fa-b-testing-using-django-python%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2020/10/29/",
+      "https://www.3ritechnologies.com/a-b-testing-using-django-python/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/online-python-certification-course/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/python-training-in-ahmedabad/",
+      "https://www.3ritechnologies.com/course/python-training-in-bangalore/",
+      "https://www.3ritechnologies.com/course/python-training-in-chandigarh/",
+      "https://www.3ritechnologies.com/course/python-training-in-chennai/",
+      "https://www.3ritechnologies.com/course/python-training-in-delhi/",
+      "https://www.3ritechnologies.com/course/python-training-in-hyderabad/",
+      "https://www.3ritechnologies.com/course/python-training-in-kochi/",
+      "https://www.3ritechnologies.com/course/python-training-in-kolkata/",
+      "https://www.3ritechnologies.com/course/python-training-in-mumbai/",
+      "https://www.3ritechnologies.com/course/python-training-in-noida/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-training/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-vs-mean-stack/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-kubernetes/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/a-b-testing-using-django-python/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "A/B Testing Using Django & Python | Boost Your Software Performance | 3RI Technologies",
+    "og_description": "Master A/B testing using Django and Python to improve application performance and user experience. Enroll in our Software Testing Course at 3RI Technologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/a-b-testing-using-django-python/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/a-b-testing-using-django-python/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "A/B Testing in Django with Python: A Step Toward Smarter Software",
+            "datePublished": "2020-10-29T09:52:13+00:00",
+            "dateModified": "2025-05-26T06:00:52+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/a-b-testing-using-django-python/"
+            },
+            "wordCount": 2979,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/a-b-testing-using-django-python/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/A_B-Testing-Using-Django.jpg",
+            "keywords": [
+              "Python Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Programming",
+              "Python"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/a-b-testing-using-django-python/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/a-b-testing-using-django-python/",
+            "url": "https://www.3ritechnologies.com/a-b-testing-using-django-python/",
+            "name": "A/B Testing Using Django & Python | Boost Your Software Performance | 3RI Technologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/a-b-testing-using-django-python/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/a-b-testing-using-django-python/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/A_B-Testing-Using-Django.jpg",
+            "datePublished": "2020-10-29T09:52:13+00:00",
+            "dateModified": "2025-05-26T06:00:52+00:00",
+            "description": "Master A/B testing using Django and Python to improve application performance and user experience. Enroll in our Software Testing Course at 3RI Technologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/a-b-testing-using-django-python/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/a-b-testing-using-django-python/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/a-b-testing-using-django-python/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/A_B-Testing-Using-Django.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/A_B-Testing-Using-Django.jpg",
+            "width": 1000,
+            "height": 667,
+            "caption": "A/B Testing Using Django"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/a-b-testing-using-django-python/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "A/B Testing in Django with Python: A Step Toward Smarter Software"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

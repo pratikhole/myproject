@@ -1,0 +1,296 @@
+{
+  "url": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Decision Tree in Data Science: Algorithm, Examples & Uses",
+    "meta_description": "Learn what a Decision Tree in Data Science is, how the algorithm works, and real-world examples. Understand decision tree models used in machine learning and analytics.",
+    "h1": [
+      "Decision Tree in Data science: Definition, Algorithm, Examples explained"
+    ],
+    "content": "Skip to content Home > Decision Tree in Data science: Definition, Algorithm, Examples explained Decision Tree in Data science: Definition, Algorithm, Examples explained A Decision Tree in Data Science is a machine learning algorithm used for classification and prediction. It works by splitting data into branches based on conditions such as age, income, or credit score. Decision trees help simplify complex decisions, making models easy to interpret and widely used in real-world analytics applications. Table of Contents PriyankaS3ri March 6, 2026 11:45 am What Is Decision Tree In data science and machine learning, decision trees are a straightforward yet effective technique for making condition-based judgements. It works like a flowchart,where a query is represented by each internal node, an answer by each branch, and a final result or prediction by each leaf node. Because decision trees are simple to comprehend and analyse, they are frequently employed for both classification and regression problems. In a Data Science course in Pune , decision tree concepts are often introduced early since they help learners clearly understand how models make decisions. Due to their visual structure, decision trees are especially helpful for beginners who are starting their journey in data science. Decision Tree in Data Science – Definition A decision tree in data science is a supervised learning model that analyses data and generates predictions or judgements using a structure resembling a tree. It produces results that are easy to understand by separating data into branches according to feature conditions. Difference Between Decision Tree and Decision Table Decision Tree Decision Table Represents decisions in a tree-like, flowchart structure. Represents decisions in a tabular row-and-column format. Shows the sequence of decisions step by step. Shows all possible conditions and actions at once. Complex decision paths are simple to understand and visualise. Easy to read when dealing with a limited number of conditions. Commonly used in machine learning and data science models. commonly used in system design and business rules. Best suited for hierarchical decision-making problems. Best suited for rule-based and policy-driven problems. Can become complex if the tree grows very large. Can become lengthy if the number of conditions increases. Key Terms and Decision Tree Symbols Root Node – A decision tree’s root node is where the complete dataset and the initial condition or feature used for splitting are shown. Decision Node – An internal node where the data is split based on a specific condition or rule. Leaf Node (Terminal Node) – The final node that provides the output or prediction and does not split further. Branch – A connection between nodes that shows the outcome of a decision or condition. Splitting – The procedure for breaking up a dataset into easier-to-handle groups according to feature values. Pruning – A method for cutting out extra branches to lessen overfitting and improve model performance. Entropy – A metric for data impurity or difficulty that determines how splits are made. Information Gain – The optimal feature for splitting is determined by the decrease in entropy that occurs after a dataset is divided. What and Why Are Decision Trees Used? Easy to understand and visualize Decision trees represent decisions in a flowchart-like structure, which makes them easy to read and interpret. Beginners learning decision tree ideas in data science and machine learning will find this very helpful. Useful for decision-making problems They are commonly used when problems require clear, rule-based decision making. While learning decision tree in AI , students understand how conditions lead to different outcomes in real-world scenarios. Works for both classification and prediction Decision trees can be applied to classify data or predict continuous values. They are a common option in many decision tree machine learning applications because of their versatility. Requires minimal data preparation With minimal effort, decision trees can handle both category and numerical data. Because of this, they are suitable for students who are just beginning to learn about decision trees in AI. Foundation for advanced models Many powerful algorithms are built using decision trees as base learners. Understanding them well strengthens overall knowledge in decision tree in data science and advanced machine learning techniques. Decision Tree Algorithm in Machine learning One supervised learning method for solving regression and classification issues is the decision tree algorithm.It creates a tree-like structure of decisions by breaking a dataset into subgroups with according to specific criteria.The most crucial attribute is used for each split, bringing the model one step closer to a perfect forecast. The decision tree algorithm’s straightforward logic makes it simple to understand and apply. In the decision tree algorithm in machine learning , the process starts with a root node that represents the entire dataset. Using metrics like information gain, entropy, or the Gini index, the algorithm determines which characteristic is ideal for splitting the data. This splitting continues recursively until a stopping condition is met, such as reaching a maximum depth or achieving pure leaf nodes. The decision tree algorithm in data mining is widely used to discover patterns and relationships hidden in large datasets.By simplifying complex data into decision rules, it helps companies in making data-driven decisions. Decision trees are therefore helpful in industries including marketing, finance, healthcare, and education. Overall, the decision tree algorithm is popular because it requires little data preparation and can handle both numerical and categorical data. It also provides clear decision paths, which makes model results easy to explain. Due to these advantages, decision trees are commonly taught as a core topic in machine learning and data science learning paths. Types of Decision Trees and Algorithms Category Type Explanation Decision Tree Types (Based on Output) Classification Decision Tree used in situations where the target variable is categorical, such numerous classes or yes/no. Regression Decision Tree used in situations where the target variable—like price or score—is continuous. Decision Tree Types (Based on Structure) Binary Decision Tree Each node splits the data into exactly two branches. Multiway Decision Tree A node can split into more than two branches based on feature values. Oblique Decision Tree Uses linear combinations of features to split data instead of a single feature. Decision Tree Types (Based on Data Handling) Categorical Decision Tree Works mainly with categorical input features. Continuous Decision Tree Handles continuous numerical data by selecting threshold values. Decision Tree Types (Based on Learning) Univariate Decision Tree Uses one feature at a time to split the data. Multivariate Decision Tree Uses multiple features simultaneously for splitting. Decision Tree Algorithms ID3 (Iterative Dichotomiser 3) Uses information gain to choose the best split; works with categorical data. C4.5 Algorithm Improved version of ID3 that supports continuous data and pruning. CART (Classification and Regression Trees) combines the Gini index and MSE to handle both classification and regression. CHAID Uses chi-square tests for splitting and supports multiway splits. M5 Algorithm Used mainly for regression problems with linear models at leaf nodes. SLIQ (Supervised Learning In Quest) Designed for large datasets with scalable tree construction. SPRT (Statistical Probability Ratio Tree) Uses statistical tests to guide splitting decisions. Classification Decision Tree This type of decision tree is used when the output variable is categorical. It helps in assigning data into specific classes based on conditions. Classification decision trees are widely used in decision tree classification problems. Regression Decision Tree When the output is a continuous value, a regression decision tree is employed. It forecasts numerical results like demand, price, or score.This type is commonly known as decision tree regression. Binary Decision Tree Each node in a binary decision tree divides the data into just two branches. This structure makes the tree simple and efficient, especially in decision tree machine learning models. Multiway Decision Tree A multiway decision tree allows a node to split into more than two branches. It is useful when a feature has multiple possible values and is often discussed in decision tree in data science concepts. Types of Decision Tree Algorithm ID3 (Iterative Dichotomiser 3) One of the first decision tree algorithms was ID3. The optimum property for data splitting is chosen using information gain. The majority of the data used by this method is categorised. C4.5 Algorithm ID3 has been enhanced with C4.5, which can handle continuous and categorical data. It incorporates pruning to lessen overfitting and splits using the gain ratio. It is widely used in decision tree machine learning. CART (Classification and Regression Trees) A well-liked decision tree technique for classification and regression issues is CART.It employs mean squared error for regression and the Gini index for classification. Sklearn decision tree models frequently use CART. CHAID (Chi-square Automatic Interaction Detection) CHAID uses the chi-square test to find the best splits in the data. It is mainly used for classification problems and works well with categorical variables. This algorithm is often applied in decision tree in data science analytics. How Does a Decision Tree Work? Using a set of decision rules, a decision tree divides a dataset into smaller, easier-to-manage components. It starts with tthe root node, which houses the complete dataset, and chooses the most crucial characteristic to divide the data according to standards like the Gini index or information gain. Each split creates decision nodes that represent conditions on input features. Based on the outcome of these conditions, the data follows different branches . This process continues recursively, with the algorithm choosing the best feature at each step, until it reaches leaf nodes that provide the final prediction or decision. A decision tree’s objective is to provide pure leaf nodes with data that is either minimally error-prone or belongs to a single class. By sending new data from the root to a leaf while following to the decision criteria, the tree can be used to generate predictions once it has been constructed. This clear, step-by-step flow is what makes decision trees easy to understand and widely used in machine learning and data science. Real Use Cases and Examples of Decision Trees Loan Approval in Banking: Decision trees are used by banks to determine whether to approve or refuse loans. Step-by-step assessments are conducted of variables like income, credit score, work status, and outstanding loans. Based on these conditions, the model classifies applicants as low or high risk. Medical Diagnosis in Healthcare: By examining test results, patient histories, and symptoms, decision trees assist physicians in diagnosing illnesses. For example, a tree may check fever, blood test values, and imaging results to predict whether a patient has diabetes or heart disease. This supports faster and more accurate diagnosis. Customer Churn Prediction: Telecom companies use decision trees to identify customers likely to leave their service. Variables like call duration, complaints, and billing issues are analyzed. The model helps companies take preventive actions to retain customers. Spam Email Detection: Decision trees are used by email systems to determine if an email is spam or not. Decision rules are used to assess features including link count, sender reputation, and keywords. This increases the accuracy of email filtering. Student Performance Prediction: Educational institutions apply decision trees to predict student performance based on attendance, test scores, and assignment completion.This helps in early detection of students who might want extra assistance. How Does the Decision Tree Algorithm Work? Recursively dividing the dataset into smaller groups according to the most significant features is how the decision tree method operates. It begins with the entire dataset at the root node and evaluates all features to determine which one best separates the data using metrics like information gain, entropy, or Gini index. Following the selection of the best feature, the dataset is divided into branches based on the feature’s values. Each branch leads to a decision node where the same process is repeated on the new subset of data. Until a stopping condition is satisfied, like reaching a maximum tree depth or when more splitting does not increase accuracy, the algorithm keeps dividing. Finally, the algorithm creates leaf nodes that represent the final outcome or prediction. When new data is introduced, it moves through the tree by following the decision rules from the root to a leaf. This structured approach makes the decision tree algorithm simple to interpret and effective for both classification and regression problems. How to Build a Decision Tree Collection and prepare the data: The dataset that will be used to train the decision tree must first be gathered.This involves identifying the target variable and input attributes.To begin with missing values, get rid of duplicates, and make sure the data is appropriate for learning, data cleaning is done. Select the best feature for the root node: To find out which input feature best separates the data, the algorithm examines each one.The importance of features is determined using metrics such as the Gini index, entropy, or information gain. The decision tree’s root node is the selected feature. Split the dataset: The dataset is separated into smaller subsets according to the values of the root feature after it has been selected.Each subset follows a different branch in the tree. This step helps reduce data complexity and improves prediction accuracy. Create decision nodes recursively: For each subset, the algorithm again selects the best feature and creates new decision nodes. This recursive splitting continues level by level. The goal is to separate data into more homogeneous groups at each step. Apply stopping criteria: The splitting process stops when certain conditions are met, such as reaching a maximum tree depth or when further splitting does not improve performance.This keeps the tree from being overly complicated. Early withdrawal also helps in overfitting control. Create leaf nodes: The decision tree’s final output is represented by leaf nodes. Every leaf node has a projected value for regression or a class label for classification.At this stage, the final splitting is done. Prune the decision tree: Unnecessary branches that don’t substantially improve accuracy are taken through the cutting. This simplifies the tree and improves its ability to generalize to new data. Pruning helps reduce overfitting. Make predictions using the tree: New data is passed through the tree starting from the root node. The data follows the decision rules at each node until it reaches a leaf node. The value at the leaf node is the final prediction. Decision Tree Uses Which Strategy for Tree Construction A decision tree develops its trees in a top-down, greedy approach. It starts from the root node and repeatedly selects the best feature that gives the most effective split at each level.This decision was made using factors like the Gini index, information gain, or gain ratio. The strategy is called greedy because the decision tree algorithm chooses the best split at the current step without considering future splits. This process continues recursively until stopping conditions are met, resulting in a complete decision tree structure. Advantages and Disadvantages of Decision Trees Advantages of Decision Trees Disadvantages of Decision Trees Their visual, flowchart-like layout makes them simple to comprehend and interpret. Predicted to overfit, particularly if the tree is too deep. Works with both numerical and categorical data and requires little preprocessing. Even minor data modifications can result in a totally different tree structure. Useful for both classification and regression problems. Can be less accurate compared to ensemble methods like random forest. Helps in clear decision-making and rule extraction. May struggle with complex datasets having many features. Suitable for beginners learning machine learning and data science. Bias can occur if some classes dominate the dataset. Learning Decision Tree in AI with 3RI Technologies Learning decision tree in AI 3RI Technologies helps students understand how machines make logical and structured decisions. A decision tree helps the recreation of human-like reasoning by breaking a big problem into smaller options based on conditions. Decision trees are often used in artificial intelligence for rule-based decision systems, classification, and prediction. They also act as a foundation for advanced AI models, helping learners build strong problem-solving and analytical skills. Decision tree in Data science FAQ Q1. What is an example of a decision tree? A common example of a decision tree is loan approval in banking. The model checks conditions like income, credit score, in addition to work status. It determines whether a candidate is qualified for a loan based on these determinations. Q2. What are the 4 elements of a decision tree? The root node, decision nodes, branches, and leaf nodes are a decision tree’s four primary components. The root node represents the full dataset, decision nodes apply conditions, branches show outcomes, and leaf nodes provide final decisions. Q3. What is a decision tree used for? A decision tree’s purpose is to use simple, rule-based logic to generate forecasts or choices. It improves data analysis, pattern recognition, and concise explanation of results. This makes decision trees useful in Machine learning, AI, and Data science course. Q4. Is decision tree used only for classification problem? No, a decision tree is not used only for classification problems.Regression tasks with continuous values as the output can also use it. Classification trees predict categories, while regression trees predict numerical values. What are decision tree learning’s crucial problems? Overfitting, sensitivity to minimise changes in data, and preference toward dominant classes are the primary problems of decision tree learning. Large trees can become complex and less generalizable. Pruning is frequently employed to solve these issues. Prev Previous What is Generative AI? Gen AI in 2026 Next 10 Companies Using Python in 2026 & 5 Real Use Cases Driving Career Opportunities Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/03/decision-tree-in-data-science-algorithm-example.jpg",
+        "alt": "Decision Tree in Data Science diagram explaining machine learning decision nodes and branches with conditions like age, income, and credit score.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=Decision+Tree+in+Data+science%3A+Definition%2C+Algorithm%2C+Examples+explained%C2%A0&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=117274&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fdecision-tree-machine-learning-explained%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2026/03/06/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/generative-ai-explained-features-use-cases-trends/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/top-10-machine-learning-algorithms-and-models/",
+      "https://www.3ritechnologies.com/top-companies-using-python-in-2026/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Decision Tree in Data Science: Algorithm, Examples & Uses",
+    "og_description": "Learn what a Decision Tree in Data Science is, how the algorithm works, and real-world examples. Understand decision tree models used in machine learning and analytics.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Decision Tree in Data science: Definition, Algorithm, Examples explained ",
+            "datePublished": "2026-03-06T06:15:01+00:00",
+            "dateModified": "2026-03-06T06:15:08+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/"
+            },
+            "wordCount": 2801,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/03/decision-tree-in-data-science-algorithm-example.jpg",
+            "keywords": [
+              "Data Science Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/",
+            "url": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/",
+            "name": "Decision Tree in Data Science: Algorithm, Examples & Uses",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/03/decision-tree-in-data-science-algorithm-example.jpg",
+            "datePublished": "2026-03-06T06:15:01+00:00",
+            "dateModified": "2026-03-06T06:15:08+00:00",
+            "description": "Learn what a Decision Tree in Data Science is, how the algorithm works, and real-world examples. Understand decision tree models used in machine learning and analytics.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2026/03/decision-tree-in-data-science-algorithm-example.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/03/decision-tree-in-data-science-algorithm-example.jpg",
+            "width": 1280,
+            "height": 720,
+            "caption": "A visual representation of a Decision Tree in Data Science showing how data is split into branches based on conditions to make predictions and support machine learning decision-making."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Decision Tree in Data science: Definition, Algorithm, Examples explained "
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

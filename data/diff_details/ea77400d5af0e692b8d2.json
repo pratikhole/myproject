@@ -1,0 +1,339 @@
+{
+  "url": "https://www.3ritechnologies.com/why-java-is-platform-independent/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Why Is Java Platform Independent? Explained Simply for Learners",
+    "meta_description": "Discover why Java is platform independent and how it works behind the scenes. Learn about platform independence in Java with practical insights. Enroll in expert-led certification courses in Java at 3RI Technologies.",
+    "h1": [
+      "Why Java Is Platform Independent: A Simplified Guide"
+    ],
+    "content": "Skip to content Home > Why Java Is Platform Independent: A Simplified Guide Why Java Is Platform Independent: A Simplified Guide In this post I will explain what java is, how it works, how java is platform independent programming language, and what makes it so popular. Table of Contents PriyankaS3ri May 12, 2022 11:15 am What is Java? Java is one of the most widely used programming languages worldwide, especially for developing web applications. It was created by James Gosling and released in 1995 on Google’s site, the original version being called Oak. . Due to its large community and simplicity of use, it has risen in popularity and used by nearly 17 million websites, including Gmail, Netflix, etc. Many aspiring developers wonder, why is Java platform independent? The answer lies in Java’s ability to run the same code across different systems using the Java Virtual Machine (JVM). This platform independence in Java allows developers to write once and run anywhere, boosting efficiency and portability. Curious about how is Java platform independent and what platform independent really means in programming? Explore these concepts in detail with our certification courses in Java at 3RI Technologies. Master core principles that help you build scalable, cross-platform applications with confidence and skill. In this post I will explain what java is, how it works, how java is platform independent programming language, and what makes it so popular. Whys Java? Java is a programming language used to build applications that run on any device with internet connection, like mobile phones, tablets or PCs. This makes it perfect for building web applications and apps for any service that requires a web-based interface. It is used by most large companies like Facebook, Google and many others. Java was created in 1995 by a programmer named James Gosling whilst working at Sun Microsystems as part of their development team. Understanding Platform Independence in Java and Its Impact on Development. Java isn’t simply another programming language. It works on any device with an internet connection, not just desktop computers. Java was created to solve the issue of different operating systems and the limitations involved in the largest software industry at that time: Microsoft Windows and Apple Macintosh. Java is a platform independent programming language it enables you to write programs for different operating systems without worrying about the specifics of each one. It allows you to write a program in one language and then compile it into another language platform-independent, so your program goes only where you want it to go, rather than being restricted by limits on specific platforms. What is a Platform, and What is a Platform-Independent Language? A platform comprises of hardware and software components that facilitate the operation of an application or program. Operating systems, libraries, and other dependencies needed for the program’s operation are included. Cross-platform, or platform-independent, languages do not require extensive recompilation or modification in order to run on a wide range of hardware architectures and operating systems. Platform-independent programs require minimal to no coding changes to run on multiple systems. Some examples of platform-independent languages are Java, Python, C#, and JavaScript. The libraries and frameworks included in these languages facilitate the development of cross-platform software. Because of this, programmers can now create apps that work on multiple operating systems, including Windows, Linux, macOS, and others. Platform-independent code is sometimes referred to as managed code. Two well-liked platform-independent languages are Java and ASP. How does it Provide Platform Independence? Java employs a virtual machine, which makes it platform-independent. Bytecodes are created by compiling Java code. These bytecodes are platform-neutral and unaffected by hardware architectures or operating systems. Platform independence is made possible via the JVM, which runs Java programs. For the operating system, the JVM translates or JIT compiles bytecodes into machine code. Java compiles code only once for all hardware architectures and operating systems using the JVM. Java is platform-independent since it uses a virtual machine. Java code is compiled to create bytecodes. These bytecodes are independent of operating systems and hardware architectures, making them platform-neutral. Java programs are executed by the JVM, which enables platform independence. The Java Virtual Machine (JVM), also known as JIT compilation, translates bytes into machine code for the operating system (OS). Java uses the JVM to compile code just once for all hardware architectures and operating systems. Java Virtual Machine and bytecode compilation allow for platform independence. Platform-neutral bytecodes from the compilation are run by the JVM. Development is made easier by this powerful combination, which enables Java programs to run on a variety of hardware architectures and operating systems. What is the advantage of platform independence? Platform independence makes software development and distribution more flexible, accessible, and economically viable by allowing the program to be created and implemented on a variety of hardware architectures and operating systems without requiring changes. Significant Points When programs are converted to Java, they become framework bytes. The bytes of code are executed by the Java Virtual Machine, which varies based on the platform. All platforms support Java. Any computer that want to run the byte code needs the Java Virtual System. Some features that enable Java be platform independent are as follows: Cross-Platform Programming Language Java is a cross-platform programming language. As a result, it has capabilities like source code cross-platform, OS-level cross-platform (Windows, Macintosh, etc.), and CPU architecture cross-platform. Multithreading Java programming language can handle numerous jobs at the same time. It can do multiple tasks at once because to its multithreading capabilities. As a Java programmer, you can also save time, memory, and resources using this functionality. Multiple threads share the same memory and resources at the same time. Object-oriented programming (OOP) The Java programming language’s object-oriented programming feature makes it a more dynamic coding language. Java programming language uses a OOP concepts, such as: Object Class Encapsulation Polymorphism Inheritance Security and Robustness Java is an extremely safe programming language. It secures the system as a whole by running its programs on the more secure JRE (Java Runtime Environment). This programming language is particularly dependable in terms of code execution and performance because it works faster and provides information. Many web and mobile apps may be produced in less time using this programming language. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Java Is Mostly Used In Web Applications Java became popular as a programming language for creating web-based apps and services. In 1995, Sun Microsystems developed Java to be used as a platform for distributed computing. Java was designed to be platform-independent and cross-platform, so that server side applications could run together on different operating systems (Windows, Mac OS, Linux etc.) and architectures (x86, ARM etc.). Java Is Easy Language To Learn Java is a relatively easy language to learn. There are many online resources and books that can help you get started. Java also has a large community, so there are plenty of people available to help if you get stuck. Frameworks and libraries make development easier by providing pre-written code that you can use in your project. Java has a large number of frameworks and libraries, which means you can find one that fits your needs. Some popular Java frameworks and libraries include: Spring – A framework for creating Java applications. Hibernate – A library for managing data in a Java application. Jetty – A web server and servlet container. JavaFX – A library for creating rich user interfaces. Maven – A build automation tool. Jakarta Commons – A collection of common Java components. There are plenty of other Java frameworks and libraries available, so you can find one that fits your specific needs. If you are interested to learn more about Java then visit Java Classes in Pune . Platform Independent and Platform Dependent The Java Virtual Machine allows us to make the byte code understandable on a variety of platforms. This is the reason byte code is said to be platform-independent. Conversely, because it varies depending on the platform, the Java Virtual Machine is known as platform-dependent. Because Java is not dependent on any one platform, it is platform-independent. Java is considered a framework language as a result. How does Java work? When you write your program in Java, you write source code which is then compiled into bytecode to run on the JVM (Java Virtual Machine). Java programming language is used to make software applications and computer programs. Many people learn to program computers using Java, but you can also write programs that will run on other computers, like the ones you probably use every day. Java programs are made up of small pieces of code, called “statements.” When you type a statement onto the computer’s keyboard, your computer executes the statement by carrying out the instructions it is given. A program is written in a language that humans can comprehend. It could be in the form of words, statements, or other non-machine understandable data. For the machine to understand the source code, it must be written in a machine-readable language, sometimes referred to as a machine-level language. As a result, you will need a compiler. The compiler converts human language into a machine-readable format. As a result, a compiler is a computer program that translates source code from one programming language to executable code for another. Java programming language is used to write apps, websites, and software components. It is a general-purpose language, which means it can be used for a wide variety of applications. Like other programming languages, the Java programming language is built up from individual “parts”, or instructions. The most fundamental part of the Java programming language is the “Hello World” program. This executable code comprises a set of machine instructions that can be executed directly by the CPU. Java’s intermediate form is known as Java Byte Code. Step-by-step instructions for running a Java program: The javac compiler builds JAVA programs when they are written. The Java compiler generates .class files or bytecode. The bytecode generated is not executable and must be run through an interpreter. The interpreter is the Java Virtual Machine, and it is the Java Virtual Machine that executes the Bytecode. Finally, the program runs in order to provide the output. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send How Does a Program Execute In JAVA? Any written Java code is executed by the Java compiler. The Java compiler produces bytecode or a.class file instead of machine native code, in contrast to the C compiler. The generated bytecode needs an interpreter to run on a computer because it cannot be executed by a machine. Because it is the JVM, this interpreter executes the Bytecode. After that, the software runs to provide the desired outcome. When C or C++ are used, the compiler produces an OS-dependent.exe file (these programs are not platform agnostic). When we try to launch this.exe file on a different OS, it won’t work because it depends on and is incompatible with that OS. Compiling a Code The usually comprehensible syntax of computer languages is followed each time we write code. A few words, phrases, variable names, method names, and so on are present. They’re all considered to be works of literature that people can read and comprehend. Consequently, source code is converted into machine-readable code—also referred to as machine-level language—by a computer running a compiler. In order to facilitate error-free execution and easy comprehension by the CPU, the compiler formats the machine-level code. We cannot run code generated on one machine in another when each OS has a different machine-level language unless all computers are running the same operating system. A lot of programmers and developers believe this is unacceptable. But Java makes things easier. What does “write once, run anywhere” mean? Java is designed to run only on the Java Virtual Machine (JVM).Java is a flexible programming language that may be used to create desktop application, mobile apps, and games. Java is statically typed, meaning that the type of data a variable will hold is specified at compile time. Java has a rich library of classes that can be used to develop robust and dynamic applications. Java is an object-oriented programming language with OOPS concepts like inheritance, encapsulation, and polymorphism. Java is also a concurrent language, supporting multithreaded programming. JAVAs API library that enables developers to build dynamic apps. Java is a platform-independent language, meaning that code written in Java can run on any device that has a JVM installed, which is a specific type of computer program designed to run programs written in the Java programming language. This means that you write the code once, and you can then run it on any platform that supports Java. This includes Windows, Mac, and Linux. This is possible because Java is a platform-independent language. What if you are using a computer that doesn’t have a JVM installed, you won’t be able to run programs written in the Java programming language. This is not true. You can use a Java compiler to compile Java programs into bytecode, which can then be run on any machine that has a Java virtual machine installed. To be Job-ready, check out our Job Oriented Courses today! Still, Confused? Want to get Career Guidance? Chat to an Expert: Chat Now Why is Java Not Completely Platform-independent? The key thing to remember about Java is that the Java Virtual Machine (JVM) varies depending on the operating system. You will not utilize the same Java virtual machine (JVM) as someone who uses Windows or another operating system, such Mac OS X. You can verify this by trying to download the JVM for your particular PC. When you do this, a list of JVMs for different operating systems will appear; you should select the JVM meant for the operating system you are now using. Considering that the JVM depends on platforms, we can infer that Java managed to achieve “Platform Independence.” Important Points to Remember Establishing the Java programming language as a portable, simple, and secure language was the main goal of its inception. In addition to this, it provides a number of fantastic characteristics that add to Java’s appeal, such as platform independence, portability, dynamic nature, architecture neutrality, multithreading, robustness, interpretation, and object-oriented programming. Java uses Java Byte Code to provide Platform Independence. When the code is compiled, a Java Byte Code or.class file is created. This byte code is interoperable with all systems and is independent of the platform it was produced on. Machine code is not interchangeable with byte code, which may be used on multiple platforms. The Java Virtual Machine, an interpreter, may also run the Byte Code. After JVM has identified the platform, the Byte Code can finally be read and executed as machine code. Is JAVA Still Relevant in Today’s World? Java is an object oriented programming language that is used in many domains. It is one of today’s most powerful and popular programming languages. This flexibility can be seen in how it can be used to create applications for different domains like web, mobile, desktop, enterprise, and embedded. Java has been around since 1995, and it has gone through several modifications. It started as a pure object-oriented programming language but soon became more popular as a multi-paradigm programming language because it includes features of object-oriented, imperative, and declarative styles of programming. The popularity of Java comes from its versatility. It can be used to create applications that range from desktops to mobile devices, web browsers to enterprise applications. The Java Virtual Machine (JVM) also allows Java code to run on multiple operating systems without modification which makes it a versatile language for developers. This flexibility can be seen in how easy it is for Java programmers to extend the functionality of classes with just a few lines of code. Java is open source which means that anyone can use it without paying any licensing fee or royalties. However, this also means that Java has to compete with other languages such as C++ or Python which are not open source languages. Despite these challenges, Java remains a popular language for many Java developers and businesses because of its versatility. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Conclusion In this blog article, I have covered why Java is platform independent and why it is a popular programming language for both web and desktop applications. Java is well-known for its cross-platform interoperability and object-oriented programming features. The language has become a preferred choice for web application development, as it is easy to learn and deploy, and is also relatively easy to create. Java has been a popular programming language for many years, and is still widely used in many industries. Java is the most widely used programming language in the world. Enroll in 3RI Technologies Java Classroom or Online Training to gain practical knowledge of Java programming from trainer experts. Prev Previous What is the Spring Framework in Java? A Complete Guide Next Multithreading in Java Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/05/WHY-JAVA-IS-PLATFORM-INDEPENDENT.jpg",
+        "alt": "java is platform independent",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Java-Certified-Professional.png",
+        "alt": "Become a Java Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://lh3.googleusercontent.com/TyO2Dp-4HTguYIG7Z2WbvHhREasKlG0XSOs6TsW0edykOojZRMn5e_jXkOcc4opL61cQplyJD0SaDJIHXxRjyd_bj7ybzVzvkhOU6k93uSoJNGi6UuU_wU_BXqCLtUu17fbBRkQRv0dIe6x3Bw",
+        "alt": "Figure: Java source code execution process | Download Scientific Diagram",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Java%2C+Programming%2C+Website+Development&cd%5Bpage_title%5D=Why+Java+Is+Platform+Independent%3A+A+Simplified+Guide&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=64710&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhy-java-is-platform-independent%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2022/05/12/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-training/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/multithreading-in-java/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/",
+      "https://www.3ritechnologies.com/why-java-is-platform-independent/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/why-java-is-platform-independent/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Why Is Java Platform Independent? Explained Simply for Learners",
+    "og_description": "Discover why Java is platform independent and how it works behind the scenes. Learn about platform independence in Java with practical insights. Enroll in expert-led certification courses in Java at 3RI Technologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/why-java-is-platform-independent/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/why-java-is-platform-independent/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Why Java Is Platform Independent: A Simplified Guide",
+            "datePublished": "2022-05-12T05:45:05+00:00",
+            "dateModified": "2025-05-16T04:59:05+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/why-java-is-platform-independent/"
+            },
+            "wordCount": 2824,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/why-java-is-platform-independent/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/05/WHY-JAVA-IS-PLATFORM-INDEPENDENT.jpg",
+            "keywords": [
+              "Java Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Java",
+              "Programming",
+              "Website Development"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/why-java-is-platform-independent/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/why-java-is-platform-independent/",
+            "url": "https://www.3ritechnologies.com/why-java-is-platform-independent/",
+            "name": "Why Is Java Platform Independent? Explained Simply for Learners",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/why-java-is-platform-independent/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/why-java-is-platform-independent/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/05/WHY-JAVA-IS-PLATFORM-INDEPENDENT.jpg",
+            "datePublished": "2022-05-12T05:45:05+00:00",
+            "dateModified": "2025-05-16T04:59:05+00:00",
+            "description": "Discover why Java is platform independent and how it works behind the scenes. Learn about platform independence in Java with practical insights. Enroll in expert-led certification courses in Java at 3RI Technologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/why-java-is-platform-independent/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/why-java-is-platform-independent/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/why-java-is-platform-independent/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2022/05/WHY-JAVA-IS-PLATFORM-INDEPENDENT.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/05/WHY-JAVA-IS-PLATFORM-INDEPENDENT.jpg",
+            "width": 1000,
+            "height": 667,
+            "caption": "java is platform independent"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/why-java-is-platform-independent/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Why Java Is Platform Independent: A Simplified Guide"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

@@ -1,0 +1,564 @@
+{
+  "url": "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "pl-sql-training-in-pune - 3RI Technologies Pvt Ltd",
+    "meta_description": "Join 3RI Technologies for Oracle PL/SQL Training in Pune and learn the concepts from the masters. Get trained by Industry Experts.",
+    "h1": [
+      "Pl SQL Course"
+    ],
+    "content": "Home > Courses > pl-sql-training-in-pune Pl SQL Course PL/ SQL course At 3RI Technologies, we offer specialized PL/SQL training in Pune, designed to enhance your skills in Oracle database management. Our PL/SQL courses cover a range of topics, from foundational concepts to advanced techniques, providing hands-on learning and expert guidance. Whether you’re new to programming or looking to expand your expertise, our courses equip you with the knowledge needed to excel. Join our PL SQL classes and take the next step toward a successful career in database development. ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.1 out of 5 ★ ★ ★ ★ ★ Rated 5 out of 5 Course Duration 6 weeks Live Project 2 Project Certification Guaranteed Training Format Live Online /Self-Paced/Classroom Enroll Now Download Brochure Chat Now Download Brochure & attend Free Online/Classroom Demo Session! Training Mode Online Classroom Select Branch Online Pimple Saudagar Deccan Nal Stop Send Achievement Trainings Conducted 2500 + Batches Completed 3000 + Companies Tie-ups 400 + Students Placed 3500 + Corporate Trainings 400 + Nothing stops you from learning We provide EMI facility for you Apply Now EMI Plan Registration Percent EMI With 0% Interest On Registration 10% 1st installment – 1st month of joining 70% 2nd installment – 2nd month 20% Key Features Course Duration : 6 Weeks Real-Time Projects : 2 Project Based Learning EMI Option Available Certification & Job Assistance 24 x 7 Support Syllabus Overview Batch Schedule FAQ's Reviews Enroll Now - Payment Oracle PL/SQL Syllabus The detailed syllabus is designed for freshers as well as working professionals Download Brochure Course Content 1. PL/SQL Structure Variables Data type 2. Creating the Executable Section Comments6 Literals Operator Output Statement Accepting input from user Variable scope Function Programs using SQL Statements in PL/SQL 3. Writing Control Structures If statement in PL/SQL If…else statement in PL/SQL Else if ladder statement in PL/SQL LOOPs in PL/SQL 4. Working with Composite Data Types PL/SQL Records Collections 5. Cursors PL/SQL Attributes Cursor Attributes Using cursor with for …loop 6. Exception Handling What is an Exception? How to handle Exception? Predefined Exception Get information about error with – SQLCODE and SQLERRM Non Predefined Error User Defined Exception 7. Stored Procedures Advantages of procedures Creating procedure Formal and actual parameters in procedure Using Anonymous block to invoke a procedure Default option for parameters Using Sub Procedures Calling procedure from another procedure Handled and Unhandled Exception when procedure called Delete procedure 8. Functions Advantages of Functions Calling function in SQL statement Restriction on calling function in SQL statement Deleting a Function Difference between function and procedure 9. Packages Advantages of packages Package Structure Executing the procedure and function Removing package 10. Triggers Creating a trigger Accessing a column using row trigger Using Statement trigger Modifying a Trigger Enabling and Disabling a trigger Dropping a trigger 11. Oracle Architecture- Complimentary Session Oracle PL/SQL Classes in Pune 3RI Technologies offers a comprehensive PL/SQL course in Pune, aimed at aspiring professionals seeking expertise in Oracle database management. Whether you’re a beginner or an experienced programmer, our PL SQL courses cater to all levels. Learn how to efficiently manage and manipulate data using PL/SQL by writing complex queries, creating procedures, and enhancing performance. Our Oracle PL SQL course is designed to give you in-depth knowledge of Oracle’s PL/SQL features, ensuring you are ready to handle real-world challenges. With our PL SQL classes, you will get hands-on training and practical experience to sharpen your skills and boost your career prospects. If you’re looking for a PL SQL class near you, we offer convenient and accessible options in Pune. Our expert instructors provide high-quality, interactive sessions that guarantee a solid foundation in database management. In addition to the core course, we offer specialized PL SQL courses tailored to different business needs and job roles. Enroll in our PL SQL training to unlock opportunities in the thriving IT industry and advance your career. With personalized coaching and job-oriented training, 3RI Technologies provides the best PL SQL courses in Pune. What is PL/SQL? PL / SQL is extension of structured query language i.e. SQL used in Oracle. It is not like SQL, PL / SQL allows the programmer to write code in the procedural format. The full form of PL / SQL is “procedural language extensions for SQL.” Combine the power of SQL data manipulation with the power of procedural language to create extremely powerful SQL queries. PL / SQL means telling the SQL compiler what to do and how to do it. Similar to other database languages, it offers programmers greater control using object-oriented loops, conditions, and concepts. Over time, more business logic and application logic has been migrated to Oracle Server, making PL / SQL programming an important part of the overall development process. The PL / SQL developer focuses on the usability, quality, and productivity of the code, the main advantages in developing Oracle applications. PL / SQL stands for Procedure Structure Query Language. The name itself contains a lot of information. In PL / SQL, we save the compiled procedures in executable format to perform a specific task as defined. This is best features of procedural language that can be called remotely anytime, anywhere. Therefore, not necessary to write code repeatedly. The architecture of PL/SQL The PL/SQL architecture mainly consists of the following three components: PL/SQL block PL/SQL Engine Database Server PL/SQL block: • This is the component with the actual PL / SQL code. • It consists of various sections for the logical division of the code (declarative section for reporting purposes, execution section for processing instructions, a section for handling exceptions for handling errors) • It also contains the SQL statements used to interact with the database server. • All PL / SQL units are treated as PL / SQL blocks and are the initial phase of the architecture, which acts as the main input. Here are the different types of PL / SQL units. Anonymous Block Function Library Procedure Package Body Package Specification Trigger Type Type Body PL/SQL Engine • The PL / SQL engine is the component where the actual processing of the code takes place. • The PL / SQL engine separates the PL / SQL units and the SQL part at the input (as shown in the following figure). • Separate PL / SQL units are managed by the PL / SQL engine itself. • The SQL part is sent to the database server where actual interaction with the database takes place. • Can be installed on the database server and the application serve PL/SQL engine is the component where actual processing of codes takes place. PL/SQL engine separates PL/SQL units, SQL part in input The separated PL/SQL units will handled by the PL/SQL engine itself. The SQL part will be sent to the database server where the actual interaction with the database takes place. It can be installed in both the database server and in the application server. Database Server: • It is the most important component of the PI / SQL unit that stores data. • The PL / SQL engine uses SQL from PL / SQL units to interact with the database server. • It consists of the SQL executor, which analyzes and executes the inserted SQL statements. Advantage of Using PL/SQL Better performance because SQL runs in the block instead of a single statement High Productivity Tight integration with SQL Full Portability Tight Security Support Object-Oriented Programming concepts. Job Oriented Courses STEP in Cloud Computing STEP in DevOps Mastering Data Science STEP in Python Full Stack STEP in JAVA Full Stack STEP in Software Testing STEP in MEAN Stack Angular STEP in MERN Stack ReactJS STEP in Salesforce STEP in PHP Python Programming Python Programming Web Development in Python Cloud Computing AWS – Amazon Web Services AWS Cloud Practitioner DevOps with AWS DevOps – Dockers And Kubernetes Salesforce Microsoft Azure Data Analytics Data Science Artificial Intelligence Hadoop 2.X BigData Analytics Apache Spark & Scala Hadoop Admin Business Intelligence Tableau – Data Visualization Informatica Development – datawarehosuing Qlikview QlikSense Software Testing Selenium with Java Selenium With Python Tosca Training API Testing JMeter Testing LoadRunner Testing ETL Testing QTP / UFT RPA - Robotic Process Automation RPA- Ui Path Automation Anywhere Java Technology Core Java Advanced Java Spring Hibernate Spring Framework Web Designing & Development UI Development Angular ReactJS MEAN Stack MERN Stack Web Development in Python Database Technology DBMS: Oracle SQL Oracle : PL/SQL Oracle : DBA I/II RAC with Oracle MS SQL SERVER Development MS SQL SERVER DBA MONGO DB Scripting Languages UNIX Shell Scripting Python Programming Perl scripting .Net Technology Diploma in .Net ASP.NET MVC C# Programming WPF Programming WCF Programming Internet Marketing Digital Marketing SEO Training Classes Mobile App Development Android App Development iOS App Development Soft Skills & Aptitude Soft Skills Training Aptitude Training Basic Programming Languages Fundamentals of Computer C Programming C++ Programming Data Structure Industrial Training Industrial Training Blockchain Blockchain Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Batch Schedule Schedule Your Batch at your convenient time. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 Data Science 27-Oct-26 Mon- Thu 12:30 PM Enroll Now 2 Python 24-Oct-26 Sat - Sun 02:00 PM Enroll Now 3 Data Analytics 24-Oct-26 Sat - Sun 12:15 PM Enroll Now 4 GenAI 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 5 Machine Learning & Deep Learning 28-Oct-26 Mon- Fri 04:00 PM Enroll Now 6 PowerBI 24-Oct-26 Sat - Sun 12:00 PM Enroll Now 7 MySQL 27-Oct-26 Tue - Fri 05:30 PM Enroll Now 8 MySQL 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 9 Soft Skills 25-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 26-Oct-26 Mon - Fri 04:00 PM Enroll Now FAQs Most frequent questions and answers 1. Will I get any certificate after this course? After the course completion, an exam will be conducted to judge your knowledge along with the live project work completion check and you will be awarded a certificate from 3RI Technologies. 2. Will I get any placement assistance after the course completion? Yes, we provide placement assistance to our students. We have a dedicated team for Placement and tie ups with 300+ MNC’s and SME companies. 3. Do you provide any demo classes for this course? Yes, we conduct demo classes every weekend. Please contact us for more details. I'm Interested in This Program Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Our Clients Students Reviews It is a very important place for students. 3RI Technologies offer many courses to students. They have experienced staff. They communicate with the English language. Trainers are always available for douts sessions. Geeta ***** A very good experience in 3RI …...I have completed the Oracle Training at 3RI Technologies The team is very good and active. Help me a lot in my course. The coach gave me good advice. 3RI helps you with everything. They are cooperative and friendly Ashutosh ***** One of the best Training institute in Pune to learn oracle. The staff is really supportive, frank and good in teaching. One to one personal teaching is done here, they have flexible timings according to your comfort. And most importantly, projects are given to be practiced under the supervision of teachers. They have the best trainers to teach you. I am grateful to everyone. Thanks to 3RI Technologies. Soham A. ***** Our Gallery A hands-on lab session focused on practicing Python, Machine Learning, and Data Science concepts. Data Science classes near me Join practical Data Science classes near you and gain experience through hands-on projects. Career-focused Data Science training with practical learning and placement assistance. Join practical Data Science classes near you and gain experience through hands-on projects. Looking for a Data Science course near me? Explore practical classroom training and career guidance. Students learning Data Science through instructor-led sessions and hands-on practice. Classroom learning and practical sessions at a Data Science institute in Pune.",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/urbonpro.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/cb18c4_aaa5cc27347d4d1f809e1194612f74f6mv2-1-150x150.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/images-3.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/2249165.png",
+        "alt": "EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/05/eduvanz.png",
+        "alt": "Eduvanz EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/01/22.png",
+        "alt": "Enquire about the 3RI Technologies training program",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon41.jpg",
+        "alt": "ZS",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon40.png",
+        "alt": "Zensar",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon39.png",
+        "alt": "bmc",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon38.png",
+        "alt": "thoughtworks",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon36-768x261.png",
+        "alt": "tata consultancy",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon34.gif",
+        "alt": "synerzip",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon33-e1604575181323.png",
+        "alt": "survik",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon32.png",
+        "alt": "siemens",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon31.jpg",
+        "alt": "R systems",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon30.png",
+        "alt": "pubmatic",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon29.png",
+        "alt": "citi",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon28.jpg",
+        "alt": "persistance",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon26.gif",
+        "alt": "Mphasis",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon25.png",
+        "alt": "Market Reports Center",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon24-e1604575512879.png",
+        "alt": "market and market",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon23-e1604575367263.png",
+        "alt": "accenture",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon22.png",
+        "alt": "sungard",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon21.jpg",
+        "alt": "kpit",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon20.png",
+        "alt": "comp-icon20",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon18.jpg",
+        "alt": "comp-icon18",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon17.png",
+        "alt": "comp-icon17",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon14.png",
+        "alt": "comp-icon14",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon13-e1654928115125.jpg",
+        "alt": "comp-icon13",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon12.png",
+        "alt": "comp-icon12",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon11.png",
+        "alt": "comp-icon11",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon10-e1654925790405.png",
+        "alt": "comp-icon10",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon9.png",
+        "alt": "comp-icon9",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon8.jpg",
+        "alt": "comp-icon8",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon7.jpg",
+        "alt": "comp-icon7",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon6.png",
+        "alt": "comp-icon6",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon5.png",
+        "alt": "comp-icon5",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon4.png",
+        "alt": "comp-icon4",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon3.png",
+        "alt": "comp-icon3",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon2.png",
+        "alt": "comp-icon2",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon1-1.png",
+        "alt": "comp-icon1",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/3d-lpm-logo.jpg",
+        "alt": "3d lpm logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/veritas-logo.jpg",
+        "alt": "veritas logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/synecron-logo.jpg",
+        "alt": "synecron logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/calsoft-logo.jpg",
+        "alt": "calsoft logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/3-2.webp",
+        "alt": "SQL Offline Exam",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/2-3.webp",
+        "alt": "SQL Classroom Exam",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-3.webp",
+        "alt": "SQL Exam at 3RI Technologies",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/2-4.webp",
+        "alt": "SQL Classroom Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-4.webp",
+        "alt": "SQL classes in Pune",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/2-5.webp",
+        "alt": "DBMS SQL",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-5.webp",
+        "alt": "DBMS SQL Classes",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-6.webp",
+        "alt": "SQL Online Exam",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=pl-sql-training-in-pune&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=937&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcourse%2Fpl-sql-training-in-pune%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/",
+      "https://www.3ritechnologies.com/course/Mongo-DB-NoSQLDatabase/",
+      "https://www.3ritechnologies.com/course/Perl-Scripting/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/android-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+      "https://www.3ritechnologies.com/course/aptitude/",
+      "https://www.3ritechnologies.com/course/asp-net-mvc-training-in-pune/",
+      "https://www.3ritechnologies.com/course/asp-net-wpf-training-course/",
+      "https://www.3ritechnologies.com/course/automation-anywhere-training-in-pune/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
+      "https://www.3ritechnologies.com/course/big-data-hadoop-training-in-pune/",
+      "https://www.3ritechnologies.com/course/blockchain-training-in-pune/",
+      "https://www.3ritechnologies.com/course/c-programming-classes-pune/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/cpp-programming-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/csharp-training-institute-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/data-structure-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/digital-marketing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-informatica-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/fundamentals-of-computer/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/hadoop-admin-training-in-pune/",
+      "https://www.3ritechnologies.com/course/industrial-training-company-for-bca-mca-students-pune/",
+      "https://www.3ritechnologies.com/course/ios-app-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-j2ee-training-in-pune/",
+      "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/ms-sql-server-dba-training/",
+      "https://www.3ritechnologies.com/course/oracle-dba-certification-course-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-rac-training-in-pune/",
+      "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/qliksense-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qlikview-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qtp-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/reactjs-training-in-pune/",
+      "https://www.3ritechnologies.com/course/rpa-training-in-pune/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/seo-training-in-pune/",
+      "https://www.3ritechnologies.com/course/softskill-training-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/spring-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/sqlserver-dba-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tableau-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/unix-shell-scripting-training/",
+      "https://www.3ritechnologies.com/course/wcf-training-course/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-dot-net-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
+      "https://www.3ritechnologies.com/course/webservices-with-soapui-testing-training/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/payment/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-3.webp",
+      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-4.webp",
+      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-5.webp",
+      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-6.webp",
+      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/2-3.webp",
+      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/2-4.webp",
+      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/2-5.webp",
+      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/3-2.webp"
+    ],
+    "canonical": "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "pl-sql-training-in-pune - 3RI Technologies Pvt Ltd",
+    "og_description": "Join 3RI Technologies for Oracle PL/SQL Training in Pune and learn the concepts from the masters. Get trained by Industry Experts.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+            "url": "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+            "name": "pl-sql-training-in-pune - 3RI Technologies Pvt Ltd",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
+            "datePublished": "2019-07-12T05:41:09+00:00",
+            "dateModified": "2025-06-09T05:22:42+00:00",
+            "description": "Join 3RI Technologies for Oracle PL/SQL Training in Pune and learn the concepts from the masters. Get trained by Industry Experts.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "width": 192,
+            "height": 192
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Courses",
+                "item": "https://www.3ritechnologies.com/course/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "pl-sql-training-in-pune"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

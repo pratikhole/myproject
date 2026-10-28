@@ -1,0 +1,324 @@
+{
+  "url": "https://www.3ritechnologies.com/data-hiding-in-python/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "OOPs Concepts in Python Explained: Polymorphism, Encapsulation & Data Hiding for Beginners",
+    "meta_description": "Learn essential OOPs concepts in Python like polymorphism, encapsulation, and data hiding. Ideal for beginners joining an online class for Python at 3RI Technologies.",
+    "h1": [
+      "Master OOPs Concepts in Python: Polymorphism, Encapsulation, and Data HidingWhat is Data Hiding in Python?"
+    ],
+    "content": "Skip to content Home > Master OOPs Concepts in Python: Polymorphism, Encapsulation, and Data HidingWhat is Data Hiding in Python? Master OOPs Concepts in Python: Polymorphism, Encapsulation, and Data HidingWhat is Data Hiding in Python? Data hiding, also called \"data encapsulation,\" keeps the user from seeing how certain parts of a service work. Data hiding groups class members together, making it harder to get direct access to the class members. Data hiding is essential to making an app more safe and reliable. In this post, we'll define what is data hiding in Python and discuss its benefits and drawbacks. Table of Contents PriyankaS3ri July 1, 2023 2:46 pm Data hiding, also called “data encapsulation,” keeps the user from seeing how certain parts of a service work. Data hiding groups class members together, making it harder to get direct access to the class members. Data hiding is essential to making an app more safe and reliable. In this post, we’ll define what is data hiding in Python and discuss its benefits and drawbacks. Learning OOPs concepts in Python is essential for writing efficient and maintainable code. Core ideas such as polymorphism, encapsulation, and data hiding in Python allow developers to organize code logically, making it more secure and adaptable. For beginners, understanding what is data hiding can clarify how Python protects internal object states. These concepts are not just theory—they’re the building blocks of real-world Python projects. Whether you’re new to coding or looking to strengthen your skills, a structured online class for Python can help you learn effectively. What Is Data Hiding in Python and Why Does It Matter? It is a way to hide information or data in a computer code that is used in object-oriented programming (OOP). Inside a class, the internal features of an object, like its data members, are hidden. It ensures that class members only have limited access to the data while keeping the object’s identity.Data and functions are combined into a single entity through data hiding. This hides data within a class, making it hard for people outside the class to access it directly. Data hiding lets computer programmers make classes with their own data sets and functions by keeping other classes from getting into them when they don’t need to. As an OOP software development technique, it ensures that only one person can view the data and that it can’t be changed on purpose or by accident. These few connections between software parts make the system less complicated and make the program more reliable. Data hiding is also called data packaging or information hiding. Data wrapping keeps the application’s users from seeing how it works. Encapsulation is also called data hiding because it has the same goal as data hiding. When a class member’s data is designated as “private,” only other class members can access it. It is not accessible outside of the class. Want to Upskill to get ahead in your career? Check out the Python Training in Pune. The ability to hide data, as well as the ability to use private data. The feature stops people from getting free entry and only lets people with limited access in. Having a tool to hide data has many benefits. One of them is that it makes the data less vulnerable and protects it from possible security breaches. In Python, data hiding keeps the users from seeing the features, data, classes, programs, etc. Users don’t get access for free. This trait of hiding data makes the system more secure and makes it more reliable. Access is restricted to a small group or specific individuals. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send During the data-hiding parts of the program, users can’t see how the program is used. This is done by making the members of the class secret. A particular function is also used for the same purpose: a double underscore (__) as a beginning. The data hiding instrument improves security and makes it simpler to avoid security. Salary information is an example of something that could be hidden. The remainder of the workforce is not allowed access to this information, which is kept secure. The other workers can’t just push a button to determine their pay. And only a small number of people in the system can see this information. Learn more at Python Web Development Course What Exactly Is Data Hiding in Python? Python is quickly gaining popularity as a computer language because it is versatile and contains libraries and tools that make writing programs simple. The Python manual defines Data Hiding as isolating the client from a portion of the program’s execution. A part of the module’s contents are kept out of the user’s sight and concealed.Users can figure out how to utilise the program’s components since they are sufficiently open, but they require assistance understanding how the program operates. Thus, data concealment provides security and prevents individuals from becoming reliant on one another. In Python, data hiding allows you to prevent specific users from seeing particular data within a program. Python is becoming a popular computer language because it can be used in any field and has tools and libraries that make it easy to implement programs. Data Hiding is described in the Python documentation as separating the client from a part of the program’s execution. Some of the module’s objects are hidden and inaccessible to the user. The program’s modules are open enough that users can figure out how to use them, but they need help finding out how the program works.Therefore, data hiding provides security and prevents people from becoming dependent on one another. Data hiding in Python is a way to keep certain users from seeing specific data in a program. You can hide data in Python by putting a double underscore before the property name. This makes the attribute secret or inaccessible to users and hides it. Python doesn’t have any real secrets. Still, the names of secret methods and attributes are messed up and fixed on the fly, making them inaccessible by their given names. Encapsulation and hiding data both work at the same time in Python. The private methods are hidden by data packaging, while only the data components are hidden by data hiding. With data hiding, the facts are also more reliable. With the private access specifier, it is possible to hide data. Access specifiers come in three types: private, public, and protected. Private The class’s members are designated as private and only accessible to other class members. It is inaccessible from outside the class, including any minor classes. To create private class-level data, To establish private data members within a class, we prefix the data member with two underscores (__). Public Members of a class that are defined as public are readily accessible from all parts of the program except within the program itself. All class members and member functions are public by default. Protected Protected members of a class are those that are not available to outsiders; instead, they can only be accessed by inherited classes or child classes. We use a single underscore (_) preceding the data member to indicate protected data within the class. Looking forward to becoming a Python Developer? Then get certified with Python Online Training Merits of Data Hiding The objects in the class are not tied to unnecessary information. It increases protection from hackers who are unable to access sensitive data. It shields programmers from unintentionally linking to the wrong data. If the programmer incorporates this data into the code, it returns an error and highlights the necessary corrections. It isolates objects as OOP’s fundamental idea. Volatile data can be protected from harm by being kept secret from the public. A user from outside the organization is unable to access the data. Only selected users have access to the organization’s system. This makes operation possible. The class objects may be isolated from the irrelevant data stream. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Demerits of Data Hiding It may sometimes necessitate additional coding from the programmer. The connection between visible and invisible data speeds up the operation of objects, but data concealing prevents this connection. When data is hidden, programmers may need to create lengthy routines to produce effects in the hidden data. Occasionally, programmers must compose lengthy codes, which may be concealed from the clientele. 3RI Technologies Provides Full Stack Online Course as well as Full Stack Course in Pune The Feature of Data Hiding The capability to utilise and conceal private information. This feature prevents free admission and only permits access to those who are authorised. The benefits of having a data-hiding tool are numerous. One advantage is that it lessens the data’s susceptibility to potential security breaches. Data concealing in Python prevents users from seeing programs, classes, data, features, etc. Users are not granted free access. The system is more dependable and secure because of this data masking feature. Access is restricted to specific individuals or small groups. Users are unable to view how the program is used while it is data hiding. The class’s members are kept a secret in order to do this. Another function that is employed for the same reason is a double underscore (__) as a beginning. In addition to improving security, the data hiding mechanism also makes it simpler to evade security. A possible example of anything that might be concealed is salary information. The rest of the personnel cannot see or access this information; thus, it is kept secure. The other employees cannot just press a button to see their compensation. Additionally, the data is visible to a limited group of users within the system. Final Words So, data hiding in Python is helpful when it comes to keeping some information in an application private and safe. It gives programmers more work and links hidden data in the code. However, you cannot avoid the advantages it provides. To learn from experts, enrol in 3RI Technologies ‘ Python Programming course right now!! Prev Previous Everything About the Microsoft Azure Fundamentals Certification (AZ-900) Next A Comprehensive Guide to Python Collections and Garbage Collection Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/What-is-Data-Hiding-in-Python-1.jpg",
+        "alt": "What is Data Hiding in Python",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Python-Certified-Professional.jpg",
+        "alt": "Python Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Python&cd%5Bpage_title%5D=Master+OOPs+Concepts+in+Python%3A+Polymorphism%2C+Encapsulation%2C+and+Data+HidingWhat+is+Data+Hiding+in+Python%3F&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=80976&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fdata-hiding-in-python%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2023/07/01/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/full-stack-python-web-developer-online-training/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/online-python-certification-course/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-hiding-in-python/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/everything-about-microsoft-azure-fundamentals-certification-az-900-exam/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/garbage-collection-in-python/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/data-hiding-in-python/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "OOPs Concepts in Python Explained: Polymorphism, Encapsulation & Data Hiding for Beginners",
+    "og_description": "Learn essential OOPs concepts in Python like polymorphism, encapsulation, and data hiding. Ideal for beginners joining an online class for Python at 3RI Technologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/data-hiding-in-python/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/data-hiding-in-python/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Master OOPs Concepts in Python: Polymorphism, Encapsulation, and Data HidingWhat is Data Hiding in Python?",
+            "datePublished": "2023-07-01T09:16:16+00:00",
+            "dateModified": "2025-05-12T07:01:47+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/data-hiding-in-python/"
+            },
+            "wordCount": 1593,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/data-hiding-in-python/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/What-is-Data-Hiding-in-Python-1.jpg",
+            "keywords": [
+              "Python Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Python"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/data-hiding-in-python/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/data-hiding-in-python/",
+            "url": "https://www.3ritechnologies.com/data-hiding-in-python/",
+            "name": "OOPs Concepts in Python Explained: Polymorphism, Encapsulation & Data Hiding for Beginners",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/data-hiding-in-python/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/data-hiding-in-python/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/What-is-Data-Hiding-in-Python-1.jpg",
+            "datePublished": "2023-07-01T09:16:16+00:00",
+            "dateModified": "2025-05-12T07:01:47+00:00",
+            "description": "Learn essential OOPs concepts in Python like polymorphism, encapsulation, and data hiding. Ideal for beginners joining an online class for Python at 3RI Technologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/data-hiding-in-python/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/data-hiding-in-python/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/data-hiding-in-python/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/What-is-Data-Hiding-in-Python-1.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/What-is-Data-Hiding-in-Python-1.jpg",
+            "width": 1080,
+            "height": 667,
+            "caption": "What is Data Hiding in Python"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/data-hiding-in-python/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Master OOPs Concepts in Python: Polymorphism, Encapsulation, and Data HidingWhat is Data Hiding in Python?"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

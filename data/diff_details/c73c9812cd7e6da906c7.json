@@ -1,0 +1,365 @@
+{
+  "url": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Difference Between JDK, JRE, and JVM Explained | Java Classes in Pune | 3RI Technologies",
+    "meta_description": "Learn the key differences between JDK, JRE, and JVM in Java. Understand jdk vs jre, java jdk vs jre, and the roles of each. Enroll in our Java Classes in Pune to master Java development.",
+    "h1": [
+      "What Is the Difference Between JDK, JRE, and JVM?"
+    ],
+    "content": "Skip to content Home > What Is the Difference Between JDK, JRE, and JVM? What Is the Difference Between JDK, JRE, and JVM? Java is easy to learn and faster to debug, and along with all these features, the programming language has fewer implementation dependencies. Whether you are a professional Java developer or willing to step into the programming or coding world, this guide will provide you with all the necessary ingredients that will make you a hardcore Java fan. Table of Contents madan October 26, 2023 3:23 pm Java, a well-known name in the world of Programming language, that has immensely made a soft corner in the hearts of millions of software developers. This renowned programming language is owned by Oracle and who made this language public in year 1995 . Who created this masterpiece? A Canadian computer scientist named James Gosling is the creator of the Java programming language. Another question that generally haunts beginner software developers is: Is Java tough to learn? The answer in one word is no! Java is easy to learn and faster to debug, and along with all these features, the programming language has fewer implementation dependencies. Grasping the difference between JDK, JRE, and JVM is crucial for every aspiring Java developer. While these components are interconnected, each serves a distinct purpose in Java development and execution. Knowing the difference between JDK and JRE, and how the JVM fits in, clarifies the Java programming environment. Whether you’re exploring jdk jre jvm in java or comparing java jre vs jdk, this guide breaks down complex terms into simple concepts. Join our Java Classes in Pune at 3RI Technologies to deepen your understanding and accelerate your Java career. Whether you are a professional Java developer or willing to step into the programming or coding world, this guide will provide you with all the necessary ingredients that will make you a hardcore Java fan. So, without delaying much, let’s deep dive and understand some basic terminologies and important differences that you would encounter while learning Java or going to crack the Java Developer Interview. Join our Java classes in Pune and take the first step towards becoming a skilled Java developer. Understanding JDK vs JRE vs JVM: Key Differences and Functions JDK: The full form of JDK is Java Development Kit. As the name suggests, KIT, or JDK, is the prime component that has all the necessary ingredients and all the important tools required to compile and run or execute the Java program. In simple words, the Java Development Kit (JDK) offers a space that provides a facility for software developers to develop and run Java programs. Now, is JDK a superset of JRE? What does this mean? Let’s step in and explore the meaning: As defined above, JDK is a KIT that holds JRE (Java Runtime Environment) within itself along with other software development tools such as Compiler, Interpreter, and Document Generator. Role of JDK: JDK is a superset that includes JRE and JVM. It has all the important elements or tools that are needed to compile, debug, and execute Java code through the Java platform. Components of JDK: Five key components of the JDK are enlisted below: Java Compiler: Java Development Kit (JDK) has one of the most important elements, i.e., the Java Compiler. t converts Java source code into bytecode; later, the converted bytecode is run into the JVM (Java Virtual Machine) for further processing. Java Virtual Machine (JVM): JVM is an integral part of Compiler that interprets and executes Java bytecode and provides a runtime space for Java apps. Java Runtime Environment (JRE): Java Runtime Environment is a subset of JDK that has a JVM (Java Virtual Machine) required to execute Java applications. Java API (Application Programming Interface): JDK contains in-built libraries and classes that help develop Java APIs, and these APIs mainly provide functionalities to execute various tasks, such as file handling, networking, etc., so that software developers can easily and quickly build Java applications. Development Tools: The JDK has numerous development tools that help Java developers in software development and debugging, like Javadoc for HTML documentation and JDB, which acts as a debugger for Java apps. JRE: The full form of JVM is Java Runtime Environment. As the name suggests, Environment, JRE came into existence to provide an environment to execute Java programs. Is JRE platform-dependent? What are its compositions The response to this specific question is yes! JRE, aka Java Runtime Environment, is platform-dependent, just like JDK. Now, coming to the part of its compositions, JRE has JVM (Java Virtual Machine) and other related important classes. Look no further than Java training in Pune . Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Role of JRE: In simple words, JRE is utilized to execute Java code by typing some Java commands. If a SOFTWARE Developer decides to run a Java program then he or she must install JRE (Java Runtime Environment). Components of the JRE: JRE has several components that are essential to run Java Applications. Here are some significant components of JRE, shared below: Java Virtual Machine (JVM): The main task of JVM is to interpret the Java bytecode and convert the code into machine code. Class Loader: The main work of Class loaders is to load Java classes into the JVM. Class loaders load the files from the file system and make the files ready to run. Execution Engine: The execution engine runs the Java bytecode. It has an interpreter and Just-in-Time compiler that converts the bytecode into the machine code. Java Native Interface (JNI): JNI is a programming framework that allows Java code to be called by native application code written in C or C++. Through the Java Native Interface (JNI), it becomes easier to interface Java code with native platform libraries. Java API (Application Programming Interface): The Java API has a wide variety of pre-built classes, offering loads of functionalities. By using all these classes and interfaces, the software developers are able to effectively create Java apps leveraging current implementations. Java Class Library: The Java Class Library is a comprehensive collection of pre-compiled classes and methods organized into packages. These packages provide standard functionality for various tasks, including I/O operations, networking, and more. Java Tools and Utilities: JRE offers many Java tools and utilities, like Java Compiler, Java Debugger, and many more. All these listed tools support the software development, compilation, and debugging of Java apps. Java Native Interface (JNI): JNI allows Java code to interact with native code and provides a method to call native methods from Java and vice versa. JVM: JVM stands for Java Virtual Machine. Why is it required? Why is it important? Explaining by saying that JVM is inbuilt or can be said to be already present in both the JDK and JRE. Whenever any software developer writes Java code and moves to run Java programs, then the developer uses JDK or JRE; afterwards, JVM is the prime entity to run the written code line-to-line, also termed by many developers as an interpreter. Master the skills of core java from experts, check Core Java Classes in Pune Role of the JVM in Java JVM has already been discussed in the blog post, but what is the prime role of JVM in Java? So, coming to this point, JVM is nothing but the soul of Java programming. What’s the reason behind calling it SOUL of JAVA? JVM is primarily responsible for translating or converting bytes into machine codes. Being a platform, Java Virtual Machine (JVM) facilitates software developers with multiple ultimate Java functions or methods like memory management and garbage storage features. The other important property of JVM is that it acts exceptionally well and runs the code of other programming languages after getting converted to Java bytecode. Another question that arises while learning about JVM is virtual. By virtual, it simply means that JVM does not depend on any specific operating system or hardware to run Java programs. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send JVM Component Here are five essential components of the JVM: Class Loader: The prime role of Class Loader is to load the Java classes into Memory. It also loads the class files of the required classes into the JVM. Execution Engine: The execution engine mainly interprets the Java byte code line by line and runs the native machine code. Just-in-Time (JIT) compilation can also be used to convert bytecode into native machine code for better performance. Garbage Collector (GC): It is a memory management component that automatically de-allocates memory occupied by objects of no use. Through garbage collectors, memory gets managed easily and is also protected from memory leakage. Runtime Data Areas : Java Virtual Machines (JVM)) are further classified into different runtime data areas, enlisted below: Method Area: Keeps metadata, static fields, etc. Heap: It is an area where objects and their instance variables are kept. PC Register: PC register stores the address of JVM instruction Native Method Stack: For executing native methods. JIT Compiler (Just-In-Time Compiler): The JIT compiler translates bytecode into machine-specific code. JIT further determines the run source code and compiles it to native code to speed up the execution speed of the Java application. Java SE and Java EE In the Java programming language, there are two editions: Java SE (standard edition) and Java EE (enterprise edition). Both of the discussed editions have their own roles, and they are designed for different kinds of applications. Explore both editions to grab more information: What is Java SE (Standard Edition)? Java SE i.e. Java Standard Edition, provides the main functionality of the Java language. It mainly acts as the base that helps to build all other Java editions, and that too exceptionally. Now, moving to its application part, Java SE can be beneficial or the best fit for creating desktop or server apps. The technologies that are broadly used in Java SE are Core libraries, JavaFX, and JDBC. Along with these features, Java SE also provides the facility of “Write Once, Run Anywhere”, by using the JVM (Java Virtual Machine). Gain in depth knowledge of Java Frameworks at Java Frameworks Training in Pune Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes What is Java EE (Enterprise Edition)? Java EE, aka Java Enterprise Edition, facilitates APIs and offers a runtime space ideal for creating, developing, and executing large-scale applications. Java EE has all the components that Java SE has, along with some other APIs that are required to build multi-tiered and enterprise-level applications. Now, coming to the application part, Java EE is the best fit for complex enterprise-level apps, distributed systems, etc. Furthermore, the technologies used under Java EE are Servlets, JSP, JMS, JPA, etc. Differences between Java SE and Java EE S.No Particulars Java SE Java EE 1 Definition Java SE, aka Java Standard Edition, is equipped with core functionalities. Java RR (Enterprise Edition) is equipped with extended functionalities. 2 Key Ingredients Core language, normal APIs Core language, enterprise APIs 3 Environment It has class libraries and virtual machines. It has separate client, business, and enterprise layers. 4 Application Used to create APIs for desktop apps Primarily used for web apps 5 Use Cases Desktop Applications Complicated enterprise-level applications 6 Technologies Included JavaFX, JDBC Servlets, JMS, and JSP How do JDK, JRE, and JVM relate together? How do all three work together? Without a doubt, Java is one of the oldest programming languages in the world. As in the blog post, it’s already been discussed that the Java programming language is widely used by software developers to develop robust and powerful mobile and web applications (an application stored on the server, later delivered on the internet, that runs on a browser). Now, let’s unfold the relation among Java Development Kit, JVM and JRE. In the Java programming world: JDK, JRE, and JVM are three very important and integral part that play significant roles in developing robust Java applications. The JDK is a comprehensive software package that provides utilities important for development and debugging of Java Apps. The JDK consists of the compiler, debugger, and other tools needed for software development. The Java Runtime Environment (JRE) is an environment required to run Java programs. JRE consists of the JVM and other sets of libraries required for running Java programs. JVM is platform-dependent and provides a space for Java applications across various operating systems. Learn the Java j2ee skills from masters at Java J2EE Training in Pune Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send In a nutshell, the JDK supports the development of Java applications, the JRE executes the Java code, and the last one, the JVM, acts as a bridge that fills the gap between the two, ensuring high performance and reliability. Features of JDK, JRE, and JVM JDK: It provides a space for writing and executing Java code. Provides functionalities of Java Virtual Machine. It also offers functionality of JRE. Oe of the most important features of JDK is that it supports the Java developer in managing exceptions effectively by integrating extensions into one catch block. JDK consists of a debugger, a, compiler, and many other essentials tools for software development. JRE: The Java Runtime Environment has a cluster of essential utilities that support JVM. JRE offers several significant tools for deployment, like the. Java plug-in. 2. Java Web Start. Through JRE, Java developers execute the Java code. JRTE has important libraries, like JDBC, JNDI etc. JVM: JVM is the prime actor that translates byte code into machine-specific code. JVM offers significant functionalities like memory management and garbage collection (GC). JVM uses libraries and files from JRE to run the Java program. JVM runs the Java source code line-by-line (acts as an interpreter). To learn Java from industry experts visit 3RI Technologies . Major Difference Between JDK, JRE, and JVM JDK JRE JVM Java Development Kit. Java Runtime Environment. Java Virtual Machine. A development kit to develop the Java Applications. A software package that consists: Java Virtual Machine (JVM), Class libraries etc. A machine that provides an environment to run Java Bytecode. Has utilities to Create, Monitor and Debug source code. Has class libraries to run Java code. Has no tools for Software Development. It is platform dependent. It is platform dependent. It is not platform dependent. Composition of JRE & Development Tools Combination of Class libraries & JVM Offers a Runtime space. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Question & Answer: Q1: Briefly explain the Java Development Kit (JDK). Ans: The Java Development Kit (JDK) is a software package provided by the renowned organization Oracle that has all the important utilities required to build robust and powerful mobile and web applications. Along with development, the developers gets to perform the compilation and execution of the Java program. Q2: Explain the special components of the Java Development Kit (JDK). Ans: The Java Development Kit (JDK) has numerous special components, like the Java Runtime Environment (JRE), compiler, debugging tools, libraries, and many other components required to develop Java programs. Q3: Describe the Java Runtime Environment (JRE). Ans: The Java Runtime Environment (JRE) is nothing but a subset of the JDK (Java Development Kit) that is mainly responsible for running the Java application. JRE also consists of the Java Virtual Machine (JVM) and base libraries needed to execute Java programs. Q4: Define the importance of the Java Virtual Machine (JVM) in Java applications. Ans: The JVM is a significant part of the Java Runtime Environment (JRE). JVM is nothing but an executer that runs Java bytecode. It converts bytecode into machine-specific code. Q5: Explain how JVM provides the facility of platform independence. Ans: JVM provides the facility of platform independence by interpreting Bytecode. Later, it executes the Java bytecode on the host machine, where the machine gains complete hardware information and makes sure that the interpreted Java bytecode executes on numerous platforms. Q6: Explain the Just-In-Time (JIT) compiler. Ans: The JIT compiler changes the Java bytecode into native machine code to enhance performance by reducing the interpretation duration, which leads to improved running speed. Q7: List out the key components of a JVM. Ans: Java Virtual Machine (JVM) has three main key elements, i.e., class loader, execution engine, and runtime data areas. The main task of the class loader is to load classes; the role of the execution engine is to interpret bytes; and runtime data handles memory during the source code implementation. Q8: Explain the garbage collection in JVM. Ans: Garbage Collection (GC) in JVM de-allocates memory that is not required anymore. The main task of garbage collection (GC) is to figure out and remove the objects for the new ones. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Q9: Differentiate between JDK, JRE, and JVM. Ans: JDK is a wholesome development kit with all the required tools and libraries for robust mobile and web application development. On the other side, JRE is responsible for running Java apps, whereas JVM runs Bytecode. Q10: How do I install the JDK? Ans: Java developers, whether they are newbies or professionals, can easily download and install JDK on their machines. Installation steps of Java Development Kit is shared below: Visit the official website of ORACLE. Search for the JDK download page. Choose the version that best fits your machine (operating system). Now, download the installer and follow all the necessary instructions to get it started. Q11. Difference between Java SE and Java EE Ans: Java SE means Java (Standard Edition) is for general-purpose applications, whereas Java EE (Enterprise Edition) is nothing but the extension of Java SE. It has additional APIs that enable developers to create large-scale, multi-tiered enterprise applications. Q12. List out areas allocated by JVM. Ans: There are many memory areas allocated by JVM: Heap Stack Class Area Program Counter Register Q13. List out all the different types of loaders. Ans: Types of classloaders are: Bootstrap Extension System Plugin Q14. Why is Java class library used? Ans: The motivation of the Java class library is to provide functions to accomplish several tasks, like maintaining lists or parsing strings. Q15. What is a Java card? Ans: Java Card, a technology through which small Java-based apps can easily and securely run on smart cards and small memory devices. Prev Previous Python Tutorial for Beginners: Learn the Basics of Python Programming Next What is RESTful API and Why RESTful Services Are So Popular? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/difference-between-java-jre-and-jdk-1.png",
+        "alt": "difference between java jre and jdk",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/Become-a-Java-Certified-Professional.png",
+        "alt": "Become-a-Java-Certified-Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Java&cd%5Bpage_title%5D=What+Is+the+Difference+Between+JDK%2C+JRE%2C+and+JVM%3F&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=83966&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-the-difference-between-java-se-and-jdk%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2023/10/26/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/madan/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-j2ee-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-training/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-tutorial-for-beginners/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-restful-api-why-restful-api-is-popular/",
+      "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Difference Between JDK, JRE, and JVM Explained | Java Classes in Pune | 3RI Technologies",
+    "og_description": "Learn the key differences between JDK, JRE, and JVM in Java. Understand jdk vs jre, java jdk vs jre, and the roles of each. Enroll in our Java Classes in Pune to master Java development.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/"
+            },
+            "author": {
+              "name": "madan",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e"
+            },
+            "headline": "What Is the Difference Between JDK, JRE, and JVM?",
+            "datePublished": "2023-10-26T09:53:52+00:00",
+            "dateModified": "2025-05-17T06:04:11+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/"
+            },
+            "wordCount": 2929,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/difference-between-java-jre-and-jdk-1.png",
+            "keywords": [
+              "Java Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Java"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/",
+            "url": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/",
+            "name": "Difference Between JDK, JRE, and JVM Explained | Java Classes in Pune | 3RI Technologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/difference-between-java-jre-and-jdk-1.png",
+            "datePublished": "2023-10-26T09:53:52+00:00",
+            "dateModified": "2025-05-17T06:04:11+00:00",
+            "description": "Learn the key differences between JDK, JRE, and JVM in Java. Understand jdk vs jre, java jdk vs jre, and the roles of each. Enroll in our Java Classes in Pune to master Java development.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/difference-between-java-jre-and-jdk-1.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/difference-between-java-jre-and-jdk-1.png",
+            "width": 1600,
+            "height": 540,
+            "caption": "difference between java jre and jdk"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "What Is the Difference Between JDK, JRE, and JVM?"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e",
+            "name": "madan",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "caption": "madan"
+            },
+            "url": "https://www.3ritechnologies.com/author/madan/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

@@ -1,0 +1,326 @@
+{
+  "url": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "AWS Cost Optimization Strategies | Reduce AWS Costs in 2025",
+    "meta_description": "Learn the top AWS cost optimization strategies for 2025. Reduce EC2, RDS, and S3 costs with expert tips and practical AWS best practices.",
+    "h1": [
+      "AWS cost Optimization Strategies for 2025: Maximize Efficiency and Reduce Costs"
+    ],
+    "content": "Skip to content Home > AWS cost Optimization Strategies for 2025: Maximize Efficiency and Reduce Costs AWS cost Optimization Strategies for 2025: Maximize Efficiency and Reduce Costs Optimize AWS costs in 2025 with actionable strategies. Learn from experts through AWS DevOps classes in Pune and enhance your cloud skills. Use Reserved Instances, Auto Scaling, and S3 storage strategies to cut cloud expenses. Table of Contents PriyankaS3ri August 25, 2025 4:27 pm In today’s cloud-driven world, controlling AWS costs is crucial for businesses of all sizes. With growing workloads and dynamic demand, organizations need smart strategies to optimize their cloud spending. Whether you are a startup or an enterprise, understanding how to balance performance and cost is essential. Professionals looking to upskill can explore AWS training in Pune or AWS classes near me to gain practical knowledge of cost optimization techniques, helping teams implement efficient cloud strategies. Start Smart with Cost Awareness 1. Right-Size Your Resources Resource right-sizing is one of the best strategies to lower AWS costs. Services like EC2, RDS, and Lambda must align with actual workload requirements. AWS tools such as Cost Explorer and Trusted Advisor help identify underutilized resources, ensuring you pay only for what you use. 2. Leverage Reserved Instances and Savings Plans Reserved Instances (RIs) and Savings Plans provide up to 72% off On-Demand pricing for workloads that are predictable. Committing to EC2, RDS, or Redshift workloads for one or three years ensures predictable costs without compromising performance. Optimize Performance and Flexibility 3. Utilize Spot Instances for Flexible Workloads Businesses may employ unused EC2 capacity at a fraction of the price with AWS Spot Instances. Perfect for batch processing, CI/CD pipelines, or big data analytics, these instances, combined with Auto Scaling Groups, deliver cost efficiency while maintaining resilience. 4. Implement Auto Scaling Auto Scaling ensures your applications have enough compute power during peak demand and scale down when traffic is low. Paired with Elastic Load Balancing (ELB), this strategy maintains performance and reduces costs by avoiding over-provisioning. 5. Choose Cost-Effective Instance Types Switching to AWS Graviton-based instances or other efficient families can lower costs while improving performance for workloads such as containerized apps, web servers, and log processing. 6. Optimize Storage Costs Storage expenses can add up quickly. To automatically modify storage classes according to access patterns, use Amazon S3 Intelligent-Tiering. Lifecycle policies can move older data to S3 Glacier or Glacier Deep Archive to further reduce costs. Regular audits help eliminate unused data and unnecessary charges. Monitoring, Learning, and Staying Ahead 7. Monitor and Analyze Usage To monitor expenditure trends, project expenses, and spot irregularities, use AWS Cost Explorer, AWS Budgets, and AWS Cost and Usage Reports (CUR). Detailed insights help teams take action before costs escalate. 8. Implement Tagging for Cost Accountability Accurate cost monitoring by department, project, or environment is made possible by consistent resource labeling. Tagging improves transparency and helps teams allocate budgets responsibly. 9. Upskill and Train Teams Empower your team through AWS training in Pune or AWS DevOps classes in Pune to learn hands-on optimization techniques. Understanding how to efficiently use services like EC2, S3, Lambda, and RDS ensures cost-effective cloud management. 10. Stay Updated with AWS Innovations New features like AWS Compute Optimizer provide actionable recommendations for EC2, Lambda, and EBS. Staying updated ensures your workloads remain efficient, cost-effective, and ready for future demands . Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Case Study: AWS Cost Optimization in Action In 2025, businesses are increasingly focusing on AWS cost optimization to ensure efficient cloud usage without overspending. Let’s take a closer look at how a mid-sized e-commerce company successfully reduced its AWS bill by 35% using practical strategies. Background The company relied heavily on AWS for its website, mobile apps, and data analytics platform. With increasing traffic during peak seasons, its AWS costs had grown significantly, particularly for EC2 instances, RDS databases, and S3 storage. The management wanted to reduce costs while maintaining performance and uptime. Challenges Over-Provisioned EC2 Instances – Multiple instances were running at low utilization, contributing to unnecessary costs. Unused Storage – S3 buckets contained outdated data, leading to higher storage charges. Inefficient Database Usage – RDS instances were not scaled according to traffic patterns. Limited Visibility – Lack of proper monitoring and reporting made it difficult to identify cost-saving opportunities. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send Strategy Implemented 1. Resource Right-Sizing The team analyzed all EC2 instances using AWS Cost Explorer and Trusted Advisor . Underutilized instances were either downsized or terminated. 2. Reserved Instances & Savings Plans For predictable workloads such as the website’s production servers and database instances, Reserved Instances and Savings Plans were implemented, reducing costs by nearly 25%. 3. Spot Instances for Flexible Workloads Batch processing jobs and analytics tasks were moved to Spot Instances , taking advantage of lower pricing without affecting critical operations. 4. Auto Scaling and Load Balancing EC2 Auto Scaling was configured for web servers, paired with Elastic Load Balancing (ELB) . This ensured resources automatically scaled based on demand, avoiding over-provisioning during off-peak hours. 5. Storage Optimization Amazon S3 Intelligent-Tiering and lifecycle policies moved older data to Glacier Deep Archive , reducing storage costs significantly. 6. Monitoring and Reporting Dashboards were created using AWS Cost Explorer and Budgets , giving teams real-time visibility into spending and trends. 7. Team Upskilling Team members upskill through AWS DevOps classes in Pune , equipping them with the knowledge to continuously optimize costs. Results Achieved Overall Cost Reduction: 35% decrease in monthly AWS spending Improved Resource Utilization: Average EC2 utilization increased from 40% to 70% Automated Scaling: Reduced manual intervention for infrastructure management Storage Savings: 40% reduction in S3 costs by archiving unused data AWS Cost Optimization Best Practices Checklist for 2025 1. Right-Size Resources Review EC2, RDS, and Lambda instances regularly Terminate unused or idle resources Use Cost Explorer and AWS Trusted Advisor to make suggestions. 2. Use Reserved Instances & Savings Plans Determine recurring workloads that Reserved Instances can handle. Evaluate Savings Plans for EC2, Fargate, and Lambda workloads Regularly reassess commitment levels to match usage 3. Leverage Spot Instances For stateless or flexible workloads, use Spot Instances. Combine with Auto Scaling Groups to manage interruptions Monitor Spot instance availability and pricing trends 4. Implement Auto Scaling Configure EC2 Auto Scaling for dynamic scaling based on demand Pair with Elastic Load Balancing (ELB) for optimized traffic distribution Adjust scaling policies periodically to avoid over-provisioning 5. Choose Cost-Effective Instance Types Consider AWS Graviton instances for better price/performance Evaluate instance families based on workload requirements Migrate workloads where it reduces cost without impacting performance 6. Optimize Storage Costs Use S3 Intelligent-Tiering for automatic storage class adjustments Establish lifecycle policies to transfer data to Deep Archive or S3 Glacier. Audit storage regularly to remove obsolete or duplicate data 7. Monitor & Analyze Usage Install AWS Cost Explorer to monitor expenditure trends. Use AWS Budgets to set thresholds and receive alerts Generate Cost and Usage Reports (CUR) for detailed insights 8. Implement Resource Tagging Tag resources by project, team, or environment Use tags to efficiently manage budgets and assign expenses Audit tags often to verify correctness. 9. Upskill Teams Enroll in AWS training in Pune or AWS DevOps classes in Pune Train teams on cost management best practices Encourage hands-on experience with services like EC2, S3, Lambda, and RDS 10. Stay Updated with AWS Innovations Monitor new services like AWS Compute Optimizer for cost recommendations Evaluate the latest instance types and storage solutions Continuously refine cost optimization strategies based on AWS updates Conclusion AWS cost optimization in 2025 requires a mix of strategy, automation, and knowledge. From right-sizing resources to leveraging Spot Instances and implementing proper tagging, these strategies help businesses save money while maintaining performance. Professionals looking to gain practical expertise in cloud cost management can benefit from job-oriented courses provided by us, and are able to implement these strategies effectively in real-world scenarios. Prev Previous AI and Data Science Courses: What Recruiters Expect from Freshers in 2025 Next What are the 5 Common Misconceptions About Agile and DevOps? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/08/Can-You-Become-a-Data-Scientist-with-Just-Python-10.jpg",
+        "alt": "AWS resource right-sizing and savings techniques",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/08/image-2.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/21-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=aws%2C+Blog&cd%5Bpage_title%5D=AWS+cost+Optimization+Strategies+for+2025%3A+Maximize+Efficiency+and+Reduce+Costs&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=114208&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Faws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2025/08/25/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/ai-and-data-science-courses-what-recruiters-expect-from-freshers-in-2025/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/how-to-become-aws-certified-trainer/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-are-the-5-common-misconceptions-about-agile-and-devops/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "AWS Cost Optimization Strategies | Reduce AWS Costs in 2025",
+    "og_description": "Learn the top AWS cost optimization strategies for 2025. Reduce EC2, RDS, and S3 costs with expert tips and practical AWS best practices.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "AWS cost Optimization Strategies for 2025: Maximize Efficiency and Reduce Costs",
+            "datePublished": "2025-08-25T10:57:40+00:00",
+            "dateModified": "2025-08-27T05:37:47+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/"
+            },
+            "wordCount": 1200,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/08/Can-You-Become-a-Data-Scientist-with-Just-Python-10.jpg",
+            "keywords": [
+              "AWS Blog Design"
+            ],
+            "articleSection": [
+              "aws",
+              "Blog"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/",
+            "url": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/",
+            "name": "AWS Cost Optimization Strategies | Reduce AWS Costs in 2025",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/08/Can-You-Become-a-Data-Scientist-with-Just-Python-10.jpg",
+            "datePublished": "2025-08-25T10:57:40+00:00",
+            "dateModified": "2025-08-27T05:37:47+00:00",
+            "description": "Learn the top AWS cost optimization strategies for 2025. Reduce EC2, RDS, and S3 costs with expert tips and practical AWS best practices.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/08/Can-You-Become-a-Data-Scientist-with-Just-Python-10.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/08/Can-You-Become-a-Data-Scientist-with-Just-Python-10.jpg",
+            "width": 1280,
+            "height": 720,
+            "caption": "How right-sizing resources reduces AWS cloud costs. Professionals are learning practical AWS cost optimization in Pune."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/aws-cost-optimization-strategies-for-2025-maximize-efficiency-and-reduce-costs/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "AWS cost Optimization Strategies for 2025: Maximize Efficiency and Reduce Costs"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

@@ -1,0 +1,292 @@
+{
+  "url": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Python & Data Science Interview Questions for Learners in Pune | 2026",
+    "meta_description": "Looking for a Data science and Python course in Pune? Start here. This guide covers 40+ real interview questions on topics like decorators, bias-variance, PCA, and model evaluation.",
+    "h1": [
+      "Python & Data Science Interview Questions Answered"
+    ],
+    "content": "Skip to content Home > Python & Data Science Interview Questions Answered Python & Data Science Interview Questions Answered This guide covers 40+ essential Python and data science interview questions — from core concepts like GIL, decorators, and closures to advanced topics like PCA, regularization, and model evaluation. Ideal for freshers and working professionals preparing for technical interviews or enrolling in a Python or data science course in Pune. Table of Contents PriyankaS3ri May 4, 2026 4:56 pm Cracking Python & Data Science Interviews: The Questions That Actually Get Asked Every year, thousands of learners in Pune search for the right Python or data science course — not just to learn, but to get placed. They study tutorials, watch videos, and practice syntax. Then they walk into an interview and get asked about the GIL, monkey patching, or data leakage — and freeze. The gap isn’t effort. It’s depth. Most resources teach you how to write code. Interviewers want to know if you understand why it works the way it does. The difference between is and == seems trivial until you’re asked it on the spot. Default mutable arguments seem like a footnote until they cause a bug in production. Bias-variance tradeoff sounds textbook until someone asks you to diagnose an underperforming model in a live round. This blog compiles the most commonly asked — and most commonly fumbled — Python and data science interview questions. Each answer is written to give you not just the correct response, but the reasoning behind it. The kind of reasoning that makes interviewers nod. Whether you’re a fresher preparing for your first technical interview, a working professional upskilling for a data role, or someone actively looking for a Python course in Pune that goes beyond the basics — these questions are your benchmark. If you can answer all of them confidently, you’re ready. If some of them trip you up, you know exactly where to focus next. Go through each section honestly. The questions are organized from core Python fundamentals to advanced concepts, followed by data science and machine learning topics. Don’t just read the answers — test yourself first. Let’s get into it. 1. In Python, what is the difference between is and ==? == checks value equality to see if two objects have the same content. By verifying identification, it finds whether both variables link to the same memory address.Because of interning, results for immutable types could seem comparable. Confusion in this area during interviews frequently indicates a lack of comprehension. These small Python details are exactly what interviewers test — and where most candidates lose marks. Our Python Training in Pune covers every such nuance with hands-on practice, so you don’t just memorise answers — you actually understand them. 2. Why are default mutable arguments dangerous? Because default mutable parameters, such as lists or dicts, are evaluated only once at the time of definition, they maintain modifications throughout function calls. This can lead to unexpected bugs when values persist unintentionally. A safer approach is using None and initializing inside the function. Many learners in a Python course in Pune miss this nuance. 3. What is GIL, or the Global Interpreter Lock? Python bytecode can only be executed by one thread at a time in CPython due to a mutex known as the GIL. Although it makes memory management easier, it restricts genuine parallelism in CPU-bound operations. Multiprocessing is unaffected, though. This is often misunderstood in Python training in Pune. 4. What separates shallow copy from deep copy? A deep copy replicates every item recursively, whereas a shallow copy generates a new object but references nested objects. In a shallow copy, changing nested items has an impact on the original. By generating independent memory references, deep copy avoids this. The copy module is used for both. Questions on GIL, closures, metaclasses, and descriptors separate average candidates from strong ones. Most online tutorials skip these entirely. Our structured Python training in Pune goes deep — with real interview simulations and mentor support. Question Answer 1. What separates eval() from compile()? compile() converts source code into a code object that can later be executed using exec() or eval().A single expression is directly evaluated by eval(), and the result is returned. compile() is useful for reusing code execution efficiently. Many learners overlook this while preparing for a Python course in Pune. 2. What are Python descriptors? Descriptors are objects that define methods like __get__, __set__, and __delete__ to manage attribute access. They are the underlying mechanism for properties, methods, and static/class methods. Descriptors provide fine-grained control over attribute behavior. This is often skipped in Python training in Pune. 3. What is the use of __slots__ ? __slots__ restricts dynamic creation of instance attributes and reduces memory usage. It avoids the default __dict__ for storing attributes. This is useful in memory-optimized applications. However, it limits flexibility in adding new attributes dynamically. 4. Explain how pop(), remove(), and del differ from one another. del deletes an object or element by index without returning it. remove() deletes the first matching value from a list. Pop() removes and returns an element, normally the final one.Understanding these subtle differences helps avoid runtime errors. 5. What is function caching in Python? Function caching gives the saved result for the same inputs after storing the outcomes of costly function calls. It is commonly implemented using functools.lru_cache. This improves performance in recursive or repeated computations. Many ignore it when searching for a Python course near me. 6. What separates str from bytes? Raw binary data is represented by bytes, whereas Unicode text is represented by str. bytes is used for file handling, networking, and encoding operations. Conversion between them requires encoding/decoding. This distinction is crucial in real-world applications. 7. What does Python’s metaclass mean? The creation of a class is specified by a metaclass. It controls class construction and can modify class behavior. The default metaclass is type. This is an advanced topic often asked to test deep understanding. 8. What is yield from used for? yield from simplifies working with generators by delegating part of the iteration to another generator. It avoids writing complex loops manually. It improves readability and efficiency. This is rarely practiced by beginners. 9. What is the difference between frozenset and set ? Whereas the frozenset is unchangeable, the set is changeable. The immutability of frozenset makes it suitable for usage as dictionary keys. Both store unique elements. Choosing between them depends on whether modification is needed. 10. What is Python’s import system caching? Python caches imported modules in sys.modules to avoid reloading them. This improves performance and ensures a module is loaded only once. Re-importing uses the cached version. Understanding this helps in debugging import-related issues. Reading about the bias-variance tradeoff or data leakage is one thing. Spotting it in a real dataset during a live interview is another. Our Data science course in Pune uses real-world projects so you build the instinct, not just the vocabulary. 5. What are Python generators? Generators are functions that return values one at a time instead of all at once by using yield. They are helpful for big datasets and memory-efficient. Between iterations, they preserve their state. Many ignore them while searching for a Python course near me. 6. What is the difference between @staticmethod and @classmethod? Static methods function normally within a class and don’t require self or cls. A class method can change the class state after receiving cls. Both are used for different design patterns. Candidates often mix their use cases. 7. Describe the memory management system in Python. Python automatically manages memory by collecting garbage and counting references. Objects are deallocated when reference count reaches zero. Garbage collectors are responsible for handling cyclic references. This is rarely deeply understood. 8. What are decorators in Python? Decorators are functions that change how other functions behave without changing their code. They use the @ syntax and are common in logging, authentication, and caching. They rely on higher-order functions and closures. Many students skip practicing them. 9. What makes a list different from a tuple? Tuples cannot be changed but lists can. Tuples can be used as dictionary keys and are generally faster. Lists offer more flexibility. Choosing between them depends on the use case. 10. What is a lambda function? Small anonymous functions created using lambda are known as lambda functions. They are limited to a single expression and are often used with functions like map, filter, and reduce. Overuse can reduce readability. They are commonly asked in interviews. 11. What is monkey patching? Changing a class or module dynamically during runtime is known as “monkey patching.” It allows developers to change behavior without altering source code. While powerful, it can make debugging difficult. Interviewers ask this to test deeper Python knowledge. 12. What does MRO (method resolution order) mean? When a method is executed, MRO specifies the order in which base classes are searched . The C3 linearization algorithm is used in Python. It provides a constant and predictable course for resolution. necessary in situations with multiple inheritance. 13. What are managers of context? Context managers handle setup and cleanup logic using with statements. They ensure resources like files are properly managed. Implemented using __enter__ and __exit__. They improve code readability and safety. 14. Difference between *args and **kwargs? A variable number of positional arguments can be passed using *args, whereas keyword arguments can be passed using **kwargs. They help in creating adjustable functions. Internally, kwargs is a dictionary, and args is a tuple. Often used in frameworks. 15. What is duck typing? Duck typing is a method of determining an object’s suitability based on its behavior instead of its type. It behaves like a duck if it acts like one. . Python emphasizes this over strict type checking. It enables flexible and dynamic coding. 16. What is the difference between __str__ and __repr__? __str__ is meant for human-readable output, while __repr__ is for developer-friendly representation. Ideally, __repr__ should be unambiguous and recreate the object. If __str__ is missing, Python falls back to __repr__. 17. What is Python’s pass-by-object-reference? Python doesn’t use pass-by-value or pass-by-reference strictly. It allows methods to modify mutable objects by passing object references. Immutable objects behave differently. This concept is often misunderstood. 18. What is a closure? A closure is a function that maintains values from its enclosing scope even after it has been removed. It’s created when a nested function references outer variables. Decorators and functional programming both uses closures. 19. What is the differentiation between multiprocessing and threading? The GIL limits the number of threads that can run in the same memory region. Multiprocessing runs separate processes with independent memory. It’s better for CPU-bound tasks. Choosing correctly is critical in real-world applications. 20. What are Python iterators? Iterators are objects that implement __iter__() and __next__() methods. They allow sequential traversal of data. Generators are a type of iterator. Understanding iterators is key for efficient looping. Question Answer 1. What is the bias-variance tradeoff? Variance is the result of model sensitivity to data, whereas bias is the result of too simple models. High variance causes overfitting, while high bias causes underfitting. For best results, both must be balanced. This concept is fundamental but often misunderstood in a data science course in Pune. 2. Difference between parametric and non-parametric models? Parametric models assume a fixed form (like linear regression) and are faster but less flexible. Non-parametric models (like KNN) don’t assume a structure and adapt to data. They need more data and processing power. The choice is based on the complexity of the dataset. 3. What does data leakage mean? Data leakage happens when training data contains information that wouldn’t be available in real-world predictions. This leads to overly optimistic model performance. It often occurs during preprocessing or feature selection. When looking for a data science course nearby, many students ignore this. 4. What is the purpose of cross-validation? Cross-validation divides data into several folds in order to accurately verify model performance. It reduces dependency on a single train-test split. It helps detect overfitting. K-fold cross-validation is the most commonly used technique. 5. Difference between precision and recall? Recall counts the number of real positives that were recorded, whereas precision counts the number of predicted positives that are actually accurate. Precision focuses on accuracy, recall on completeness. The trade-off depends on the business use case. 6. What does regularization mean? To avoid overfitting, regularization includes a penalty term in the loss function. L1 (Lasso) and L2 (Ridge) are common types. By reducing coefficients, it lowers the complexity of the model. On unseen data, it enhances generalization. 7. What is the dimensionality curse? Data becomes limited and model performance decreases as feature counts increase. Distance-based algorithms are especially affected. It increases computational complexity. It is decreased by dimensionality reduction methods such as PCA. 8.What is PCA and when is it suitable to use it? Principal Component Analysis reduces dimensionality by transforming features into uncorrelated components. It retains maximum variance with fewer dimensions. It’s useful when features are highly correlated. It also helps in visualization and noise reduction. 9. What is the AUC-ROC curve? The true positive rate is plotted against the false positive rate on the ROC curve. Model performance is indicated by the area under the curve, or AUC. Higher AUC means better classification ability. It is widely used for imbalanced datasets. 10. How does supervised learning differ from unsupervised learning? Labeled data is used for training in supervised learning, such as in regression and classification. Unsupervised learning discovers patterns, such as grouping, in unlabeled data. In real-world situations, both have different functions. Understanding this is basic but often poorly explained in data science training in Pune. Data Science Interview Questions You Must Know 1. What is overfitting, and how can it be avoided? Overfitting happens when a model learns specifics and noise from training data instead of general patterns. It does poorly on unknown data but well on trained data. Techniques like cross-validation, regularization, pruning, and using more data help prevent it. This is a common issue discussed in a data science course in Pune. 2. What is underfitting? Underfitting occurs when a model is too basic to identify underlying trends in the data. Both training and test datasets perform poorly as a result. . Increasing the complexity of the model or include more relevant features can be useful. It is often overlooked compared to overfitting. 3. What is feature engineering? Creating, changing, or choosing variables to enhance model performance is known as feature engineering. It includes encoding categorical data, scaling, and generating new features.Complex algorithms are generally less important than good features. Many beginners in data science training in Pune underestimate its importance. 4.What distinguishes boosting from bagging? Bagging uses random selections of data to train several models independently, reducing variance. By sequentially training models and concentrating on prior mistakes, boosting reduces bias. Bagging improves stability, while boosting improves accuracy. Both are ensemble techniques. 5. What is a confusion matrix? A table called a confusion matrix is used to compare real and predicted values in order to evaluate classification models. True negatives, false negatives, false positives, and true positives are all included. It helps in the calculation of metrics like recall and precision. It provides deeper insights than accuracy alone. 6. What is gradient descent? Gradient descent is an optimization technique that iteratively updates model parameters to minimize the loss function. It follows the direction of the gradient that is negative. Efficiency is increased by variations like stochastic and mini-batch gradient descent. . Many machine learning models are built around it. 7. What does imbalanced data mean, and how do you deal with it? When one class greatly outnumbers the others, the data is unbalanced. It may cause the model to favor the majority class. Techniques like resampling, SMOTE, or using different evaluation metrics can help. This is often ignored when searching for a data science course near me. 8. What is the difference between correlation and causation? Whereas causation indicates a direct relationship between two variables, correlation indicates the movement of two variables together. A high correlation may not necessarily indicate a cause. This can be misinterpreted and lead to false conclusions. It’s a critical concept in data analysis. 9. What is time series analysis? Data points gathered over time periods are the focus of time series analysis. It focuses on patterns, seasonality, and trends. ARIMA and exponential smoothing models are frequently used. It is widely used in forecasting problems. 10. What is model evaluation? Model evaluation evaluates a model’s performance on data that has not yet been observed. It makes use of metrics including F1-score, RMSE, recall, accuracy, and precision. The model will generalize well if it is properly evaluated. Many learners in a data science course in Pune focus more on building models than evaluating them. Most learners searching for a “ Data science course near me ” or “Python course in Pune ” end up in generic programmes that teach syntax, not thinking. We do it differently — small batches, industry mentors, and interview prep that covers exactly the questions and beyond. Prev Previous How Long Does It Take to Learn Python to Get a Job? Next What Are the Data Science Course Fees and Duration in Pune? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/05/Python-and-Data-Science-Questions.jpg",
+        "alt": "Python and data science interview questions guide for learners in Pune",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog&cd%5Bpage_title%5D=Python+%26amp%3B+Data+Science+Interview+Questions+Answered&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=118451&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fpython-data-science-interview-questions-answered%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2026/05/04/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/data-science-course-fees-duration-pune/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/how-long-does-it-take-to-learn-python-to-get-a-job/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Python & Data Science Interview Questions for Learners in Pune | 2026",
+    "og_description": "Looking for a Data science and Python course in Pune? Start here. This guide covers 40+ real interview questions on topics like decorators, bias-variance, PCA, and model evaluation.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Python &amp; Data Science Interview Questions Answered",
+            "datePublished": "2026-05-04T11:26:56+00:00",
+            "dateModified": "2026-05-04T11:31:29+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/"
+            },
+            "wordCount": 2768,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/05/Python-and-Data-Science-Questions.jpg",
+            "articleSection": [
+              "Blog"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/",
+            "url": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/",
+            "name": "Python & Data Science Interview Questions for Learners in Pune | 2026",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/05/Python-and-Data-Science-Questions.jpg",
+            "datePublished": "2026-05-04T11:26:56+00:00",
+            "dateModified": "2026-05-04T11:31:29+00:00",
+            "description": "Looking for a Data science and Python course in Pune? Start here. This guide covers 40+ real interview questions on topics like decorators, bias-variance, PCA, and model evaluation.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2026/05/Python-and-Data-Science-Questions.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/05/Python-and-Data-Science-Questions.jpg",
+            "width": 1280,
+            "height": 853,
+            "caption": "40+ Python & Data Science interview questions to help you crack your next technical round"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/python-data-science-interview-questions-answered/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Python &amp; Data Science Interview Questions Answered"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

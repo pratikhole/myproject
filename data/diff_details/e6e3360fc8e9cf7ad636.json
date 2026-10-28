@@ -1,0 +1,292 @@
+{
+  "url": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Master Data Science: A Complete Course Syllabus Guide | 3RI",
+    "meta_description": "Follow a comprehensive 3RI Technologies syllabus to build a strong foundation and gain real-world expertise.",
+    "h1": [
+      "How should you learn Data Science with the course syllabus?"
+    ],
+    "content": "Skip to content Home > How should you learn Data Science with the course syllabus? How should you learn Data Science with the course syllabus? Explore a structured 3RI Technologies syllabus to master data science, from basics to advanced concepts, with expert-led courses. Table of Contents PriyankaS3ri January 1, 2025 1:19 pm Introduction In the current era of strong competition, knowledge is essential to gaining market share. Data analysis is the study of science. In order to efficiently extract valuable information, it entails creating techniques for data recording, storage, and analysis. It is a multidisciplinary method for analyzing vast volumes of data that blends ideas and methods. A detailed syllabus is the architectural blueprint for your education. To understand how each of these components connects to the ultimate outcome, it’s essential to view it within the larger strategy outlined in our guide to a high-income data science career . Key Takeaways Data science is a broad field with applications in Internet business, banking, and consulting, among other contexts. Students who take data science courses are better able to develop strategic strategies and judgments based on data. This can improve one’s leadership abilities. Data science is essential for decision-making, business initiative execution, and visual representation comprehension. Data scientists can command expensive pay due to their strong demand. A degree in data science can lead to employment in a number of industries, including technology, marketing, healthcare, and finance What Is a Data Science Course? The need for qualified data professionals who can extract value from data is growing as a result of data becoming a vital asset for organizations today. Even if this is true, data science is a challenging field to understand because it involves many different aspects. Professional courses in data science are useful in this situation. A well-designed learning framework and resources are provided by a data science course, allowing students to pursue employment in the subject. Before moving on to more complex ideas like machine learning, data wrangling, visualization, and analytics, these courses begin with the most basic building blocks, such as the fundamentals of programming and statistics for data science. Students who complete data science programs get expertise in a variety of data science professions and are given preference by employers during the hiring process. Why Data Science? The fundamental basis of all data processing and interpretation is data science. Nevertheless, it is also thought to facilitate data-driven, intelligent commercial decision-making. Data science is being used by organizations all over the world. Data science is dubbed the most attractive profession of the twenty-first century by the Harvard Business Review. Some of the reasons it’s crucial to study data science and pursue a profession in it are listed below: Diverse branches : Gaining expertise in data science will enable you to investigate prospects in a variety of fields, including data analysis, machine learning, artificial intelligence, and many more. Good pay : Some of the best compensation packages are offered to data scientists. They are sometimes paid much more than the going rate in the market and are trusted with important tasks and responsibilities. Less competitive : Data science is less competitive because of its highly analytical character. Therefore, if a data scientist possesses the requisite skills, they can advance in this field far more than others. Constant improvement : Data science is a relatively new field that is always evolving and discovering new things. It is always changing as new abilities are developed, providing professionals with new knowledge to acquire every day for their career advancement. Future and scope of learning Data Science Many technologies are developing rapidly these days, and a vast amount of data is produced every day. The rapid expansion of data offers a glimpse of data science’s future. The process of creating this data is never-ending. Therefore, it is necessary for organizations in a variety of industries to use data science. Thus, understanding data science is a great way to start a successful career , and there are many opportunities to advance in this subject. There are many opportunities for data scientists in India and other nations, which exposes those who aspire to work in this field to a wide range of opportunities. Job-Portal Number of vacancies (In India) Naukri.com 20,000 LinkedIn 14,000 Overall(Total) 2.9 million This demonstrates unequivocally the need for data scientists worldwide. Data Scientist Pay: In India, a data scientist typically makes Rs 6,50,000, although a more seasoned data scientist may make up to $250,000. Important Data Science Subjects There are several key areas that one must learn in order to become a data scientist because data science is a synthesis of many different disciplines. While some of these themes may combine technical and practical components, others will be primarily theoretical. The essential topics for any prestigious data science program are listed below: 1. Statistics and Probability In data science, it is essential to comprehend probability and statistics. Descriptive statistics, inferential statistics, probability distributions, hypothesis testing, and statistical modeling are the main subjects that are being addressed in this domain and that you should understand. Gaining an understanding of these ideas will assist you as a data scientist in data analysis, prediction, and extracting useful information from unprocessed data. 2. Programming Language The most popular and necessary languages for data scientists are Python and R. They provide a number of robust data analysis libraries, including Matplotlib, NumPy, and Pandas. 3. Query Language You must become proficient in query languages such as SQL in addition to programming languages. This facilitates the retrieval, manipulation, and extraction of insights from databases by data scientists. As part of the ETL process for data analysis, they support data extraction, transformation, and loading. 4. Machine Learning The field of machine learning focuses on teaching computers to make predictions and judgments based on data. Topics like supervised learning, which includes regression and classification, and unsupervised learning, which includes clustering and dimensionality reduction, are among the fundamental subjects of machine learning. In addition, it covers deep learning, neural networks, reinforcement learning, and the application of these techniques in real-world scenarios. 5. Data Visualization Data visualization is the process of displaying information and data visually. It is a crucial tool for data scientists to successfully present their findings. This includes a variety of visual aids, including heat maps, line graphs, bar charts, and scatter plots. The end user can better visualize and understand the results thanks to this graphical depiction. 6. Data Modeling The technique of logically representing data structures and relationships is known as data modeling. In data-driven systems, it supports data integrity security, database architecture, and performance optimization. 7. Data Mining and Data Wrangling Data mining is the process of converting and translating raw data into a more suitable format for analysis, while data mining is the process of extracting information from massive data sets. Data preprocessing, data cleansing, data exploration, and the application of algorithms to identify trends and insightful information are all covered in this course. 8. Business Intelligence The process of turning unstructured data into insightful knowledge that supports the company’s data-driven decision-making is known as business intelligence. The abilities needed to manage several business intelligence techniques and technologies are covered in this course. 9. Databases and Big Data Technologies Databases are essential to the management of data. You must thus comprehend topics like big data technologies like Spark and Hadoop, relational databases like SQL , and non-relational databases like NoSQL, as well as cloud storage options. Therefore, these technologies are useful for processing, retrieving, and storing massive amounts of data. The course topics listed above are essential to data science courses. But in addition to them, you will also encounter unique mentions like capstones and electives. Data Science Course Syllabus: Structured Overview Course Name Topics covered Masters in Data Analytics Data visualization, Big data analytics, Predictive analytics, Data analysis, Programming, SQL, Business analytics, Tableau, Power BI Data Science with python Statistics, PyTorch, Linear algebra, SciPy, Python programming basics, Pandas, Scikit-learn, Data analysis Data Analyst/ Business Analyst Machine learning, Analyzing data using pandas, Data cleansing, Exploratory data analysis (EDA), Numpy and pandas libraries Artificial Intelligence Deep learning, Machine learning, Natural language processing, Reinforcement learning, AI adds intelligence PowerBI Power Query, Data modelling, DAX information functions, Analytics How do I start learning data science? Data scientists will be in high demand in the next few years, so if you want to work in this field, you should learn the basics first. There are many institutions that offer this course, but online learning is the most popular option. To learn Data Science, you can enroll in 3RI Technologies’ Masters in Data Science Program, which will help you gain relevant experience in the field and provide round-the-clock support. In this Data Science Architect course, you will begin by learning the top three analytical tools used in the industry. First, there is Data Science with R, where you will learn how to apply statistical analysis and machine learning methods using R after first mastering R programming. Data Science with Python is the next course, in which you will work with several Python libraries and learn Python programming. Data Science with SAS comes next, where you will learn how to use SAS for predictive analytics and SAS programming. Additionally, you must understand artificial intelligence ideas in order to be a full-fledged data scientist. You will learn how to use the TensorFlow and Keras API to create deep neural networks in our deep learning with TensorFlow course. Ultimately, as a data scientist, your job is to provide the appropriate facts to decision-makers in the form of stunning graphs and reports. In order to achieve this, we teach you Tableau, which teaches you how to quickly construct personalized dashboards and interactive visualizations. It follows that learning data science online is the simplest and most effective method. What Are the Prerequisites for the Data Science Program? The following are some requirements for a data science program: Programming code : Data scientists must be capable of implementing algorithms, automating processes, and manipulating data. SQL, R, and Python are a few essential programming languages. Learning these languages can be aided by having a rudimentary understanding of object-oriented programming concepts such as those found in C, C++, or Java. Data Statistics : Statistics are used by data scientists to examine and compile vast volumes of data. Mathematics : To understand data science principles, one must have a solid background of mathematics, particularly linear algebra and calculus. Visualization of data : Data visualization is the process of representing data visually using tools like maps, graphs, and charts. Solving problems : Data scientists must be able to come up with creative answers to problems using data. At least a bachelor’s degree : Becoming a data scientist often requires a bachelor’s degree or above. Knowledge with large data platforms and machine learning : It’s critical to comprehend big data platforms and machine learning. Do you need certifications in Data Science? Your employment prospects will be diminished if you merely study data science and lack certification. If you want to advance in your career, you must become certified. The list of certifications that you can review is as follows: Master’s degree in data analytics Data science using Python Data analysis and business analysis Artificial intelligence (AI) PowerBI SQL + PowerBI Conclusion Data science encompasses a wide range of distinct data processes. Furthermore, machine learning and statistics are used in these data processing. Machine learning algorithms heavily rely on data. Our model is fed both the training and test sets of this data, and it is then used to adjust its algorithmic parameters. To be successful in data science, one must be current with emerging trends and technology. Now is the ideal moment to begin your data science career. To learn the most sought-after data science tools and techniques and eventually further your career, check out and sign up for 3RI Technologies special Data Scientist program. Prev Previous 2025 IT Job Sector Predictions: What to Expect and How to Prepare Next Top Python Libraries: What They Are, How They Work & Why They Matter Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Data-Science-Blog-Image-1-1.png",
+        "alt": "Learn Data Science with a clear, step-by-step course syllabus designed for beginners and professionals",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog&cd%5Bpage_title%5D=How+should+you+learn+Data+Science+with+the+course+syllabus%3F&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=106543&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fhow-should-you-learn-data-science-with-the-course-syllabus%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2025-it-job-sector-predictions-what-to-expect-and-how-to-prepare/",
+      "https://www.3ritechnologies.com/2025/01/01/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/",
+      "https://www.3ritechnologies.com/https-www-3ritechnologies-com-data-science-career-guide/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Master Data Science: A Complete Course Syllabus Guide | 3RI",
+    "og_description": "Follow a comprehensive 3RI Technologies syllabus to build a strong foundation and gain real-world expertise.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "How should you learn Data Science with the course syllabus?",
+            "datePublished": "2025-01-01T07:49:24+00:00",
+            "dateModified": "2026-10-27T16:29:46+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/"
+            },
+            "wordCount": 1937,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Data-Science-Blog-Image-1-1.png",
+            "articleSection": [
+              "Blog"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/",
+            "url": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/",
+            "name": "Master Data Science: A Complete Course Syllabus Guide | 3RI",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Data-Science-Blog-Image-1-1.png",
+            "datePublished": "2025-01-01T07:49:24+00:00",
+            "dateModified": "2026-10-27T16:29:46+00:00",
+            "description": "Follow a comprehensive 3RI Technologies syllabus to build a strong foundation and gain real-world expertise.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Data-Science-Blog-Image-1-1.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Data-Science-Blog-Image-1-1.png",
+            "width": 1000,
+            "height": 667,
+            "caption": "Learn Data Science with a clear, step-by-step course syllabus designed for beginners and professionals"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "How should you learn Data Science with the course syllabus?"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

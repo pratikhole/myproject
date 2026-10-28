@@ -1,0 +1,306 @@
+{
+  "url": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "AWS in 2025: Unveiling The Next Big Things in Cloud | 3ritechnologies",
+    "meta_description": "Stay ahead of the curve! Discover the next big things in AWS for 2025. We explore emerging trends in GenAI, serverless computing, and cloud security that will define the future of technology.",
+    "h1": [
+      "The Next Big Things in AWS for 2025"
+    ],
+    "content": "Skip to content Home > The Next Big Things in AWS for 2025 The Next Big Things in AWS for 2025 AWS in 2025 is transforming the cloud! Discover top trends and innovations driving the future of technology with 3RI Technologies Table of Contents PriyankaS3ri January 13, 2025 12:03 pm AWS will continue to grow and bring businesses solutions and new, unique, unmatched technologies as we approach 2025. Attending AWS Online Training can be a great beginning to becoming an AWS professional. In the dynamic world of technology, staying informed is key to staying relevant. As we look toward 2025, professionals and businesses are all asking the same question: what are the next big things in cloud computing? This guide explores the future of Amazon Web Services, uncovering the innovations in AI, data analytics, and serverless technology that will shape our digital world. Preparing for these advancements is not just smart, it’s essential for career growth. To build a strong foundation and be ready for tomorrow’s challenges, our comprehensive AWS Training in Pune provides the expert-led instruction needed to master the platform today and lead its evolution tomorrow. Key AWS Innovations and Trends to Watch Serverless Computing: A New Era Serverless computing is among AWS’s most exciting innovations: It indicates that server management is not a concern for AWS Developer Certification . While AWS handles everything behind the scenes, they can concentrate on creating code. Businesses can save time and money using AWS Lambda to run code only when necessary. We anticipate significantly more serverless services from AWS in 2025. Thanks to this, businesses can launch apps more quickly and save money on server maintenance. It is ideal for startups and small companies because of how easy it is to scale up or down with serverless computing. Characteristic Pros Example Serverless saves money and eliminates the need for server management AWS Lambda, AWS Fargate Traditional Servers Greater hardware control and increased administrative expenses EC2 instances Machine Learning and AI: Smarter Technology In the domains of machine learning (ML) and artificial intelligence (AI), AWS is already well-known. Companies can utilize AWS products like Amazon SageMaker to develop, train, and use machine learning models. Among the many applications of machine learning are business process automation and customer behavior prediction. We can anticipate that AWS will provide developers and companies with even more tools in the future to help them design more intelligent AI-powered solutions. Businesses can make better decisions and automate more processes with the aid of data-driven insights. An AWS Cloud Certification can assist you in acquiring the skills you need to go deeper into machine learning on AWS. Edge Computing and IoT: Real-Time Data Processing Edge computing has seen a meteoric rise in popularity due to the expansion of Internet of Things (IoT) devices. Instead of transmitting all of this data to a central cloud, edge computing enables data to be processed closer to the generation location, which is a vast improvement over traditional data transmission methods. The ability to access AWS services using edge devices is made possible, for instance, by AWS Greengrass. Many sectors rely on up-to-the-minute information, including healthcare and manufacturing. For instance, physicians can make quick choices by using real-time patient data. Edge computing makes this data without delays from the internet possible.| AWS training in Pune will be crucial for anyone in Mumbai or other major cities who wants to learn how to create and maintain these edge computing solutions. Sustainability: Green Cloud Computing In today’s world, leading a sustainable lifestyle is essential. This is a significant advancement in the battle against the negative environmental implications of cloud computing. But more effort needs to be made. In the coming years, AWS will probably provide more alternatives to assist companies in lowering their carbon footprint. AWS will make it easier to manage cloud resources’ performance and environmental impact, allowing businesses to monitor their energy consumption in the cloud and make more informed decisions about their IT infrastructure, such as running workloads in regions powered by renewable energy. Anyone interested in learning more about AWS’s sustainability initiatives may find everything they need to know by enrolling in an AWS Cloud Practitioner Certification. Security and Privacy: Keeping Data Safe Security in cloud computing will always be crucial, and AWS is consistently improving its security protocols. By 2025, AWS will continue to enhance its capabilities to protect confidential business data. Two products offered by AWS include AWS Shield, which protects against distributed denial of service (DDoS) attacks, and AWS Identity and Access Management (IAM), which controls who can access what resources. Why is AWS the world’s biggest cloud provider? 1. Timing Due to its early entry into the cloud industry, AWS was able to attract large, data-intensive clients like Netflix and AirBnB. Adoption is accompanied by inertia, as businesses were reluctant to consider switching to a competitor after deciding to use AWS. 2. Innovation However, being the first is insufficient. Throughout its leadership, AWS has prioritized innovation and advancement. All sizes of enterprises can now access the company’s early offerings, including Elastic Block Store (EBS), Virtual Private Cloud (VPC), and Elastic Compute Cloud (EC2).. To meet the needs of every industry and vertical, it is also constantly developing new services and enhancing existing ones. Many developers have grown to appreciate AWS since it has dominated the market for so long and are hesitant to switch to other cloud providers. AWS provides more stable and adaptable services in exchange for this commitment. Amazon’s Deep Lens, Sagemaker, and Sumerian are far ahead of the competition in terms of innovation. 3. Capacity Customers may access nearly infinite computation and storage capacity because of AWS’s significantly more vast infrastructure than other cloud providers. Large and expanding businesses must be able to depend on a cloud provider who can give what they require quickly. Therefore, this is an essential factor to consider—customers scale apps according to demand by utilizing AWS capabilities, Auto Scaling, and Elastic Load Balancing. AWS has a wealth of experience managing large corporations, as seen by its bank of well-known clients. 4. Regularity Customers of the cloud require stability. With its scalable, dependable, and secure global computing infrastructure, AWS provides all of that. It has broadened its geographic reach into significant areas to guarantee serviceability and uptime. If customers want rapid scaling, they are aware that computing instances may be swiftly spun up. Who Uses AWS? A 2022 Intricately analysis states that 1.45 million organizations are AWS customers. Its customers include companies of all sizes in different locations despite its tendency to focus on startups. This emphasis is consistent with the business’s public declarations regarding its plan to “get in early” with new businesses to increase their use as the startups’ requirements develop. These endeavors yield results: With an annual growth rate of 42.2%, startups and SMBs are the AWS customer base sector with the quickest growth rate. With almost 123,000 clients, the Internet sector accounts for the most significant share of clients. With 48,807 clients, the media sector is the next largest industry segment. AWS Customers List Name Industry Region Salesforce Healthcare United States Netflix Media & Entertainment United States Coca-Cola Consumer Packaged Goods (CPG) Americas Toyota Automotive United States Zomato Hospitality India Wealthfront Financial Services United States ŠKODA Automotive Czech Republic Panasonic Manufacturing United States Johnson & Johnson Life Sciences United States Airbnb Travel United States How do companies use AWS? AWS’s application portfolio is nearly as extensive as the cloud itself. However, companies who successfully use AWS typically see a sharp increase in speed and efficiency and a decrease in deployment time. Here are a few instances: Water utility firms can better evaluate the health of water management systems and water/wastewater treatment facilities by using AWS to produce three cloud-native software-as-a-service (SaaS) solutions from Innovyze, a software startup Autodesk bought in March 2021. By moving data from on-premises to a SaaS solution, scalability was significantly increased, and deployment and time to market were shortened. The sports gaming startup FanDuel Group (FanDuel) moved four linear live-stream channels to Amazon Web Services (AWS) between December 2021 and January 2022. Their third-party video-streaming provider couldn’t manage all the live broadcasts available all day and night, allowing customers to gamble almost in real time. To scale without sacrificing the viewing experience, FanDuel turned to AWS Cloudfront. Cloudfront is a content delivery network solution designed to provide developers with exceptional performance, scalability, security, and ease of use. Toyota leverages AWS to fuel innovation throughout all of its businesses. A next-generation data lake constructed on AWS utilizing Amazon S3, AWS Glue, and Amazon Redshift is used by Toyota North America to collect and analyze data from many production sites. This cloud-based analytics system can track the manufacturing history of each car, enhance customer service, and make smarter decisions regarding the supply chain. The transportation company Scania discovered that its on-premises servers were not able to manage the increasing volume of its connected-truck services, which are Internet of Things (IoT) products that collect vehicle data in almost real-time and transmit updated instructions and data back to vehicles, as its clientele and services expanded. Scania can scale as needed with lower latency and better security by utilizing solutions like AWS Lambda. The company has also created a new hybrid design using AWS services to retain network links with telecom carriers. When Zalando, an online fashion and lifestyle company, moved its media management system to Amazon CloudFront, it improved developer control and consumer experience. To ensure sustained growth and a unique customer experience, the company needed developer insight and power, which CloudFront provided by improving the media management and delivery systems that impact the consumer experience. With the petabyte-level data lake it oversees, Salesforce’s Unified Intelligence Platform (UIP) Team set out to improve data processing and analysis efficiently and cost-effectively. Several instance-provisioning methods created a scalable, elastic computing architecture from Amazon Elastic Compute Cloud (Amazon EC2). Salesforce saves more than $1 million a month because of this improved computing infrastructure, which can process as much data in less time. Key Takeaway s Market Domination and Ongoing Innovation: AWS continues to lead the cloud industry because of its unparalleled capacity and steady innovation. Strategic Alliances for Improved Experience: To optimize data and provide better developer and customer experiences, AWS collaborates with industry leaders such as Salesforce and Zalando. Simplified Cloud Management with Partners: Businesses like Spacelift work with AWS to streamline cloud operations, which improves user management effectiveness. 3RI’s Contribution to AWS Evolution: 3RI AWS continues to empower firms like 3RI to develop scalable solutions, supporting the competitive advantages and the next generation of cloud solutions. Maximizing Career Opportunities: The Impact of AWS Training in Pune Prev Previous Top 10 Java Career Opportunities in 2025: Salary & Job Descriptions Next Top 25 Interview Questions And Answers On Hibernate Java Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/AWS-Blog-Image-3.png",
+        "alt": "AWS in 2025: Key advancements to watch for enhanced cloud efficiency and scalability.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/dc8cbf1a0f.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/5bf7563530.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=aws%2C+Blog&cd%5Bpage_title%5D=The+Next+Big+Things+in+AWS+for+2025&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=106957&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fthe-next-big-things-in-aws-for-2025%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/10-java-career-opportunities-in-2025-with-job-description-and-salary/",
+      "https://www.3ritechnologies.com/2025/01/13/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/maximizing-career-opportunities-the-impact-of-aws-training-in-pune/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/",
+      "https://www.3ritechnologies.com/top-25-interview-questions-and-answers-on-hibernate-java/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "AWS in 2025: Unveiling The Next Big Things in Cloud | 3ritechnologies",
+    "og_description": "Stay ahead of the curve! Discover the next big things in AWS for 2025. We explore emerging trends in GenAI, serverless computing, and cloud security that will define the future of technology.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "The Next Big Things in AWS for 2025",
+            "datePublished": "2025-01-13T06:33:51+00:00",
+            "dateModified": "2025-06-10T04:52:59+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/"
+            },
+            "wordCount": 1736,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/AWS-Blog-Image-3.png",
+            "keywords": [
+              "AWS Blog Design"
+            ],
+            "articleSection": [
+              "aws",
+              "Blog"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/",
+            "url": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/",
+            "name": "AWS in 2025: Unveiling The Next Big Things in Cloud | 3ritechnologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/AWS-Blog-Image-3.png",
+            "datePublished": "2025-01-13T06:33:51+00:00",
+            "dateModified": "2025-06-10T04:52:59+00:00",
+            "description": "Stay ahead of the curve! Discover the next big things in AWS for 2025. We explore emerging trends in GenAI, serverless computing, and cloud security that will define the future of technology.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/AWS-Blog-Image-3.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/AWS-Blog-Image-3.png",
+            "width": 1000,
+            "height": 667,
+            "caption": "AWS in 2025: Key advancements to watch for enhanced cloud efficiency and scalability."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/the-next-big-things-in-aws-for-2025/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "The Next Big Things in AWS for 2025"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

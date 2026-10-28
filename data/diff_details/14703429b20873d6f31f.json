@@ -1,0 +1,312 @@
+{
+  "url": "https://www.3ritechnologies.com/course/wcf-training-course/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "wcf-training-course - 3RI Technologies Pvt Ltd",
+    "meta_description": "3RI is the best institute providing WCF Training in Pune courses, training, certification in Pune with live projects, and job placement assurance.",
+    "h1": [
+      "WCF Training"
+    ],
+    "content": "Home > Courses > wcf-training-course WCF Training WCF Training Course 3RI Technologies offers expert WCF training to help developers master the fundamentals and advanced features of Windows Communication Foundation. This course is designed to build your skills in building distributed applications and services. Whether you're new to WCF or looking to refine your expertise, this training provides hands-on experience with real-world applications, preparing you for a career in .NET development. Learn from experienced instructors and gain confidence in creating secure, scalable, and reliable WCF-based applications. ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.1 out of 5 ★ ★ ★ ★ ★ Rated 5 out of 5 Course Duration 3 Months Live Project 2 Project Certification Guaranteed Training Format Live Online /Self-Paced/Classroom Enroll Now Download Brochure Chat Now Download Brochure & attend Free Online/Classroom Demo Session! Training Mode Online Classroom Select Branch Online Pimple Saudagar Deccan Nal Stop Send Key Features Course Duration : 6 Weeks Real-Time Projects : 2 Project Based Learning EMI Option Available Certification & Job Assistance 24 x 7 Support Syllabus Overview Batch Schedule FAQ's Reviews Enroll Now - Payment WCF Syllabus The detailed syllabus is designed for freshers as well as working professionals Download Brochure Course Content What Is WCF ? Why WCF ? Self I-Losting Difference Between WCF & Web Services Address, Binding & Contract WCF Routed Events: Understanding Routed Events Defining , Registering , and wrapping a Routed Events Sharing Routed Events Raising Routed Events Handling a Routed Events Application: The Application Life Cycle Creating an Application object Application Events Binding: The Binding Expression Binding Errors Binding Modes Retrieving Binding in code Multiple Bindings Binding to Objects that are not elements Binding to Objects that are not elements Commands: WPF Command Model Executing Commands Advanced Commands Resources: Resources in WPF Binary Resources Logical Resources Static versus Dynamic Resources Styles, Templates, Skins and Themes: Styles Style Sharing Triggers Templates Templates Parent’s Properties Skins Themes Multithreading: Understanding multithreading model The Dispatcher The Dispatcher Object The Background Worker WCF Classes in Pune For the WCF training course, it provides in-depth coverage of Windows Communication Foundation (WCF), focusing on key concepts like service-oriented architecture (SOA), service creation, message exchange, and security features. The training prepares professionals for real-world implementation, enhancing their skills in designing scalable, reliable, and secure services. Ideal for .NET developers, this course will equip you with the knowledge to build and deploy WCF services in complex enterprise environments. Participants will gain hands-on experience with practical examples, supported by expert guidance, ensuring readiness for advanced application development. Asp.Net WCF: It is mainly used to create a distributed and interoperable application. WCF applications have entered the .Net 3.0 Framework. It is a framework used to create service-oriented applications. Data can be sent asynchronously from one endpoint to another. I think everyone knows the Web service and thinks: if we already have Web services and access them remotely, why did WCF appear? There are several reasons for this, but now I answer in two words: one is a protocol, and the other is a host. So I will explain these two words later in this article. This means that these applications, which not only run on a single system but can run on multiple systems, are connected across the network. For example, a web service that can be used by different clients. Why we need the WCF application if we already have a web service? Suppose we have two clients: one wants to use a web service, which sends data over the network, using the Http protocol, and wants a response in XML format, to The other wants to send the data, using the web service on the network, using the TCP protocol and responding in binary format; Next, we need to implement a remote. A WCF service consists of three elements, namely: 1) Class of service: a WCF class of service implements certain services as a set of methods. 2) Host environment: a host environment can be a console application or a Windows service or a Windows Form or IIS application, as in the case of the normal asmx 3) Endpoints: all communications with the WCF service will be made through the endpoints. WCF Integration with Other Microsoft Technologies Thanks to this WCF extreme flexibility, WCF is also used in various other Microsoft products. By understanding the basics of WCF, you will also get an immediate advantage if you also use one of these products. The first technology associated with WCF was the Windows Workflow Foundation (WF). Workflows simplify application development by wrapping the workflow steps as “tasks.” In the first version of the Windows Workflow Foundation, a developer had to create a host for the workflow. The next version of the Windows Workflow Foundation has been integrated into WCF. This allowed any workflow to be easily hosted by a WCF service. You can do it by automatically choosing the type of WF / WCF project in Visual Studio 2012 or later. Microsoft BizTalk Server R2 also uses WCF as a communication technology. BizTalk designed to receive and transform data from one standardized format to another. Messages must be delivered to the central mailbox, where the message can be transformed using rigorous mapping or one of the BizTalk features, such as the workflow engine. BizTalk can now use the Line of Business (LOF) WCF adapter to deliver messages to the mailbox. Advantages WCF WCF is interoperable with other services than .Net Remoting, where client and service must be .Net. WCF services offer more reliability and security than ASMX web services. In WCF, it is not necessary to make any changes to the code to implement the security model and change the connection. Minor configuration changes will suit your needs. WCF has a built-in registration mechanism; Changing the settings in the configuration file will provide this functionality. OBJECTIVES : All our trainers have extensive experience in IT Industry and have years of experience in teaching. You will get assistance in resume making and interview preparation. Job Oriented Courses STEP in Cloud Computing STEP in DevOps Mastering Data Science STEP in Python Full Stack STEP in JAVA Full Stack STEP in Software Testing STEP in MEAN Stack Angular STEP in MERN Stack ReactJS STEP in Salesforce STEP in PHP Python Programming Python Programming Web Development in Python Cloud Computing AWS – Amazon Web Services AWS Cloud Practitioner DevOps with AWS DevOps – Dockers And Kubernetes Salesforce Microsoft Azure Data Analytics Data Science Artificial Intelligence Hadoop 2.X BigData Analytics Apache Spark & Scala Hadoop Admin Business Intelligence Tableau – Data Visualization Informatica Development – datawarehosuing Qlikview QlikSense Software Testing Selenium with Java Selenium With Python Tosca Training API Testing JMeter Testing LoadRunner Testing ETL Testing QTP / UFT RPA - Robotic Process Automation RPA- Ui Path Automation Anywhere Java Technology Core Java Advanced Java Spring Hibernate Spring Framework Web Designing & Development UI Development Angular ReactJS MEAN Stack MERN Stack Web Development in Python Database Technology DBMS: Oracle SQL Oracle : PL/SQL Oracle : DBA I/II RAC with Oracle MS SQL SERVER Development MS SQL SERVER DBA MONGO DB Scripting Languages UNIX Shell Scripting Python Programming Perl scripting .Net Technology Diploma in .Net ASP.NET MVC C# Programming WPF Programming WCF Programming Internet Marketing Digital Marketing SEO Training Classes Mobile App Development Android App Development iOS App Development Soft Skills & Aptitude Soft Skills Training Aptitude Training Basic Programming Languages Fundamentals of Computer C Programming C++ Programming Data Structure Industrial Training Industrial Training Blockchain Blockchain Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Batch Schedule Schedule Your Batch at your convenient time. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 Data Science 27-Oct-26 Mon- Thu 12:30 PM Enroll Now 2 Python 24-Oct-26 Sat - Sun 02:00 PM Enroll Now 3 Data Analytics 24-Oct-26 Sat - Sun 12:15 PM Enroll Now 4 GenAI 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 5 Machine Learning & Deep Learning 28-Oct-26 Mon- Fri 04:00 PM Enroll Now 6 PowerBI 24-Oct-26 Sat - Sun 12:00 PM Enroll Now 7 MySQL 27-Oct-26 Tue - Fri 05:30 PM Enroll Now 8 MySQL 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 9 Soft Skills 25-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 26-Oct-26 Mon - Fri 04:00 PM Enroll Now FAQs Most frequent questions and answers 1. Will I get any placement assistance after the course completion? Yes, we provide placement assistance to our students. We have a dedicated team for Placement and tie ups with 300+ MNC’s and SME companies. 2. Will I get any certificate after this course? After the course completion, an exam will be conducted to judge your knowledge along with the live project work completion check and you will be awarded a certificate from 3RI Technologies. 3. Do you provide any demo classes for this course? Yes we conduct demo classes every weekend. Please contact us for more details. I'm Interested in This Program Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Students Reviews If you want to learn new things. 3RI would be the best place for you; I finish many general skills here. They have a professional team and a lot of flexible time, excellent teaching, and a friendly environment. I am very grateful to the Trainer, teaches very kindly. Geeta ***** If you are looking for WCF Programming in Pune, 3RI is the best place. I completed my WCF Programming course for the 3RI. The session is very useful from a professional point of view, which is very useful. If you are ready to learn and need more help in the right direction, 3RI Technologies is the right place Sayama ***** The 3RI Trainer helps me overcome all obstacles. They are cooperative and friendly, with advanced technical skills and programming skills. The good thing is that the Trainer ensures that all candidates are treated equally in all aspects of coding. The best thing is that this post is not only about developing technical details, but also help me develop my personality with all the skills that help me in the interview. Niraj ***** WCF Information Best Technologies To Learn In IT Industry 2020",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/urbonpro.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/cb18c4_aaa5cc27347d4d1f809e1194612f74f6mv2-1-150x150.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/images-3.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/01/22.png",
+        "alt": "Enquire about the 3RI Technologies training program",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=wcf-training-course&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1513&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcourse%2Fwcf-training-course%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/best-technologies-to-learn/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/",
+      "https://www.3ritechnologies.com/course/Mongo-DB-NoSQLDatabase/",
+      "https://www.3ritechnologies.com/course/Perl-Scripting/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/android-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+      "https://www.3ritechnologies.com/course/aptitude/",
+      "https://www.3ritechnologies.com/course/asp-net-mvc-training-in-pune/",
+      "https://www.3ritechnologies.com/course/asp-net-wpf-training-course/",
+      "https://www.3ritechnologies.com/course/automation-anywhere-training-in-pune/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
+      "https://www.3ritechnologies.com/course/big-data-hadoop-training-in-pune/",
+      "https://www.3ritechnologies.com/course/blockchain-training-in-pune/",
+      "https://www.3ritechnologies.com/course/c-programming-classes-pune/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/cpp-programming-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/csharp-training-institute-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/data-structure-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/digital-marketing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-informatica-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/fundamentals-of-computer/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/hadoop-admin-training-in-pune/",
+      "https://www.3ritechnologies.com/course/industrial-training-company-for-bca-mca-students-pune/",
+      "https://www.3ritechnologies.com/course/ios-app-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-j2ee-training-in-pune/",
+      "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/ms-sql-server-dba-training/",
+      "https://www.3ritechnologies.com/course/oracle-dba-certification-course-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-rac-training-in-pune/",
+      "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/qliksense-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qlikview-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qtp-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/reactjs-training-in-pune/",
+      "https://www.3ritechnologies.com/course/rpa-training-in-pune/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/seo-training-in-pune/",
+      "https://www.3ritechnologies.com/course/softskill-training-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/spring-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/sqlserver-dba-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tableau-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/unix-shell-scripting-training/",
+      "https://www.3ritechnologies.com/course/wcf-training-course/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-dot-net-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
+      "https://www.3ritechnologies.com/course/webservices-with-soapui-testing-training/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/payment/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/course/wcf-training-course/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "wcf-training-course - 3RI Technologies Pvt Ltd",
+    "og_description": "3RI is the best institute providing WCF Training in Pune courses, training, certification in Pune with live projects, and job placement assurance.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/course/wcf-training-course/",
+            "url": "https://www.3ritechnologies.com/course/wcf-training-course/",
+            "name": "wcf-training-course - 3RI Technologies Pvt Ltd",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/course/wcf-training-course/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/course/wcf-training-course/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
+            "datePublished": "2019-07-15T06:42:01+00:00",
+            "dateModified": "2025-06-10T10:05:20+00:00",
+            "description": "3RI is the best institute providing WCF Training in Pune courses, training, certification in Pune with live projects, and job placement assurance.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/course/wcf-training-course/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/course/wcf-training-course/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/course/wcf-training-course/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "width": 192,
+            "height": 192
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/course/wcf-training-course/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Courses",
+                "item": "https://www.3ritechnologies.com/course/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "wcf-training-course"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

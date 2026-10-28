@@ -1,0 +1,323 @@
+{
+  "url": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Can Anyone Learn Machine Learning Without a Background in Tech?",
+    "meta_description": "Are you a non-tech professional wondering if you can learn Machine learning and AI? Yes, you can! Find out how non-technical professionals are breaking into Machine Learning—and how you can too.",
+    "h1": [
+      "Can a Non-IT Person Advance in a Machine Learning Career?"
+    ],
+    "content": "Skip to content Home > Can a Non-IT Person Advance in a Machine Learning Career? Can a Non-IT Person Advance in a Machine Learning Career? Explore a practical path to machine learning for non-technical professionals using accessible platforms and guided learning. Table of Contents PriyankaS3ri May 21, 2025 10:44 am In the fast-paced world of technology, terms like Artificial Intelligence (AI) and Machine Learning (ML) are no longer restricted to researchers or programmers. Today, they power everyday tools—whether it’s personalized suggestions on Netflix or virtual assistants like Alexa and Siri. This leads many to wonder: Is it possible for someone without a technical background to master AI and ML? The short answer is yes —and here’s how you can get started. You now have the strategy to leverage your unique background. The next step is to combine that with a complete learning and career action plan. Our full machine learning career guide for beginners shows you the entire path, from day one to your first job offer. This article offers a comprehensive roadmap for non-technical professionals who aspire to develop a career in Machine Learning, detailing the necessary steps, learning paths, practical tools, and long-term strategies. 1. Understanding the Basics of Machine Learning Before diving into technical complexities, it is crucial to build a foundational understanding of what Machine Learning is. Fundamentally, machine learning (ML) is a branch of artificial intelligence (AI) that aims to make it possible for computers to learn from data without explicit programming. Key Concepts to Grasp: Using labeled data to train a model is known as supervised learning. Unsupervised Learning: Identifying patterns in unlabeled data. Reinforcement Learning: To accomplish an objective, models learn by making mistakes. Algorithms: Basic knowledge of algorithms like linear regression, decision trees, and k-nearest neighbors (KNN) is helpful. Recommended Resources: YouTube channels like StatQuest, Simplilearn, or 3Blue1Brown (for visual math concepts) Blogs from Towards Data Science, Analytic s Vidhya Even without a tech background, understanding these concepts conceptually will help ease the transition into more advanced material. 2. Leverage Your Domain Knowledge If you come from a background in business, finance, healthcare, marketing, or any other non-tech domain, your experience is more valuable than you might think. Why Domain Expertise Matters: ML models are only as useful as their real-world applications. One of the most sought-after abilities is the ability to comprehend business difficulties and convert them into machine learning problems. Many organizations look for “translators” — people who can connect business needs with technical teams. For example, a marketing professional can lead an ML initiative to build customer segmentation models or predictive analytics for campaign performance. 3. Strengthen Your Data Literacy Before mastering ML algorithms, becoming comfortable with data is essential. Data literacy includes understanding data types, interpreting statistics, and performing basic analysis. Focus Areas: Basic Statistics: Mean, median, variance, correlation, probability. Data Cleaning: Handling missing values, identifying outliers. Data Visualization: Creating insights through charts and graphs. Tools to Learn: Excel: Still widely used for exploratory data analysis. Tableau or Power BI: For creating visual narratives and dashboards. Google Sheets: Simple and accessible for data manipulation. 4. Learn Programming at a Comfortable Pace Many ML tools today minimize the need for heavy coding. Still, having a basic understanding of programming, especially Python, is vital for deeper involvement in machine learning projects . Why Python? Python is beginner-friendly and has a vast ecosystem of ML libraries (Scikit-learn, Pandas, TensorFlow, etc) Data science and machine learning occupations make extensive use of it. Recommended Approach: Start with interactive platforms like: SoloLearn Google’s Python Class for Beginners Put an emphasis on comprehending functions, loops, data structures (dictionaries, lists), and fundamental file management. The objective is to become “conversational” in code; being a software engineer is not necessary. 5. Use No-Code or Low-Code Machine Learning Platforms To gain hands-on experience without deep programming skills, leverage no-code/low-code platforms. Top No-Code ML Tools: Google AutoML: Upload datasets and build models automatically. Teachable Machine by Google: A fun way to create simple ML models. DataRobot: Offers automated machine learning with minimal coding. H2O.ai: Provides autoML capabilities with a visual interface. These tools help you build intuition and see ML workflows in action, from data preprocessing to model evaluation. 6. Pursue Structured Learning Paths Structured courses provide motivation, community support, and validated learning paths. Many top institutions now offer beginner-friendly ML tracks designed for non-coders. Suggested Courses: AI For Everyone – Focus on business applications. Python, data analysis, and machine learning fundamentals are covered in the IBM Data Science Professional Certificate Google’s Machine Learning Crash Course: Provides conceptual and visual instruction. Certifications from these platforms also strengthen your resume and show commitment. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send 7. Work on Real-World Projects The ideal method to reinforce your learning and obtain real-world experience is through projects. Ideas for Entry-Level Projects: Predictive analytics for sales data (use Excel + Power BI) Customer segmentation using no-code ML platforms Build a churn prediction model using an online dataset Where to Find Datasets: Kaggle UCI Machine Learning Repository Google Dataset Search Document your projects with business context and visuals, then share them on GitHub or a personal portfolio site. This bridges the gap between learning and employment. 8. Join ML Communities and Events Being part of a community accelerates learning, provides mentorship, and keeps you inspired. Where to Get Involved: LinkedIn: Join ML-related groups and follow thought leaders. Kaggle: Compete in beginner-friendly challenges. Meetup: Look for AI/ML meetups in your city. Reddit: Subreddits like r/MachineLearning or r/ LearnMachineLearning Many non-tech ML enthusiasts started by attending events or bootcamps and grew their skills through peer support. 9. Bridge the Technical-Business Gap You don’t have to become a data scientist. Many hybrid roles exist where non-technical professionals can add value in ML environments. Career Paths You Can Target: Data Analyst: Emphasis on data visualization and interpretation. ML Product Manager: Specify ML features and match them to organizational objectives. AI Consultant: Help organizations identify ML opportunities. Technical Project Manager: Coordinate data science teams without coding. These roles typically require understanding ML workflows, asking the right questions, and translating outcomes for decision-makers. 10. Build a Personal Brand in Machine Learning As you learn and create, share your journey online. This signals passion, positions you as a growing professional, and opens networking opportunities. Ways to Build Your Brand: Write blog posts on Medium or LinkedIn about your learning experiences. Share tutorials or project breakdowns. Create a GitHub profile showcasing your code or datasets. Speak at local meetups or webinars. Non-technical ML influencers and educators are increasingly valued for making complex topics accessible. 11. Use What You’ve Learned in Your Present Position You can begin using ML without quitting your work. Determine which procedures in your field stand to gain from predictive analysis or automation. Examples: HR: Predict employee attrition or optimize hiring with resume screening. Marketing: Use clustering models to enhance campaign performance. Healthcare: Predict diseases early by analyzing patient data. Even simple improvements show initiative and build internal credibility for future roles in data science or ML teams. 12. Stay Updated and Keep Adapting ML evolves rapidly. Dedicate time to reading and continuous learning. Follow These: Blogs: Towards Data Science, KDnuggets, Analytics India Podcasts: “Data Skeptic”, “The TWIML AI Podcast” Newsletters: Data Elixir, The Batch (by deeplearning.ai) Even 15 minutes a day can keep you current with trends and breakthroughs. Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Conclusion Breaking into Machine Learning without a technical background is entirely possible — and increasingly common. With strong domain expertise, growing data literacy, and a willingness to learn, you can find your niche in this vast and evolving field. Rather than viewing your non-tech background as a limitation, consider it a strength that allows you to bring fresh perspectives to data problems. By embracing no-code tools, working on real-world projects, and participating in ML communities, you position yourself as a valuable asset in a world increasingly driven by intelligent systems. Machine learning needs more than coders — it needs communicators, strategists, domain experts, and visionaries. 3RI Technologies ‘ doors are wide open; you just need to walk through it. Prev Previous Data Science For a Non-Technical Background Next Why DevOps Developer Fail in DevOps Interviews (And How You Can Succeed) Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/05/Blog-Images-7-2.png",
+        "alt": "You don’t need a tech degree to work in ML. Learn how machine learning for non-technical professionals opens new career doors.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Data-Science-Certified-Professional.png",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/21-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=Can+a+Non-IT+Person+Advance+in+a+Machine+Learning+Career%3F&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=110515&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fhow-to-learn-ml-without-tech-skills%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2025/05/21/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/data-science-for-non-technical-background/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/devops-interview-tips-for-developers/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/",
+      "https://www.3ritechnologies.com/https-www-3ritechnologies-com-ai-machine-learning-career-guide/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Can Anyone Learn Machine Learning Without a Background in Tech?",
+    "og_description": "Are you a non-tech professional wondering if you can learn Machine learning and AI? Yes, you can! Find out how non-technical professionals are breaking into Machine Learning—and how you can too.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Can a Non-IT Person Advance in a Machine Learning Career?",
+            "datePublished": "2025-05-21T05:14:21+00:00",
+            "dateModified": "2026-10-27T16:30:32+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/"
+            },
+            "wordCount": 1299,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/05/Blog-Images-7-2.png",
+            "articleSection": [
+              "Blog",
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/",
+            "url": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/",
+            "name": "Can Anyone Learn Machine Learning Without a Background in Tech?",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/05/Blog-Images-7-2.png",
+            "datePublished": "2025-05-21T05:14:21+00:00",
+            "dateModified": "2026-10-27T16:30:32+00:00",
+            "description": "Are you a non-tech professional wondering if you can learn Machine learning and AI? Yes, you can! Find out how non-technical professionals are breaking into Machine Learning—and how you can too.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/05/Blog-Images-7-2.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/05/Blog-Images-7-2.png",
+            "width": 1000,
+            "height": 667,
+            "caption": "You don’t need a tech degree to work in ML. Learn how machine learning for non-technical professionals opens new career doors."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Can a Non-IT Person Advance in a Machine Learning Career?"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

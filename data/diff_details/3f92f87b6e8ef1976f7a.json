@@ -1,0 +1,331 @@
+{
+  "url": "https://www.3ritechnologies.com/what-is-amazon-fsx/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "What is Amazon FSx? A Complete Guide to AWS FSx for Beginners",
+    "meta_description": "Discover what Amazon FSx is, its key features, benefits, and use cases. Learn how FSx Amazon enhances cloud storage with AWS FSx integration.",
+    "h1": [
+      "What is Amazon FSx in AWS? Everything You Need to Know"
+    ],
+    "content": "Skip to content Home > What is Amazon FSx in AWS? Everything You Need to Know What is Amazon FSx in AWS? Everything You Need to Know Amazon FSx for Lustre is a cloud-native file system that provides fast performance and scalable storage for demanding workloads such as video processing, machine learning, genomics, and high-performance computing (HPC). Amazon FSx for Lustre is designed to be easy to use and provides a simple, scalable, and cost-effective storage solution for Lustre workloads. Amazon FSx for Lustre is built on Amazon S3, making it reliable and durable. Table of Contents madan November 2, 2022 3:51 pm Understanding Amazon FSx and Its Role in AWS Cloud Storage Amazon FSx is a powerful file storage service offered by AWS, designed to support workloads requiring high-performance file systems. Whether you’re dealing with FSx AWS for Windows File Server or Lustre, FSx enhances flexibility, scalability, and speed. Curious about how AWS FSx fits into real-world scenarios or how FSx Amazon supports cloud-native applications? Enroll in AWS certification training from 3RI Technologies to get hands-on with AWS FSx, gain in-demand cloud skills, and accelerate your IT career with certified expertise in Amazon Web Services. Amazon FSx provides an excellent platform where we can interchange the file system as and when required to optimize the file size on the server and balance the load. Amazon FSx is an end-to-end service provided by Amazon Web ServicesAmazon to businesses who want an efficient and high-performing file system in fewer clicks. In this article, we will explore what amazon is FSx in AWS , its essential features, why we need it, its classification, and its benefits for business sustainability. What is amazon FSx? Amazon FSx is a fully managed, high-performance file system that makes it easy to set up and manage file systems in the cloud. Amazon FSx is designed with Amazon S3 and provides several benefits for cloud users. Essential features of Amazon FSx Easy to set up and manage :- Amazon FSx takes care of all the complexity of setting up and managing file systems so that you can focus on your applications. High performance: -Amazon FSx is designed to deliver high performance, making it ideal for use with demanding applications such as video streaming, online gaming, and data analysis. Scalable and highly available: -Amazon FSx is designed to scale automatically to meet the needs of your applications and is highly available to ensure that your applications can always access the file system. Secure: Amazon FSx: – Amazon FSx is an excellent solution for managing file systems for cloud management. Amazon FSx is extremely easy to use due to its user-friendly interface and provides a high level of security for your data. Interested to begin a career in AWS? Enroll now for AWS Training in Pune . Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send Why do we need Amazon FSx? Amazon FSx provides a platform that is a fully managed service for deploying and running file systems on AWS. It is built on the Amazon S3 and offers high performance, availability, and durability. Amazon FSx also supports data encryption, compression, and snapshots. Now that you have understood what FSx is in AWS , let us know why we need it. So what is the need for Amazon FSx? There are a few reasons for availing the facility of Amazon FSx: It can help us save time and money on storage costs. It can help us improve performance and availability. With Amazon FSx, you can launch and maintain file systems without worrying about the underlying infrastructure. Amazon FSx is designed to be highly available and scalable, so you can always access your data when you need it. It can help us meet compliance and regulatory requirements. How can Amazon FSx be beneficial for startups? Amazon FSx can benefit startups because it provides a simple way to launch and manage file systems. It also offers a file system that has high performance and durability, making it a perfect choice for data storage. In addition, Amazon FSx can be used to create storage volumes accessible from anywhere in the world. This can be helpful for startups that need to share data with employees or partners in different countries. A fully managed service that makes it easy for startups to set up and scale a high-performance data file system for their workloads is called Amazon FSx for Lustre. The service provides a cost-effective and easy-to-use solution for startups that need a file system optimized for performance. FSx for Lustre also offers several benefits for startups, including: Easy to set up and scale: The service is easy to set up and scale, so startups can use it quickly and without hassle. Cost-effective: The service is very cost-effective so that startups can save money on their file system infrastructure. High performance: The service is optimized for performance so that startups can get the most out of their file system. Enroll in our AWS Online Training today! Classification of the file system in Amazon FSx Amazon FSx or AWS FSx provides two file system options: the Lustre file and the Windows file. Each file system type has its benefits and drawbacks, so choosing the one that’s right for your needs is essential. The Amazon FSx Lustre file system is designed for elevated-performance computing workloads and supports up to 50 GB file sizes. It also offers a compatible file system with other Lustre-based systems. The Lustre file system is explicitly designed smartly for compute-intensive workloads, such as HPC and machine learning. The Windows file system is designed for enterprise workloads and supports file sizes up to 4 TB. It offers a high degree of compatibility with other Windows-based systems. The Windows file system is designed for general-purpose workloads, such as file storage and processing. Both file systems offer high performance and scalability, but each has the benefits that make it better suited for different workloads. This article will look closely at each file system and compare their features. Setting up Amazon FSx: Follow the below-shared steps to setup the Amazon FSx. Open Amazon Web Services. Tap on the Under the Amazon FSx section, tap on the Create File System Select Amazon FSx for Windows File Server. Give a name to the file system. Now, under the deployment type, and select that desired option. Under Storage Type and Capacity, select that desired Option. Provide Directory and click Next to create a file system. Features of Amazon FSx Data Deduplication: Under the Data Deduplication, Amazon FSx has data deduplication capabilities. Through these amazing features, it can easily figure out and delete all the duplicate sets of data. This feature optimizes the storage space and lets the end-user utilize the resources effectively. Multi-AZ Availability: Amazon FSx facilitates end-user multi-AZ (Availability Zone) deployments. With a Multi-AZ feature, the file system can automatically copy the data around the available zones. Fast Data Transfer: High speed is another feature of Amazon FSx. It lets the end-user experience superfast data transfer, through which the files can be accessed more quickly. This feature seems really helpful for applications and workloads in which high data speed is required for smooth functioning. Audit Logging: Audit logging is another beautiful feature offered by Amazon FSx. Through Amazon FSx, the end-user can easily track and monitor file system activity. The audit logging system provides the end-user with detailed logs necessary for audit, compliance, and maintaining a secure and robust environment. Customization with AWS Marketplace: Undoubtedly, Amazon FSx gets integrated with the Amazon Web Services marketplace. Through this functionality, the file system gets customized easily with other third-party applications or software. This feature provides a dedicated file storage space to cater to the end-user’s requirements for their business. Automatic Backups: The data is valuable, and Amazon FSx knows it well. Considering this, Amazon FSx offers you an auto-backup facility. It creates backups of the created file system to mitigate data loss in case of natural hazards or accidents. This feature ensures that your confidential and valuable information is super safe and stored. Also, it supports data restoration. 3. Amazon Fsx for Windows File Server Overview of FSx for Windows File Server Amazon FSx for Windows File Server is very helpful for Windows applications in the AWS Cloud. It provides a complete solution with all the features and support. Amazon FSx for Windows File Server provides the end-user with a complete Microsoft Windows file system so that Windows-based applications can be easily moved to AWS. Amazon FSx built on Windows Server. It offers the compatibility and facilities that Microsoft apps depend on. Considering the complete support for the SMB protocol and Windows NTFS. Furthermore, Amazon FSx utilizes SSD storage space that offers fast performance with low latency. Along with it, Amazon FSx also optimizes TCO with data duplication, reducing service costs by 40–60% for file sharing. Details and Benefits Data Deduplication: Amazon FSx has data deduplication capabilities, through which it can easily figure out and delete all the duplicate sets of data. This amazing feature optimizes the storage space so that the end-user uses the resources more efficiently. Multi-AZ Availability: Amazon FSx provides multi-AZ (Availability Zone) deployments. With the Multi-AZ feature, the file system automatically replicates the data around the available zones (Multi-AZ). Simplified File Storage Management: Amazon FSx for Windows File Server provides a fully managed Windows file system, reducing the operational overhead for businesses. The organization can focus more on their core functionalities rather than handling complex file storage infrastructure. High Performance: FSx offers high-performance file storage, utilizing the Windows Server architecture. It provides SSD storage, provides low-latency access to data, and supports throughput and IOPS requirements for a broad range of apps. Seamless Integration with the Microsoft Ecosystem: As a fully compatible Windows file system, Amazon FSx integrates seamlessly with Microsoft Active Directory (MAD), enabling organizations to leverage existing user permissions and access controls. The integration simplifies user authentication and authorization processes and ensures a smooth transition for Windows-based apps. Elasticity: FSx allows for easy scalability, allowing organizations to adjust their file system capacity and throughput based on evolving storage needs. This elasticity ensures that businesses can adapt to changing workloads and scale their file storage resources as required. Amazon FSx for Lustre Overview of FSx for Lustre The Lustre File System is an open-source system that exceptionally supports many of the requirements of the leadership section. It offers a high-performance file system optimized for fast processing of workloads, including machine learning, video processing, and financial modeling. Amazon FSx for Lustre facilitates the end-user with a fully managed high-performance file system, through which the file-based application can easily access 100 GB of data with sub-millisecond latencies. Also, Amazon FSx works closely with Amazon S3. This lets the user access S3 objects as files to run for hours. Details and Benefits Amazon FSx for Lustre is a widely acknowledged open-source file system that is built for high-performance workloads such as HPC, machine learning, and media processing. A parallel file system provides the user with high throughput for processing bulk data with minimum latencies. It stores data across different connected servers so that hundreds or thousands of instances can communicate concurrently. Lustre file system facilitates a file system interface called POSIX-compliant interface. Amazon FSx accesses 100 GB of data per second and millions of input/output operations (I/O). Amazon FSx for Lustre incredibly supports file access to thousands of EC2 (Elastic Compute Cloud) (a web service). The Amazon FSx for Lustre provides file storage facilities for high-performance workloads such as video rendering and seismic exploration. Amazon FSx for NetApp ONTAP Amazon FSx for NetApp ONTAP is a complete package and managed service through which customers can launch and run file systems using the NetApp ONTAP operation system (OS). The NetApp ONTAP has amazing features, and the end user does not need to configure and manage storage devices and software. Benefits of Amazon FSx for NetApp ONTAP It provides simple, scalable shared file storage that users can access from any workstation running on AWS. Users can easily launch and run shared file storage. Users can leverage ONTAP’s data management capabilities with fewer taps. Ample file storage helps in building, testing, and running cloud-native applications. Offers powerful features like multi-protocol access to data, instant data cloning, cross-region replication, etc. With NetApp ONTAP, users can migrate their data to AWS and experience scalability and resiliency. Amazon FSx and NetApp ONTAP support Network File System (NFS) and Server Message Block (SMB) protocols. Amazon FSx for NetApp ONTAP has two storage types: primary and capacity pool storage. One can use Amazon FSx for NetApp ONTAP, they must have or should create an AWS account. Understanding FSx Pricing Undoubtedly, Amazon has great products and services as compared to its other competitors. To get web services, users are required to pay for the number of resources they have opted for. Similarly, to gain other Amazon services like Amazon FSx, end-users are billed for the resources they are willing to use, and there are no setup charges. Criteria on which the pricing of Amazon FSx for Windows File Server depends are enlisted below: Storage Capacity SSD IOPS Throughput Capacity Backups Data Transfer Pricing S.NO Particular Charges 1 SSD storage capacity $0.130 per GB-month 2 HDD storage capacity $0.013 per GB-month 3 SSD IOPS $0.012 per IOPS-month 4 Throughput capacity $2.200 per Mbps-month 5 Backup storage $0.050 per GB-month Criteria on which pricing of Amazon FSx for Lustre depends on are enlisted below: File system storage Backups Data compression Data transfer Pricing S.NO Particular Charges ( per GB-month) 1 Persistent file systems 125 MB/s/TiB $0.145 250 MB/s/TiB $0.210 500 MB/s/TiB $0.340 1,000 MB/s/TiB $0.600 2 Scratch file systems 200/MB/s/TiB $0.140 3 Backup Storage $0.050 Amazon FSx Limits S.No Resource Default Limit Can be increased Up To 1 Number of file systems 100 Thousands 2 Total storage for all file systems 512 TiB Multiple PiBs 3 Total throughput capacity for all file systems 10 GBps Hundreds of GBps 4 Total number of user-initiated backups for all file system 500 Thousands AWS FSx vs. EFS What is the difference? Both Amazon FSx and Amazon EFS are file storage services offered by Amazon Web Services (AWS). But both the Amazon FSx and Amazon EFS have some key differences in terms of use cases, performance, and features. Check out the difference between the two, shared below: Use Cases: . Amazon FSx: It is designed for Windows and Lustre file systems. . Amazon EFS is a fully managed file storage service that supports the Network File System (NFS) protocol. Operating Systems: . Amazon FSx supports Windows-based file systems and Lustre. . Amazon EFS is primarily designed for Linux-based workloads, as it uses the NFSv4 protocol. Performance: . Amazon FSx provides high-performance storage for Windows workloads and Lustre-based HPC workloads. It offers features like SSD-based storage, automatic backups, and multi-AZ deployments. . Amazon EFS: Offers good performance for a wide range of workloads but might not provide the same level of performance as FSx, especially for high-throughput applications. Durability and Availability: . Amazon FSx offers features like automatic backups, multi-AZ deployments, and data deduplication. . Amazon EFS provides a high level of durability and availability by replicating data. Cost: . Amazon FSx: Pricing is based on factors such as storage capacity and provisioned throughput. . Amazon EFS: Pricing is based on the amount of data stored and the provisioned throughput capacity (pay-as-you-go model). Benefits of Amazon FSx Amazon FSx for Lustre is a cloud-native file system that provides fast performance and scalable storage for demanding workloads such as video processing, machine learning, genomics, and high-performance computing (HPC). Amazon FSx for Lustre is designed to be easy to use and provides a simple, scalable, and cost-effective storage solution for Lustre workloads. Amazon FSx for Lustre is built on Amazon S3, making it reliable and durable. Amazon FSx for Lustre is an excellent solution for workloads that require fast performance and scalable storage. Amazon FSx for Lustre is easy to use and provides a simple, scalable, and cost-effective storage solution for Lustre workloads. Amazon FSx for Lustre is built on Amazon S3, making it reliable and durable. Amazon FSx is a fully managed service that makes it easy to set up and maintain file systems in the cloud. Amazon FSx provides two file system options: Lustre and Windows File Server. Luster is a high-performance file system for compute-intensive workloads such as machine learning and video processing. Windows File Server is a fully managed file server compatible with the Windows Server file system. Amazon FSx provides several benefits over on-premises file systems, including scalability, availability, and performance. Amazon FSx is also highly reliable and durable, with built-in backup and disaster recovery capabilities. Check out AWS Cloud Practitioner Training and get certified today. How to migrate workload using Amazon FSx? Migrating data and applications to the cloud can be a daunting task. There are many factors to consider, such as which cloud platform to use, how to move data securely, and how to ensure smooth application performance. AWS FSx can help you migrate data and applications to AWS quickly and easily. FSx provides a fully managed, highly available, and scalable file storage solution optimized for big data, machine learning, and media processing. This article will show how to use FSx to migrate data and applications to AWS. First, you need to create an FSx file system. You can do this using the AWS Management Console, the AWS CLI, or the AWS SDK. Once your file system is created, you can start migrating data. We can use the Amazon web services Management Console as well. Migrating a workload to Amazon FSx involves the following steps: 1. Create an Amazon FSx for the Lustre data repository. 2. Install the Amazon FSx for Lustre Agent on your on-premises file server. 3. Configure the Amazon FSx for Lustre Agent to connect to your Amazon FSx for Lustre file system. 4. Use the Amazon FSx for Lustre Agent to migrate your data to Amazon FSx for Lustre. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes How do Amazon FSx increase development and test agility? Amazon FSx for Lustre is a high-performance file system tailor-made for development and test workloads. It is designed to improve growth and test agility by providing a fast, easily-deployed, scalable file system that is fully compatible with the POSIX-compliant APIs used by many applications. Amazon FSx for Lustre also has features that make it easy to manage and monitor your file system, such as fine-grained permissions and integration with Amazon Cloud Watch. Check this out if you are looking for an Amazon Web Services Course . Amazon FSx Accelerate Media & Entertainment workloads Amazon FSx provides a fully managed service that makes it easy to set up and operate fast, highly available, and scalable file storage for media and entertainment workloads. With Amazon FSx, you can launch and run production-grade file systems in the cloud without provisioning or managing any underlying storage infrastructure. Amazon FSx is built on industry-leading storage technologies and provides added features and benefits specifically designed for media and entertainment workloads. Amazon FSx provides two storage options. Amazon FSx for Lustre: A high-performance file system for compute-intensive workloads such as video processing, computer-aided design (CAD), and machine learning. Amazon FSx for Windows File Server: A fully managed service that provides a familiar Windows Server interface and features and supports fully compatible SMB clients. How does amazon FSx simplify business sustainability? Amazon FSx makes it easy to sustain business growth while ensuring environmental sustainability. The service offers many features that help businesses reduce their carbon footprint and energy consumption. For example, Amazon FSx provides a comprehensive data center management solution that helps companies optimize their operations for efficiency and sustainability. For more Trending and Job-Oriented courses check 3RI Technologies AWS Training Offered In Other Locations Are: Pune Bangalore Mumbai Delhi Noida Hyderabad Chennai Ahmedabad Kochi Kolkata Prev Previous Front-End vs Back-End: Which Web Development Path is Right for You? Next Google Data Studio vs Power BI – A Complete Comparison Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/11/what-is-aws-fsx.jpg",
+        "alt": "what is aws fsx",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-An-AWS-Certified-Professional.png",
+        "alt": "Become An AWS Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Cloud+Computing&cd%5Bpage_title%5D=What+is+Amazon+FSx+in+AWS%3F+Everything+You+Need+to+Know&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=73695&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-amazon-fsx%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2022/11/02/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/madan/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
+      "https://www.3ritechnologies.com/course/aws-online-training/",
+      "https://www.3ritechnologies.com/course/aws-training-in-ahmedabad/",
+      "https://www.3ritechnologies.com/course/aws-training-in-bangalore/",
+      "https://www.3ritechnologies.com/course/aws-training-in-chennai/",
+      "https://www.3ritechnologies.com/course/aws-training-in-delhi/",
+      "https://www.3ritechnologies.com/course/aws-training-in-hyderabad/",
+      "https://www.3ritechnologies.com/course/aws-training-in-kochi/",
+      "https://www.3ritechnologies.com/course/aws-training-in-kolkata/",
+      "https://www.3ritechnologies.com/course/aws-training-in-mumbai/",
+      "https://www.3ritechnologies.com/course/aws-training-in-noida/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/front-end-vs-back-end-developer/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/google-data-studio-vs-power-bi/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-amazon-fsx/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/what-is-amazon-fsx/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "What is Amazon FSx? A Complete Guide to AWS FSx for Beginners",
+    "og_description": "Discover what Amazon FSx is, its key features, benefits, and use cases. Learn how FSx Amazon enhances cloud storage with AWS FSx integration.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/what-is-amazon-fsx/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/what-is-amazon-fsx/"
+            },
+            "author": {
+              "name": "madan",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e"
+            },
+            "headline": "What is Amazon FSx in AWS? Everything You Need to Know",
+            "datePublished": "2022-11-02T10:21:41+00:00",
+            "dateModified": "2025-05-12T08:09:42+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-amazon-fsx/"
+            },
+            "wordCount": 3189,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-amazon-fsx/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/11/what-is-aws-fsx.jpg",
+            "keywords": [
+              "AWS Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Cloud Computing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-amazon-fsx/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/what-is-amazon-fsx/",
+            "url": "https://www.3ritechnologies.com/what-is-amazon-fsx/",
+            "name": "What is Amazon FSx? A Complete Guide to AWS FSx for Beginners",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-amazon-fsx/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-amazon-fsx/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/11/what-is-aws-fsx.jpg",
+            "datePublished": "2022-11-02T10:21:41+00:00",
+            "dateModified": "2025-05-12T08:09:42+00:00",
+            "description": "Discover what Amazon FSx is, its key features, benefits, and use cases. Learn how FSx Amazon enhances cloud storage with AWS FSx integration.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/what-is-amazon-fsx/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-amazon-fsx/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/what-is-amazon-fsx/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2022/11/what-is-aws-fsx.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/11/what-is-aws-fsx.jpg",
+            "width": 700,
+            "height": 466,
+            "caption": "what is aws fsx"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/what-is-amazon-fsx/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "What is Amazon FSx in AWS? Everything You Need to Know"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e",
+            "name": "madan",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "caption": "madan"
+            },
+            "url": "https://www.3ritechnologies.com/author/madan/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

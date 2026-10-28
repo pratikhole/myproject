@@ -1,0 +1,341 @@
+{
+  "url": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Top Data Analyst Interview Questions and Answers for Freshers & Experienced",
+    "meta_description": "Explore the most-asked data analyst interview questions for freshers and professionals. Boost your prep with technical Q&As and shape your data analyst career path. Enroll in data analyst courses by 3RI Technologies for career success.",
+    "h1": [
+      "Top Data Analyst Interview Questions and Answers"
+    ],
+    "content": "Skip to content Home > Top Data Analyst Interview Questions and Answers Top Data Analyst Interview Questions and Answers The realm of data analysis holds immense significance in the contemporary digital landscape, making it an exciting and sought-after career choice for both freshers and experienced professionals. However, the path to landing a data analyst position is not without its challenges, and a key hurdle lies in the interview process. To help you navigate this critical stage with confidence and expertise, we have curated a comprehensive guide to the most common data analyst interview questions and their corresponding answers. Table of Contents PriyankaS3ri May 20, 2023 2:53 pm The realm of data analysis holds immense significance in the contemporary digital landscape, making it an exciting and sought-after career choice for both freshers and experienced professionals. However, the path to landing a data analyst position is not without its challenges, and a key hurdle lies in the interview process. To help you navigate this critical stage with confidence and expertise, we have curated a comprehensive guide to the most common data analyst interview questions and their corresponding answers. Preparing for a data analytics job? Get ahead with the most relevant data analyst interview questions for freshers, including real-world scenarios and technical interview questions and answers. Whether you’re starting your journey or pivoting into analytics, knowing what to expect in interviews is key to success. At 3RI Technologies, our data analyst courses equip you with practical knowledge to ace interviews and grow your data analyst career path. Dive into our curated list of data analytics interview questions designed to sharpen your concepts and improve your confidence. By delving into this compilation of interview questions and expert answers, you will gain a competitive edge, enhance your interview performance, and increase your chances of securing your dream data analyst position. So, let’s embark on this enriching journey and equip ourselves with the knowledge and confidence necessary to ace any data analyst interview! Must-Know Data Analyst Interview Questions for Freshers and Professionals Q1. What responsibilities does a Data Analyst have? Among the many responsibilities of a data analyst are the following: Displays the results using statistical methods after collecting, analyzing, and reporting the data. Identifying and analyzing patterns or trends in large, complicated data sets. Identifying business needs while working with management or other business teams. Consider areas or processes where improvements can be made. Data set commissioning and decommissioning. Follow the rules when you’re dealing with private data or information. Analyze the modifications and enhancements made to the production systems of origin. End users should be given instructions on how to use new reports and dashboards. Help with data extraction, data cleansing, and data storage. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Q2. List some of the most important skills required of a data analyst. The following are essential abilities for a data analyst: Understanding databases (such as SQL, SQLite, etc.), programming languages (such as XML, JavaScript, and ETL), and reporting tools (such as Business Objects) is crucial. The ability to collect, arrange, and disseminate vast amounts of data correctly and effectively. Capability to create databases, construct data models, conduct data extraction, and segment data. Excellent knowledge of statistical software (SAS, SPSS, Microsoft Excel, etc.) for analyzing huge datasets. Cooperation, skill in addressing problems, and verbal and written communication. Exceptionally good at writing reports, presentations, and inquiries. Understanding of data visualization tools like Tableau and Qlik. The ability to create and apply the most exact algorithms on datasets to obtain results. Q3. What is the procedure for data analysis? Data analysis is often used to collect, purify, interpret, alter, and model data to provide reports that help firms become more profitable. The process’s different steps are depicted in the diagram below: Data Collection – The data is gathered from various sources and stored for cleaning and preparation. Outliers and any missing values are eliminated in this step. Data Analysis – The next stage is to analyze the data as soon as it is ready. Repeatedly running a model leads to improvements. The model is then validated to ensure it meets the specifications. Make Reports – In the end, the model is used, and reports are produced and given to the relevant parties. Q4. Define the term “Data Wrangling in Data Analytics.” Data Wrangling is the process of cleansing, structuring, and enriching unprocessed data into a format usable for decision-making enhancement. It entails locating, organizing, cleansing, enhancing, validating, and analyzing data. This procedure can transform and map vast quantities of data extracted from diverse sources into a more helpful format. Data analysis techniques include merging, aggregating, concatenating, joining, and sorting. After that, it is prepared for use with another dataset. Q5. What are the most prevalent issues data analysts face during analysis? These stages are often included in every analytics project to address issues: Managing duplication collecting important information at the proper time and location addressing the issue of data deletion and storage securing data and addressing issues with compliance Q6. Which technical instruments have you utilized for purposes of analysis and presentation? As a data analyst, you must be conversant with the analysis and presentation tools listed below. . You should be familiar with the following standard tools: MySQL and MS SQL Server for working with relational databases’ stored data MS Excel, Tableau For making dashboards and reports Python, R, SPSS To conduct exploratory analysis, data modeling, and statistical analysis MS Powerpoint Displaying the results and critical conclusions for presentations. Q7. Briefly describe data cleansing. Data wrangling is another name for data cleanup. It is a systematic approach for locating and safely deleting erroneous data to ensure the highest degree of data quality, as the name indicates. Here are a few techniques for cleansing data: Understanding where frequent errors occur will help you create a data cleaning plan. Also, maintain all lines of communication open. Find and eliminate duplicates before modifying the data. This will make the process of analyzing the data simple and efficient. Ensure that the data are accurate. Create mandatory constraints, retain the value types of the data, and set cross-field validation. Make the data more orderly at the entering point by normalizing it. There will be fewer entry errors because you can ensure all the information is uniform. Q8. What is Exploratory Data Analysis (EDA) significance? Exploratory data analysis (EDA) aids in making sense of the data. It aids in building your data’s confidence to the point where you are prepared to use a machine-learning algorithm. You can use it to improve the feature variables you choose to include in your model. The data might help you find hidden trends and insights. Q9. To put it simply: what is data analysis? Data analysis is a structured process involving collecting, purifying, transforming, and evaluating data to derive insights that can generate revenue. Information is initially gathered from a variety of sources. The data must be cleaned and processed because it is a raw, unprocessed entity to fill in any gaps and remove any irrelevant entities for the intended usage. Models that use the data to analyze it can be used to examine it after pre-processing. The final phase entails reporting and ensuring that the data produced is transformed to accommodate an audience that needs to be more technically savvy than the analysts. Interested to begin a career in Data Analytics? Enroll now for Data Analytics Courses in Pune . Q10. Which methods of validation are utilized by data analysts? During the data validation procedure, assessing the source’s credibility and the data’s precision is crucial. There are numerous approaches to validating datasets. Data validation techniques used commonly by data analysts include: Validation at the Field Level This method validates data as it is being entered into a field. As you proceed, you might make corrections. Validation at the Form Level This style of validation occurs after the user has submitted the form. A data entry form is inspected once, every field is validated, and errors (if any) are highlighted for the user to correct. Validation at the data-saving level This data validation method is applied when a file or database record is saved.It is typically performed when multiple data entry forms require verification. Validation of Search Criteria This validation method provides users with suitable matches for their searched keywords or phrases. This validation method’s primary goal is to make sure that the user’s search queries may produce the most relevant results. Q11. What should a data analyst do with doubtful or omitted data? In this situation, a data analyst must: Data analysis tools, such as the deletion method, single imputation procedures, and model-based methods, are used to discover missing data. Create a validation report that includes all the alleged or omitted data details. Determine the integrity of the dubious information by examining it. Any invalid data should be replaced with an appropriate validation code. preparing a model for the missing data Predict the values that are missing. Q12. What exactly is the K-mean algorithm? Using the K-mean partitioning technique, objects are divided into K groups.This method uses spherical clusters, data points centered around each cluster, and similar cluster variances. Since it already knows the clusters, it computes the centroids.Finding the various categories validates the assumptions of the company. .It is advantageous for various reasons, including its capacity to manage large data sets and its adaptability to new instances. Q13. What statistical methods are highly advantageous for data analysts? The only way to get reliable results and accurate forecasts is to use the appropriate statistical analysis techniques. To provide a trustworthy response to the analyst interview questions, conduct thorough research to identify the top ones most analysts utilize for various activities. Bayesian approach Markov chain Algorithm simplex Imputation Cluster and spatial processes Outliers detection, rank statistics, and percentile Optimization in mathematics Additionally, data analysts apply a variety of data analysis techniques, including: Descriptive Inferential Differences Associative Predictive Q14. What are the various forms of hypothesis testing? Scientists and statisticians employ the process of hypothesis testing to confirm or disprove statistical hypotheses. The two primary kinds of hypothesis testing are: Null Hypothesis claims no connection exists between the population’s predictor and outcome factors. H0 indicated it. Example: There is no correlation between the BMI of a patient and diabetes. Alternative Hypothesis – It claims some relationship exists between the population’s predictor and outcome factors. The symbol for it is H1. Example: The BMI of a patient and diabetes may go hand in hand. Q15. Time Series Analysis: What Is It? Time series analysis, or TSA, is a statistical method often used to analyze trends and time-series data. The time-series data comprises information that shows up at regular intervals or times. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Q16. Where can Time Series Analysis be applied? Time series analysis (TSA) can be applied in various fields because of its broad range of applications. The following are some instances where the TSA is crucial: Statistics Processing of signals Econometrics weather prediction earthquake forecast Astronomy Practical science Q17. Hash table collisions: what are they? How does one avoid it? A “hash table collision” occurs when two distinct keys hash to the same value. Two data cannot be kept in the same position in an array. There are several ways to prevent hash table collisions; here, we discuss two. Separate Cleaning The data structure stores many items that hash to the same slot. Open Addressing Using a second function, it looks for more slots and stores the item in the first empty one. Q18. What is imputation? What are the various imputation strategies available? We substitute values for missing data during imputation. The various imputation strategies used include Single Imputation Punch card technology is used in hot-deck imputation to impute a missing value from a randomly chosen related record. Cold deck imputation is similar to hot deck imputation in operation, but it is more sophisticated and chooses donors from additional databases. Mean imputation: This technique includes substituting a missing value for all other instances with the variable’s mean. Replace missing values with a variable’s expected values based on other variables using regression imputation. Stochastic regression is identical to regression imputation, except it also incorporates the average regression variance. Multiple Imputation Numerous imputations, as opposed to single imputations, make multiple values estimations. Q19. Describe the qualities of a good data model. The following characteristics are necessary for a data model to be good and developed: It performs predictably, making it possible to estimate the results as exactly or as precisely as is practical. It must be adaptable and quick to consider these changes as business needs change. The model should be adaptable to variations in the data. It should enable customers and clients to derive precise and advantageous benefits. Q20. Mention the stages of the Data Analysis project. These are the fundamental stages of a Data Analysis project: The essential requirement for a Data Analysis assignment is a thorough comprehension of the business requirements. The second stage is identifying the data sources most pertinent to the business’s needs and obtaining the data from reputable and verifiable sources. The third step is exploring the datasets and cleaning and organizing the data to understand the data at hand. Data Validation is the fourth phase Data Analysts must complete. The fifth phase consists of using the datasets and keeping track of them. The final phase is to generate a list of the most likely outcomes and repeat the process until the desired results are achieved. Data analysis should make it easier to make wise decisions. The data analysis initiatives are the means to reach this objective. During the above mentioned process, for instance, analysts utilize historical data, which is then presented in a readable format to facilitate decision-making. Q21. Describe the hash table Most often, hash tables are described as associative data storage systems. Data is typically stored in this format as an array, giving each value a different index. A hash table creates an index into a collection of slots using the hashing technique so that we can retrieve the desired data from those slots. Q22. “Collaborative Filtering” definition. A collaborative filtering algorithm creates a recommendation system based on user behavioral data. .For instance, online purchasing sites frequently generate a list of “recommended for you” products based on browsing history and previous purchases. Users, items, and their interests are critical elements of this algorithm. It is used to increase the range of options available to users.Online entertainment is another industry where collaborative filtering is used. For instance, Netflix displays recommendations based on user activity. Q23. Differentiate variance and covariance In statistics, the words variance and covariance are both employed.The variance displays the deviation from the average two values (quantities). Therefore, you will only be aware of the relationship’s size (the degree to which the data deviates from the mean). It calculates how far away from the mean each number is.It could be described as a variability measure. Covariance, on the other hand, shows how two random variables change together. The amount and direction of the link between two items are thus provided by covariance. Moreover, how two variables relate to one another, two variables would be positively connected if their covariance was positive. If you wish to pursue a Data Science course in Pune , then you can always drop by at 3RI Technologies. Q24, Explain the differences between univariate, bivariate, and multivariate analyses. “Univariate analysis” is a descriptive statistical technique applied to datasets with only one variable. The univariate analysis considers both the values’ range and their central tendency. Each piece of data must be examined separately. It might be either descriptive or inferential. It can produce erroneous findings. Height is an illustration of univariate data. There is only one variable, height, in a group of pupils. The bivariate analysis examines two variables to investigate the potential for an empirical relationship between two variables. It attempts to determine whether there is a relationship between the two variables, the strength of that relationship, whether there are differences between the variables and the significance of those differences. The employees’ salaries and experience levels are two examples of bivariate data. The application of bivariate analysis is multivariate analysis. The multivariate analysis’s foundation in multivariate statistics predicts each subject’s value for a dependent variable by observing and analyzing two or more independent variables simultaneously. Student-athletes receiving sports awards, along with their class, age, and gender, are examples of multivariate data. Q25. What makes R-Squared and Adjusted R-Squared different? R2 measures the variation in a dependent variable that can be attributed to a change in an independent variable..The Adjusted R-Squared is an R-squared that has been updated to consider the number of predictors in a model. It gives the percentage of variance that can be accounted for by a given set of independent factors directly affecting the dependent variables. R Squared assesses how well a regression fits the data; a more excellent R squared indicates a strong fit, whereas a lower R squared indicates a poor match. On the other hand, the Adjusted R Squared accounts for variables that had a tangible impact on the performance model. Data Analyst Interview Questions And Answers For Experienced Q26, What are the advantages of version control? The primary benefits of version management are – It allows you to seamlessly compare files, identify differences, and merge the modifications. It aids in keeping track of application builds by distinguishing which version belongs to which category – development, testing, QA, or production. It maintains a comprehensive history of project files, which is helpful in a major server failure. It is superb for securely storing and managing multiple code file versions and variants. It enables you to view the modifications made to the content of various files. Q27. How are outliers identified? There are numerous methods for identifying outliers, but the two most prevalent are as follows: Standard deviation method: A value is considered an anomaly if it is three standard deviations below or above the mean value. Box plot method: An outlier is a result that is less than or greater than 1.5 times the interquartile range (IQR). Q28. How should one handle questionable or missing data while analyzing a dataset? A user can use any of the following techniques if there are any data inconsistencies: Making a validation report that includes information about the data under discussion Sending the situation up to a skilled data analyst for review and a decision replacing the inaccurate data with a similar set of accurate and current data finding missing values by combining several methods and, if necessary, employing approximation Q29. Explain the concept of Hierarchical clustering. Hierarchical cluster analysis is an approach that uses similarity to categorize items. We get a collection of unique clusters after doing hierarchical clustering. This clustering method can be classified into two categories: Agglomerative Clustering (which deconstructs clusters using a bottom-up strategy) Divisive Clustering (which employs a top-down approach to disassemble clusters) Q30: Please define Map Reduction. Map-reduce is a framework for partitioning huge data sets into subsets, processing each subset on a different server, and then merging the results from each server. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Q31. Describe bar graphs and histograms. Histograms: A histogram is the most popular way to show how often something happens. A histogram is a set of straight bars whose areas are the same size as the number of times they appear in a frequency distribution. On the horizontal (x) axis are the class intervals of the variables, and on the vertical (y) axis are the rates of the class intervals. Bar graphs: Bar graphs are the most common and well-known way to show information visually. It shows the amounts of data grouped into categories on chartsOne of two ways to draw a bar graph is vertically or horizontally. The categories are displayed on the left side of a vertical bar graph (the x-axis), and the numbers are displayed on the right (the y-axis). Q32. How exactly is machine learning? Artificial intelligence (AI) is used in machine learning, which teaches computers to learn from past data and build their capacity for future prediction. Many various industries, including healthcare, financial services, e-commerce, and automotive, to mention a few, use machine learning extensively. Q33. What disadvantages does data analytics have? Data analytics has few disadvantages compared to its profusion of advantages. The following summary contains some disadvantages: Personal information about customers, such as transactions, purchases, and subscriptions, may be compromised due to data analytics. Specific instruments are complex and require training beforehand. It takes excellent knowledge and experience to select the ideal analytics instrument each time. Q34. What exactly is an N-Gram? An n-gram is a way to determine what comes next in a list, common words, or speech. N-grams use a probabilistic model that takes as input strings of words that come one after the other. This could include sounds, words, phonemes, and other things. It then predicts what will happen next using what you told it. Q35. What differentiates a data lake from a data warehouse? Data storage is a significant issue. Big data companies have been making headlines frequently recently as they work to realize their full potential. For the layperson, classic databases typically handle data storage. Businesses utilize data warehouses and data lakes to store, manage, and analyze vast quantities of data. Data Warehouse – This is the best location to keep all the information you collect from various sources. A data warehouse is a centralized facility that houses information from several sources, including operational systems. . It is a common technique for integrating data across the team- or department silos in mid and large-sized businessesIt compiles data from several sources and manages it to provide relevant business information. Data warehouses can be of various distinct types, including: Enterprise data warehouse (EDW): Offers overall organization-wide decision assistance. Operational Data Store (ODS): Offers features like reporting employee or sales data. Data Lake – Data lakes are enormous storage devices that hold raw data in their original state until needed. The volume of data enhances analytical performance and native integration. It takes advantage of data warehouses’ fundamental flaw: their lack of flexibility. Planning and data analysis expertise is unnecessary in this case because the analysis is believed to occur later and when needed. Q36. What is SAS Interleaving? Interleaving is the process of combining multiple sorted SAS data sets into a single set. By combining the SET and BY statements, it is possible to interleave data sets. The new data set contains the same number of observations as the sum of the original data sets. Q37. What are the most effective methods for addressing missing data values in a dataset? Regression Substitution, Listwise Deletion, Multiple Imputations, and Average Imputation are the four most effective methods for handling missing values in a dataset. SkyRocket your career with our course Data Engineering Training with Placement Q38. What is an affinity diagram? Affinity diagrams are a technique for classifying massive amounts of linguistic data (ideas, viewpoints, and concerns) based on their inherent connections. The Affinity technique is widely used to group ideas after a brainstorming session. Q39. What do you mean when you say “slicing”? A flexible technique for generating new lists from old ones is slicing. Python’s slice notation supports various data types, including ranges, lists, strings, tuples, bytes, and byte arrays. A functionality that allows users to set the slicing’s beginning and end points is also available. Q40. Why is Naive Bayes considered “naive”? It is called naive because it assumes all data are unquestionably significant and unrelated. This is inaccurate and will not hold up in a real-world scenario. Q41. How are problems resolved when data is compiled from multiple sources? Multiple strategies exist for handling multi-source problems. However, these can be done primarily by considering the following issues. Identifying duplicate records and merging them into a single document. Schema reorganization for the best possible integration of the schema. Q42. What libraries in Python are used for data analysis? For Scientific Computing, using Numpy and Scipy, Pandas for data analysis and manipulation, Matplotlib for plotting and visualization, Scikit-Learn for machine learning and data mining, and Seaborn for the Visualisation of Statistical Data and StatsModels for Statistical Modelling, Testing, and Analysis. Q43. Separate the terms population and sample. The phrase “population” refers to the entire set of elements we want to conclude, such as individuals or physical objects. It can also be called the universe, to put it another way. A sample is chosen from a population, and depending on the results of the sample, information about the complete population can be gleaned. Q44. How does Sample Selection Bias influence your research? Using non-random data for statistical analysis will lead to sample selection bias. Using non-random data may result in the omission of a subset of the data, which could impact the statistical significance of the study. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Q45. What is a correlation, in your opinion? A correlation exposes the degree of connection between two variables. It evaluates the character and potency of the link. Q46. What do you mean when you say “Hadoop Ecosystem”? Hadoop Ecosystem is a tool or set of programs that can handle big data problems. It talks about both Apache projects and several business tools and solutions.HDFS, MapReduce, YARN, and Hadoop Common are the four core parts of Hadoop. Q47. What does the Truth Table truly mean? A truth table is a compilation of information to determine whether a statement is true or false. It comes in three varieties and serves as an all-encompassing theorem prover. Table of Photographic Truth Combined Truth Table False Fact Table Q48. What makes R-squared and R-squared Adjusted different from one another? The primary distinction between adjusted R-squared and R-squared is that adjusted R-squared accounts for and tests for multiple independent variables, whereas R-squared does not. Even though the independent variable is small, the R-squared rises when incorporated into a model. There is never a decline. The modified R-squared, on the other hand, only increases when the independent variable significantly affects the dependent variable. To master the Data Analyst skills visit 3RI Technologies Q49. What is exploratory data analysis (EDA) and why is it important? Exploratory data analysis is a critical step in gathering preliminary information from data to identify trends, identify anomalies, test hypotheses, and confirm presumptions using graphical and summary statistics. EDA helps find problems with data collecting. Increases understanding of the data set. It helps to identify outliers or unexpected events—aids in understanding the variables in the data collection and how they relate. Q50. Describe MapReduce. With the help of the MapReduce framework, you may create applications that divide extensive data sets into smaller ones, process each separately on a different server, and then combine the results. Map and Reduce are the two parts that make it up. The reduction performs a summary operation, whereas the map performs filtering and sorting. As the name suggests, the Reduce operation always comes after the map task. Q51. What makes communication key in the role of a data analyst? The discipline of communication analytics is the collection, measurement, and analysis of data linked to communication behaviors such as chat,email, social media, voice and video . Students must be conversant with fundamental data analysis techniques, as well as data-oriented computer programming languages, and have a solid mathematics basis. To be successful in this field, aspiring data analysts must also have great communication, teamwork, and leadership skills. Q52. How would you evaluate our company’s productivity? Examine Your Company’s Financial Statements. Set Objectives Examine Customer Satisfaction Keep track of new customers Utilize Benchmarking Examine Employee Satisfaction Examine your competitors’ websites Establish key performance indicators. Q53 . What types of statistical techniques have you used to analyze data? In data analysis, two main types of statistical methods are used: descriptive statistics, which evaluates data using indices such as mean and median, and inferential statistics, which derives assumptions from evidence using statistical tests such as the student’s t-test. Q54. Statistical knowledge about data analysis ? Most entry-level data analyst positions will require at least a rudimentary understanding of statistics and how statistical analysis relates to business goals. List the statistical computations you’ve employed and the business insights they produced. Mention any time you’ve worked with or produced statistical models. If you haven’t presently, familiarize yourself with a couple of key statistical concepts: Descriptive and inferential statistics Standard deviation Regression Sample size Mean Variance Q55. What makes a function different from a formula? A formula is defined as any user’s assertion, whether basic or sophisticated, although a function is a pre-specified type of formula. In contrast, functions are predefined formulas that have previously been included in the sheet. Q56. Clustered versus non-clustered index . A clustered index, unlike a dictionary, makes it possible to specify the manner in which to sort the table, or alphabetically categorize the data. In non-clustered index information is gathered in one area and stored in another area. Q57. What are the essential qualifications for acquiring a Data Analyst? These are common data science interview questions used by interviewers to assess your understanding of the abilities required. This data analyst job interview question tests your knowledge of the abilities needed to get a job as a data scientist. • To become a data analyst, one must possess extensive understanding of databases (SQL, SQLite, Db2, etc.), reporting programs (Business Objects), and coding languages (XML, Javascript, or ETL frameworks). • Possess the ability to efficiently assess, handle, gather, and transfer large amounts of data. • You should be well-versed in the technical fields related to database architecture, segmentation techniques and, data mining . • Understand how to use statistical software, such as Excel, SAS, and SPSS, among others, to analyze large datasets. • Capable of clearly representing data utilizing a range of data visualization methods. Data visualization capabilities should also be accessible to a data analyst. • Data cleansing • Advanced Microsoft Excel abilities • Calculation and Linear Algebra Q58. Name the most commonly used data analysis applications.. Data analytics interview questions frequently include a question on the most regularly used tool. The purpose of the behavioral interview questions for data scientists and analysts is to assess your knowledge and practical comprehension of the subject. In this question, only individuals with substantial practical experience would thrive. Thus, prepare for your analyst interview with practice questions and analytics and data analyst performance interview inquiries. The most effective data analysis tools include: Google Fusion Tables Solver NodeXL KNIME SAS Microsoft Power BI Apache Spark Qlik Jupyter Notebook Domo Tableau Google Search Operators RapidMiner OpenRefine io R Programming Python TIBCO Spotfire Google Data Studio Looker Q59. Describe the various data validation procedures used by data analysts. • There are numerous methods for validating datasets. The following data validation approaches are widely used by data analysts: • Field Level Validation – This method performs data validation in every field as the user enters information. It is beneficial to repair errors as you go. • Form Level Validation – The data is validated whenever the user inputs it into the form in this approach. It validates all of the information contained in the data entry form and highlights any problems (if any) so that the person who entered the data can remedy them. • Data Saving Validation – The process of data validation is applied when a file or database information is saved. It is commonly used when many data entry forms must be assessed. • Search Criteria Validation – This validation approach is used to offer correct as well as contextual matches for the terms or phrases that the user has searched for. Getting the most relevant results for the user’s search inquiries is the main objective of this validation strategy. Q60. What exactly is “clustering?” Describe the characteristics of clustering methods. Clustering is a process of categorizing data into clusters and groupings. A clustering method categorizes unlabeled items and divides them into classes and groups of comparable items. These cluster groupings possess the following characteristics: Both hard and soft Flat or hierarchical? Disjunctive Iterative Clustering is the classification of comparable types of objects into one group. Clustering is used to bring together data sets that have similar characteristics. These data sets have one or more of the same qualities. Check out the Data Science online training and get certified today. Q61. Define “Time Series Analysis”. Two domains are usually used for series analysis: the time domain and the frequency domain. Time series analysis is a technique for forecasting the output of a process by analyzing historical data using techniques such as exponential smoothing, log-linear regression, and so on. Time Series Analysis investigates the accumulation of data points across time. This adds structure to how analysts collect data; rather than watching data points at random, they review data at predefined time intervals. Time series analysis can be divided into three types: 1. Smoothing on an exponential scale 2. The simple moving average 3. ARIMA It is applied to nonstationary data that is constantly moving and dynamic. It has numerous uses, including banking, economics and retail. Q62. What exactly is data profiling? Data profiling is a technique for thoroughly examining all elements present in data. The goal in this case is to deliver highly precise metrics based on the data and its properties such as frequency of datatype, occurrence and so on. Q63 . What are the prerequisites for working as a Data Analyst? A growing data analyst must have a diverse set of skills. Here are several examples: Programming languages that include JavaScript, XML, and ETL technologies must be understood. • Knowledge of databases such as MongoDB, SQL, and others • Capability to successfully gather and use data • Knowledge of database design and data mining • Experience dealing with huge datasets Q64.. Explain the KNN imputation method, in brief. KNN is a method that depends on the selection of numerous nearest neighbors as well as a distance metric. It can recognize both discrete and continuous dataset attributes. In this case, a distance function is employed to determine the comparability of two or more qualities, which will aid in future analysis. Q65 . What is the definition of collaborative filtering? Collaborative filtering is a method for developing recommendation systems that rely heavily on behavioral data from consumers or users.When browsing e-commerce websites, for example, a section labeled ‘Recommended for you’ appears. This is performed by utilizing browsing history, past purchase investigation, and networked filtering. Q66. Outliers are identified in what way? There are several procedures for detecting outliers, nevertheless, the two most commonly utilized are as follows: • Standard deviation method: Outliers are defined as values that are less than or higher than three standard deviations beyond the mean value. • Box plot method: A number that is equal to or more than one and a half times the interquartile range (IQR) is termed an outlier. Q67. What are all of the difficulties encountered during data analysis? Depending on the context, data, and analysis aims, data analysis can bring a variety of obstacles. Here are a few examples: • Data Quality: One of the most typical difficulties is poor data quality. This could include missing, inconsistent, or incorrect data. Analysts frequently devote significant work to cleansing data and dealing with quality issues. • Data Security and Privacy: Maintaining data privacy and guaranteeing security is especially important in industries such as healthcare and finance. Regulations such as GDPR and HIPAA might add additional layer of difficulty. • Large Volume of Data: As the volume of data grows, it becomes more difficult to store, process, and analyze it. • Data Integration: Data frequently arrives from several sources in diverse formats. integrating this data and preserving consistency can be difficult. • Interpretation of Results: The outcome of a data analysis tends to be easy to understand. It can be difficult to make logical sense of the results and convey them to those who are not professionals. Q68. Create a list of the qualities of a good data model. Some of the characteristics that should be present in a good data model: • Simplicity: A good model of data should be uncomplicated to understand. It should have a logical, unambiguous structure that both developers and end users can understand. • Robustness: A robust data model can deal with a wide range of data kinds and quantities. It should be flexible to accommodate up-to-date company needs and changes without requiring large changes. • Scalability: The model should be developed in such a way that it can handle ever-growing data volume and user load efficiently. It should be prepared to accommodate future growth. • Consistency: In a data model, consistency is defined as the necessity for the model to be devoid of contradiction and ambiguity. This prevents the same set of data from having numerous interpretations. • Adaptability: A good data model is adaptable to changing requirements. It should be simple to adapt the structure as company needs change. Looking forward to becoming an expert in Data Science? Then get certified with Data Science And Machine Learning Course . Q69. What is a Pivot Table, and what are some of its sections? A Pivot Table is a simple Microsoft Excel tool that allows you to easily summarize large datasets. It is really simple to use, since it involves simply dragging and dropping row/column headers to generate reports. A pivot table is composed of four sections. • Values Area : This is where values are reported. • Rows Area : To the extreme left of the values are the headers. • Column Area : The column area is formed by the titles of the rows at the top of the values area. • Filter Area : An optional filter for drilling down in the data collection. Q70. What exactly do you mean by DBMS? What are the many types? A Database Management System (DBMS) is a web-based program that aggregates and analyzes data through communication between the user, other apps, and the database itself. The data in the database can be edited, retrieved, and destroyed, and it can be of any type, such as strings, integers, photos, and so on. There are four types of DBMS: relational, hierarchical, network, and object-oriented. • Hierarchical DBMS: As the name implies, this DBMS features a predecessor-successor relationship style. As a result, its structure is tree-like, with nodes indicating records and branches representing variables. • Relational database management systems (RDBMS): This form of DBMS employs a structure that enables users to retrieve and manipulate data in relation to other data in the database. • Network DBMS: This type of DBMS allows for many-to-many relationships, in which several member records can be linked. • Object-oriented DBMS: This sort of DBMS makes use of little pieces of software known as objects. Each object offers a piece of data as well as instructions for how to use the data. Q71. What exactly is logistic regression? Logistic regression is a statistical approach for analyzing a dataset that has one or more individual variables that specify an outcome. Q72. What is required to be done with suspicious or missing data? • Create a validation analysis that includes information about all suspicious data.It should provide information such as the validation criteria that failed as well as the date and time of occurrence. • Skilled employees should review suspicious data to establish its acceptability. • Invalid data should be allocated and corrected with a validation code. • When dealing with missing data, apply the best analysis approach available, such as single imputation methods, deletion methods, model-based methods, and so on. Prev Previous Career Options and Job Opportunities After BCS Next What is a Data Engineer? Skills, Career, Job & Salary Explained Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/05/Top-Data-Analyst-Interview-Questions-And-Answers1.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Data-Science-Certified-Professional.png",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=Top+Data+Analyst+Interview+Questions+and+Answers&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=80238&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fdata-analyst-interview-questions-and-answers%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2023/05/20/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-engineering-training-with-placement/",
+      "https://www.3ritechnologies.com/course/data-science-online-training/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/job-opportunities-and-career-options-after-bcs/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-a-data-engineer-skills-career-job-salary/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Top Data Analyst Interview Questions and Answers for Freshers & Experienced",
+    "og_description": "Explore the most-asked data analyst interview questions for freshers and professionals. Boost your prep with technical Q&As and shape your data analyst career path. Enroll in data analyst courses by 3RI Technologies for career success.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Top Data Analyst Interview Questions and Answers",
+            "datePublished": "2023-05-20T09:23:11+00:00",
+            "dateModified": "2025-05-20T04:53:41+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/"
+            },
+            "wordCount": 7051,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/05/Top-Data-Analyst-Interview-Questions-And-Answers1.jpg",
+            "keywords": [
+              "Data Science Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/",
+            "url": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/",
+            "name": "Top Data Analyst Interview Questions and Answers for Freshers & Experienced",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/05/Top-Data-Analyst-Interview-Questions-And-Answers1.jpg",
+            "datePublished": "2023-05-20T09:23:11+00:00",
+            "dateModified": "2025-05-20T04:53:41+00:00",
+            "description": "Explore the most-asked data analyst interview questions for freshers and professionals. Boost your prep with technical Q&As and shape your data analyst career path. Enroll in data analyst courses by 3RI Technologies for career success.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/05/Top-Data-Analyst-Interview-Questions-And-Answers1.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/05/Top-Data-Analyst-Interview-Questions-And-Answers1.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/data-analyst-interview-questions-and-answers/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Top Data Analyst Interview Questions and Answers"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

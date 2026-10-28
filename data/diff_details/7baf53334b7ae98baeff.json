@@ -1,0 +1,336 @@
+{
+  "url": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Page Object Model & Page Factory in Selenium Guide",
+    "meta_description": "Understand how Page Object Model (POM) and Page Factory simplify Selenium automation by making your test scripts cleaner, reusable, and easier to maintain. Learn practical best practices taught in a Selenium course in Pune to build robust automation frameworks.",
+    "h1": [
+      "Page Object Model (POM) and Page Factory in Selenium: Benefits & Best Practices"
+    ],
+    "content": "Skip to content Home > Page Object Model (POM) and Page Factory in Selenium: Benefits & Best Practices Page Object Model (POM) and Page Factory in Selenium: Benefits & Best Practices Learn how Page Object Model (POM) and Page Factory improve the structure, reusability, and maintainability of Selenium automation frameworks. If you're exploring a Selenium Course in Pune, this guide provides practical insights and best practices to strengthen your automation testing skills. Table of Contents PriyankaS3ri July 27, 2026 2:06 pm Selenium test scripts often become messy and hard to maintain when locators and test logic are mixed together. This is where the Page Object Model and Page Factory come in, offering a structured way to organize automation code. Together, they help testers build reusable, readable, and scalable test scripts. For anyone exploring Selenium courses in Pune , understanding these design patterns is a foundational skill that separates beginner-level scripting from professional-grade automation development. Both ideas are explained in this post in a clear, useful manner. Understanding the Page Object Model (POM) in Selenium Every web page is treated as a separate class in Selenium’s Page Object Model design model. Every class contains the web elements (locators) and methods (actions) related to that specific page. Instead of writing locators repeatedly across test files, testers store them in one place, making the code easier to read and maintain. This method keeps page-specific code and test logic apart. When a developer changes a button ID or a field name, testers only need to update it in one page class rather than searching through dozens of test scripts. This single change reduces maintenance time significantly, especially in large Selenium Webdriver projects with hundreds of test cases. Core Components of a Page Object Model A well-structured Page Object Model in Selenium typically includes: Web elements : Locators such as ID, name, XPath, or CSS selectors defined as class variables. Constructor : sets up the WebDriver object for that specific class of page. Methods : Actions like clicking buttons, entering text, or verifying page elements. Page class files : Every application page has a unique class. Test class : Calls the page methods to perform actual test steps. How to Use the Page Object Model in Selenium Implementing POM is straightforward once the structure is clear: Identify the web pages involved in your test scenario. Every page should have its own Java class. Declare all locators as private variables within that class. Write public methods that perform actions using those locators. Create a separate test class that calls these methods in sequence. Validations and assertions should be kept inside the test class rather than the page class. Practical Example: Page Object Model in Selenium Consider a login page built using standard POM: The login button, password field, and username field locators are stored in a LoginPage class. The class includes methods like enterUsername(), enterPassword(), and clickLogin(). The test class simply calls loginPage.enterUsername(“test”) without worrying about how the element is located. Assertions and validations stay in the test class, keeping the page class focused only on actions. This separation keeps test scripts clean and business-focused, which is a core principle taught in any solid Selenium Classes in Pune . Understanding Page Factory in Selenium Selenium’s Page Factory is an extension of its own Page Object Model that makes element initialization easier. Page Factory employs annotations like @FindBy to declare locators directly above the variable declaration, as opposed to manually identifying items using findElement().This improves the code’s readability and clarity. Page Factory also introduces lazy initialization, meaning elements aren’t located until they are actually used in a test step, which can improve performance in certain scenarios. Page Factory Implementation in a Selenium Project To use Selenium’s Page Factory: Import the org.openqa.selenium. support. PageFactory package. Declare WebElements using the @FindBy annotation with the desired locator strategy. Initialize elements in the constructor using PageFactory.initElements(driver, this). Use these WebElements directly in methods without repeated findElement() calls. Keep the class structure similar to standard POM, just with annotation-based locators. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send Practical Example: Page Factory in Selenium Using the same login example, rebuilt with Page Factory: The class declares @FindBy(id = “username”) WebElement usernameField instead of writing driver. findElement(By.id(“username”)) every time. The password box and login button now have similar @FindBy annotations. The constructor calls PageFactory.initElements(driver, this) to activate these elements. This small change reduces boilerplate code and makes the class visually cleaner. It’s a technique particularly helpful for beginners learning Selenium Webdriver concepts for the first time. Key Distinctions Between Page Factory and Page Object Model While Page Factory is technically built on top of POM, there are practical differences worth understanding before choosing one for your Selenium Automation Framework . Feature Page Object Model Page Factory Element Location Uses findElement() explicitly Uses @FindBy annotations Initialization Elements located each time they’re called Elements initialized via PageFactory. initElements() Code Readability Moderate, more manual code Higher, cleaner syntax Performance Standard element lookup Supports lazy loading of elements Learning Curve Easier for absolute beginners Requires understanding of annotations Flexibility More control over locator logic Slightly less flexible for dynamic locators Both approaches achieve the same goal, better-structured, maintainable code, but Page Factory offers a more streamlined syntax once testers are comfortable with annotations. Many professionals preparing for a Selenium Certification study both patterns since interview questions frequently compare the two. Benefits and Best Practices for Using POM and Page Factory Both design patterns solve real problems that testers face daily when scaling automation projects across large web applications. Key Advantages of Page Factory and POM Improved maintainability : Locator changes require updates in only one place. Code reusability : You can utilize page classes in more than one test script. Better readability : Test scripts read like plain business logic rather than technical locator strings. Reduced duplication : Common actions are written once and called repeatedly. Easier collaboration : Teams can divide work by page class, speeding up development. Scalability : Adding new test cases doesn’t require rewriting existing locators. Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Best Practices for Building a Scalable Selenium Framework Keep locators private and expose only methods to the test layer. Avoid placing assertions inside page classes; keep them in test classes. Use meaningful, consistent naming conventions for classes and methods. Combine POM with a base class to avoid repeating WebDriver setup code. Integrate with TestNG or JUnit for structured test execution and reporting. Regularly refactor page classes as the application UI evolves. Learners who want hands-on guidance often find that structured mentorship accelerates this learning curve considerably. 3RI Technologies offers practical, project-based training that helps students apply POM and Page Factory concepts to real applications, building the kind of portfolio that stands out to employers hiring automation testers. Conclusion The fundamental issue of maintaining clean, maintainable, and scalable automation code is addressed by both the Page Object Model and Page Factory. While POM offers more manual control, Page Factory simplifies element initialization through annotations. Choosing between them, or combining both, depends on project needs and team preference. Mastering these patterns is a valuable step for anyone building a career in test automation, and structured, focused Selenium Classes in Pune can help learners apply these concepts confidently in real-world projects. Frequently Asked Questions 1. What is the primary distinction between Selenium’s Page Factory and Page Object Model? POM requires manually locating elements using findElement(), while Page Factory uses @FindBy annotations and PageFactory.initElements() for simpler, cleaner element initialization. 2. Is Page Factory better than Page Object Model? Neither is strictly better; Page Factory is an extension of POM that offers cleaner syntax, while POM gives more manual control over locator logic. Both are widely used in professional projects. 3. Do I need to learn POM before Page Factory? Yes, understanding POM fundamentals first makes it much easier to grasp how Page Factory simplifies and builds upon the same design pattern. 4. Can POM be used with TestNG and JUnit frameworks? Absolutely. POM integrates smoothly with both TestNG and JUnit, making it a standard choice for building scalable Selenium automation framework structures. 5. How does learning POM and Page Factory help my testing career? These patterns are considered essential skills in most QA automation job roles, and demonstrating proficiency in them, often validated through practical training or a Selenium Certification, can significantly improve job prospects. Prev Previous Top 5 Data Science Projects to Build Your Skills & Resume Next Top Power BI Real-Time Projects for Practice in 2026 Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Page-Object-Model-and-Page-Factory-in-Selenium-Framework.png",
+        "alt": "Diagram showing Page Object Model and Page Factory in Selenium, useful for learners interested in the Selenium Course in Pune.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/image-20-1024x512.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/21-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/image-18-1024x562.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/image-19-1024x562.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Testing&cd%5Bpage_title%5D=Page+Object+Model+%28POM%29+and+Page+Factory+in+Selenium%3A+Benefits+%26amp%3B+Best+Practices&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=121411&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fpage-object-model-page-factory-selenium%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2026/07/27/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/",
+      "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/top-5-data-science-projects-to-build-your-skills-and-resume/",
+      "https://www.3ritechnologies.com/top-power-bi-real-time-projects-for-practice-in-2026/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Page Object Model & Page Factory in Selenium Guide",
+    "og_description": "Understand how Page Object Model (POM) and Page Factory simplify Selenium automation by making your test scripts cleaner, reusable, and easier to maintain. Learn practical best practices taught in a Selenium course in Pune to build robust automation frameworks.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Page Object Model (POM) and Page Factory in Selenium: Benefits &amp; Best Practices",
+            "datePublished": "2026-07-27T08:36:44+00:00",
+            "dateModified": "2026-07-27T08:51:07+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/"
+            },
+            "wordCount": 1320,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Page-Object-Model-and-Page-Factory-in-Selenium-Framework.png",
+            "keywords": [
+              "Software Testing Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Testing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/",
+            "url": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/",
+            "name": "Page Object Model & Page Factory in Selenium Guide",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Page-Object-Model-and-Page-Factory-in-Selenium-Framework.png",
+            "datePublished": "2026-07-27T08:36:44+00:00",
+            "dateModified": "2026-07-27T08:51:07+00:00",
+            "description": "Understand how Page Object Model (POM) and Page Factory simplify Selenium automation by making your test scripts cleaner, reusable, and easier to maintain. Learn practical best practices taught in a Selenium course in Pune to build robust automation frameworks.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Page-Object-Model-and-Page-Factory-in-Selenium-Framework.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Page-Object-Model-and-Page-Factory-in-Selenium-Framework.png",
+            "width": 1000,
+            "height": 669,
+            "caption": "A simple visual explaining how the Page Object Model and Page Factory work in Selenium for learners exploring the Selenium Course in Pune."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/page-object-model-page-factory-selenium/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Page Object Model (POM) and Page Factory in Selenium: Benefits &amp; Best Practices"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

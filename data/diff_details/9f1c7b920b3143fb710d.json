@@ -1,0 +1,348 @@
+{
+  "url": "https://www.3ritechnologies.com/angularjs-features/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "What are the Features of AngularJS? | 3RI Technologies",
+    "meta_description": "Here explainations of Features of AngularJS. AngularJS is for building the framework of applications and It is best for Web Development.",
+    "h1": [
+      "Angularjs Features"
+    ],
+    "content": "Skip to content Home > Angularjs Features Angularjs Features AngularJS, an open-source Model-View-Controller framework, almost similar to the JavaScript framework. It is one of the famous web frameworks of this technological world. Table of Contents PriyankaS3ri August 26, 2020 6:02 pm What are the features of angular? AngularJS, an open-source Model-View-Controller framework, almost similar to the JavaScript framework. It is one of the famous web frameworks of this technological world. This framework was needed during developing Single Page Applications. Thus, using it ensures the best creation of single-page applications. Angularjs features Being having one of the powerful frameworks in the market, Angular JS has many features. Let’s look at following to know about its attributes: 1. MVC ARCHITECTURE MVC or Model View Controller architecture is the primary feature of this framework. This features hikes up the value of the framework in terms of client-side development and also sets the base for other significant features such as data binding, etc. Also, AngularJS automatically integrates all the elements of the app. Thus, developers can use this app to make web applications running smoothly. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send 2. TWO-WAY BINDING When one-way data-binding architecture is allowed to amend the value of the data in the model to present that amendment in the view or vice-versa. But, AngularJS offers two-way binding solutions wherein developers can amend both models and also view it by amending the value. Thus, angularjs training makes the career of web developers viable; therefore, choosing this career will never be an appreciated decision. 3. DIRECTIVES AngularJS extends further to HTML as it has to have a set of inbuilt features called directives. With AngularJS, these directives can be self-created. The basic function of these directives is to increase the functionality of the HTML in a primary way to turn it compatible with dynamic client-side applications. 4. MODULES In this framework, one module specifies one app, and it is within the area of that module, all the distinct elements of the app exist. To add different elements in a module, different methods are used. To add controller, users may use the below-written syntax: moduleName = angular.module(“controllerName”, [ ] Moreover, users can add different elements to the module with syntaxes. Thus, what is exceptional in the modules of AngularJS, it inherently overcomes the barriers of global function exploitation by restricting the objective of all the functions to the module to where it was used and defined. Want to master the skills of Angular? join our Angular Classes in Pune EVENTS AngularJS framework offers a list of event directives that run along with the HTML event. The most common events in AngularJS includes ng-change, ng-click, ng-blur, and ng-focus , which improves the potential of the website apps with two-way binding. 6. FILTERS Angular JS is equipped with filters that are used to formats the data to improve fitting. With these filters, developers become able to amend the data into the relevant format of data, currency, etc. Further, the filters can use to arrange a string of data by including these to the directives with a pipe character. TEST-FRIENDLY In JavaScript, developers are considered to give more focus on the testability of the code. But, in AngularJS, developers are freed from this need. This framework has a support testing system with attributes like DI (Dependency Injection). Further, with it, testers can add the test data to analyze the behavior and output. Thus learning A ngular JS Online Course will make your future viable and secured as this framework is essential among others. SERVICES AngularJS offers a set of services to communicate with the servers to receive or send information while also permitting the needed information without integrating with the MVC of the framework. The services offered by AngularJS includes $timeout, location, $http, and $interval . What are directives in angularjs? Directives in AngularJS are used to extend HTML. They are special elements starting with ng-prefix. It has the following directives: ng-app : This directive commences an AngularJS Application. ng-init − This directive loads application data. ng-model − This directive specifies the model that is variable which is used in AngularJS. ng-repeat − This directive repeats HTML components for every item in a collection. Enroll for MEAN Stack Online Training and get in-depth knowledge of MEAN Stack. Advantages and disadvantages of angularjs Every framework has positive and negative aspects. Thus, AngularJS has pros and cons too. Let’s discuss both in the following: Angularjs framework is an open-source JavaScript MVC framework, thus, at budgetary cost, users can take its custom applications. It is a single page application or SPA means, not more than one HTML web page is loaded and updated, which results in fast processing and user-friendly. To work with AngularJS, users don’t need to have experience in any scripting language. Further, once learned AngularJS, it becomes easier to learn Javascript, CSS, and HTML. It has built-in- attributes that can extend easily. Thus, it is possible to extend the functionality of HTML in AngularJS just by attaching a specific behavior with it. It is a mixture of MVC architecture. Thus, the programmer does not need to string them together. It is done automatically in AngularJS. Thus it saves a lot of time. A career in this framework is appreciating. Thus, learning angularjs certification will make you secured about your objectives. AngularJS framework is not a gleaming stone. It also has some disadvantages. As of Javascript, AngularJs has some limitations, such as: In AngularJS, no server authentication and authorization. It means this framework needs to take permission for data access. It has entirely relied upon JavaScript. In case, these scripts will get hides; then the following pages will look like a basic page. In JavaScript, no risk of memory leakage, but memory can be leaked in AngularJS as of the issues like crashes, slowdowns, high latency, etc. It has many optimized ways to perform a task. Thus it makes it difficult for users which one is great. Further, it is not supported in Internet Explorer 8.0 But, despite some disadvantages, this framework is regarded as the top among others. Thus, angularjs online training will make you complete in all terms. Interested in learning more about MEAN Stack? check this out MEAN Stack Course in Pune . To know more about this framework, let’s have a look at angularjs examples. ng-app > Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send First AngularJS Application Enter Numbers to Multiply: ng-model=”Num1″ /> x ng-model=”Num2″ /> = {{Num1 * Num2}} This above-mentioned example exhibits HTML code with some strange braces like ng-model, ng-app, and {{ }} and attributes. These built-in attributes in AngularJS are named as directives. Another example includes Name : Hello {{name}} Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Data binding in angularjs AngularJS offers a function data binding to assist the users in having a real-time reflection of the input provided by the user. There are different sorts of bindings, such as: Interpolation Event Binding Property Binding Two-way Binding Interpolation This function is used to display an element property in the respective view template by adding double curly braces syntax. Further, it is used to transfer properties given in component class to be shown in its template. Syntax-: Example; app.component.ts import { Component } from ‘@angular/core’; @Component({ selector: ‘app-root’, templateUrl: ‘./app.component.html’, styleUrls: [‘./app.component.css’] }) export class AppComponent { val: string; } Event Binding In event binding, an event is established whenever either a mouse is clicked, or a key is pressed. Syntax: Event showevent(event) { alert(“Welcome to 3ritechnololgies.com”); } app.component.ts import { Component } from ‘@angular/core’; @Component({ selector: ‘app-root’, templateUrl: ‘./app.component.html’, styleUrls: [‘./app.component.css’] }) export class AppComponent { title = ‘3ritechnologies’; Clickme(event) { alert(‘Welcome to 3ritechnologies.com’); } } Property Binding This function is the same as Java, variables given in the parent class could be inherited by child class which is templates in this case. The basic difference between Property binding and Interpolation is, we do not need to store non-string values in variables while doing the use of interpolation. Thus, when we need to store Boolean or other types of data than use Property Binding. Syntax-: [class]=”variable_name” Example; app.component.ts filter_none brightness_4 import { Component } from ‘@angular/core’; @Component({ selector: ‘app-root’, templateUrl: ‘./app.component.html’, styleUrls: [‘./app.component.css’] }) export class AppComponent { title = ‘3ritechnologies’; classtype =”text-danger”; 3ritechnologies= “3ritechnologies.com”; image=”img source”; } Two-way Binding: In this, FormsModule in imports has been included. Also, users have to import FormsModule. Further, we have to comprise FormsModule since ngModel is not a property involved in the project we create using ng new project-name. Thus, we have to include it by importing this Module. import { FormsModule } from ‘@angular/forms’; imports: [ BrowserModule, FormsModule, AppRoutingModule, ], app.component.ts import { Component } from ‘@angular/core’; @Component({ selector: ‘app-root’, templateUrl: ‘./app.component.html’, styleUrls: [‘./app.component.css’] }) export class AppComponent { val: string; } Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Conclusion AnguarJS is one of the best frameworks used in web applications. It has its cons and pros. Still, it is a very popular application. Also, this app has a very bright scope as it will make your career viable. Thus, you should give it a trial. 3RI Technologies are one of the best destinations for angularjs training in Pune . It is the best path to follow as it will also make you able to learn Javascript and other frameworks easily. To know more about Angularjs or to book an online training in this domain, send your request at +91 8308103366 or +91 8669653366 or +91 7410073340, and you can visit 3RI Technologies . Prev Previous AngularJS vs NodeJS: Understanding the Differences and Synergies Next Why Learning AWS in 2025 Is a Smart Career Move Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/08/Angularjs-Features.jpg",
+        "alt": "Angularjs Features",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Angular-Certified-Professional.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/08/ANGULAR-FEATURES-INFOGRAPHIC.png",
+        "alt": "ANGULAR FEATURES INFOGRAPHIC",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Programming%2C+Web+Technologies&cd%5Bpage_title%5D=Angularjs+Features&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=21380&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fangularjs-features%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2020/08/26/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/angularjs-features/",
+      "https://www.3ritechnologies.com/angularjs-vs-nodejs/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-online-training-course/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/reasons-to-go-for-aws/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/angularjs-features/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "What are the Features of AngularJS? | 3RI Technologies",
+    "og_description": "Here explainations of Features of AngularJS. AngularJS is for building the framework of applications and It is best for Web Development.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/angularjs-features/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/angularjs-features/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Angularjs Features",
+            "datePublished": "2020-08-26T12:32:49+00:00",
+            "dateModified": "2023-04-10T11:51:35+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/angularjs-features/"
+            },
+            "wordCount": 1518,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/angularjs-features/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/08/Angularjs-Features.jpg",
+            "keywords": [
+              "Angular Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Programming",
+              "Web Technologies"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/angularjs-features/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/angularjs-features/",
+            "url": "https://www.3ritechnologies.com/angularjs-features/",
+            "name": "What are the Features of AngularJS? | 3RI Technologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/angularjs-features/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/angularjs-features/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/08/Angularjs-Features.jpg",
+            "datePublished": "2020-08-26T12:32:49+00:00",
+            "dateModified": "2023-04-10T11:51:35+00:00",
+            "description": "Here explainations of Features of AngularJS. AngularJS is for building the framework of applications and It is best for Web Development.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/angularjs-features/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/angularjs-features/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/angularjs-features/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2020/08/Angularjs-Features.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/08/Angularjs-Features.jpg",
+            "width": 1000,
+            "height": 667,
+            "caption": "Angularjs Features"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/angularjs-features/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Angularjs Features"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

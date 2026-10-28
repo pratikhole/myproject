@@ -1,0 +1,333 @@
+{
+  "url": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "The Complete Data Science Lifecycle: From Data Collection to Deployment",
+    "meta_description": "Learn how a data science project moves from data collection to deployment. Understand each step with practical insights with Data Science Courses in Pune.",
+    "h1": [
+      "Lifecycle of a Data Science Project: From Data Collection to Deployment"
+    ],
+    "content": "Skip to content Home > Lifecycle of a Data Science Project: From Data Collection to Deployment Lifecycle of a Data Science Project: From Data Collection to Deployment Learn how a data science project progresses from data collection to deployment, with a clear explanation of every stage. If you're considering Data Science Courses in Pune, this blog offers valuable insights into the practical workflow used in real-world projects. Table of Contents PriyankaS3ri July 24, 2026 10:45 am Ever wondered how raw numbers turn into smart predictions that power apps, recommendations, and business decisions? That’s the magic of data science. But behind every successful model lies a structured journey — the data science project lifecycle. Whether you’re a student, an aspiring analyst, or someone exploring a Data Science Course in Pune , understanding this lifecycle is the first step toward building real-world, impactful solutions. Let’s break it down step by step. Exploring the Data Science Project Lifecycle Data science project success is the result of a methodical, repeatable approach. This process helps teams move from a vague business problem to a working, deployed solution without losing direction along the way. Imagine it like building a house. Without a blueprint, it would be impossible to begin building. Similar to this, data science initiatives require a well-defined plan that links technological implementation with business objectives. A well-managed lifecycle ensures: Consistent, high-quality outcomes across projects Greater collaboration between engineers, data scientists, and stakeholders Reduced risk of costly errors late in development Faster time-to-value for the organization This is exactly why aspiring professionals enrolling in a Data Science Course near me are taught the full lifecycle early on — it builds the foundation for everything else in the field. Stages of the Data Science Project Lifecycle The Data Science Project Lifecycle typically unfolds across six interconnected phases. Skipping phases frequently results in incorrect models or unsuccessful deployments because each process feeds into the next. Phase 1: Data Collection Every project starts with Data Collection — gathering relevant data from the right sources. Without quality data, even the best algorithms fail to deliver meaningful results. Data can come from multiple sources: Internal databases and company records Public datasets and government portals APIs and third-party data providers Web scraping and sensor/IoT devices Surveys and user-generated content For example, an e-commerce company predicting customer churn might pull data from purchase history, website clicks, and customer support logs simultaneously. Essential Tools and Techniques SQL – for querying and extracting data from databases Python (BeautifulSoup, Scrapy) – for web scraping APIs (REST/JSON) – for pulling external data AWS S3, Google Cloud Storage – for storing large volumes of raw data Phase 2: Data Preparation and Cleaning Analysis is rarely possible with raw data. This phase, often called Data Preparation or data wrangling, involves fixing inconsistencies and structuring data for use. Typical tasks include: Handling missing or duplicate values Correcting inconsistent formats (dates, currencies, units) Removing outliers or irrelevant records Merging datasets from different sources Data preparation is often the most time-consuming stage, sometimes taking up 60-70% of a project’s total time — a reality every learner discovers quickly in hands-on training. Essential Tools and Techniques Pandas, NumPy – for cleaning and structuring data in Python OpenRefine – for fixing messy, inconsistent data Apache Spark – for processing large-scale datasets Excel – for quick manual checks and small-scale fixes Phase 3: Exploratory Data Analysis (EDA) Exploratory data analysis finds hidden patterns, trends, and relationships in the data before any modeling is done. During EDA, analysts typically: Visualize distributions using histograms and box plots Identify correlations between variables Detect anomalies or unexpected trends Formulate hypotheses to test later For instance, EDA might reveal that customers who contact support more than three times are far more likely to churn — a valuable early insight. Essential Tools and Techniques Matplotlib, Seaborn – for creating visualizations in Python Power BI and Tableau are used to create interactive dashboards. SciPy: for validating hypotheses and doing statistical testing Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Phase 4: Model Building and Training This is where Model Building and the actual machine learning happen. The prepared dataset is used to select and train suitable algorithms based on EDA insights. Key steps include: Relevant feature selection (feature engineering) Dividing data into sets for testing and training Choosing algorithms matched to the problem type Tuning hyperparameters for best performance Model building isn’t a one-shot process — it usually involves multiple iterations to improve accuracy and reduce bias. Essential Tools and Techniques Scikit-learn – widely used for traditional machine learning models TensorFlow, PyTorch— for building deep learning applications XGBoost, LightGBM – popular for structured, tabular data problems requiring high performance Phase 5: Model Evaluation A trained model must be tested rigorously before it can be trusted. Evaluation determines whether the model actually solves the business problem effectively. Common evaluation metrics include: Metric Best Used For What It Measures Accuracy Balanced classification Overall correctness Precision & Recall Imbalanced datasets (e.g., fraud detection) False positives/negatives RMSE / MAE Regression problems Prediction error magnitude AUC-ROC Binary classification Model’s ability to distinguish classes Choosing the right metric matters. For fraud detection, recall may matter more than accuracy, since missing a fraud case is costlier than a false alarm. Essential Tools and Techniques Scikit-learn evaluation modules – for calculating performance metrics Confusion matrices – for visualizing classification results Cross-validation techniques – for testing model reliability MLflow – for tracking experiments and comparing model versions Phase 6: Model Deployment Once validated, teams move toward the Deployment Model stage, where the trained model shifts from a notebook environment into a live, production system where it can generate real value. Deployment typically involves: Packaging the model as an API or service Integrating it into existing applications Setting up monitoring for performance drift Establishing retraining schedules as new data arrives A recommendation engine, for instance, must run in real time, serving predictions within milliseconds as users browse a website. Essential Tools and Techniques Flask, FastAPI – for building model APIs Docker – for ensuring consistent deployment across environments AWS SageMaker, Azure ML, Google Vertex AI – for large-scale deployment and monitoring Best Practices for Managing a Data Science Project Successfully navigating this lifecycle requires more than technical skill — it demands discipline and structured learning. 3RI Technologies helps learners build this discipline through its Data Science Certification program by guiding them through real, hands-on projects covering every phase of the lifecycle, from data collection to deployment, under the guidance of industry mentors. This kind of practical exposure builds job-ready skills and gives your future career the strong, real-world foundation employers actually look for. Some proven best practices include: Defining clear business objectives before touching any data Maintaining version control for both code and datasets Recording decisions and assumptions at every level Early involvement of stakeholders to align expectations Automating repetitive tasks using pipelines Continuously monitoring deployed models for accuracy drift Projects that follow these practices are far less likely to fail during the transition from prototype to production. The Data Science Project Lifecycle’s Challenges Even with careful preparation, a number of difficulties frequently occur: Poor data quality , which undermines even the most advanced models Scope creep , where project goals keep expanding mid-way Model interpretability issues , especially with complex deep learning models Deployment gaps , where models perform well in testing but poorly in production Scalability concerns , as data volume grows over time Skill gaps , since the field demands knowledge across statistics, coding, and business Overcoming these challenges is much easier with structured, mentor-led training rather than self-study alone. Conclusion The Data Science Project Lifecycle transforms raw, messy data into actionable, real-world solutions through six connected phases—collection, preparation, exploration, model building, evaluation, and deployment. Building dependable, scalable models requires mastering each step as well as using the appropriate tools and best practices. For learners serious about this career path, searching for a trusted Data Science Course near me and enrolling in structured, hands-on training makes all the difference in turning theoretical knowledge into practical, deployable skills. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send Frequently Asked Questions 1. What is the lifecycle of a data science project? It’s a structured process covering data collection, cleaning, analysis, model building, evaluation, and deployment, ensuring projects move efficiently from raw data to real-world solutions. 2. What stage of the lifecycle requires the most time? Data preparation and cleaning typically consumes the most time, often 60-70% of a project’s total effort, since real-world data is rarely clean or structured. 3. What tools are most important for beginners to learn? Python (with Pandas and Scikit-learn), SQL, and visualization tools like Tableau or Power BI form a strong foundation for most data science tasks. A good Data Science Course in Pune usually covers all these tools through hands-on projects. 4. Why is model deployment considered challenging? Deployment requires integrating models into live systems, ensuring scalability, and monitoring performance — skills that go beyond just building an accurate model. 5. How can I learn the complete data science lifecycle practically? Enrolling in a structured, project-based program helps learners apply each lifecycle phase to real datasets, building job-ready skills faster than self-study alone. To get practical, mentor-led choices in your area, you may start by simply searching for a Data Science Course near me. Prev Previous 10+ Data Science Projects to Get Hired in 2026 Next Top 5 Data Science Projects to Build Your Skills & Resume Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Lifecycle-of-a-Data-Science-Project-from-Data-Collection-to-Deployment.png",
+        "alt": "Illustration of the data science project lifecycle, a key topic covered in a Data Science Course in Pune",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/image-9-1024x1024.png",
+        "alt": "Data science Project lifecycle",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/image-8-1024x683.png",
+        "alt": "Data preparation and cleaning",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/image-7-1024x683.png",
+        "alt": "Model Evaluation",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/21-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=Lifecycle+of+a+Data+Science+Project%3A+From+Data+Collection+to+Deployment&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=121265&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Flifecycle-of-data-science-project-from-data-collection-to-deployment%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/10-data-science-projects-to-get-hired-in-2026/",
+      "https://www.3ritechnologies.com/2026/07/24/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/top-5-data-science-projects-to-build-your-skills-and-resume/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "The Complete Data Science Lifecycle: From Data Collection to Deployment",
+    "og_description": "Learn how a data science project moves from data collection to deployment. Understand each step with practical insights with Data Science Courses in Pune.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Lifecycle of a Data Science Project: From Data Collection to Deployment",
+            "datePublished": "2026-07-24T05:15:00+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/"
+            },
+            "wordCount": 1444,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Lifecycle-of-a-Data-Science-Project-from-Data-Collection-to-Deployment.png",
+            "keywords": [
+              "Data Science Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/",
+            "url": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/",
+            "name": "The Complete Data Science Lifecycle: From Data Collection to Deployment",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Lifecycle-of-a-Data-Science-Project-from-Data-Collection-to-Deployment.png",
+            "datePublished": "2026-07-24T05:15:00+00:00",
+            "description": "Learn how a data science project moves from data collection to deployment. Understand each step with practical insights with Data Science Courses in Pune.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Lifecycle-of-a-Data-Science-Project-from-Data-Collection-to-Deployment.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Lifecycle-of-a-Data-Science-Project-from-Data-Collection-to-Deployment.png",
+            "width": 1000,
+            "height": 669,
+            "caption": "This image explains the data science project lifecycle, a key concept covered in a Data Science Course in Pune"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/lifecycle-of-data-science-project-from-data-collection-to-deployment/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Lifecycle of a Data Science Project: From Data Collection to Deployment"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

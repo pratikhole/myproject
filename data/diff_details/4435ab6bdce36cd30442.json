@@ -1,0 +1,331 @@
+{
+  "url": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Get Started with Java in VS Code: A Powerful IDE | 3RI",
+    "meta_description": "Learn how to set up Java in VS code. Follow our guide to leverage this powerful IDE and enhance your development skills today!",
+    "h1": [
+      "Getting Started with Java in VS Code: Your Powerful Development Environment"
+    ],
+    "content": "Skip to content Home > Getting Started with Java in VS Code: Your Powerful Development Environment Getting Started with Java in VS Code: Your Powerful Development Environment Table of Contents PriyankaS3ri July 29, 2024 4:53 pm Java has been a cornerstone in the development of enterprise applications for a long time because of its large number of libraries and frameworks, scalability, and dependability. To increase productivity and optimize workflow, developers have to choose the appropriate development environment. Among the plethora of options available, Visual Studio Code (VS Code), developed by Microsoft, stands out due to its lightweight design, robust performance, extensive customization capabilities, and broad support for various programming languages, including Java. In this comprehensive blog presented by 3RI Technologies, we will walk you through the process of setting up Visual Studio Code for Java development , effectively managing Java projects and source files, integrating essential build tools such as Maven and Gradle, and evaluating the strengths and limitations of leveraging VS Code for Java development. Visual Studio Code Setup for Java Setting up your development environment correctly is crucial before you begin developing Java using VS Code. This is a step-by-step guide: 1. Download and Install VS Code: Get the installation appropriate for your operating system (Windows, macOS, or Linux) by going to the official Visual Studio Code website (https://code.visualstudio.com/). The installation process is straightforward and user-friendly, guiding you through setup options tailored to your preferences 2. Install Java Development Kit (JDK): You must have the Java Development Kit (JDK) installed in the machine you use in order to compile and run Java programs. Download the JDK from the official Oracle website ( https://www.oracle.com/java/technologies/javase-downloads.html ) or adopt OpenJDK ( https://adoptopenjdk.net/ ). Following installation, configure the environment variable JAVA_HOME to point to the JDK installation directory. This step is crucial for VS Code to locate your Java installation and enable Java development features. 3. Install the Java Extension Pack: Once VS Code is installed, launch it and navigate to the Extensions view (Ctrl+Shift+X). Search for “Java Extension Pack” and install it. This package contains the following significant Java programming extensions: Language Support for Java by Red Hat: Provides code completion, syntax highlighting, and code navigation features. Debugger for Java: Facilitates debugging Java applications directly within VS Code. Test Runner for Java: Enables seamless execution and management of JUnit tests. Optional Maven for Java and Gradle for Java: Extensions for integrating Maven or Gradle build tools into your Java projects. Boost your IT career with Java classes in Pune. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send Working with Java Source Files After configuring your development environment, you can use Visual Studio Code to work with Java source files: 1. Creating a New Java File: Open VS Code and create a new folder dedicated to your Java project. Right-click within the folder, select “New File,” and name it with a .java extension (e.g., Hello.java). This naming convention prompts VS Code to recognize the file as a Java source file and enables Java-specific syntax highlighting and IntelliSense features. 2. Using Code Completion and IntelliSense: While editing your Java code in VS Code, take advantage of IntelliSense for intelligent code completion suggestions related to Java keywords, classes, methods, and variables. This functionality helps developers find available methods and properties and drastically improves development speed by minimizing manual typing. 3. Refactoring and Debugging Capabilities: VS Code includes basic refactoring capabilities such as renaming variables and methods across your project. With the Debugger for Java extension installed, you can set breakpoints, step through code execution, inspect variables, and diagnose issues directly within the VS Code interface. These debugging tools streamline the troubleshooting process, making it easier to identify and resolve errors in Java applications. Master Core Java with expert guidance. Check out our Core Java classes in Pune. Working with a Basic Java Project To gain practical experience with Java development in VS Code, let’s walk through the steps of creating and managing a basic Java project: 1. Initiating a Java Project: Use the Command Palette (Ctrl+Shift+P) in VS Code to search for “Java: Create Java Project.” Follow the prompts to specify the project location, name, and preferred build tool (Maven or Gradle). VS Code will generate a basic project structure including directories for source code (src/main/java), resources (src/main/resources), and tests (src/test/java), ensuring an organized setup for your Java project. 2. Project Structure Organization: Take advantage of VS Code’s integrated Package Explorer to navigate through your project files, packages, classes, and resources. This hierarchical view simplifies the organization and management of project components, making it easy to locate and edit specific files within your Java project. 3. Building and Executing the Project: Depending on your chosen build tool (Maven or Gradle), VS Code provides extensions and commands to build and run your Java application seamlessly. For Maven projects, you can use commands like “Maven: package” to compile and package your application into a distributable format. Similarly, for Gradle projects, commands like “Gradle: build” execute build tasks defined in the build.gradle file, ensuring your Java application is compiled and ready for deployment. Embark on your journey to becoming a Java programmer with industry-leading Java training. Maven and Gradle Integration For more complex Java projects requiring dependency management and build automation, VS Code integrates seamlessly with popular tools like Maven and Gradle: 1. Maven Integration: The Maven for Java extension simplifies tasks such as managing project dependencies defined in the pom.xml file. You can execute Maven goals directly from the Command Palette in VS Code, visualize the project’s dependency tree, and perform other essential Maven tasks without leaving the editor environment. 2. Gradle Integration: Similarly, the Gradle for Java extension supports efficient management of build tasks specified in the build.gradle file. Execute Gradle commands, manage dependencies, and visualize task dependencies within VS Code, ensuring smooth integration with Gradle-based Java projects. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Strengths and Drawbacks As you explore Java development in Visual Studio Code, consider the following strengths and drawbacks of using VS Code as your primary IDE: Strengths: Lightweight and Customizable: Visual Studio Code (VS Code) is renowned for its lightweight nature while still offering powerful features. It enables considerable environment customization for developers through the use of themes, extensions, and customized settings. This adaptability makes it easier for developers to customize the IDE to fit their unique preferences and workflow. Cross-Platform Compatibility: VS Code ensures a consistent development experience across several operating systems by running smoothly on Mac OS, Windows, and Linux. This compatibility is beneficial for teams working on diverse platforms, promoting collaboration without compatibility issues. Rich Extension Ecosystem: The VS Code marketplace hosts a vast array of extensions that cater to various aspects of Java development. These extensions include support for code formatting, integration with testing frameworks like JUnit, linters for code quality, version control systems such as Git, and many more. This ecosystem allows developers to enhance their productivity by integrating tools directly into their development environment. Built-in Debugging Capabilities: With the Debugger for Java extension, VS Code provides robust debugging tools. These tools make it easier to find and fix bugs in Java programs, which enhances the reliability as well as the standard of the code. Debugging features include breakpoints, variable inspection, and step-by-step execution, which are essential for efficient troubleshooting. Drawbacks: Basic Out-of-the-Box Features: Compared to specialized Java IDEs like Eclipse or IntelliJ IDEA, VS Code offers fewer built-in features specifically tailored for Java development. While extensions provide additional functionality, some essential features may require configuration or installation of third-party extensions. Learning Curve for Beginners: Setting up and configuring VS Code, along with its extensions for Java development, may pose a learning curve for beginners. Unlike more integrated IDEs, which may have a more streamlined setup process, users new to VS Code might find initial configuration challenging. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Limited Support for Enterprise-Level Features: For enterprise Java development, which often involves advanced features such as visual deployment tools or seamless integration with specific application servers, VS Code’s support can be relatively limited. Dedicated IDEs like Eclipse or IntelliJ IDEA often provide more comprehensive tools and integrations tailored for enterprise environments. Visual Studio Code is an ideal choice for many Java programming tasks since it offers a lightweight, flexible environment with a robust ecosystem of extensions and good cross-platform interoperability. Its comparatively basic pre-installed features, potential learning curve for beginners, and limitations in supporting complex enterprise-level Java programming skills are all things that developers need to be aware of. Conclusion In conclusion, Visual Studio Code proves to be a versatile and powerful platform for Java development, offering a lightweight yet customizable environment, robust debugging capabilities, and seamless integration with build tools like Maven and Gradle. While it may require some initial setup and configuration compared to more specialized IDEs, the benefits of cross-platform compatibility, extensive extension ecosystem, and intuitive debugging tools make VS Code a compelling choice for Java developers of all levels. Explore Visual Studio Code for your Java projects and leverage its flexibility to enhance productivity and streamline your development workflow. Whether you are a seasoned developer or just starting with Java programming, VS Code provides the tools and resources to support your journey. For further guidance on configuring or customizing your Visual Studio Code environment for Java development, feel free to reach out to our team at 3RI Technologies. We are committed to empowering developers with the latest technologies and ensuring success in your Java development endeavors. Prev Previous Shaping Tomorrow: The Top Trends Defining the Future of Predictive Analytics Next Adoption of DevOps: All Hype or Worth the Effort? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/27.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/Become-a-Java-Certified-Professional.png",
+        "alt": "Become-a-Java-Certified-Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Java&cd%5Bpage_title%5D=Getting+Started+with+Java+in+VS+Code%3A+Your+Powerful+Development+Environment&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=96519&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fgetting-started-with-java-vscode-powerful-development-environment%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2024/07/29/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/adoption-of-devops-hype-or-worth-the-effort/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-training/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/trends-shaping-the-future-of-predictive-analytics/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Get Started with Java in VS Code: A Powerful IDE | 3RI",
+    "og_description": "Learn how to set up Java in VS code. Follow our guide to leverage this powerful IDE and enhance your development skills today!",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Getting Started with Java in VS Code: Your Powerful Development Environment",
+            "datePublished": "2024-07-29T11:23:03+00:00",
+            "dateModified": "2024-07-29T11:29:52+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/"
+            },
+            "wordCount": 1554,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/27.png",
+            "keywords": [
+              "Java Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Java"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/",
+            "url": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/",
+            "name": "Get Started with Java in VS Code: A Powerful IDE | 3RI",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/27.png",
+            "datePublished": "2024-07-29T11:23:03+00:00",
+            "dateModified": "2024-07-29T11:29:52+00:00",
+            "description": "Learn how to set up Java in VS code. Follow our guide to leverage this powerful IDE and enhance your development skills today!",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/27.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/27.png",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/getting-started-with-java-vscode-powerful-development-environment/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Getting Started with Java in VS Code: Your Powerful Development Environment"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

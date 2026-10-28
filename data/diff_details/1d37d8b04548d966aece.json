@@ -1,0 +1,340 @@
+{
+  "url": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "What is AI in DevOps? | Benefits and Job Roles",
+    "meta_description": "New to AI in DevOps? What does it mean for your career? DevOps Classes in Pune break down the benefits and career opportunities and sharpen your skills.",
+    "h1": [
+      "What is AI in DevOps? | Benefits and Job Roles"
+    ],
+    "content": "Skip to content Home > What is AI in DevOps? | Benefits and Job Roles What is AI in DevOps? | Benefits and Job Roles AI is bringing new possibilities to DevOps, from automating routine tasks to improving software delivery. Understand its benefits and career paths, then build your foundation with Devops Classes in Pune and gain hands-on experience through a Devops Course in Pune. Table of Contents PriyankaS3ri August 13, 2026 10:09 am What if your team knew about a server crash an hour before it actually happened? That’s not a far-off idea anymore—it’s what AI is already doing inside DevOps pipelines today. Software teams are quietly moving past manual monitoring and gut-feel decisions, letting data guide releases instead. For anyone exploring DevOps Classes in Pune or simply curious about where this field is headed, understanding how AI fits into DevOps is no longer optional—it’s part of staying relevant. Understanding AI in DevOps AI in DevOps refers to the use of artificial intelligence and machine learning techniques within the DevOps lifecycle to automate repetitive tasks, detect issues early, and support faster decision-making. Traditional DevOps already focuses on collaboration between development and operations teams, but adding AI takes that collaboration further by reducing manual effort and human error. In simple terms, AI-powered DevOps tools study patterns in code, infrastructure, and system behaviour, then use that data to suggest improvements or flag problems automatically. This is different from basic automation scripts, which only follow fixed rules. AI systems learn and adapt over time. How AI Fits Into the DevOps Lifecycle Everyday examples of this in action include: Catching a failing deployment before it reaches production Reviewing code changes and pointing out risky patterns Watching server health around the clock without human shifts Flagging a security gap while the code is still being written Adjusting cloud resources up or down based on actual usage This is exactly why a modern DevOps Course in Pune now spends time on AI-based tools , not just the traditional CI/CD basics that were enough a few years ago. Why AI Has Become Important in DevOps A decade ago, teams pushed out updates once every few weeks. Today, some companies release changes multiple times a day. No team of engineers, however skilled, can manually watch every log line at that pace—and that’s really where AI earns its place. A few reasons this shift happened: The sheer volume of logs and metrics has outgrown what people can realistically review Customers expect outages to be fixed in minutes, not hours Cyber threats are getting sharper, so slow detection is a real risk Cloud infrastructure changes constantly and needs constant watching Take a retail website during a big sale. Traffic can jump tenfold within minutes. AI-based monitoring notices the surge early and scales up servers automatically, long before customers notice any lag. Just a few years back, this kind of quick reaction depended entirely on someone being awake and watching a dashboard. The deeper insight here is that AI doesn’t replace the engineer watching the dashboard—it changes what they spend their time on. Instead of hunting through logs looking for a needle in a haystack, engineers review what the system has already flagged and decide what to do next. That shift, from searching to deciding, is what makes teams faster without burning people out. Industry coverage on the Future of DevOps points to AI becoming a regular part of engineering pipelines rather than a novelty—which makes this a good time to build these skills rather than catch up later. AI in DevOps vs Traditional DevOps Area Traditional DevOps AI-Enabled DevOps Monitoring Teams rely on dashboards, metrics, and predefined alerts to track system health. Tools can identify unusual patterns and potential issues by analyzing system data. Testing Teams use predefined automated test cases to check application quality. AI-assisted tools can help create test cases, analyze results, and identify possible gaps. Incident Response Engineers review alerts, logs, and system data to find the cause of an incident. Tools can bring related signals together and provide useful summaries to help teams investigate faster. Code Assistance Developers write, review, and improve code mainly through their own experience and standard tools. Developers can use AI-based assistance for code suggestions, reviews, documentation, and repetitive tasks. Deployment Automated pipelines follow predefined rules and approval processes to release applications. Teams can use data-driven insights to assess deployment risks and improve release decisions. Decision-Making Decisions are generally guided by predefined rules, metrics, and thresholds. Teams can consider historical and real-time data to identify trends and make more informed decisions. This is one of the biggest reasons professionals joining a DevOps Training in Pune program now ask specifically about AI tools for devops ​ alongside the usual CI/CD pipeline topics — the benefits of AI in DevOps are hard to ignore once you’ve seen them in a live project. Key Benefits of AI in DevOps The Benefits of AI in DevOps become clearer when we look at the everyday challenges faced by development and operations teams. 1. Faster Troubleshooting When something goes wrong in an application or system, finding the actual cause can take time. AI can quickly review logs, alerts, and performance data to help engineers identify where the problem may be coming from. This allows teams to spend less time searching through information manually and more time fixing the issue. 2. Better Anomaly Detection Traditional monitoring often depends on predefined limits and alerts. AI-based tools can go a step further by learning what normal system activity looks like and highlighting unusual changes. This can help DevOps teams spot potential problems across applications, servers, infrastructure, and cloud environments before they become serious. 3. Improved Developer Productivity Developers often spend a significant amount of time handling repetitive tasks, understanding existing code, or writing basic tests. Modern development tools can assist with code suggestions, test creation, code explanations, and routine programming work. For example, GitHub provides AI-powered development features that can support developers throughout different stages of software development. 4. More Efficient CI/CD Workflows AI can also make continuous integration and continuous delivery workflows more efficient. It can help teams review pipelines, identify possible problems, and reduce repetitive work involved in software delivery. Even so, important deployment decisions should remain under proper review, with clear policies and approval processes in place. 5. More Proactive Operations One of the biggest advantages of using AI in DevOps is the possibility of identifying issues before they turn into major incidents. Instead of waiting for a system failure and then responding to it, teams can look for early warning signs and take action sooner. Simple example: System data → Pattern analysis → Unusual activity detected → Engineer alerted → Problem investigated → Corrective action This approach can help organizations reduce downtime and maintain more reliable applications. 6. Better Use of Operational Data DevOps teams generate and collect a large amount of information from applications, servers, cloud platforms, monitoring systems, and deployment pipelines. Going through all of this information manually can be difficult. AI-assisted tools can help organize, summarize, and highlight important findings, allowing engineers to concentrate on decisions that require human judgment and experience. 7. Stronger Security Practices Security has become an important part of modern DevOps, especially with the growth of DevSecOps practices. AI-assisted tools can help teams review source code, dependencies, logs, and other security-related information to identify suspicious activity or possible vulnerabilities. This can give security and DevOps teams additional support when monitoring and protecting software environments. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send The benefits of AI in DevOps depend on how thoughtfully it is introduced. Good-quality data, suitable tools, proper governance, and human oversight are still essential. AI should strengthen an already well-structured DevOps process rather than be used as a shortcut for fixing weak processes. If you’ve been searching “DevOps Classes Near Me” or weighing your options for the Best DevOps Classes in Pune , look for a program built around real projects rather than slides and theory. Getting hands-on time with actual AI tools for DevOps makes a real difference once you’re sitting in an interview. Career Opportunities After Learning AI in DevOps Once you understand how AI supports DevOps work, a wider set of job options opens up. Knowing devops engineer roles and responsibilities is still the foundation, but pairing that with AI exposure is what tends to catch a hiring manager’s eye. These aren’t just buzzy titles—they show up consistently in hiring trends of AI in DevOps across job portals. What’s worth noting is that most of these roles didn’t exist in their current form five years ago; they evolved out of traditional DevOps positions as companies started expecting engineers to work alongside AI tools rather than just automation scripts. A structured DevOps certification course can help turn this awareness into practical, interview-ready skills rather than surface-level familiarity. Is AI in DevOps the Right Career for You? AI in DevOps can be a good career direction if you enjoy both problem-solving and technology operations. It is particularly suitable for people who like understanding how applications move from source code to production and how infrastructure behaves after deployment. You may find this field interesting if you enjoy: Automating repetitive technical tasks Working with cloud platforms Troubleshooting application and infrastructure problems Learning scripting and programming Understanding CI/CD pipelines Monitoring system performance Exploring new AI tools for DevOps Improving software delivery processes However, AI in DevOps is not a shortcut into IT. You still need strong fundamentals in operating systems, networking, cloud computing, version control, automation, and software delivery. For students or career changers, starting with structured Devops Training in Pune can provide a foundation before moving into AI-powered DevOps workflows . Experienced professionals can instead focus on adding AIOps, observability, cloud automation, and AI-assisted development to their existing skill set. Conclusion AI in DevOps isn’t a passing trend—it’s steadily becoming part of how software teams work day to day. From catching problems before they escalate to freeing up engineers for more meaningful work, ai powered devops is changing what a typical devops workflow looks like, and opening solid career paths along the way. Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Whether you’re just starting out or looking to upgrade your existing skill set, now is a practical time to get hands-on with these tools. 3RI Technologies , known as one of the Best DevOps Training Institutes in Pune , offers project-based learning that helps students and working professionals step into AI-driven DevOps roles with skills that actually hold up on the job. Prev Previous Which AWS Training Institute Is Best for Freshers and Experienced People in Pune? Next AI-Powered IT Courses in Pune with Real-Time Projects Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/How-AI-Is-Changing-DevOps-Benefits-and-Career-Roles.png",
+        "alt": "Graphic explaining AI in DevOps, covered in DevOps Classes in Pune, with benefits and career roles.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-33-1024x683.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-30.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-32-1024x683.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/21-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+DevOps&cd%5Bpage_title%5D=What+is+AI+in+DevOps%3F+%7C+Benefits+and+Job+Roles%C2%A0&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=121785&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-ai-in-devops-benefits-and-job-roles%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2026/08/13/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/ai-powered-it-courses-in-pune-with-real-time-projects/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/best-aws-training-in-pune-for-freshers-and-experienced/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/",
+      "https://www.3ritechnologies.com/what-is-the-future-of-devops-in-2025/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "What is AI in DevOps? | Benefits and Job Roles",
+    "og_description": "New to AI in DevOps? What does it mean for your career? DevOps Classes in Pune break down the benefits and career opportunities and sharpen your skills.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "What is AI in DevOps? | Benefits and Job Roles ",
+            "datePublished": "2026-08-13T04:39:00+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/"
+            },
+            "wordCount": 1693,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/How-AI-Is-Changing-DevOps-Benefits-and-Career-Roles.png",
+            "keywords": [
+              "DevOps Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "DevOps"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/",
+            "url": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/",
+            "name": "What is AI in DevOps? | Benefits and Job Roles",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/How-AI-Is-Changing-DevOps-Benefits-and-Career-Roles.png",
+            "datePublished": "2026-08-13T04:39:00+00:00",
+            "description": "New to AI in DevOps? What does it mean for your career? DevOps Classes in Pune break down the benefits and career opportunities and sharpen your skills.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/How-AI-Is-Changing-DevOps-Benefits-and-Career-Roles.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/How-AI-Is-Changing-DevOps-Benefits-and-Career-Roles.png",
+            "width": 1000,
+            "height": 669,
+            "caption": "AI is changing DevOps in ways that, as taught in most DevOps Classes in Pune, teams are still catching up with."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/what-is-ai-in-devops-benefits-and-job-roles/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "What is AI in DevOps? | Benefits and Job Roles "
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

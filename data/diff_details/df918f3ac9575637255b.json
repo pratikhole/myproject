@@ -1,0 +1,581 @@
+{
+  "url": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Python Lambda Functions: A Simple Guide for Data Science | 3ritechnologies",
+    "meta_description": "Unlock the power of lambda in Python for data science. Our guide explains what lambda functions are and how to use them for faster, cleaner data manipulation and analysis.",
+    "h1": [
+      "Lambda Functions in Python: A Practical Guide for Data Science and Data Analytics"
+    ],
+    "content": "Skip to content Home > Lambda Functions in Python: A Practical Guide for Data Science and Data Analytics Lambda Functions in Python: A Practical Guide for Data Science and Data Analytics Simplify data science with Python Lambda functions. Learn key techniques for faster, cleaner, and more efficient coding with 3RI Technologies. Table of Contents PriyankaS3ri February 28, 2025 11:20 am In the world of Data science and Data analytics , efficiency and performance matter. One of the powerful features in Python that enhances code simplicity and readability is the lambda function . Lambda functions, often referred to as anonymous functions, offer a succinct method for creating small functions that consist of a single expression. In this blog, we will explore how lambda functions can be effectively used in data science and analytics. In the world of data science, efficiency is everything. Writing clean, concise, and functional code can dramatically speed up your analysis and make your projects more maintainable. This is where the lambda python function shines—a powerful tool for creating small, on-the-fly anonymous functions. While the syntax might seem unusual at first, understanding lambda is a fundamental step for anyone serious about data manipulation and analytics. For those looking to build a strong foundation and explore more advanced concepts, a hands-on Python Training in Pune offers the structured learning path needed to excel. In this guide, we’ll walk you through everything you need to start using lambda functions effectively in your data science projects. Simplifying Your Code with Practical Lambda Python Examples A lambda function in Python is a compact, anonymous function created with the lambda keyword. It can take multiple arguments but contains only a single expression. The syntax is: lambda arguments: expression Unlike traditional functions created with def, lambda functions are inline functions and do not require a function name. Example: Lambda functions are commonly used in data science and data analytics for data transformation, filtering, and aggregation tasks. How Lambda Functions Can Help in Data Analysis and Data Science? Lambda functions are useful for: Data Cleaning – Applying transformations on data quickly. Feature Engineering – Creating new features with minimal code. Filtering Data – Filtering datasets efficiently. Sorting Data – Using lambda functions as sorting keys. Applying Functions to Pandas DataFrames – Efficiently applying transformations in a vectorized manner. Map, Filter, and Reduce Functions with Lambda Python provides three key built-in functions— map() , filter() , and reduce() —that work seamlessly with lambda functions. 1. map() Function The map() function applies a specified function to each item in an iterable, making it ideal for element-wise transformations. Example: Converting Celsius to Fahrenheit Explanation: The lambda function lambda x: (x * 9/5) + 32 converts each temperature from Celsius to Fahrenheit . map() applies this transformation to each value in the list celsius. The result is a new list of converted temperatures in Fahrenheit. 2. filter() Function The filter() function filters elements from an iterable based on a boolean condition . Example: Filtering Even Numbers Explanation: The lambda function lambda x: x % 2 == 0 checks if a number is even . filter() traverses the list and retains only the numbers that meet this condition. The final output is a list of even numbers. 3. reduce() Function The reduce() function (from the functools module) applies a function in a cumulative manner to the elements of an iterable. Example: Finding the Product of a List of Numbers Explanation: The lambda function lambda x, y: x * y multiplies two numbers at a time. reduce() starts with the first two numbers , multiplies them, then takes the result and multiplies it with the next number, and so on. The result is 1 × 2 × 3 × 4 × 5 = 120 . Examples of Lambda Functions in Data Analysis 1. Sorting Data in Pandas Lambda functions can be utilized to sort a Pandas DataFrame according to specific conditions. Example: Sorting a DataFrame Based on a Column Value Explanation: The sort_values() function sorts the DataFrame based on the ‘Age’ column. The lambda function lambda x: x simply tells Pandas to use the column values for sorting. The output will be a sorted DataFrame with increasing age . 2. Creating a New Column Using Lambda in Pandas Example: Categorizing Age Groups Explanation: The lambda function lambda x: ‘Young’ if x < 30 else ‘Old’ checks the age of each person. If the age is less than 30 , it assigns ‘Young’, otherwise ‘Old’. The new column ‘Age Group’ is added to the DataFrame. 3. Applying a Function to Each Row in a DataFrame Lambda functions are frequently employed in data transformation tasks. Example: Extracting Initials from Names Explanation: The lambda function lambda x: x[0] extracts the first letter of each name. A new column ‘Initial’ is added to store these extracted initials. Examples of Lambda Functions in Data Science 1. Feature Engineering in Machine Learning Lambda functions are beneficial for generating new features in machine learning models. Example: Binarizing a Feature Explanation: The lambda function lambda x: 1 if x > 3.0 else 0 converts values greater than 3.0 to 1 and others to 0 . The final array represents a binary classification of values . 2. Normalizing Data with Lambda Scaling data is a standard preprocessing step in data science. Example: Min-Max Normalization Explanation: The formula (x – min) / (max – min) scales values between 0 and 1. The lambda function applies this normalization to each value. 3. Text Processing with Lambda Functions Lambda functions can be used in NLP (Natural Language Processing) for text cleaning and transformation. Example: Converting Text to Lowercase Explanation: The lambda function lambda x: x.lower() converts each text string to lowercase . This is useful for text preprocessing in NLP. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Conclusion Lambda functions in Python offer a concise and efficient way to handle data transformations, filtering, and feature engineering in Data analysis and Data science . They work seamlessly with built-in functions like map(), filter(), and reduce(), and are widely used in Pandas , NumPy , and machine learning pipelines . By incorporating lambda functions into your workflow, you can create cleaner and more efficient code, enhancing productivity in your data science tasks. Prev Previous The Top 8 Artificial Intelligence Trends for 2025 Next Top Data Extraction Tools for Efficient Digital Data Collection Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-24-1.png",
+        "alt": "The power of Python Lambda functions in data science and analytics. Optimize code efficiency with this quick guide!",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Data-Science-Certified-Professional.png",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-10.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-11.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-12.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-13.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-14.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-15.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-16.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-17.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-19.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-20.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-18.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-21.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-22.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-23.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-24.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-25.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-26.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-27.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-28.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-29.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-30.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-32.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-34.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-33.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-35.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-36.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-38.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-37.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-40.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-39.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-41.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-42.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-43.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-44.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-46.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-45.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-47.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-48.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-49.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-50.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-51.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-52.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-54.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-53.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-55.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-57.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-56.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-61.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-58.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-59.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-60.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=Lambda+Functions+in+Python%3A+A+Practical+Guide+for+Data+Science+and+Data+Analytics&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=108254&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Flambda-functions-in-python-for-data-science-and-data-analytics%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2025/02/28/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/top-10-data-extraction-tools-for-efficient-data-collection/",
+      "https://www.3ritechnologies.com/top-8-artificial-intelligence-trends-for-2025/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Python Lambda Functions: A Simple Guide for Data Science | 3ritechnologies",
+    "og_description": "Unlock the power of lambda in Python for data science. Our guide explains what lambda functions are and how to use them for faster, cleaner data manipulation and analysis.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Lambda Functions in Python: A Practical Guide for Data Science and Data Analytics",
+            "datePublished": "2025-02-28T05:50:07+00:00",
+            "dateModified": "2025-08-06T06:49:54+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/"
+            },
+            "wordCount": 928,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-24-1.png",
+            "keywords": [
+              "Data Science Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/",
+            "url": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/",
+            "name": "Python Lambda Functions: A Simple Guide for Data Science | 3ritechnologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-24-1.png",
+            "datePublished": "2025-02-28T05:50:07+00:00",
+            "dateModified": "2025-08-06T06:49:54+00:00",
+            "description": "Unlock the power of lambda in Python for data science. Our guide explains what lambda functions are and how to use them for faster, cleaner data manipulation and analysis.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-24-1.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/02/image-24-1.png",
+            "width": 1000,
+            "height": 667,
+            "caption": "The power of Python Lambda functions in data science and analytics. Optimize code efficiency with this quick guide!"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Lambda Functions in Python: A Practical Guide for Data Science and Data Analytics"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

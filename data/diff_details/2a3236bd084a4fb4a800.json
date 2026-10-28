@@ -1,0 +1,364 @@
+{
+  "url": "https://www.3ritechnologies.com/fundamental-concepts-of-python/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Python Basics: Introduction, Concepts & Loops Explained",
+    "meta_description": "Explore Python basics, loops, and core concepts in an easy-to-understand way. Start your journey with expert-led Python training in Pune at 3RI Technologies.",
+    "h1": [
+      "Python Introduction and Basic Concepts for Beginners"
+    ],
+    "content": "Skip to content Home > Python Introduction and Basic Concepts for Beginners Python Introduction and Basic Concepts for Beginners Purpose of this Blog This blog is designed for complete beginners, learners, and working professionals who wish to start learning Python from the ground up. It addresses the common challenge of not knowing how to begin by simplifying the most important concepts into easy-to-follow explanations. You will understand what variables, data types, functions, and control flow mean and how they interact with each other. By mastering these basics, you will be able to create your first simple and working scripts, reduce common programming mistakes, and establish a strong base to confidently handle more advanced coding challenges in the future. Table of Contents madan October 4, 2023 1:35 pm Introduction Python is a widely used, high-level programming language valued for its clarity and ease of use. The syntax of Python is intentionally simple and human-readable, which makes it an ideal option for beginners starting their coding journey. At the same time, it is highly flexible and supports numerous applications such as web development, data analysis, machine learning, and scientific computing. The basic concepts of Python refer to the essential elements required to create programs using the Python programming language. These fundamentals include variables used to store information, data types such as strings and numbers, and control structures such as loops and conditional statements which guide program execution. Gaining a strong understanding of these core concepts is a crucial starting point for anyone aiming to develop applications, automate processes, or work with data, as they serve as the foundation for advanced programming logic and real-world projects. If you are at the beginning of your coding journey, having a clear overview is essential: Coding Essentials for Beginners: Start Your Programming Journey with Confidence. Python is one of the most beginner-friendly and powerful programming languages used in web development, automation, AI, and more. This guide covers the introduction of Python, along with basic concepts of Python like variables, data types, and loops in Python. Whether you’re just starting out or need to sharpen your core Python knowledge, understanding these fundamental Python skills is essential. Designed for newcomers, this overview helps you grasp key Python concepts step by step. Ready to start coding with confidence? Enroll in expert-led Python training in Pune at 3RI Technologies and kickstart your career today. Introduction of Python: Why It’s So Popular Understanding Fundamentals of Python Programming Before diving into the world of Python programming, it is essential that you understand the fundamental concepts. These are the fundamental concepts that will let you write code that is both efficient and effective. Let’s look more closely at each of these concepts: Eager to stay competitive in your career? Check out the Python Training in Pune. What can Python do? Python is widely used on servers to build dynamic web applications. It can support existing software to create and automate effective workflows. Python is capable of connecting to database systems, as well as reading, writing, and modifying files. It is widely used to handle massive datasets and conduct complex mathematical calculations. Python supports fast prototyping and is equally suitable for developing scalable, production-level software. Why Python? Python runs smoothly across multiple platforms, including Windows, macOS, Linux, and Raspberry Pi. The syntax is clean and similar to English, making it easy to read and understand. Python allows developers to write clean and effective programs using fewer lines of code compared to many other languages. Because Python uses an interpreter, code can be executed immediately after writing, which speeds up testing and prototyping. Python supports various programming styles, such as procedural, object-oriented, and functional programming. Good to know The latest major release of Python is Python 3, and this tutorial will be based on that version. In this guide, Python code will be written using a text editor. However, Python can also be developed using Integrated Development Environments (IDEs) such as Thonny, PyCharm, NetBeans, or Eclipse, which are especially helpful when working with larger Python projects. 1. Variables and Data Types Dynamic Typing Python’s dynamic typing allows variables to be defined without explicitly defining their data types. Python code is readable and clear due to its flexibility. However, it’s important to note that Python still enforces type safety at runtime. Here is further information about Python’s dynamic typing: Variable Declaration In Python, the data type does not need to be explicitly declared when creating a variable. The type is assigned by the value given to the variable. For example: x = 10 # x is an integer name = “Alice” # name is a string value = 3.14 # value is a float is_valid = True # is_valid is a boolean Python identifies the data type based on the values you assign. This flexibility allows you to change the content of a variable freely: x = 10 # x is an integer x = “Hello” # x is now a string Type Inference Python performs type inference at runtime, which means that it determines the data type of a variable while the program is executing. This allows for dynamic and flexible code execution. For example: x = 10 y = “20” result = x + y # Python dynamically converts x to a string and performs string concatenation In the above example, Python recognizes that x is an integer and y is a string, and it dynamically converts x to a string to perform the concatenation. Type Conversion You can convert between different data types using built-in functions like int(), float(), str(), and bool(). num_str = “42” num_int = int(num_str) Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Function Arguments and Return Types Dynamic typing extends to function arguments and return types. Python functions can accept arguments of various types, and their behavior can adapt accordingly. Similarly, functions can return values of different types based on the specific execution context. def add(a, b): return a + b result1 = add(3, 5) # result1 is an integer (8) result2 = add(“Hello, “, “World!”) # result2 is a string (“Hello, World!”) Python’s dynamic typing makes it possible to create flexible functions that can handle a variety of data types, enabling code reuse. Explore further with our Python Web Development Course to deepen your knowledge and skills. Polymorphism Dynamic typing contributes to Python’s support for polymorphism. Due to polymorphism, many types of objects can be treated as though they are all of the same fundamental type. This concept enables you to write flexible and extensible code. class Dog: def speak(self): return “Woof!” class Cat: def speak(self): return “Meow!” def animal_sound(animal): return animal.speak() dog = Dog() cat = Cat() sound1 = animal_sound(dog) # Calls Dog’s speak method sound2 = animal_sound(cat) # Calls Cat’s speak method In the example above, the animal_sound function can work with both Dog and Cat objects because of Python’s dynamic typing and support for polymorphism. 2. Control Structures Conditional Statements Conditional statements let you execute different code blocks based on specific conditions. Python facilitates readable and understandable code by utilizing indentation for identifying code blocks. temperature = 23 if temperature > 30: print(“It is hot outside!”) elif temperature > 20: print(“It’ is a pleasant day.”) else: print(“It’s chilly.”) Loops Python offers two main types of loops: for and while. These loops enable you to iterate through sequences or execute code until a condition is met. # Using a for loop for i in range(5): print(i) # Using a while loop count = 0 while count < 5: print(count) count += 1 3. Functions Function Parameters and Return Values Functions have the ability to take parameters (or arguments) as input and output values. You can have functions with multiple parameters and even functions with default parameter values. def add(a, b): return a + b result = add(3, 4) Scope and Global Variables Understanding variable scope is crucial. Variables defined inside of functions are local to the specific function, but variables specified outside of functions are global. Within a function, the global keyword must be used to change a global variable. x = 10 def modify_global(): global x x = 20 modify_global() print(x) # Outputs 20 Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send 4. Data Structures Data structures are essential tools in computer science and programming that allow you to efficiently organize, store, and operate with data. In addition to a large selection of pre-built data structures, Python also lets you create your own. Here is a list of some of the most well-liked data structures in Python: Lists Lists are one of the most versatile and widely used data structures in Python. They contain items of many data types and have organized as collections of items. As lists are mutable, you can change their contents. # Creating a list my_list = [1, 2, 3, “apple”, “banana”] # Accessing elements print(my_list[0]) # Output: 1 print(my_list[-1]) # Output: “banana” # Modifying elements my_list[2] = 4 # Adding elements my_list.append(“cherry”) # Removing elements my_list.remove(2) Tuples Tuples are just like Lists in that they cannot have their contents modified once they have been created, while being immutable. They are often used to store related data as a single unit. # Creating a tuple my_tuple = (1, 2, 3, “apple”, “banana”) # Accessing elements print(my_tuple[0]) # Output: 1 # Tuples are immutable; the following line would raise an error: # my_tuple[2] = 4 Sets Sets are collections of unique elements with no specific order. They are often used to carry out tasks like testing membership or deleting duplicates from a list. # Creating a set my_set = {1, 2, 3, “apple”, “banana”} # Adding elements my_set.add(“cherry”) # Removing elements my_set.remove(2) Looking forward to becoming a Python Developer? Then get certified with Python Online Training Dictionaries Dictionaries are collections of key-value pairs that are not ordered. When each value is associated with a unique key, they can be utilized to efficiently store and retrieve data. # Creating a dictionary my_dict = {“name”: “Alice”, “age”: 30, “city”: “New York”} # Accessing values by keys print(my_dict[“name”]) # Output: “Alice” # Modifying values my_dict[“age”] = 31 # Adding new key-value pairs my_dict[“country”] = “USA” # Removing key-value pairs del my_dict[“city”] Strings Strings are sequences of characters and are treated as immutable in Python. They support a wide range of string manipulation operations. # Creating a string my_string = “Hello, World!” # Accessing characters print(my_string[0]) # Output: “H” # String slicing print(my_string[7:12]) # Output: “World” # String concatenation new_string = my_string + ” How are you?” # String methods my_string.upper() my_string.replace(“Hello”, “Hi”) Lists of Lists (Nested Lists) Python allows you to create nested data structures, where one data structure is nested inside another. Lists of lists are a common example of this, where each element in the outer list is a list itself. # Creating a list of lists matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]] # Accessing elements print(matrix[1][2]) # Output: 6 Stacks and Queues Stacks and queues are abstract data types that can be implemented using lists. Stacks follow the Last-In-First-Out (LIFO) concept, while First-In-First-Out (FIFO) concept is followed by Queues. # Implementing a stack using a list stack = [] stack.append(1) stack.append(2) stack.pop() # Removes and returns the top element (2) # Implementing a queue using a list from collections import deque queue = deque() queue.append(1) queue.append(2) queue.popleft() # Removes and returns the front element (1) Sets and Dictionaries as Data Structures Sets and dictionaries can also be used as data structures to solve specific problems efficiently. For example, sets are used to find unique elements in a collection, and dictionaries are used for fast data retrieval by keys. # Using a set to find unique elements my_list = [1, 2, 2, 3, 4, 4, 5] unique_elements = set(my_list) # Using a dictionary for efficient data retrieval student_grades = {“Alice”: 95, “Bob”: 89, “Charlie”: 78} alice_grade = student_grades[“Alice”] Custom Data Structures Python allows you to define custom data structures by creating classes. You can define the behavior and attributes of your data structure to suit your specific needs. class MyLinkedList: def __init__(self): self.head = None # Define methods to manipulate the linked list # … # Creating an instance of a custom data structure my_linked_list = MyLinkedList() 5. Object-Oriented Programming (OOP) The Object-Oriented Programming (OOP) paradigm places a strong emphasis on organizing code into reusable, independent pieces known as objects. Python is a versatile and object-oriented programming language, and it encourages developers to follow OOP principles to build modular and maintainable software. Here’s a comprehensive look at OOP in Python: Learn more at Full Stack Online Course Objects and Classes In Python, everything is an object. An object is a standalone component that contains data (attributes) and functionality (methods). Classes have instances that are objects. An object’s structure and behavior are specified by a class, which serves as a blueprint or template. An object is created by instantiating a class. # Define a simple class class Dog: def __init__(self, name): self.name = name def bark(self): return f”{self.name} says Woof!” # Create instances of the Dog class dog1 = Dog(“Buddy”) dog2 = Dog(“Charlie”) # Access attributes and call methods print(dog1.name) # Output: “Buddy” print(dog2.bark()) # Output: “Charlie says Woof!” Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Encapsulation The basic concept of encapsulation is to group together within a class data (attributes) and methods that work with that data. Access modifiers are used in Python to achieve encapsulation: Public : Methods and attributes are reachable from outside the class. Protected : To denote that attributes and methods are meant for internal use only, they are prefixed with a single underscore (e.g., _protected_variable). Private : To indicate that they should not be directly accessed, attributes and methods are prefixed with a double underscore (e.g., __private_variable). class BankAccount: def __init__(self, account_number): self._account_number = account_number # Protected attribute self.__balance = 0 # Private attribute def deposit(self, amount): self.__balance += amount def get_balance(self): return self.__balance account = BankAccount(“12345”) account.deposit(1000) print(account.get_balance()) # Output: 1000 print(account._account_number) # Accessing a protected attribute # Output: “12345” # Note: Accessing a private attribute directly will result in an AttributeError. Inheritance Inheritance, which enables you to base a subclass or derived class (new class) on an base class or parent class(existing class), is a fundamental concept in object-oriented programming (OOP). The features and functionalities of the base class can be replaced or extended by the subclass. class Animal: def speak(self): return “Some generic sound” class Dog(Animal): def speak(self): return “Woof!” class Cat(Animal): def speak(self): return “Meow!” dog = Dog() cat = Cat() print(dog.speak()) # Output: “Woof!” print(cat.speak()) # Output: “Meow!” Polymorphism Polymorphism is the ability of various objects to successfully respond to a method or function call regardless of the context. Python enables polymorphism through duck typing and method overriding. class Shape: def area(self): pass class Circle(Shape): def __init__(self, radius): self.radius = radius def area(self): return 3.14 * self.radius**2 class Rectangle(Shape): def __init__(self, length, width): self.length = length self.width = width def area(self): return self.length * self.width shapes = [Circle(5), Rectangle(4, 6)] for shape in shapes: print(f”Area: {shape.area()}”) Abstraction Abstraction is the process of decreasing complexity by grouping things into classes based on essential characteristics and behaviors and hiding unimportant data. The Python ‘abc’ module can be used to create abstract base classes to accomplish abstraction. from abc import ABC, abstractmethod class Vehicle(ABC): @abstractmethod def start(self): pass @abstractmethod def stop(self): pass class Car(Vehicle): def start(self): return “Car started” def stop(self): return “Car stopped” class Motorcycle(Vehicle): def start(self): return “Motorcycle started” def stop(self): return “Motorcycle stopped” car = Car() motorcycle = Motorcycle() print(car.start()) # Output: “Car started” print(motorcycle.stop()) # Output: “Motorcycle stopped” 6. Exception Handling Exception handling is one of the most important aspects of Python programming is the capability to manage errors and exceptions that may occur while a program is being executed. Software crashes are less common with Python because of its robust and flexible exception handling mechanism, which also improves the predictability of code execution. Here is a thorough overview of Python’s exception handling: 3RI Technologies Provides Full Stack Course in Pune The try and except blocks When handling exceptions in Python, the try and except blocks are widely utilized. The code that might lead to an exception is contained in the try block, and the except block specifies what to do with it if one arises. try: # Code that may raise an exception result = 10 / 0 # Division by zero will raise a ZeroDivisionError except ZeroDivisionError: # Handle the exception print(“Division by zero is not allowed.”) The program will jump to the except block in the previous example when a ZeroDivisionError occurs in the try block, where you may handle the error appropriately. Handling Multiple Exceptions By using different except blocks, each with a different exception type, you may manage several exceptions. For various exception kinds, you may provide various error messages and responses. try: # Code that may raise exceptions result = int(“abc”) # ValueError except ValueError: print(“Invalid conversion to integer.”) except ZeroDivisionError: print(“Division by zero is not allowed.”) Catching All Exceptions You don’t have to provide an exception type when using a generic except block to collect any exception. To manage errors more effectively, it is often advised to catch specific exceptions wherever possible. try: # Code that may raise exceptions result = int(“abc”) # ValueError except Exception as e: # Handle the exception and access its details print(f”An error occurred: {e}”) Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send The else Block The else block can be used to specify code that should run in the absence of any exceptions being raised in the try block. This can be useful for executing cleanup or additional operations when no errors occur. try: # Code that may raise an exception result = 10 / 2 except ZeroDivisionError: print(“Division by zero is not allowed.”) else: print(f”Result: {result}”) The finally Block The finally block defines the code that must always execute regardless of whether an exception was triggered. It is typically employed for maintenance tasks like terminating network connections or files. try: # Code that may raise an exception file = open(“example.txt”, “r”) content = file.read() except FileNotFoundError: print(“File not found.”) else: print(“File read successfully.”) finally: # Always close the file, regardless of exceptions file.close() Raising Exceptions In your code, exceptions can be raised explicitly using the raise statement. This is useful if you want to specify a specific error condition or create special exceptions. def divide(x, y): if y == 0: raise ZeroDivisionError(“Division by zero is not allowed.”) return x / y try: result = divide(10, 0) except ZeroDivisionError as e: print(e) Custom Exceptions You can define custom exceptions by creating new classes that inherit from the Exception class or its subclasses. This allows you to create application-specific exceptions that provide more meaningful error messages. class MyCustomError(Exception): def __init__(self, message): super().__init__(message) try: # Code that may raise a custom exception raise MyCustomError(“This is a custom exception.”) except MyCustomError as e: print(e) Exception Hierarchy Python has a built-in exception hierarchy with a base Base Exception class at the top. Various exception classes inherit from it, including Exception, Arithmetic Error, Lookup Error, and others. It can be easier to identify and handle certain exceptions if you have a thorough understanding of the exception hierarchy. Logging Exceptions Logging is a valuable practice when handling exceptions in Python. The logging module provides a powerful way to record error messages, their severity, and additional information, making it easier to debug and troubleshoot issues in your code. import logging try: # Code that may raise an exception result = 10 / 0 except ZeroDivisionError as e: # Log the exception logging.error(f”An error occurred: {e}”, exc_info=True) Here are some best practices for effective Exception Handling in Python: Be specific: Catch and handle specific exceptions rather than using a generic except block. Use try, except, else, and finally blocks as needed to structure your exception handling logic. Provide meaningful error messages and consider logging exceptions for debugging. Consider using custom exceptions to better convey the nature of errors in your application. Avoid swallowing exceptions by using appropriate error-handling strategies. Exception handling is an essential skill in Python development, as it ensures that your program 7. File Handling File handling is a fundamental aspect of programming that allows you to read from and write to files on your computer’s storage. Python provides a straightforward and versatile way to work with files. Here is a thorough approach to handling files in Python: Opening and closing of files Before you can read from or write to a file, you must first use the open() function. The file path and the mode are the two arguments that the open() function accepts. File Modes: “r”: Read (default mode). Opens the file for reading. “w”: Write. enables writing by opening the file. The file will be truncated if it already exists. It will create a new, empty file if it doesn’t already exist. “a”: Append. enables writing by opening the file, but instead of overwriting it, data is added to the end of the file. “b”: Binary mode. Used in combination with other modes (e.g., “rb” for reading binary files). # Opening a file in read mode file = open(“example.txt”, “r”) # Perform read/write operations here # Closing the file file.close() It’s essential to close the file using close() when you’re done to free up system resources and ensure that changes are saved. Reading from Files Python offers several methods for reading from files: read(): Reads the entire file as a string. readline(): Reads one line at a time and moves the file pointer to the following line. readlines(): Reads every lines into a list, where each line is a separate element in the list. # Reading from a file file = open(“example.txt”, “r”) content = file.read() print(content) file.close() Writing to Files You can use the “w” mode to write to a file. Be cautious when using “w” mode, as it overwrites(replaces) any existing file’s content. # Writing to a file file = open(“output.txt”, “w”) file.write(“Hello, World!\\n”) file.write(“This is a test.”) file.close() To append data to an existing file without overwriting its contents, use the “a” mode. # Appending to a file file = open(“output.txt”, “a”) file.write(“\\nAppending new data to the file.”) file.close() 8. Libraries and Modules Using Third-Party Libraries Python’s extensive library ecosystem includes thousands of third-party libraries and modules. You can install and use these libraries to expand Python’s capabilities for specific tasks. # Using the requests library for HTTP requests import requests response = requests.get(“https://www.example.com”) By mastering these fundamental concepts and delving deeper into their intricacies, you will be well-prepared to tackle a wide range of programming challenges with Python. A solid understanding of these foundations will serve as your basis for success whether you’re developing web applications, performing data analysis, or exploring machine learning. Advanced Python Programming Concepts In this section, we’ll delve into advanced Python programming concepts that will elevate your skills and open up exciting possibilities for your coding journey. 9. List Comprehensions List comprehensions are a concise(quick) way of constructing new lists from existing lists or iterable objects. They enable you to create a new list in a single line of code by adding an expression to each item in an iterable. # Using a list comprehension to create a list of squares numbers = [1, 2, 3, 4, 5] squared_numbers = [x**2 for x in numbers] List comprehensions are not only elegant but also more efficient than traditional loops when creating new lists. 10. Decorators Decorators are a unique and powerful feature of Python. They allow you to change the behavior of a function or method without changing the initial source code. Decorators are widely used for tasks like performance monitoring, authentication, and logging. # Creating a simple decorator def my_decorator(func): def wrapper(): print(“Something is happening before the function is called.”) func() print(“Something is happening after the function is called.”) return wrapper @my_decorator def say_hello(): print(“Hello!”) say_hello() Python frameworks like Flask and Django make extensive use of decorators to enhance the functionality of web routes and views. 11. Generators Generators are a memory-efficient way to work with sequences of data, especially when dealing with large datasets. Generators produce values one at a time using the yield keyword rather than creating and storing an entire series in memory. # Creating a simple generator def countdown(n): while n > 0: yield n n -= 1 for i in countdown(5): print(i) Generators are crucial for tasks that involve streaming data, and they are commonly used in scenarios like reading large log files or processing data from external sources. 12. Lambda Functions Lambda functions, also referred to as anonymous functions, are tiny functions that only support a single expression and can be defined in a single line. They are frequently used as parameters for higher-order functions like map and filter as well as for basic operations. # Using a lambda function to double a number double = lambda x: x * 2 Lambda functions are handy when you need a quick, throwaway function for a specific task. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send 13. Virtual Environments A best practice for Python programming is to use virtual environments. They allow you to create isolated environments with their own dependencies, preventing conflicts between packages used in different projects. # Creating a virtual environment using venv python -m venv myenv # Activating the virtual environment source myenv/bin/activate The usage of virtual environments, which help maintain orderly and reproducible development environments, facilitates collaboration and project management. 14. Regular Expressions Regular expressions (regex) are an effective tool for text editing and pattern matching. Regular expressions are supported by Python’s re package, enabling effective text extraction, searching, and manipulation. import re # Matching email addresses using a regular expression pattern = r’\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,7}\\b’ text = “Contact us at [email protected] or [email protected] ” matches = re.findall(pattern, text) Regular expressions are invaluable for tasks like data validation, text parsing, and web scraping. 15. Web Scraping Web scraping is the process of extracting data from websites. Python’s libraries, such as Beautiful Soup and Requests, provide tools for parsing HTML and making HTTP requests. import requests from bs4 import BeautifulSoup url = ‘https://example.com’ response = requests.get(url) soup = BeautifulSoup(response.text, ‘html.parser’) # Extracting data from the webpage Web scraping is a valuable skill for data collection, competitive analysis, and automation of online tasks. 16. Database Connectivity Python supports a wide range of database systems through libraries like SQLite, MySQL, and PostgreSQL. Understanding how to connect to databases and execute SQL queries is essential for building data-driven applications. import sqlite3 # Connecting to a SQLite database conn = sqlite3.connect(‘mydatabase.db’) # Creating a cursor object for executing SQL queries cursor = conn.cursor() # Executing SQL queries cursor.execute(‘SELECT * FROM users’) Proficiency in database connectivity is crucial when working on projects that involve data storage and retrieval. 17. Testing and Debugging Tools Effective testing and debugging are essential for ensuring code quality. Python provides testing frameworks like unittest and pytest, as well as debugging tools like pdb and integrated development environments (IDEs) with debugging capabilities. # Writing unit tests with pytest def test_addition(): assert add(2, 3) == 5 # Debugging in an IDE like PyCharm By writing tests and debugging code, you can catch errors early in the development process and ensure that your code behaves as expected. 18. Concurrency and Parallelism Python provides libraries like threading and multiprocessing for working with concurrency and parallelism. These tools allow you to execute tasks concurrently, improving performance and responsiveness. import threading def print_numbers(): for i in range(1, 6): print(f”Number {i}”) def print_letters(): for letter in ‘abcde’: print(f”Letter {letter}”) thread1 = threading.Thread(target=print_numbers) thread2 = threading.Thread(target=print_letters) thread1.start() thread2.start() Understanding how to work with threads and processes is essential when building responsive and efficient applications. enrol in 3RI Technologies ‘ Python Programming course right now!! Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send 19. Best Practices and Coding Style Adhering to best practices and coding conventions is crucial for writing maintainable and readable Python code. The PEP 8 style guide provides recommendations for code formatting, naming conventions, and more. In conclusion, these advanced Python concepts will significantly expand your capabilities as a Python programmer. By mastering these topics and combining them with the foundational concepts discussed earlier, you’ll be well-equipped to tackle complex projects, from web development and data analysis to automation and machine learning. Remember that continuous learning and hands-on practice are key to becoming a proficient Python developer. Explore real-world projects, contribute to open-source initiatives, and stay up-to-date with the ever-evolving Python ecosystem. As you do, you’ll discover new and exciting ways to apply your Python skills and make a meaningful impact in the world of programming. Stay tuned for more in-depth tutorials, projects, and advanced Python courses to further enhance your Python journey through 3RI Technologies and other educational resources. Prev Previous Python 2 vs Python 3: A Clear Guide to the Key Differences Next Should I Learn Java? Benefits, Ease & Best Ways to Start Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDI3MCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Basic Concepts of Python Programming",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Python Online Training",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODEiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODEiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Python&cd%5Bpage_title%5D=Python+Introduction+and+Basic+Concepts+for+Beginners&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=83084&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Ffundamental-concepts-of-python%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2023/10/04/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/madan/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/full-stack-python-web-developer-online-training/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/online-python-certification-course/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/difference-between-python-2-and-python-3/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/fundamental-concepts-of-python/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/should-i-learn-java/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/fundamental-concepts-of-python/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Python Basics: Introduction, Concepts & Loops Explained",
+    "og_description": "Explore Python basics, loops, and core concepts in an easy-to-understand way. Start your journey with expert-led Python training in Pune at 3RI Technologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/fundamental-concepts-of-python/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/fundamental-concepts-of-python/"
+            },
+            "author": {
+              "name": "madan",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e"
+            },
+            "headline": "Python Introduction and Basic Concepts for Beginners",
+            "datePublished": "2023-10-04T08:05:50+00:00",
+            "dateModified": "2025-12-20T06:02:24+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/fundamental-concepts-of-python/"
+            },
+            "wordCount": 5201,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/fundamental-concepts-of-python/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/Fundamental-Concepts-in-Python.png",
+            "keywords": [
+              "Python Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Python"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/fundamental-concepts-of-python/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/fundamental-concepts-of-python/",
+            "url": "https://www.3ritechnologies.com/fundamental-concepts-of-python/",
+            "name": "Python Basics: Introduction, Concepts & Loops Explained",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/fundamental-concepts-of-python/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/fundamental-concepts-of-python/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/Fundamental-Concepts-in-Python.png",
+            "datePublished": "2023-10-04T08:05:50+00:00",
+            "dateModified": "2025-12-20T06:02:24+00:00",
+            "description": "Explore Python basics, loops, and core concepts in an easy-to-understand way. Start your journey with expert-led Python training in Pune at 3RI Technologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/fundamental-concepts-of-python/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/fundamental-concepts-of-python/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/fundamental-concepts-of-python/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/Fundamental-Concepts-in-Python.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/Fundamental-Concepts-in-Python.png",
+            "width": 800,
+            "height": 270,
+            "caption": "Basic Concepts of Python Programming"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/fundamental-concepts-of-python/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Python Introduction and Basic Concepts for Beginners"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e",
+            "name": "madan",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "caption": "madan"
+            },
+            "url": "https://www.3ritechnologies.com/author/madan/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

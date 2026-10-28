@@ -1,0 +1,309 @@
+{
+  "url": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Difference Between High-Level and Low-Level Languages: A Beginner-Friendly Guide",
+    "meta_description": "Understand the core difference between high level language and low level language with real-world examples. Explore how High-Level Programming Languages empower modern development.",
+    "h1": [
+      "High-Level vs Low-Level Languages: Key Differences You Should Know"
+    ],
+    "content": "Skip to content Home > High-Level vs Low-Level Languages: Key Differences You Should Know High-Level vs Low-Level Languages: Key Differences You Should Know Computers have become an integral and essential part of our lives and lifestyle. It understands all instructions through languages that we call programs. We give all our instructions to the computer via programs to get them to perform specific tasks. Table of Contents PriyankaS3ri February 1, 2019 5:35 pm In the world of coding, knowing the difference between high level language and low level language is fundamental. A high level programming language like Python or Java is closer to human language, while low level languages like Assembly interact more directly with hardware. This distinction impacts development speed, efficiency, and control. Learn more about High-Level Programming Languages and their real-world applications with 3RI Technologies. We help you master both high-level and low-level language examples to build a strong programming foundation and succeed in today’s tech-driven world. Understanding High-Level and Low-Level Programming Languages with Examples Computers have become an integral and essential part of our lives and lifestyle. It understands all instructions through languages that we call programs. We give all our instructions to the computer via programs to get them to perform specific tasks. Computer programs can be further categorized into two broad types. They are low-level languages and high-level languages. Here we would try to understand them and the major differences between them. Read on! Examples of a high-level language Following are all examples of a high-level language. To convert them into machine-language, compilers are used. COBOL JAVA C C++ Examples of low-level language There are only two types of low-level language are- Assembly Language Machine Code. Now, let us differentiate these two. W hat is high level language and What is low level Language? Definition We start by defining the two terms first. A high-level language is more human-friendly. They are machine-independent, portable, and better understood by humans and programmers. They are crafted by combining mathematical symbols and natural language symbols and characters. Based more on real-world scenarios; they are implemented primarily for the development of a program. These languages do not need to memorize the architecture and registers of a CPU. They are easy to debug, maintain, and used for building various applications. In contrast, low-level languages are machine-dependent as they decide how the hardware elements of the computer would interact. These resemble the native binary language of the computer and thus are difficult for programmers to understand. These require extensive knowledge of the hardware components of a computer and their configuration. These are non-portable, difficult to debug, and highly prone to incautious errors. A tiresome and time-consuming task; the language is defined by the hardware design. Platform Dependencies From here, we start comparing the two languages. First, we talk about the platform that here implies the Computer hardware or its Configuration. The definition has made it evident that it is the low-level language that is platform-dependent. They can run on the same hardware with the specified configuration. If you change the hardware configuration; they would not run. In contrast, high-level languages are platform-independent and can run on all types of hardware with different configurations. Simultaneously, it must be noted that even though they are system hardware configuration independent; they are not operating system independent. Program Speed Because low-level language is written in binary or assembly language; they have fewer syntaxes, keywords, functions, and class libraries. Consequently, they do not need any compilation or interpretation and can interact directly with the memory and registers. In contrast, high-level language uses English statements which are like human language. Thus, they cannot interact directly with the computer hardware like the memory and registers of the computer and require a compiler or an interpreter that translates them to machine language. From the above arguments; it is evident that low-level language exhibits a faster speed. Memory Efficiency Low-level languages are more memory-efficient and consume far less memory than high-level languages. Most of the time, high-level languages run inside a specific runtime environment. Moreover, several other programs run concurrently to increase its optimal efficiency. All this takes the memory consumption notches higher for a high-level language. Easiness High-level languages closely resemble human languages. It is much easier to remember English statements than a computer language. The low-level language is machine-friendly and has just two types. The first is the binary language that has only 0’s and 1’s. The other language is the Assembly language a type of symbol called mnemonics. Learning its different sets of instructions for different architecture is almost close to impossible. Moreover, to assimilate and learn this language, you need to have the knowledge and experience of the specific machine architecture. Thus, we can conclude that high-level languages are not only easy to understand and memorize but also easy to read, write and modify. Portability Low-level languages are machine-dependent and thus different for different architectures. Thus, they are not portable. But high-level languages comprise English statements that need a compiler or interpreter to convert them to machine language. You need to use different compilers for different machine architectures and to the source to its specific machine language. Thus, high-level languages are portable. Performance Speed and performance and directly proportional and thus the performance of higher speed language, i.e. the low-level languages are better compared to the higher-level languages. Abstraction Level The low-level language resembles closely to the language of the computer and thus, they show less or no abstraction from the hardware. In contrast, the high-level language runs on top of the machine language. They interact with the hardware via the layers of the operating system and other software. Thus, high-level language exhibits a higher layer of abstraction. Flexibility High-level languages are much easier and more flexible to handle than low-level languages. Compared to low-level language, they have huge libraries with a dense set of keywords, Data types, functions, etc. Thus, they can be easily developed with far fewer resources and effort. This flexibility is absent in low-level languages and is difficult and inflexible to handle. Debugging and maintenance Be it a small syntactical error or big memory leaks; detecting them or maintaining them is a more tedious and time-consuming process in a low-level language. Moreover, they are more error-prone and difficult to debug. In contrast, high-level languages show fewer errors. Nearly all of their syntactical errors can be identified by the compilers and interpreters and can be fixed. They are also easy to maintain as well as debug Want to Upskill to get ahead in your career? Check out the Job Oriented Courses. . Support You find far less support for low-level languages than high-level languages. The number of professionals for low-level languages pales in comparison to the number of professionals available for high-level ones. Applications Because of their virtues and traits like high speed, no abstraction, and direct communication with the hardware, low-level languages are generally used to develop all kinds of operating systems and their embedded systems. In contrast, high-level languages are used to develop a plethora of applications like utility software, desktop applications, websites, mobile applications, etc. Interested to know more? visit 3RI Technologies Table of Difference Between High-Level and Low-Level Languages High level language Low level language High-level languages are designed to be clean to study and understand. Low-level languages are closer to device language and hardware. These languages are much like human language, because of this they’re greater natural to comprehend for most people. Two most important forms of low-stage languages are assembly languages and machine languages. They provide greater abstraction from gadget code and aim to improve programmer performance through offering features together with automatic memory management, strong statistics typing, and error-checking capabilities. Low-stage languages are quicker to execute as they do not require a compiler or interpreter. High-degree languages are platform-unbiased, this means that a program written in a excessive-stage language can run on any running gadget or machine without amendment. Low-level languages offer extra manage to the programmer over the system resources like memory and CPU. However, this also makes low-degree programming complicated and errors-prone. However, excessive-stage languages require a compiler or an interpreter to translate them into device-friendly low-level language. They are also more memory green as they at once have interaction with the hardware. This extra step can from time to time bring about slower execution times as compared to low-level languages. Moreover, low-degree languages are platform-particular. This method a code written in a low-stage language for a selected hardware or running machine cannot run on a one-of-a-kind one without substantial adjustments. Examples of excessive-stage languages encompass Python, C++, Java, and Ruby. These languages provide minimum abstraction between the language and the hardware operations of a laptop. Comparison: In essence, the differences among excessive-stage and occasional-stage languages lie of their clarity, abstraction from hardware, operation pace, reminiscence efficiency, blunders-checking centers, and platform dependency. On the opposite hand, low-stage languages, even though harder to read and write, provide faster execution, more manipulate over gadget sources, and are extra memory efficient. However, they lack strong errors-checking centers and are platform-dependent. A Table of Differences for Comparison Factors High-Level Language Low-Level Language Level of Abstraction High-level languages are more detached from computer technology and akin to human language. Low-level languages have closer ties to machine language and hardware. Level of Difficulty Simple to employ Difficult to use Development Time Because they require less code and debugging, high-level languages enable shorter development times. The amount of coding and debugging that low-level languages demand extends the development time. Utilizing memory More Less Readability of Code Programmers can read and understand code more easily in high-level languages because of their more legible and natural grammar. The syntax of low-level languages is more obscure and challenging to read and comprehend. Mobility High-level languages are more adaptable to various software and hardware configurations. Low-level languages are more hardware-dependent. Area of Application Database administration, web development, and software development are common uses for high-level languages. Embedded systems, device drivers, and system programming use low-level languages. Examples Some examples of high-level languages are Visual Basic, JavaScript, C, C#, Python, and C++. Machine and assembly languages are examples of low-level languages. Pros of High-Level and Low-Level Languages Benefits of High-Level Languages: Simpler to use and understand, making them more approachable for novices and non-experts Integrated libraries and functions that reduce effort and save time by automating complicated activities Increased output and effectiveness as a result of streamlined syntax and structures Enhanced readability and maintainability, which facilitates code comprehension and modification Platform-neutral, enabling the execution of code on various hardware and operating systems Benefits of Low-Level Languages: Better management of hardware and system resources for finer-grained optimization More closely resembling machine code allows more accessible and faster access to system resources and hardware. Less abstraction and more direct control over system resources means faster execution. Apt for developing low-level system components and embedded systems More adaptability and personalization, which facilitates performance and functionality tuning What are the advantages of high-level language over low-level language? By now, it is evident that high-level languages are more advantageous than low-level languages. They are: More user-friendly Provide a better user interface Helps programmers use a more modular approach Are easier and faster to code and debug Increases the programmer’s productivity Wrapping up We hope that by now you can clearly understand the difference between the two types of computer languages and their various applications. However, we need both to make the maximum and most efficient use of computers. Next Be the Trending Data Scientist with the Best Data Science Course in Pune Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/02/Difference-Between-low-level-and-high-level-languages.jpg",
+        "alt": "Difference Between low level and high level languages",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Job-Oriented-IT-Courses.jpg",
+        "alt": "Job Oriented Courses",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/03/Difference-between-High-Level-Language-and-Low-level-language.jpg",
+        "alt": "Difference between High Level Language and Low level language",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Programming%2C+Trending+Articles&cd%5Bpage_title%5D=High-Level+vs+Low-Level+Languages%3A+Key+Differences+You+Should+Know&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=3212&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fdifference-between-high-level-languages-and-low-level-language%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2019/02/01/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/best-data-science-course-in-pune/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/demos/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/high-level-programming-languages-explained-what-you-need-to-know/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Difference Between High-Level and Low-Level Languages: A Beginner-Friendly Guide",
+    "og_description": "Understand the core difference between high level language and low level language with real-world examples. Explore how High-Level Programming Languages empower modern development.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "High-Level vs Low-Level Languages: Key Differences You Should Know",
+            "datePublished": "2019-02-01T12:05:34+00:00",
+            "dateModified": "2025-05-16T04:53:35+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/"
+            },
+            "wordCount": 1858,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2019/02/Difference-Between-low-level-and-high-level-languages.jpg",
+            "keywords": [
+              "Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Programming",
+              "Trending Articles"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/",
+            "url": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/",
+            "name": "Difference Between High-Level and Low-Level Languages: A Beginner-Friendly Guide",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2019/02/Difference-Between-low-level-and-high-level-languages.jpg",
+            "datePublished": "2019-02-01T12:05:34+00:00",
+            "dateModified": "2025-05-16T04:53:35+00:00",
+            "description": "Understand the core difference between high level language and low level language with real-world examples. Explore how High-Level Programming Languages empower modern development.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2019/02/Difference-Between-low-level-and-high-level-languages.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2019/02/Difference-Between-low-level-and-high-level-languages.jpg",
+            "width": 1000,
+            "height": 575,
+            "caption": "Difference Between low level and high level languages"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/difference-between-high-level-languages-and-low-level-language/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "High-Level vs Low-Level Languages: Key Differences You Should Know"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

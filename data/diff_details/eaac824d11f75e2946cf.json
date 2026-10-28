@@ -1,0 +1,302 @@
+{
+  "url": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Top JMeter Interview Questions and Answers for Experienced Testers in 2025",
+    "meta_description": "Explore expert-level JMeter interview questions and answers to prepare for your next QA or performance testing interview. Get job-ready with real insights.",
+    "h1": [
+      "JMeter Interview Questions and Answers"
+    ],
+    "content": "Skip to content Home > JMeter Interview Questions and Answers JMeter Interview Questions and Answers JMeter is open-source software designed to load functional test behavior and compute performance. It was developed by Stefano Mazzocchi of the Apache Software Foundation. It is a very worthwhile software used to analyze and calculate the performance of web applications or Table of Contents PriyankaS3ri October 1, 2019 12:52 pm Looking to advance your career in performance testing? This comprehensive list of JMeter interview questions and answers is tailored for professionals preparing for real-world scenarios. From core concepts to advanced queries, these JMeter interview questions for experienced candidates will boost your confidence and readiness. If you want to sharpen your skills further with hands-on projects and industry-based training, don’t miss our Jmeter Performance Testing course at 3RI Technologies. Gain practical exposure and set yourself apart in a competitive job market with expert-led guidance. Crack Your Next Interview: Latest JMeter Questions for Experienced Professionals What is JMeter? JMeter is open-source software designed to load functional test behaviour and compute performance. It was developed by Stefano Mazzocchi of the Apache Software Foundation. It is a very worthwhile software used to analyze and calculate the performance of web applications or other services also. The term “performance testing’ means to test a web application to aware of heavy load, concurrent, and increased traffic. It is highly recommended to test the FTP application and Web Application. In this technological era, this software is appreciated for a database server test, functional test, etc. Why JMeter? Do you test a web server to aware of how adequate it works? Do you want to aware of concurrent users handled by a web server? Obviously, you got puzzled about getting the answers to these questions? Let’s understand the actual use of JMeter with an instance: Let’s consider your boss assigns you the task of test the performance of www.google.com of 200 users. What can you do ? The fact is, it will not be possible for you to arrange 200 people with PC/laptop and internet access concurrently accessing google.com. Thus, to make this task easier and instant, you must have a software named JMeter, which will straightly help you to simulate real-user behaviours and load or performance test of your website. This domain is significant to know as we are part of a world where performance testing becomes essential. If you are going to attend an interview regarding performance testing, you must be aware of JMeter interview questions and answers. Else, you will wind up with the wrong impression of the interviewer. No matter, either you are fresher or an experienced candidate going for an interview, the JMeter Training also will be highly helpful for you. Q 1: What is JMeter? A 1: JMeter is an open-source software used to load functional test behaviour and compute the performance of the server or client’s application. It is a Java desktop application. Basically, it was designed to test web applications only, but later it has been used to test other applications as well. The users can test the performance of both static and dynamic resources like Perl scripts, Java Objects, files, Servlets, Queries, FTP Servers, Data Bases, and more. Q 2: Name other applications that can test with JMeter? A 2: JMeter can test other applications like Regression, Functional, and Unit testing. Q 3: Can you tell me the basic workflow of JMeter? A 3: Yes, of course! It is a tool used on a group of users delivering requests to a target server. It assembles responses from the target server and also from other statistics which reveal the performance of the server or applications via tables or graphs. Q 4: Name some significant attributes/features of JMeter? A 4: It is open-source software. It is free of cost. It has a smooth and intuitive graphical user interface (GUI) It can test the load and performance of numerous server types such as Web – HTTP, SOAP, Mail via POP3, HTTPS, Database via LDAP, JDBC, and JMS. It designed test plans in XML format On Unix or Linux, users can open it by clicking or tapping on the JMeter shell script. But for Windows, users have to request the jmeter.bat file. It is also used to test automated and functional testing performance. Q 5: Which protocols support JMeter? A 5: Web Protocol (both HTTP and HTTPS), FTP, Web Services (both REST and SOAP), LDAP, TCP, MOM, JDBC, MongoDB (NoSQL), and Mail servers (POP3(S), SMTP(S), and IMAP(S)) Q 6: Do you know about Test Plan in JMeter? A 6: Yup! I know. A test plan is a tool used to define and provide a layout of what and how to test. It has one or more of these elements- ThreadGroup, Controllers, Listeners, Assertions, Timers, Configuration Elements, Post-Processor Elements, and Pre-Processor Elements. Q 7: Do you understand about JMeter controllers and their types? A 7: Yup! Basically, JMeter controllers have two types. One is Samplers Controllers, which permits JMeter to post particular kinds of requests to a server. The second one is Logical Controllers, which allows controlling the arrangement of the processing of Samplers. Some of its examples are Loop Controller, Throughput Controller, While Controller, Run Time Controller, etc. Want to Upskill to get ahead in your career? Check out the JMeter Certification Training Q 8: Can you tell me about the execution sequence of test elements in the Test Plan of JMeter? An 8: Yes, I know about it. The order sequence of Test Plan elements is Configuration elements- Pre-Processors- Timers- Sampler- Post-Processors- Assertions- Listeners. Q 9: What are the benefits performance testing gets from JMeter? A 9: It is used to test the performance of static and dynamic resources. It provides a graphic or tabular analysis of performance reports. It can seamlessly handle numerous concurrent users without any interruption. It saves much of the time of persons concerned with computing the performance or load of servers. It always provides accurate and instant results. Q 10: What do you mean by the assertion in JMeter? What are its types? A 10: Assertion in JMeter helps to verify either the server under test, providing the best results or not. There are five commonly used assertions in JMeter, such as Response Assertion, Duration Assertion, Size Assertion, XML Assertion, and HTML Assertion. Q 11: Which kinds of processors are used in JMeter? An 11: Two kinds of processors are used: Pre-Processor executes before the main sampler, which can amend the scope of the sampler, and Post-Processor executes after the main sampler. It is also applicable to all samplers with the same scope in Test Plan. Q 12: Name some plugins supported by Jmeter? A 12: Jmeter can support different types of plugins such as Thread Group Plugin, Listeners plugins, Samplers Plugins like Webdriver, etc. to generate high-quality results. The above-mentioned interview questions and answers are the best to read and learn before going to a performance test or JMeter interview. These are highly asked questions by the interviewer since then. Thus, you must prepare these thoroughly before a day or days of your interview to influence the interviewer and get selected. Q 13 : Enlist all types of JMeter controllers. Ans:. There are many different types of controllers in JMeter. Each controller is unique and having a specific role. Here are some common types of controllers: Simple Controller: It is the most basic type of controller. It is used to group and organize samplers, logic controllers, and other elements within the test plan. It doesn’t impose any specific logic or conditions on the contained elements. Loop Controller: It allows you to repeatedly execute the samplers or other controllers within it. You can set the number of times the loop should be executed or configure it to loop indefinitely. Transaction Controller: It is used to group multiple samplers and make it unique logical transaction. It measures the overall response time for all the enclosed elements and provides a way to view aggregated results for a set of related requests. Recording Controller: It is used in conjunction with the JMeter Proxy to record HTTP requests. It allows you to organize recorded requests and modify them if needed. Random Controller: It selects and executes one of its child elements randomly during each iteration. This is useful for simulating scenarios where users perform different actions randomly. Once-Only Controller: Once-Only Controllers are defined by their name, making sure that its daughter elements gets executed one-time per thread. It is often used for setup tasks that need to be performed only once at the beginning of a thread. Q 1 4: Enlist the top features of JMeter. Ans: The list of the best features of JMeter is shared below: JMeter allows the use of scripting languages like Bean Shell or JavaScript. Pre-processors and post-processors enable customization of requests and responses, extending the tool’s functionality. JMeter’s Regular Expression Extractor streamlines the process of capturing dynamic values from server responses. This is crucial for handling session-specific data during scripting. JMeter can be integrated with other tools, such as Jenkins, for continuous integration, providing seamless integration into the software development lifecycle. JMeter includes a built-in HTTP (S) Test Script Recorder that allows testers to record and playback HTTP requests. This makes the procedures of developing test plans more easier, by just collecting the interaction of user with Software. JMeter allows parameterization using CSV files, enabling testers to conduct data-driven testing by varying inputs across different iterations of a test. JMeter supports the creation of reusable test components through test fragments, making it easy to modularize and maintain test plans efficiently. Que 15 :How does JMeter simulate multiple users? Ans: JMeter achieves the simulation of multiple users by sending HTTP requests to a specified server, effectively mimicking the actions that real users might take. It can simulate different user scenarios and load conditions to assess the performance of web applications. Que 16 :Define the Thread group in JMeter, briefly? Ans: A thread group in JMeter serves as a container for a set of virtual users. For a given test scenario, it describes the total number of subscribers, the initialization time (the amount of time needed to start all users), and the repetition count. Thread groups allow testers to simulate different levels of user concurrency. Que 17 : Explain the difference between samplers and controllers in JMeter. Ans: Samplers in JMeter simulate various types of user requests, such as HTTP requests or database queries. Controllers, on the other hand, manage the flow of the test plan, determining the order and repetition of samplers. Controllers provide the structural organization of test elements. Que 18: What is the main objective of listeners in JMeter? Ans: JMeter listeners are instances that gather data and reflect the findings from carrying out tests. They provide visual representations of data, including tables, graphs, and trees, enabling testers to analyze and interpret the performance metrics and outcomes of their tests. Que 19. How can you parameterize a JMeter test? Ans: Parameterization in JMeter involves using variables to replace hard-coded values within test plans. This flexibility allows testers to execute the same test plan with different data sets, enhancing the reusability and scalability of test scripts. Que 20. What is the significance of assertions in JMeter? Ans: Assertions in JMeter are critical for validating that the responses from the server meet specific criteria. They help in verifying whether the application is behaving as expected under different load conditions by checking the content, response codes, or other characteristics of the server’s response. Que 20. Explain the purpose of timing in JMeter and its features. Ans: Timers in JMeter show the delays between the user requests. Timers are essential for avoiding server overload by preventing a flood of requests and ensuring that the load on the server is distributed more realistically. Que 21. How does JMeter handle cookies during a test? Ans: JMeter automatically manages cookies during a test. It stores and sends cookies as part of the HTTP requests, ensuring that session information is maintained between multiple requests. This feature is pretty significant for reproducing acceptable interactions between users, especially within authentication-related configurations. Que 22. What is correlation in the context of JMeter scripting? Ans: Correlation in JMeter scripting includes fetching out the dynamic outputs from server responses and using them in successive requests. This is particularly important for handling session-specific data, such as authentication tokens or unique identifiers, to ensure accurate simulation of user behavior. Que 23. Discuss the main role of the ramp-up period in the thread group. Ans: The ramp-up period in a thread group specifies the time it takes to start all the users defined in the group. It helps in preventing abrupt spikes in traffic, analyzing an actual user ramp-up situation, and progressively increasing the server load. Que 24. What is the importance of throughput in JMeter results? Ans: The percentage of requests addressed per unit of time is highlighted as throughput in JMeter results. It is a crucial performance metric, indicating the server’s capacity to handle a specific load. High throughput values suggest efficient server performance under the given conditions. Que 25. How can you conduct distributed testing in JMeter? Ans: Distributed testing in JMeter entails performing tests over several machines or nodes, with the objective to replicate a higher user load. The master-slave configuration allows coordination and aggregation of results, making it suitable for the scalability and performance testing of applications. Que 26. List the advantages of JMeter for performance testing? Ans: JMeter offers several benefits, including being open source, supporting various protocols, having a user-friendly interface, and providing extensive reporting features. It is an extremely popular choice because of its versatility and adaptability for performance testing across different types of applications. Que 27. How can you analyze JMeter test results, and what are some common performance metrics? Ans: JMeter provides various listeners for result analysis, allowing users to interpret and visualize test outcomes. Common performance metrics include response time (time taken for server response), throughput (requests per second), error rate, and resource utilization, providing insights into the application’s performance characteristics. Analyzing these metrics helps in identifying bottlenecks and optimizing application performance. All the Best! Want to learn more? Visit 3RI Technologies Prev Previous Unlocking Business Growth: Why Data Science Is a Game-Changer Next Top Python Interview Questions and Answers You Must Prepare Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/10/JMeter-Interview-Questions-and-Answers.jpg",
+        "alt": "JMeter Interview Questions and Answers",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Jmeter-Certified-Professional.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Interview+Questions+And+Answers%2C+Testing&cd%5Bpage_title%5D=JMeter+Interview+Questions+and+Answers&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=3210&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fjmeter-interview-questions-and-answers%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2019/10/01/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-interview-questions-answers/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/why-data-science-is-important-in-business/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Top JMeter Interview Questions and Answers for Experienced Testers in 2025",
+    "og_description": "Explore expert-level JMeter interview questions and answers to prepare for your next QA or performance testing interview. Get job-ready with real insights.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "JMeter Interview Questions and Answers",
+            "datePublished": "2019-10-01T07:22:27+00:00",
+            "dateModified": "2025-05-28T05:24:36+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/"
+            },
+            "wordCount": 2281,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2019/10/JMeter-Interview-Questions-and-Answers.jpg",
+            "keywords": [
+              "Software Testing Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Interview Questions And Answers",
+              "Testing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/",
+            "url": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/",
+            "name": "Top JMeter Interview Questions and Answers for Experienced Testers in 2025",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2019/10/JMeter-Interview-Questions-and-Answers.jpg",
+            "datePublished": "2019-10-01T07:22:27+00:00",
+            "dateModified": "2025-05-28T05:24:36+00:00",
+            "description": "Explore expert-level JMeter interview questions and answers to prepare for your next QA or performance testing interview. Get job-ready with real insights.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2019/10/JMeter-Interview-Questions-and-Answers.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2019/10/JMeter-Interview-Questions-and-Answers.jpg",
+            "width": 1000,
+            "height": 575,
+            "caption": "JMeter Interview Questions and Answers"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/jmeter-interview-questions-and-answers/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "JMeter Interview Questions and Answers"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

@@ -1,0 +1,332 @@
+{
+  "url": "https://www.3ritechnologies.com/hashmap-vs-hash-table/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "HashMap vs HashTable in Java: Key Differences You Must Know",
+    "meta_description": "Understand the core differences between HashMap and HashTable in Java. Learn when to use which, with practical examples. Explore more through our Java Frameworks Course.",
+    "h1": [
+      "HashMap vs HashTable: What’s the Difference in Java?"
+    ],
+    "content": "Skip to content Home > HashMap vs HashTable: What’s the Difference in Java? HashMap vs HashTable: What’s the Difference in Java? HashMap is not synchronous. Unlike the Hash table, it is not a string and cannot be shared by multiple threads without a suitable synchronization code. It's thread-safe and, therefore, can be shared by several threads. Table of Contents madan July 9, 2022 4:32 pm HashMap & Hash table stores key/value/ pairs in a hash table. We supply an object to be used as a key and the value connected to that key when utilizing a Hash table or HashMap. The key is subsequently hashed, and the resultant hash code serves as the index for storing the value in the table. Let me now discuss this using an example. HashMap is a hash table-based Map implementation that guarantees constant-time performance in both insertings & locating pairs. The HashMap class implements a map based on the Hash table data structure. This approach allows for many null values and only one invalid key and supports all Map operations. It stores values in a database table using key/value pairs. Because it is an asynchronous Map, this is not thread-safe & thus can be shared by many threads without sufficient synchronization. When working with collections in Java, understanding the difference between Hash Table and Hash Map is critical for writing efficient, thread-safe applications. While both store key-value pairs, HashMap and HashTable differ in synchronization, performance, and null handling. This diff between HashMap and HashTable can directly impact scalability and speed in your applications. To dive deeper into advanced concepts, check out our hands-on Java Frameworks course at 3RI Technologies. Master frameworks, data structures, and real-world development to stay ahead in your Java career. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send HashMap and HashTable in Java: A Comparative Guide for Developers Hash table, unlike HashMap, is a synchronized Map that is thread-safe, which implies several threads may share it. You specify any object that could be used as a key, and a value in the Hash table goes together with the crucial A hash function is used to map keys to values in a hash table. This function is provided by Java in the form of the Object’s hash code method, that classes override to give proper hash codes. Hash table, unlike HashMap, does not permit null values or null keys since the put function implementation of Hash table includes a null check. Hash table vs. Hash map HashMap is not synchronous. Unlike the Hash table, it is not a string and cannot be shared by multiple threads without a suitable synchronization code. It’s thread-safe and, therefore, can be shared by several threads. HashMap allows for one null key and multiple null values, whereas Hash table does not. Or worth. If thread synchronization is not required, HashMap is often preferable over Hash Table. Difference Between HashMap and Hash table Primary Difference between HashMap and Hash table: hash-based collections store information in key/value pairs in Java. HashMap is a hash table-based Map implementation that guarantees significant progress for inserting and detecting pairs. The performance of a hash table can be tweaked using constructors, which allow you to modify the capacity & load factor. Even down to the function names, the fundamental Hash table is very similar to the HashMap. In a hash table, it holds key/value pairs. You define an object that could be used like a keyword and the value that goes with the key in the Hash table. HashMap vs. Hashtable Synchronization – hashmap vs. Hashtable both employ hashing algorithms to store values. Hashtable, like HashMap, keeps information in a hash table using key/value pairs. The main distinction is synchronization. HashTable is a synchronized Map, whereas HashMap is indeed an unsynchronized Map. This means that HashMap is not thread-safe and could be shared among many threads without adequate synchronization code. On the other hand, Hashtable is thread-safe and could be shared by numerous threads. If you need to utilize a synchronized Map, a Hashtable is quicker than a HashMap under a synchronized wrapper. HashMap vs. Hashtable Null Keys and Values – The HashMap class implements a map based on the Hashtable data structure. This implementation implements all Map operations & allows for many null values and only one invalid key, allowing it to be portable. Could retain distinct core traits. It does not guarantee the sequence in which the items are kept. The Hashtable, on either hand, uses a hash function to map keys to values. Hashtable, unlike HashMap, does not permit null values or null keys since the put procedure implementation of Hashtable includes a null check. HashMap vs. Hashtable Performance – Since HashMap would not be a synchronized Map, it is significantly faster and better in terms of results than Hashtable and requires less capacity than Hashtable. Despite being almost identical, Hashtable is slightly slower than HashMap but faster than synchronized HashMap. It is inherently dangerous to utilize Hashtable without multithreaded accessing because only The approaches have been synchronized. Hashtable is HashMap’s synchronized counterpart. Unsynchronized items outperform synchronized objects, much as a Hashtable outperforms a single-threaded environment. The HashMap iterator is a fail-fast iterator, although the Hashtable enumerator is not. According to Oracle Docs, if the Hashtable is fundamentally updated in any manner other than the iterator’s native remove method after the iterator is constructed, the iteration will throw a Concurrent Modification Exception. Structural alteration is the addition or removal of elements from a Collection object (in this case, a HashMap or Hashtable). As a result, a return either by Hashtable keys & elements methods does not fail quickly. We’ve already discussed the distinction between iterator & enumeration. Performance – Because HashMap is unsynchronized, it is faster and requires less memory than Hashtable. Unsynchronized items frequently outperform synchronized objects like Hashtable in a multi-thread applications environment. Superclass and Legacy – Hashtable is a subclass of the Dictionary class, which is now deprecated in JDK 1.7 and is no longer used. It is preferable to synchronize a HashMap externally or to use a Concurrent Map solution (e.g., ConcurrentHashMap). The AbstractMap class is a subclass of HashMap. Although Hashtable & HashMap have different superclasses, they both implement the abstract data type “Map.” Learn more at 3RI Technologies Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send Primary distinction However, both Hashtable & HashMap are data structures based on hashing & implementation of the Map interface; the primary distinction would be that HashMap is not thread-safe, whereas Hashtable is. As a result, HashMap cannot be used in a sub-Java program without external synchronization. Another distinction is that HashMap supports one empty key and null values, whereas Hashtable does not. Furthermore, the hash table achieves thread-safety by atomic synchronization, rendering it slower than HashMap. By the way, the distinction between HashMap & Hashtable for Java is frequently addressed in core Java exams to determine whether facilitating collaboration properly uses collections classes and is aware of alternate alternatives. In addition to how HashMap works inside operates in Java with ArrayList versus Vector, this is among the oldest Collections framework in Java questions. Hashtable is a heritage Collection class that has been in the Java API for a long time, but in Java 4, it was refactored to implement the Map interface, and Hashtable became part of the Java Net cash flow. The subject of hashmap vs. Hashtable in Java is so common that it can be found at the top of any listing of Java Collections Interview Questions. You cannot afford to study HashMap versus Hashtable before attending any Programing interview. In this Java post, we will examine the differences between HashMap and Hashtable and the commonalities between such two collection types. However, for comprehensive preparedness. Become an Expert in Java with Java Classes in Pune . What is the distinction between Concurrent HashMap and Synchronized HashMap? Concurrent HashMap and Synchronized HashMap are thread-safe Collection classes that can be utilized in multi-threading and concurrent Java applications. However, there are just a few distinctions between them. We attempted to address all of the differences between them in this article. Concurrent HashMap – A class that implements a Concurrent Map interface is Concurrent HashMap. It uses the highlighted Hashtable data structure. As we all know, HashMap is not a viable choice for dealing with threads in our application due to performance concerns. In our application, we use Concurrent HashMap to tackle this problem. Because Concurrent HashMap is thread-safe, several lines can work on the same item without conflict. Concurrent HashMap divides the Object into several components based on the concurrency level. By definition, without synchronization, read and speak from the Map. Concurrent HashMap allows any number of lines to conduct retrieval operations simultaneously; however, changing the Object requires the thread to lock the specific segment where the thread wishes to operate. Segment holding or bucket locking is the name for this locking mechanism. As a result, lines can do 16 update operations simultaneously. Synchronized HashMap – A non-synchronized collections class in Java HashMap. If we need to execute thread-safe operations on it, we must explicitly synchronize it. To synchronize it, utilize the synchronized map feature of Java. Util. Collections class. It gives back a synchronized (thread-safe) Map supported by the supplied Map. HashMap is a Map implementation based on hash tables that provides constant-time performance while inserting and locating pairings. This technique supports all Map functions and allows for multiple null values but only one invalid key. Because it is such an asynchronous Map, it is not thread-safe and can thus be shared by several threads without adequate synchronization. HashMap and Hashtable are hash-based collections in Java that store records in key/value pairs. A hash table’s performance can be improved by employing builders that allow you to change the capacity and load factor. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Because HashMap is not a synchronized Map, it is substantially faster and produces better results than Hashtable. HashMap and Hashtable are data structures that use hashing and implement the Map interface. Regardless, Hashtable & HashMap contain different superclasses, although they both implement the abstract type “Map.” The main contrast is that HashMap is not fiber, whereas Hashtable is. In multithreaded contexts, unsynchronised items commonly outperform synchronized objects such as Hashtable. The topic between Hashtable vs. HashMap in Java is so prevalent that it is at the head of any list of Java Collections Questions. Concurrent HashMap & Synchronized HashMap were thread-safe Collection objects that can be used in concurrent and multithreaded Java applications. To be Job-ready, check out our Job Oriented Courses today! Prev Previous Is Java Developer a Good Career in 2025? Next Java vs. C#: Which Programming Language Is Right for You? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/07/Hash-map-vs-Hash-table.jpg",
+        "alt": "Hash map vs Hash table",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Java-Certified-Professional.png",
+        "alt": "Become a Java Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Java&cd%5Bpage_title%5D=HashMap+vs+HashTable%3A+What%E2%80%99s+the+Difference+in+Java%3F&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=66516&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fhashmap-vs-hash-table%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2022/07/09/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/madan/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hashmap-vs-hash-table/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/is-java-developer-a-good-career/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/java-vs-c-sharp/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/hashmap-vs-hash-table/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "HashMap vs HashTable in Java: Key Differences You Must Know",
+    "og_description": "Understand the core differences between HashMap and HashTable in Java. Learn when to use which, with practical examples. Explore more through our Java Frameworks Course.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/hashmap-vs-hash-table/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/hashmap-vs-hash-table/"
+            },
+            "author": {
+              "name": "madan",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e"
+            },
+            "headline": "HashMap vs HashTable: What’s the Difference in Java?",
+            "datePublished": "2022-07-09T11:02:46+00:00",
+            "dateModified": "2025-05-16T04:41:19+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/hashmap-vs-hash-table/"
+            },
+            "wordCount": 1712,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/hashmap-vs-hash-table/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/07/Hash-map-vs-Hash-table.jpg",
+            "keywords": [
+              "Java Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Java"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/hashmap-vs-hash-table/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/hashmap-vs-hash-table/",
+            "url": "https://www.3ritechnologies.com/hashmap-vs-hash-table/",
+            "name": "HashMap vs HashTable in Java: Key Differences You Must Know",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/hashmap-vs-hash-table/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/hashmap-vs-hash-table/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/07/Hash-map-vs-Hash-table.jpg",
+            "datePublished": "2022-07-09T11:02:46+00:00",
+            "dateModified": "2025-05-16T04:41:19+00:00",
+            "description": "Understand the core differences between HashMap and HashTable in Java. Learn when to use which, with practical examples. Explore more through our Java Frameworks Course.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/hashmap-vs-hash-table/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/hashmap-vs-hash-table/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/hashmap-vs-hash-table/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2022/07/Hash-map-vs-Hash-table.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/07/Hash-map-vs-Hash-table.jpg",
+            "width": 300,
+            "height": 200,
+            "caption": "Hash map vs Hash table"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/hashmap-vs-hash-table/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "HashMap vs HashTable: What’s the Difference in Java?"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e",
+            "name": "madan",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "caption": "madan"
+            },
+            "url": "https://www.3ritechnologies.com/author/madan/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

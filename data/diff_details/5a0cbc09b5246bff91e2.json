@@ -1,0 +1,296 @@
+{
+  "url": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Selenium Course Roadmap: Manual to Automation | 3RI",
+    "meta_description": "Switch from manual to automation testing in 90 days. Complete Selenium course guide with real projects. Enroll in top Selenium training today.",
+    "h1": [
+      "Learn Selenium Testing in 90 Days: Complete Automation Career Transition Guide"
+    ],
+    "content": "Skip to content Home > Learn Selenium Testing in 90 Days: Complete Automation Career Transition Guide Learn Selenium Testing in 90 Days: Complete Automation Career Transition Guide Ready to learn Selenium? Our 90-day guide covers everything from WebDriver basics to advanced frameworks. Start your automation journey now Table of Contents PriyankaS3ri October 9, 2025 4:09 pm The software testing landscape is evolving at breakneck speed. Smart automation has made it possible to complete tasks that formerly needed weeks of physical labour in a matter of hours. If you’re a manual tester feeling the pressure to upskill, or an IT professional looking to expand your capabilities, you’re not alone. The transition from manual to automation testing might seem daunting, but with the right roadmap and dedication, you can master Selenium automation in just 90 days . Why Automation Testing is No Longer Optional The digital transformation wave has fundamentally changed how software is developed and deployed. Organizations are adopting agile methodologies, implementing CI/CD pipelines, and releasing updates multiple times a day. In this fast-paced environment, manual testing simply cannot keep up. Consider this: A typical e-commerce website might have hundreds of test cases covering user registration, product search, cart functionality, payment processing, and order tracking. Executing these tests manually before each release could take days or even weeks. With automation testing, the same suite can run in a few hours, providing immediate feedback to developers. Because of this change, there is a greater need than ever for qualified automation testers.. Companies are actively seeking professionals who is capable of creating, maintaining, and designing strong automation frameworks. Whether you’re searching for a selenium testing course to upgrade your skills or exploring selenium online courses for flexible learning, now is the perfect time to make your move. Understanding Selenium: The Industry Standard Before diving into the transition plan, let’s understand why Selenium has become the go-to choice for automation testing across the globe.Web browsers on various systems can be automated with Selenium, an open-source automation testing framework. Because it supports several programming languages, such as Java, Python, C#, and JavaScript, testers from a variety of backgrounds can use it. WebDriver for Selenium. The framework is made up of various parts: Selenium WebDriver is the fundamental element that offers a programming interface for writing and running test scripts. It communicates directly with web browsers, offering realistic user simulation. Selenium IDE is a record-and-playback tool that allows novices to quickly write automation scripts without knowing how to write code. Selenium Grid allows tests to run in parallel across several computers and browsers, significantly cutting down on execution time. The real power of Selenium lies in its versatility and community support. With thousands of organizations using it worldwide, from startups to tech giants, learning Selenium opens doors to countless opportunities. Many professionals start their journey by enrolling in a comprehensive selenium automation testing course that covers these components systematically. The 90-Day Transformation Roadmap Transitioning from manual to automation testing requires a structured approach. This 90-day plan breaks down the learning journey into manageable phases, ensuring you build a solid foundation while gaining practical experience. Month 1: Building the Foundation (Days 1-30) The first month focuses on establishing the groundwork necessary for automation success. Week 1-2: Programming Fundamentals If you’re coming from a non-programming background, your first priority is learning a programming language. The most widely used languages for Selenium automation are Python and Java. While Python is perfect for novices because to its readability and simplicity, Java is utilised extensively in business settings. During these two weeks, focus on: Variables, data types, and operators Control structures (if-else, loops, switch) Functions and methods Object-oriented programming concepts Exception handling Working with collections and data structures Don’t aim for perfection—you’ll continue learning as you progress. The goal is to become comfortable reading and writing basic code. Most quality selenium online classes include programming primers to help you get started. Week 3: Selenium Basics and Environment Setup Now it’s time to get your hands dirty with Selenium. Set up your development environment first: Install Java JDK or Python based on your choice Download and configure an IDE (Eclipse, IntelliJ IDEA, or PyCharm) Install Selenium WebDriver libraries Download browser drivers (ChromeDriver, GeckoDriver) Create your first browser launch script using Selenium. This week, you’ll learn about: Locating web elements using ID, Name, Class, XPath, and CSS Selectors Basic WebDriver commands (get, findElement, click, sendKeys) Browser navigation methods Handling different types of web elements (textboxes, buttons, dropdowns, checkboxes) Week 4: Core Selenium Concepts By the fourth week, you should be writing functional test scripts. Focus on: Advanced locator strategies and when to use each Handling dynamic elements and waits (implicit, explicit, fluent) Working with multiple windows and frames Managing alerts, pop-ups, and confirmations Capturing screenshots for reporting Handling web tables and calendars Practice is crucial during this phase. Create automation scripts for popular websites, experimenting with different scenarios. Many students find that enrolling in a structured selenium course in Pune or their local area provides valuable hands-on labs and mentorship during this critical learning phase. Month 2: Advancing Your Skills (Days 31-60) The second month elevates your knowledge from basic scripting to professional-level test automation. Week 5-6: Framework Design and TestNG/JUnit Real-world automation requires more than individual test scripts—you need robust, maintainable frameworks. These weeks focus on: Understanding testing frameworks like TestNG (for Java) or pytest (for Python): Annotations and their purposes Test suite configuration using XML files Assertions and validations Test prioritization and dependencies Parallel test execution Generating test reports Introduction to design patterns: Page Object Model (POM) for better maintainability Page Factory for optimized element initialization Data-driven testing approach Keyword-driven framework basics During this period, you’ll transform your basic scripts into professional-grade automation code. You’ll learn why separating test logic from page elements makes your framework easier to maintain when the application UI changes. Week 7: Advanced Selenium Techniques This week covers sophisticated Selenium capabilities: Action classes for complex user interactions (drag-and-drop, mouse hover) JavaScript Executor for handling difficult scenarios Working with cookies and browser storage Handling file uploads and downloads Database connectivity for data validation API testing basics with RestAssured or requests library Headless browser execution for faster test runs You’ll also explore tools that complement Selenium: Maven or Gradle for dependency management Version control with Git and GitHub Jenkins is used for ongoing integration. Docker for test environment consistency These advanced topics are typically covered comprehensively in a selenium full course , giving you industry-ready skills. Week 8: Real-World Project Work Theory without practice is meaningless. Dedicate this entire week to building a complete automation framework from scratch: Select a real website (e-commerce, banking demo, or booking platform) Design a Page Object Model framework Implement at least 20-30 test scenarios covering different functionalities Configure data-driven testing using Excel or CSV files Set up proper reporting with extent reports or Allure Integrate with Git for version control This project becomes your portfolio piece, demonstrating your capabilities to potential employers. Many selenium training programs in Pune and elsewhere include capstone projects that simulate real workplace scenarios. Month 3: Mastery and Career Preparation (Days 61-90) The final month focuses on achieving proficiency and preparing for career opportunities. Week 9-10: Industry Best Practices and Advanced Topics Now you’re ready for professional-level concepts: Framework optimization: Implementing custom reporting solutions Creating reusable utility functions Configuring cross-browser testing Setting up Selenium Grid for parallel execution Implementing proper logging mechanisms Advanced testing scenarios: Mobile web testing with Appium basics Performance testing integration Visual regression testing concepts Behavior-driven development with Cucumber Test management tool integration Code quality: Writing clean, readable code Implementing coding standards Code review best practices Debugging techniques and troubleshooting Handling flaky tests Consider pursuing a selenium certification course during this period. While certification isn’t mandatory, it validates your knowledge and adds credibility to your resume. Several platforms offer recognized Selenium certifications that employers value. Week 11: Mock Interviews and Resume Building Technical skills are crucial, but so is career preparation: Resume optimization: Highlighting your Selenium skills and projects Quantifying your achievements Including relevant keywords for ATS systems Creating a strong LinkedIn profile Building a GitHub portfolio with your projects Interview preparation: Typical interview questions and responses for Selenium Coding challenges specific to automation testing Framework architecture discussions Scenario-based problem-solving Soft skills for technical interviews Engage in simulated interviews with mentors or colleagues. Many comprehensive selenium automation courses include placement assistance with interview preparation support. Week 12: Job Applications and Community Engagement Your final week involves: Applying to relevant positions (QA Automation Engineer, SDET, Test Automation Engineer) Contributing to open-source testing projects Joining testing communities and forums Participating in conferences and webinars Networking with other automation professionals Continuing to refine your skills based on feedback Choosing the Right Learning Path Choosing the best training program is essential to your success because there are so many possibilities accessible. Consider the following factors: Learning Format: In-person training: allows for direct communication between peers and teachers, making it perfect for hands-on learners. If you’re searching for a “ selenium course near me ,” local training centers provide structured classroom environments. Online courses : allow for self-paced learning, which is ideal for professionals with jobs.Quality selenium online courses offer recorded lectures, live sessions, and 24/7 support. Hybrid models: Offer online materials together with weekend classes, combining the advantages of both modes. Course Curriculum: Look for programs that cover: Programming fundamentals Complete Selenium WebDriver Framework development Real-world projects Industry tools (Git, Maven, Jenkins) Interview preparation Placement assistance Instructor Expertise: Learn from professionals with: Real industry experience Strong teaching credentials Active involvement in the testing community Good student reviews and ratings Certification: A recognized selenium certification course adds value, but ensure it’s from a reputable provider. While some organisations prepare you for industry-standard qualifications, others provide their own certificates. Support and Resources: Quality programs provide: Access to course materials for life Dedicated doubt-clearing sessions Community forums or groups Job referral programs Post-course mentorship Investment in Your Future Investing in Selenium is an investment in your professional future. Your current investment of effort and money will pay off handsomely: Career Growth: Automation testers typically earn 30-50% more than manual testers. You can advance to positions like QA Manager, SDET Lead, or Automation Architect with experience. Job Security: Automation skills make you indispensable in agile organizations. Companies are constantly seeking qualified automation professionals, ensuring strong job security. Continuous Learning: The skills you develop—programming, logical thinking, problem-solving—transcend testing and open doors to other technical domains like development, DevOps, or data engineering. Many professionals worry about course fees, but consider it an investment that typically pays for itself within months of landing a better position. Most training providers offer installment options, early-bird discounts. Common Challenges and How to Overcome Them Every learning journey has obstacles. Here’s how to navigate common challenges: Challenge: Programming seems overwhelming Solution: Start small, practice daily, and don’t expect perfection. Use online coding platforms for additional practice. Remember, you don’t need to be an expert programmer—functional proficiency is sufficient. Challenge: Understanding XPath and CSS Selectors Solution: Experiment with the browser developer tools. Get familiar with finding components on several websites. Create a cheat sheet of common patterns. Most selenium testing courses include extensive locator strategy modules. Challenge: Framework design feels complex. Solution: Start with basic frameworks and work your way up to more intricate ones. Examine GitHub’s open-source frameworks. Don’t try to build the perfect framework immediately—evolution is natural. Challenge: Keeping up with technology changes Solution: Follow testing blogs, join communities, attend webinars. The Selenium community is active and supportive. Subscribe to newsletters from testing thought leaders. Challenge: Balancing learning with work Solution: Create a realistic schedule with dedicated learning blocks. Even 1-2 hours daily adds up. Use weekends for intensive practice sessions. Online formats offer flexibility for working professionals. Success Stories: Real Transformations Thousands of testers have successfully transitioned to automation. Here are common patterns from success stories: Priya, Manual Tester to Automation Engineer (6 years experience): After feeling stagnant in manual testing, Priya enrolled in a comprehensive selenium automation course. Within 90 days, she built a complete framework for her current project, impressing management. She received a 40% salary increase and a promotion to Automation Engineer. Rahul, Fresh Graduate to Junior SDET (0 experience): With no testing background, Rahul chose to specialize in automation from the start. After completing a selenium full course with placement assistance, he landed his first job at a product company. His strong project portfolio and hands-on experience set him apart from other candidates. Amit, Career Switcher (Non-IT to IT): Coming from a non-technical background, Amit was intimidated by coding. He started with Python basics, progressed through structured modules, and practiced religiously. Within four months, he secured a position as a Junior Automation Tester, proving that determination trumps background. These stories share common elements: commitment to learning, consistent practice, hands-on project work, and leveraging structured training programs. Beyond Selenium: Your Automation Journey Continues While this 90-day plan focuses on Selenium, remember that it’s just the beginning. The field of automation testing is broad and ever-changing: Complementary Skills to Develop: API testing with Postman, RestAssured, or SoapUI Using Appium for mobile automation Performance evaluation with Gatling or JMeter Security testing basics Cloud platforms (AWS, Azure) for test infrastructure Docker and Kubernetes for containerized testing AI and ML applications in testing Staying Current: Follow industry leaders on social media Read testing blogs and publications Participate in testing conferences Contribute to open-source projects Obtain additional certifications Join professional testing organizations The automation testing field rewards continuous learners. Each new skill you acquire compounds your value in the market. Taking the First Step The journey from manual to automation testing is transformative but entirely achievable. With Selenium as your foundation, you’re entering a field with unlimited growth potential and job security. Whether you choose to pursue a selenium course in Pune, enroll in Selenium online classes for flexibility, or find quality selenium training in your area, the key is to start now. All professionals once a beginner who refused to give up. This 90-day roadmap provides structure, but your dedication determines success. Set up your learning environment today, write your first Selenium script this week, and commit to consistent practice. Join communities, ask questions, help others, and celebrate small wins along the way. The software industry needs skilled automation testers more than ever. Companies are actively seeking professionals who can ensure quality in fast-paced agile environments. You are at the forefront of this need because of your choice to go to automated testing. Don’t let your fear of the unknown to stop you. With the correct strategy, you will make the same change that thousands of people have made. Are you prepared to make the one choice that will begin your 90-day transformation? The future of testing is automated, and your future in testing can be remarkably bright. Enroll in quality job-oriented courses today, follow this roadmap diligently, and watch as new opportunities unfold before you. Your career transformation is just 90 days away. Future Scope of Software Testing: Is It Still a Good Career? Prev Previous 5 Data Science Soft Skills for Resume Next Confused About Your Tech Career? Take This Quiz to Discover the Right IT Path for You Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/10/Can-You-Become-a-Data-Scientist-with-Just-Python-7-1.jpg",
+        "alt": "Selenium Course Guide",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Testing&cd%5Bpage_title%5D=Learn+Selenium+Testing+in+90+Days%3A+Complete+Automation+Career+Transition+Guide&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=114786&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Flearn-selenium-testing-in-90-days-complete-automation-career-transition-guide%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2025/10/09/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/confused-about-your-tech-career-take-this-quiz-to-discover-the-right-it-path-for-you/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/data-science-soft-skill-resume/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/software-testing-scope-in-future/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Selenium Course Roadmap: Manual to Automation | 3RI",
+    "og_description": "Switch from manual to automation testing in 90 days. Complete Selenium course guide with real projects. Enroll in top Selenium training today.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Learn Selenium Testing in 90 Days: Complete Automation Career Transition Guide",
+            "datePublished": "2025-10-09T10:39:55+00:00",
+            "dateModified": "2025-10-09T10:40:03+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/"
+            },
+            "wordCount": 2467,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/10/Can-You-Become-a-Data-Scientist-with-Just-Python-7-1.jpg",
+            "keywords": [
+              "Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Testing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/",
+            "url": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/",
+            "name": "Selenium Course Roadmap: Manual to Automation | 3RI",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/10/Can-You-Become-a-Data-Scientist-with-Just-Python-7-1.jpg",
+            "datePublished": "2025-10-09T10:39:55+00:00",
+            "dateModified": "2025-10-09T10:40:03+00:00",
+            "description": "Switch from manual to automation testing in 90 days. Complete Selenium course guide with real projects. Enroll in top Selenium training today.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/10/Can-You-Become-a-Data-Scientist-with-Just-Python-7-1.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/10/Can-You-Become-a-Data-Scientist-with-Just-Python-7-1.jpg",
+            "width": 1280,
+            "height": 720,
+            "caption": "Selenium Course Guide"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/learn-selenium-testing-in-90-days-complete-automation-career-transition-guide/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Learn Selenium Testing in 90 Days: Complete Automation Career Transition Guide"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

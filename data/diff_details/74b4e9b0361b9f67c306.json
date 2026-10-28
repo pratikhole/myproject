@@ -1,0 +1,362 @@
+{
+  "url": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "A Deep Dive into LinkedList in Java | A Collections Framework Guide",
+    "meta_description": "Unlock the power of the Java Collections Framework by mastering the LinkedList. This guide clearly explains what a linked list in Java is, how to use it, and why it's a crucial data structure for developers.",
+    "h1": [
+      "Exploring the LinkedList in the Java Collections Framework"
+    ],
+    "content": "Skip to content Home > Exploring the LinkedList in the Java Collections Framework Exploring the LinkedList in the Java Collections Framework Table of Contents PriyankaS3ri May 16, 2024 3:52 pm A Java Linked List is a linear data structure that stores the components in consecutive positions. The data and address components are the two main components of an element in a linked list. Addresses and pointers are used to link the elements together. The addresses and pointers that are used to connect the elements make up the address component, while the value of the element is found in the data section. A node is any one of the list’s elements. When learning Java, one of the most powerful tools at your disposal is the Collections Framework. A key question many developers ask is, “what is linked list java?” The LinkedList Java class is a fundamental data structure, and understanding it is crucial for building dynamic applications. As a core part of the linked list collection in java, it offers unique advantages for specific operations. Mastering the collection linkedlist in java is a sign of a proficient developer, and for those looking to build this level of expertise from the ground up, comprehensive training like our Java Classes in Pune provides the perfect structured learning path. creating a linked list in java may be defined using the following syntax: LinkedList <data_type> linkedlistname = new LinkedList<data_type>(); where data_type denotes the type of data that will be kept in the linked list, The.linked list is known by its name, linkedlistname. It is possible to add and remove items from a linked list dynamically. This property makes linked lists superior to arrays. Understanding the Core Functionality and Use Cases of LinkedList The size of the list automatically grows as we dynamically add and remove items from it because a LinkedList functions as a dynamic array and we do not need to specify its size when building it. Furthermore, there isn’t a continual storage of the elements. Thus, there’s no reason to make it bigger. Internally, the LinkedList uses the double-linked list data structure to execute its operations. The primary distinction between a doubly linked list and a regular linked list is that the latter includes data from the singly linked list in addition to an additional pointer, usually referred to as the prior pointer. Master Core Java with expert guidance. Check out our Core Java classes in Pune. Constructors in the LinkedList: Making a LinkedList requires initializing an instance of the LinkedList class.The LinkedList class has several constructors that make creating the list simple. The constructors in this class that are available are as follows: 1. LinkedList(): To make a new linked list from scratch, you can use this constructor. We can construct an empty LinkedList with the name ll by following these steps: LinkedList ll = new LinkedList(); 2. LinkedList(Collection C): If you have a collection whose iterator returns an ordered list of elements, you can use this constructor to build an ordered list of all those elements. The following is the syntax for creating a LinkedList with the key “ll”: LinkedList ll = new LinkedList(C); Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Methods for Java LinkedList: add(int index, E element) When called, this method will append the given element to the list at the given position. add(E e) This technique adds the designated element at the conclusion of this list. addAll(int index, Collection<E> c) This method takes the given location as an initial value and appends each element from the given collection to this list. addAll(Collection<E> c) In the sequence that the iterator for the given collection returns its elements, this method adds each element to the end of this list. addFirst(E e) This technique Adds the designated element to the start of this list. addLast(E e) This method takes a collection as input and appends each element to this list, starting at the place you specify. clear() This process eliminates every element from this list. clone() This function returns a shallow duplicate of this LinkedList. contains(Object o) The specified element must be present in this list for this function to return true. descendingIterator() This function iteratively returns a deque’s elements in reverse sequential order. element() This function extracts the head, or first entry, of this list; it does not remove it. get(int index) At the given index in this list, this method returns the element. getFirst() The method returns the list’s first element. getLast() You can get the last item on this list this way. indexOf(Object o) If the given list has the element you’re looking for, this method will provide its index; otherwise, it will return -1. lastIndexOf(Object o) For each given element, this method will return either the index of the last occurrence in the given list or -1 if the element is absent. Boost your IT career with Java classes in Pune. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send listIterator(int index) This method takes a list as input and returns an iterator that traverses the list element by element, starting at the place you provided in the correct order. offer(E e) This function takes an existing list and appends the element you provide to the end, making it the tail. offerFirst(E e) Put the given item at the top of the list this way. offerLast(E e) Using this function, you can append the element you desire to the end of the list. peek() This function extracts the head, or first entry, of this list; it does not remove it. peekFirst() This function returns null if this list is empty; otherwise, it obtains the first entry of the list without removing it. peekLast() This function returns null if this list is empty or obtains the final piece in the list without removing it. poll() This function eliminates this list’s head (first element). pollFirst() If the list is empty, this method returns null; otherwise, it retrieves and eliminates the first member from the list. pollLast() If the list is empty, this method returns null; otherwise, it retrieves and eliminates the final element from the list. pop() This function takes a stack representation and pops an element from it. push(E e) Using this technique, you can add an element to the stack this list represents. remove() This function eliminates this list’s head (first element). remove(int index) This technique eliminates the element located at the designated location inside this list. remove(Object o) If the supplied element appears in this list, its first instance is eliminated. Gain in depth knowledge of Java Frameworks at Java Frameworks Training in Pune Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes removeFirst() This function takes the first element out of this list and returns it. removeFirstOccurrence(Object o) By going through the list from head to tail, this function eliminates the first instance of the given element. removeLast() This function retrieves the final element from the list and gives it back. removeLastOccurrence(Object o) Going through the list from head to tail eliminates the last instance of the given element in it. set(int index, E element) This method replaces the element in this list’s designated location with the given element. size() This function returns this list’s total item count. spliterator() Over the items in this list, this technique generates a fail-fast and late-binding spliterator. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send toArray() The output of this method is an array that has every element in this list in the correct order (first element to final element). toArray(T[] a) The returning array and the given array have the same runtime type. This function returns an array with every element in the list in the correct order (from first to last element). toString() The output of this method is a string that has every element in the list in the correct order (from the first to the final element), with commas between each element and the string itself surrounded in square brackets. Embark on your journey to becoming a Java programmer with industry-leading Java training. The Hierarchy of Linked Lists Is Explained as Follows: Abstract Sequential Lists are a superclass of Link Lists; from there, iterable and collection interfaces get access to lists. By implementing the deque interface, the linked list extends the Iterable interface, which extends the Queue interface, the collection interface, and so on. In Java, there are several kinds of data structures called linked lists. They Are: Singular Linked List Doubly Linked List Circular Linked List 1. Singular Linked List An array of nodes containing data and a connection to the next node makes up a singly linked list. These nodes can be traversed unidirectionally from the list’s first node, also known as the head, to its last node, also known as the tail. Structure of a Single Linked List One can use singly linked lists for a variety of purposes. One typical use is keeping a list of items that must be handled sequentially. For instance, a list of jobs that must be finished can be stored in a singly linked list, where the head node represents the first task that needs to be completed, and the tail node represents the last task. Algorithms that must handle a list of elements in reverse order frequently employ singly-linked lists. For instance, the list of objects that need to be sorted is stored in a single linked list using Quicksort’s well-known sorting method. Quicksort can sort a list more effectively by processing it in reverse order. 2. Doubly Linked List This kind of linked list comprises a series of nodes, each with two pointers: the prior pointer, which points to the node before it, and the subsequent pointer, which points to the node after it in the list. This type of traversal, known as a doubly linked list, can go from the first node to the last node and vice versa. Structure of a Double Linked List An example of a double-linked list of singly linked lists is a doubly linked list of singly linked lists, which is an array of SLLs that are each double-linked. Its function is data storage, making rapid additions and deletions possible. The head and tail are the two components that make up each SLL.A pointer to the list’s initial and final elements, respectively, is at the very beginning and very end of every SLL. It has an advantage over other data structures, making element insertion and deletion fast. It is very adaptable and has many uses. It is also simple to apply. 3, Circular Linked List At each node in a circular linked list , you can find data and a link to the node after it. The last node of the list, called the tail, points to the first node, called the head. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send ArrayList vs. LinkedList Like the ArrayList, the LinkedList class is a collection that can hold numerous items of the same type. Since both the LinkedList and the ArrayList classes implement the List interface, they share all the methods. Everything from adding things to editing or removing them to clearing the list works similarly. Although they have similar functionality, the ArrayList and LinkedList classes are structurally distinct. How the ArrayList Works: Within the ArrayList class, there is a regular array. The array contains the newly inserted element. If the array is insufficiently large, the previous array is deleted and replaced with a new, larger one. How the LinkedList Works: The “containers” that the LinkedList uses to hold its elements. There is a link to the first container in the list, and each container has a connection to the one after it. The process of adding an element to the list involves putting it into a new container and linking it to another container in the list. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send image repeat with 1 The Bottom Line In conclusion, Using a linear and dynamic data structure called a linked list, we can store elements in memory regions that are not next to one another. Java allows for implementing linked lists using either a custom class or the LinkedList class included in the Collection framework.The LinkedList class in the Collection framework implements the List, Queue, and Deque interfaces. Although a linked list allows for efficient element manipulation, random access is impossible. For learning Java from industry experts, visit 3RI Technologies. Prev Previous Benefits and Challenges of Java Microservices Architecture Next Which AWS Certification Should I Get in 2024? Your Ultimate Guide Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Java-Collections-Framework-Exploring-LinkedList.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/Become-a-Java-Certified-Professional.png",
+        "alt": "Become-a-Java-Certified-Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Java&cd%5Bpage_title%5D=Exploring+the+LinkedList+in+the+Java+Collections+Framework&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=94155&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fjava-collections-framework-exploring-linkedlist%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2024/05/16/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/benefits-and-challenges-of-adopting-java-microservices-architecture/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-training/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/which-aws-certification-should-i-get-in-2024-and-why/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "A Deep Dive into LinkedList in Java | A Collections Framework Guide",
+    "og_description": "Unlock the power of the Java Collections Framework by mastering the LinkedList. This guide clearly explains what a linked list in Java is, how to use it, and why it's a crucial data structure for developers.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Exploring the LinkedList in the Java Collections Framework",
+            "datePublished": "2024-05-16T10:22:17+00:00",
+            "dateModified": "2025-06-11T04:55:48+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/"
+            },
+            "wordCount": 2098,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Java-Collections-Framework-Exploring-LinkedList.png",
+            "keywords": [
+              "Java Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Java"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/",
+            "url": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/",
+            "name": "A Deep Dive into LinkedList in Java | A Collections Framework Guide",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Java-Collections-Framework-Exploring-LinkedList.png",
+            "datePublished": "2024-05-16T10:22:17+00:00",
+            "dateModified": "2025-06-11T04:55:48+00:00",
+            "description": "Unlock the power of the Java Collections Framework by mastering the LinkedList. This guide clearly explains what a linked list in Java is, how to use it, and why it's a crucial data structure for developers.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Java-Collections-Framework-Exploring-LinkedList.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Java-Collections-Framework-Exploring-LinkedList.png",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/java-collections-framework-exploring-linkedlist/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Exploring the LinkedList in the Java Collections Framework"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

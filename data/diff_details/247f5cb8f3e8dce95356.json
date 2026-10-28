@@ -1,0 +1,299 @@
+{
+  "url": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "React Native vs. Flutter: Mobile App Development Guide| 3RI",
+    "meta_description": "Explore React Native vs. Flutter in this detailed comparison for mobile app development. Discover which framework best suits your project goals!",
+    "h1": [
+      "React Native vs. Flutter: A Comparative Analysis for Mobile App Development"
+    ],
+    "content": "Skip to content Home > React Native vs. Flutter: A Comparative Analysis for Mobile App Development React Native vs. Flutter: A Comparative Analysis for Mobile App Development Explore the distinctions between developing mobile apps with Flutter and React Native. To choose the best framework, compare language, performance, user interface, and community support. Table of Contents PriyankaS3ri October 9, 2024 5:22 pm With cross-platform development frameworks, programmers can use a single codebase to design applications that function flawlessly on various platforms, including iOS, Android, and the web. By enabling developers to create code only once and deploy it across several platforms, these frameworks expedite the development process and save time and resources. They offer a single environment for developing apps for several platforms without the requirement for platform-specific tools or languages. Xamarin, Flutter, React Native, and Ionic are just a few famous examples. The problem of writing different code for native platforms such as iOS and Android is resolved with Flutter and Native. Now, you can make an app using the same code for any platform. This article compares and contrasts Flutter vs React Native in great detail to assist you in selecting the best framework for developing cross-platform apps. Enhance your skills with ReactJS classes in Pune. React Native : What Is It? React Native is a framework for creating user interfaces that blend React with the most significant aspects of native programming. It makes it possible to build mobile applications using only JavaScrip. You can get these mobile apps from the Apple Store and Google Play Store. Flutter : What Is It? To create cross-platform programs that work on mobile devices, Windows, macOS, Linux, and the web, Google made the open-source Flutter UI framework in 2017. The foundation of Flutter is Dart. Numerous large corporations, such as Hamilton, Philips Hue, and Alibaba, select Flutter for development. Furthermore, Flutter receives performance enhancements from Google regularly. Flutter and React Native: A Historical Overview Developers use the most widely used cross-platform development frameworks to create mobile applications: Flutter and React Native. Because these frameworks enable developers to design fully functional, aesthetically pleasing, high-performing applications running smoothly on multiple platforms, they have completely transformed the mobile app development market. Thanks to its speed, simplicity, and extensive library of pre-built widgets, Google’s Flutter has quickly been a favorite among developers since its creation in 2017. Flutter uses Dart, an easy-to-learn programming language. Additionally, Flutter’s hot reload feature allows developers to make code modifications and immediately see the changes in the app, which expedites and enhances the development process. Conversely, Facebook created React Native in 2015, and developers use it extensively to develop cross-platform mobile applications. Using React Native, programmers can create cross-platform JavaScript apps compatible with both iOS and Android devices. The reason for React Native’s widespread appeal is its capacity to offer customers an experience as close to native as possible despite the application’s JavaScript development. How Do Frameworks for Cross-Platform Development Operate? Software tools called cross-platform development frameworks enable programmers to design apps that function flawlessly across various platforms and operating systems. These frameworks allow programmers to write code once and execute it on numerous platforms, such as Android, iOS, and Windows. Additionally, removing the need to build different scripts for each platform saves time and money. Additionally, these frameworks function by abstracting away platform differences through a collection of libraries and tools. These libraries let programmers create platform-agnostic code, which means it doesn’t require any changes to run on several platforms. Cross-platform development frameworks offer a uniform user experience across many platforms and devices, which is one of their key advantages. Because developers just need to make changes to one codebase, they also make managing and upgrading their apps easier. Ionic, Xamarin, Flutter, and React Native are just a few of the many cross-platform development frameworks available. Developers must select the framework that best suits their requirements from those with different features and advantages. Thus, cross-platform development frameworks are an essential resource for programmers who want to design cross-platform apps. They offer a productive and economical means of creating applications, cutting down on development time, and enhancing user experience. Ready to kickstart your career in ReactJS? Enroll now in our ReactJS online course! Flutter vs. React Native 1. Language React Native: React is the foundation for a JavaScript-only framework. This is excellent news for React Native since JavaScript is currently among the most popular languages worldwide. Flutter: Flutter is written in the Dart programming language. Google released the programming language Dart in 2011, but developers hardly ever use it. 2. User Interface React Native: The primary building blocks for this framework are native components for Android and iOS mobile devices. It offers many external UI kits to help you create visually appealing app user interfaces. Flutter: Interactive, visual, structural, and platform widgets are proprietary to Flutter. These integrated UI elements, or widgets, replace native platform elements. 3. Performance React Native: React uses JavaScript as a bridge to interact with native components. Development and runtimes are consequently slower when contrasted with Flutter. Flutter: There isn’t a connecting bridge available to initiate communication with the device’s internal components. Consequently, faster interactions with native components increase the program’s overall speed. 4. Documentation React Native: This framework provides general documentation. The framework uses third-party developer kits extensively. Compared to Flutters, the documentation is more intricate. Flutter: It provides easy-to-read documentation because of its organized content and comprehensive style. Additionally, the documentation is more transparent and more simplified. 5. Popularity React Native: Compared to Flutter, React Native is a more frequently used app development framework. Because this framework makes it easy for developers to construct react native mobile apps swiftly, more developers are using it. Flutter: Although Flutter has recently seen a boom in popularity, it lags well behind in terms of the number of developers. Dart is a very new language; hence, developers are adopting it at a significantly lower rate. 6 . Community Support React Native: React Native has the most significant community support and tagged questions of any framework on Stack Overflow, with over 310,507 total. The 2015 release on GitHub makes it open-source. Flutter: As a new framework, Flutter has a smaller community. A growing number of developers, however, are beginning to use it. There have been over 89,638 requests on Stack Overflow. 7. Industry Trends React Native: A 2019 StackOverflow study found that 62.5% of developers loved React Native. Higher career opportunities result from its established nature and use of JavaScript and React. Flutter: At 65.4%, Flutter had a higher ranking. Flutter is not as widely used by businesses as it once was. This leads to fewer work opportunities. However, this may not be the case in a few years. To learn more about MERN Stack, you can join our MERN Stack Classes in Pune today. Advantages and Disadvantages of Flutter and React Native Apps Flutter Pros Cons Quick Development Large-scale usage Fast code updates are possible with Hot Reload Fewer third-party libraries than when developing natively One codebase to support several platforms The Dart language’s learning curve A large selection of pre-made widgets Restrictions on using some native APIs Excellent performance as a result of straight compilation Complex UI designs can be complicated Robust documentation and community support Less experienced developers available Free and open-source software Possible platform-specific problems Uniform user interface across several devices Swiftly evolving structure Beneficial to the growth of MVPs Compiling an app with an existing one can be difficult Encourages localization and internationalization Several sophisticated native features are absent React Native Pros Cons Development Across Platforms Compared to native apps, performance may be worse Reusable code for both Android and iOS Debugging may be more difficult Hot Reload for quick iterations in development It may be necessary to use native modules A sizable community and robust assistance Maintaining UI uniformity can be challenging. A robust library and plugin ecosystem Support for some native APIs is limited. Supported by Facebook Bigger application than the native For JavaScript developers, easy to learn Less suitable for intricate animations Effective process of development Reliance on outside libraries Facilitates native code integration Problems with third-party plugin compatibility Open-source and extensively used Upgrades that take longer to support new OS features Differences between Flutter and React Native Aspect Flutter React Native Framework Created by Google Created by Facebook Language Dart JavaScript (with JSX) UI Components Provides a unique collection of UI elements (Material Design) Uses native Android and iOS UI components Performance Typically thought to be quicker Performance varies based on several variables. Compilation Compilation done ahead of time The JIT method of compilation Hot Reload Allows for Hot Reload for quick development Allows for Quick Reloading for quick iterations Community Support A thriving community with great support Large and vibrant community Ecosystem Developing ecosystem, increasing library support. A mature ecosystem with large libraries. Learning Curve Need familiarity with the Dart programming language and the Flutter framework. Needs knowledge of React and JavaScript Which of Flutter and React Native Is Easier to Learn? Determining which is more straightforward to learn—Flutter or React Native—is difficult. It is necessary to weigh each framework’s distinct advantages and disadvantages while deciding. But if forced to pick one, we’d say Flutter is slightly more straightforward to understand than React Native. While Flutter utilizes Dart, which is a relatively easy language to learn, React Native employs JavaScript, which can be a little more complicated. Enroll for MERN Stack Online Course and get in-depth knowledge of MERN Stack . Which is Superior: React Native or Flutter? React Native vs. Flutter depends on several variables: performance requirements, developer skills, and project requirements. Although Flutter, which uses Dart, has a smaller developer community and less IDE support, it delivers outstanding performance. Because JavaScript is a widely used language, React Native, which uses it, has speedier development and more significant community support. Ultimately, what matters most is the project’s particular requirements and the development team’s preferences. Why Go with Flutter? Uses the Dart language, which has a high performance due to its faster compilation time than JavaScript. Developers are less familiar with Dart than JavaScript because of its lower adoption rate. Due to its lower popularity, Dart has limited IDE support. Produces larger file sizes yet allows for speedier development. Provides integrated testing tools to make testing simpler. Why Go with React Native? Uses JavaScript, which is easier for developers to learn and has a larger support community. Reduced speed as a result of JavaScript bridging. Helps developers save time by employing a known language. Needs external testing frameworks, such as Detox. Embraced and encouraged by a broader range of people. The Bottom Line This comparison guide between Flutter and React Native illustrates why these two up-and-coming frameworks are famous for building cross-platform applications. The problem of writing different code for native platforms such as iOS and Android is resolved with Flutter and Native. You may now use the same code to create an application for any platform. No matter what framework you decide on, you have to thoroughly test your application before making it public. You can test cross-browser and cross-platform compatibility on over 3000 browsers, devices, and operating systems with BrowserStack. React Native and Flutter allow you to test your projects quickly. Explore course details at 3RI Technologies. Prev Previous How to Become an RPA Developer: Skills, Career & Certification Guide Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-9.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/React-Certified-Professional.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Web+Technologies&cd%5Bpage_title%5D=React+Native+vs.+Flutter%3A+A+Comparative+Analysis+for+Mobile+App+Development&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=98143&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Freact-native-vs-flutter-a-comparative-analysis-for-mobile-app-development%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2024/10/09/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-online-training/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/reactjs-training-in-pune/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/rpa-developer-skills-career-and-how-to-become-one/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "React Native vs. Flutter: Mobile App Development Guide| 3RI",
+    "og_description": "Explore React Native vs. Flutter in this detailed comparison for mobile app development. Discover which framework best suits your project goals!",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "React Native vs. Flutter: A Comparative Analysis for Mobile App Development",
+            "datePublished": "2024-10-09T11:52:50+00:00",
+            "dateModified": "2026-09-04T06:55:20+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/"
+            },
+            "wordCount": 1830,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-9.jpg",
+            "keywords": [
+              "Blog Design"
+            ],
+            "articleSection": [
+              "Web Technologies"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/",
+            "url": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/",
+            "name": "React Native vs. Flutter: Mobile App Development Guide| 3RI",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-9.jpg",
+            "datePublished": "2024-10-09T11:52:50+00:00",
+            "dateModified": "2026-09-04T06:55:20+00:00",
+            "description": "Explore React Native vs. Flutter in this detailed comparison for mobile app development. Discover which framework best suits your project goals!",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-9.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-9.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/react-native-vs-flutter-a-comparative-analysis-for-mobile-app-development/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "React Native vs. Flutter: A Comparative Analysis for Mobile App Development"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

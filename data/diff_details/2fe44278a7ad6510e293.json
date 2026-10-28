@@ -1,0 +1,330 @@
+{
+  "url": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Master Version Control with Azure DevOps – Simplified for Teams",
+    "meta_description": "Explore how Azure DevOps simplifies version control and collaboration. Learn version control best practices and boost your skills with our Azure DevOps Certification.",
+    "h1": [
+      "Azure DevOps – A Powerful Version Control Tool for Modern Development"
+    ],
+    "content": "Skip to content Home > Azure DevOps – A Powerful Version Control Tool for Modern Development Azure DevOps – A Powerful Version Control Tool for Modern Development Table of Contents PriyankaS3ri June 28, 2024 4:43 pm If your goal is to collaborate on a game project, version control, often called source control, ought to be among your top priorities. You might be aware of GitHub if you are familiar with Git. This enables you to host your game project on a server that is open to the public. Although there are better options for gaming, GitHub is fantastic for software development. Understanding the importance of a version control tool is critical in today’s agile development environment. Azure DevOps version control empowers teams to collaborate efficiently, manage code changes seamlessly, and maintain deployment stability. Whether you’re a beginner or an experienced professional, mastering version control in Azure DevOps can significantly streamline your DevOps lifecycle. This article simplifies the concepts behind version control and its implementation in Azure DevOps. For hands-on expertise, explore our industry-recognized Azure DevOps Certification and fast-track your journey to becoming a proficient DevOps engineer. Git server Microsoft Azure DevOps is a GitLab, GitHub, and Bitbucket replacement. It provides endless storage for Git LFS with Unity, Godot, and Unreal, which is a huge benefit for game developers. The fact that the free plan allows for up to 5 people is a great place to start. For any additional users above 5, the reasonable monthly charge is $6 per person. This accounts for the fact that storage, which you’ll require for 3D files, textures, movies, and audio, won’t be billed. AWS from Amazon is directly competed with by Microsoft Azure, of which Azure DevOps is a part. Starting can seem a little intimidating, but this lesson can assist you. Enroll now for DevOps Training in Pune and kickstart your journey to success. Why Version Control in Azure DevOps Matters for Every Developer This manual will make use of 1. Azure DevOps (you may absolutely use a free account) 2. Anchorpoint, our desktop version of Git 3. An example of a project using Unreal Engine Setting up your Unreal Engine project One File Per Actor allows modifications made to a level to be kept in numerous tiny files starting with Unreal Engine 5. This has a few benefits: The level is still somewhat accessible. It is possible for multiple team members to work simultaneously at the same level. You don’t have to submit the entire level again, thus your version control commits are less. Because every committed version will show you all the actors who have changed, your history is better. One File Per Actor is activated by default when you use World Partition. It isn’t; you need to activate it here. Enroll in our Azure Devops AZ 400 Certification today and build a brighter career in Cloud Computing. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Setting up Azure DevOps The usual account creation process is now required of you. You will then be prepared to launch a new DevOps project. It’s a laborious process, but it only needs to be done once. Why version control matters Developers may have to undertake numerous tasks that require time. Developing new tools, adding new features or content, and replicating bugs are a few instances. As client demands grow, version control helps teams collaborate and deliver products on schedule. What do you want to do? Set up your development environment and get to work. Take a few minutes to configure your development computer so that you can benefit from version control. Select a workflow model: local workspaces or servers. Server workspaces : Members of the team publicly check out files before making changes. Developers need to be connected to the server for the majority of operations. Workflow locking is facilitated by this system. This is how other systems such as Visual Source Safe, Perforce, and CVS operate. You can grow up to very big codebases with millions of files per branch and enormous binary files by using server workspaces. Local workspaces: Every team member carries a copy of the most recent codebase and uses it offline as necessary. Developers reconcile disagreements as they arise and check in their changes. Subversion is another system that functions in this manner. • Use a version-controlled codebase to create your application. • Most of the time, version control is not anything you have to consider. When you need assistance managing and comprehending your modifications, the system is there for you. • Put your work on hold. • There are moments when you have to put down some or all of the work you are working on. Your version control system can lessen the suffering and cut down on the time lost to disruptions. • Provide your work to the group. In order for your team to expand upon, test, and publish the value you’ve produced, please check in your changes. • Distinguish risk To separate risks brought about by work completed by several teams, use locks and branches. • See and control previous iterations The ability to see past modifications made to your files and obtain comprehensive information about them is one benefit of using a version control system. • Evaluate files and folders. You can examine the variations in contents between the contents of local and server folders by comparing them with one another. Stand out with DevOps Foundation Certification Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send Address problems with Team Foundation Version Control. Multiple individuals working on a file at once is a huge benefit of version control. One disadvantage is that you have to settle disputes from time to time. Conflicts can be difficult, but the system offers resources and tools to make them easier to comprehend and handle. Handle locks for version control You can lock a file or folder to stop it from being checked out and changed. Team Foundation Version Control The acronym for centralized version control system is TFVC. Each file is typically only available in one version on the development PCs of the team members. The server is where all past data is kept private. Branches are made on the server and are path-based. TFVC allows you to restrict access at the file level and apply fine-grained restrictions. Because your team uses Azure DevOps Server to validate every task, auditing changes and determining who checked in a changeset is simple. By using compare and annotate, you can determine the exact changes they made. For any major software project, it makes sense to start using version control as soon as possible. You can monitor the changes you make to your code over time with version control system software. You instruct the version control system to take a snapshot of your files while you work on your code. That snapshot is stored indefinitely by the version control system so you can access it at a later time if necessary. Every major software project should use version control from the beginning. You can monitor the changes you make to your code over time with version control system software. You provide the version control system instructions to take a snapshot of your files while you’re working on your code. That snapshot is stored indefinitely by the version control system so you can access it at any time. Benefits of version control 1.Utilize versions Each version includes an explanation of the changes made, such as adding a feature or fixing a bug. The team can better track code changes by version rather than by individual file changes thanks to these descriptions. Version control allows for the viewing and restoration of code at any moment as needed. It’s simple to base fresh work on any version of the code thanks to versions. 2. Establish workflows Workflows for version control stop confusion from arising from multiple people utilizing disparate and incompatible tools for their respective development processes. To keep everyone in the loop, version control systems offer permissions and procedure enforcement. 3. Keep a log of Version control records changes made to the code when the team saves updated versions. Team members can review previous occurrences to ascertain who changed what, why, and when. Because history allows them to always revert to a successful version, teams can feel free to attempt new things. Anyone can base work from any version of the code, such as fixing a defect in a previous release, by using history. 4. Write code cooperatively Version control ensures that modifications do not clash with each other’s changes and synchronizes versions. Even when multiple team members make changes at the same time, version control is used by the team to help resolve and avoid disagreements. 5.Task automation Features for version control automation produce reliable results and save time. Three examples include automating testing, code analysis, and deployment upon the save of new versions to version control. Looking to advance your career? Explore our DevOps Online Training and elevate your skills for success in today’s competitive landscape. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Conclusion Development teams frequently utilize Azure DevOps to manage and automate their cloud operations by utilizing the features offered by the Azure cloud platform. Azure DevOps is a great release management and tracking tool for GitHub. ADO can be set up to release automatically, manually, or in response to a GitHub pull request being approved. Similar to Jira, ADO provides work management, but it goes above and beyond by linking the work to a release. You can keep an eye on pull requests for the release that has the implementation on the card thanks to this. ADO provides a plethora of plug-ins for packaging, deployment, and software development. Microsoft provides an Azure DevOps set of integrated development tools and services as part of the Azure cloud platform. Everything from planning and coding to building, testing, and deployment is supported across the whole development lifecycle with this set of capabilities, services, and tools. Do visit 3Ri Technologies Prev Previous DevOps vs. Traditional SDLC: Understanding the Evolution in Software Development Next Scaling DevOps Successfully: Integrating People, Processes, and Platforms Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/DevOps-and-Segregation-of-Duties-.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "DevOps Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=DevOps&cd%5Bpage_title%5D=Azure+DevOps+%E2%80%93+A+Powerful+Version+Control+Tool+for+Modern+Development&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=95960&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fazure-devops-a-version-control-tool%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2024/06/28/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/azure-devops-az-400-certification-online-training/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/devops-to-a-traditional-sdlc/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Master Version Control with Azure DevOps – Simplified for Teams",
+    "og_description": "Explore how Azure DevOps simplifies version control and collaboration. Learn version control best practices and boost your skills with our Azure DevOps Certification.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Azure DevOps – A Powerful Version Control Tool for Modern Development",
+            "datePublished": "2024-06-28T11:13:04+00:00",
+            "dateModified": "2025-05-26T04:52:54+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/"
+            },
+            "wordCount": 1626,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/DevOps-and-Segregation-of-Duties-.jpg",
+            "keywords": [
+              "DevOps Blog Design"
+            ],
+            "articleSection": [
+              "DevOps"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/",
+            "url": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/",
+            "name": "Master Version Control with Azure DevOps – Simplified for Teams",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/DevOps-and-Segregation-of-Duties-.jpg",
+            "datePublished": "2024-06-28T11:13:04+00:00",
+            "dateModified": "2025-05-26T04:52:54+00:00",
+            "description": "Explore how Azure DevOps simplifies version control and collaboration. Learn version control best practices and boost your skills with our Azure DevOps Certification.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/DevOps-and-Segregation-of-Duties-.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/DevOps-and-Segregation-of-Duties-.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/azure-devops-a-version-control-tool/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Azure DevOps – A Powerful Version Control Tool for Modern Development"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

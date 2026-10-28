@@ -1,0 +1,321 @@
+{
+  "url": "https://www.3ritechnologies.com/what-is-aws-cloudformation/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "What is AWS CloudFormation? A Simplified Guide to Cloud Infrastructure Automation",
+    "meta_description": "Learn what AWS CloudFormation is, how cloud formation in AWS simplifies infrastructure management, and why it's essential for modern cloud professionals. Enroll in our AWS Course in Pune for hands-on expertise.",
+    "h1": [
+      "What is AWS CloudFormation?"
+    ],
+    "content": "Skip to content Home > What is AWS CloudFormation? What is AWS CloudFormation? A code-based method of provisioning AWS infrastructure is called CloudFormation. It enables you to model a set of connected AWS and third-party resources in order to provision them rapidly and consistently. CloudFormation is intended to assist you in managing your AWS resources, particularly connected resources. Utilize CloudFormation templates to create stacks out of resources with dependencies. Table of Contents PriyankaS3ri July 24, 2023 3:45 pm A code-based method of provisioning AWS infrastructure is called CloudFormation. It enables you to model a set of connected AWS and third-party resources in order to provision them rapidly and consistently. AWS CloudFormation is a powerful service that automates the setup of your cloud environment using easy-to-manage templates. If you’re wondering what is AWS Cloud Formation or looking to understand cloud formation in AWS, this guide simplifies it for you. Whether it’s launching servers or configuring databases, AWS CloudFormation saves time and reduces errors. Curious about what a Cloud Formation really does? Explore its real-world impact and benefits. Take your skills further with our AWS Course in Pune , designed to help you build and manage infrastructure the smart way. CloudFormation is intended to assist you in managing your AWS resources, particularly connected resources. Utilize CloudFormation templates to create stacks out of resources with dependencies. AWS CloudFormation also has a way for managing resources throughout their existence. Edit and alter your CloudFormation template to manage your resources, and your stack’s resources will be updated as a result. When you make modifications to a template, CloudFormation logs the changes and either executes them or creates a “Change Set” for approval. An overview of AWS CloudFormation is given in this article, along with details on how it functions. the benefits it provides, and how to develop and deploy CloudFormation templates through the console. Understanding AWS CloudFormations & Its Role in Cloud Infrastructure AWS CloudFormation supports you automate provisioning and managing AWS resources. To understand CloudFormation, let’s break down its key concepts: Template: Template can either be in a JSON format or in the YAML text format , that describes the necessary AWS resources. It functions as the roadmap for your infrastructure that beautifully specifies the configuration of each resource. Stack: Stack is nothing but a group of AWS resources built and operated as a single unit . When you deploy a template, it creates a stack, and you can collectively manage all resources within that stack. Resource: Resources are the building blocks of your infrastructure, such as EC2 instances, S3 buckets, or databases. Each resource is defined in the CloudFormation template, which instructs AWS to create, update, or delete these resources. Parameter: Through Parameters, the end users can modify templates, by giving values as input while forming a stack. Parameters are used to specify instance types, key pairs, or other configuration details. Output: Outputs provide information about your stack, which can help connect different stacks or obtain information after deployment. For instance, you might output the public DNS name of an EC2 instance for easy access. Stack Update: Cloud Formation allows you to update your stack to reflect template changes or adapt to evolving requirements. During an update, CloudFormation modifies only the necessary resources, minimizing disruption. Rollback: If an update fails, CloudFormation can automatically roll back to the previous stack state, helping to maintain a consistent and working infrastructure. Change Sets: The Cloud Formation end-user can use an adjustment set to preview changes prior to applying them to a stack. Change sets show you the potential impact of changes, helping you make informed decisions. Drift Detection: Drift detection identifies differences between the desired stack configuration in your template and the actual stack resources. It helps you identify and address any unintended changes made outside of CloudFormation. Stack Policies: Stack policies allow you to control updates to specific resources within a stack, helping you enforce security and compliance requirements. By mastering these concepts, you can leverage AWS Cloud Formation to manage and scale your AWS infrastructure efficiently in a structured and automated manner. Why do we need AWS Cloud Formation? Welcome, all tech enthusiasts, to a world where deploying and managing resources on the cloud becomes as easy as waving a wand. Let’s dive deep into the realm of AWS CloudFormation, a powerful tool that transforms the complex choreography of cloud infrastructure into a graceful dance. The Challenge of Cloud Management Imagine you’re orchestrating a symphony of servers, databases, and networking components in the vast cloud landscape. It sounds like a dream, right? The reality is that without the right tools, it can quickly become a nightmare. Enter AWS CloudFormation, a one-stop solution for complete cloud management. The power of automation CloudFormation is a powerful service provided by AWS that lets you define the infrastructure in a human readable YAML or JSON format. With a snap of your fingers (or, instead, a click of a button), CloudFormation transforms these templates into fully-fledged AWS resources. Consistency is key. With CloudFormation, you can guarantee that your development, testing, and production environments are mirror images, reducing the risk of unexpected hiccups when you go live. It’s like having a reliable time-turner for your infrastructure. Scaling got simple. Scaling up or down shouldn’t feel like wrestling with a mythical beast. CloudFormation makes it a breeze. As your application grows, you can effortlessly adjust the number of resources with a tweak to your template. There is no need to summon a team of wizards for manual adjustments; CloudFormation handles it all. Rollbacks and Updates To make e-devices & system works: Rollbacks, Patches & System Updates, are mandatory in an era of constantly developing technology. With CloudFormation, you can perform seamless updates to your infrastructure without the fear of breaking things. And if, by some chance, a misstep occurs, CloudFormation’s rollback feature ensures you’re back to a stable state. Cost Control With Cloud Formation, you can manage your cloud spending effectively. The ability to define and control resources through templates means you only conjure up what you need, preventing the accidental creation of resource duplicates and keeping your budget intact. Advantages of Creat ing AWS Cloud 1. Simple updates In addition to deploying new resources, CloudFormation templates can also be used to change already-existing ones.This capability facilitates tasks such as changing the access control policies or adding more storage to a fleet of EC2 machines. 2. Best Practice Automation By creating a Git repository and deploying infrastructure via a Git pipeline, you may use CloudFormation in conjunction with DevOps and GitOps best practices. pipeline for CI/CD, for instance. This enables you to use pipeline integration tools like GitHub Actions and AWS CodePipeline to audit changes and launch deployments. 3. Manage your own and outside resources. The free Cloud Formation CLI lets you deploy and manage external resources like version control, CI/CD, and monitoring. 4. Scaling and deployment globally Templates simplify scaling by combining best practices and company policies, which may then be used in CloudFormation StackSets to create, change, and delete stacks across many AWS regions and accounts. To learn from industry experts and become a PRO AWS Practitioner check Amazon Web Services Course 5. Security Similar to how Cloud Formation can increase the overall security of your AWS system by reducing the likelihood of oversights or human errors that can result in breaches, despite the fact that it is not a security technology in and of itself. You don’t have to worry about an engineer forgetting to turn on crucial access control, for example, or leaving data exposed to unlimited, public access if you construct your Cloud Formation templates securely. 6. AWS Service Integration Several other AWS services connect with CloudFormation to make resource and security management easier. CloudFormation will work with AWS Identity and Access Management (IAM) to provide secure access control, AWS Config to ensure best practice compliance, and builder tools such as AWS CodePipeline to adopt the most recent DevOps best practices for improving testing, automation, and deployment. 7. Disaster Recovery If your infrastructure fails catastrophically, you may instantly recreate it in a another area or account using your CloudFormation templates to aid with disaster recovery. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send What Does Cloud formation Cost? CloudFormation is completely free to use. You simply pay for the resources you provision and the API calls CloudFormation performs on your behalf, which are identical to those you would have made manually. If you manage third-party resources, there is additionally a tiny per-operation fee. How does AWS Cloud Formation function? When you create a stack, AWS CloudFormation sends underlying service requests to AWS in order to provide and configure your resources. CloudFormation can only carry out actions that you have authorized. For example, rights to create instances are required when using CloudFormation to create EC2 instances. When you destroy stacks of instances, you’ll need the same permissions to end the instances. Permissions are managed using AWS Identity and Access Management (IAM). All of CloudFormation’s calls are declared in your template. Methods for Creating a Cloud Formation Template There are two methods for creating CloudFormation templates: 1. Starting with a pre-existing template or 2. Starting from scratch to create a brand-new template Most of the time, the former approach will be quicker and more convenient, especially if you are unfamiliar with CloudFormation and only need to deploy a minimal configuration. It usually makes sense to generate new templates from scratch only if your deployment is particularly complex or if you need to interface with odd AWS services that are not fully covered in AWS’s existing template collection. Interested to begin a career in AWS? Enroll now for AWS Training in Pune . Using a CloudFormation Deployable Template When the deployment procedure to construct the resources specified in the template is complete, you can begin it in your actual AWS environment. Many different methods can be used to deploy a CloudFormation template. The strategy you take will be influenced by how you developed your template. Enroll in our AWS Online Training today! Updating a CloudFormation Stack There are two primary methods for changing a stack that has been deployed using a CloudFormation template. One option is to edit the related template, then deploy the revised template immediately using one of the deployment techniques indicated above. AWS refers to this as a straight update. It is the quickest but also the most direct method of updating your deployment. It does not allow you to see the impact of your desired modifications before implementing them. The other method, This gives you more control and lets you see changes before they go into action, involves creating a change set and using it to make the edits. In the CloudFormation console, go to Stacks and then Stack actions to build a changeset. The console will then direct you through the process of changing your template, reviewing the changes, and applying them after you’ve selected the template to change Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes How to create Cloud Formation template? Creating an AWS Cloud Formation template is a straightforward process that involves defining the AWS resources and properties you want to provision. Here’s a simple guide: 1. Open a Text Editor: Use any text editors of your will. You can also go ahead with old-age text-editors such as Notepad, VSCode, or any other code editor at which you feel more confident. 2. Start with Template Format: Begin your template by specifying the format version at the top. 3 . Define Resources: Set out an AWS resource for the Creation. 4.Add Resource Properties: Specify the properties for each resource. 5. Handle Dependencies: If your resources have dependencies, set them using the “DependsOn” attribute. 6. Output Section (Optional) : If you want to retrieve information after the stack creation, use the “Outputs” section. For instance, outputting the Public DNS of an EC2 instance: 7. Save the Template: Save your template with a .yaml or .json extension. 8. Validate Template (Optional): Before deploying, you can use the AWS Management Console or AWS CLI to validate your template for syntax errors. 9. Deploy the Template: The CloudFormation end-user can exceptionally use either the AWS Management Console or the AWS CLI/SDK for the deployment of templates. Specify the path to your saved template file. 10. Monitor the Stack: Keep an eye on the AWS Management Console’s Cloud Formation section to monitor the status of your stack creation. Advanced Cloud Formation Undoubtedly, CloudFormation is such as amazing service offered by Amazon Web services. It lets the end-user use the templates to handle AWS resources. These templates are blueprints that define your resources (e.g., servers, databases, and networks) and how they should be configured. When we say, “advanced cloud formation,” we’re talking about taking things to the next level. In short, Advanced CloudFormation is about moving beyond the basics of resource creation and diving into more sophisticated strategies for building, managing, and customizing AWS environments using CloudFormation templates. What are the AWS Cloud Formation Hooks? AWS CloudFormation does not have a specific feature known as “hooks.” However, AWS CloudFormation provides features and capabilities that allow you to add custom logic or actions at different points in the stack lifecycle. These are often called “hooks” in a more general sense. Here’s an explanation in simple terms: Custom Resources: One way to add custom logic to your Cloud Formation stacks is by using custom resources. These are AWS Lambda functions that you define in your template. These functions can perform actions or configurations that go beyond what Cloud Formation can do natively. These Lambda functions are custom hooks triggered during the stack creation or update. For example, suppose you need to perform a specific task or configure a resource in a way that CloudFormation doesn’t handle out of the box. In that case, you can write a Lambda function and integrate it into your CloudFormation template. What are the benefits of Using Cloud Formation Hooks? The benefits of using mechanisms like custom resources and stack policies are that they allow you to introduce custom logic into the cloud formation process. Some critical benefits of using CloudFormation Hooks are shared below: Customization: Using custom resources allows you to customize your AWS CloudFormation stacks beyond what is possible with standard templates. 2. Extensibility: Custom resources and stack policies provide extensibility to the Cloud Formation framework. 3. Flexibility: These mechanisms offer flexibility in managing and controlling the stack creation and update processes. 4. Automation: Integration with Lambda functions enables the automation of tasks not natively supported by CloudFormation. 5. Control over Updates: Stack policies allow you to control the update behavior of your CloudFormation stacks. 6. Consistency: Using custom resources facilitates the creation of reusable and consistent components. Cloud Formation Access Control CloudFormation Access Control involves managing who has permission to create, update, or delete CloudFormation stacks and resources within an Amazon Web Services (AWS) environment. Access control limits the rights of end users to those who are permitted to alter the infrastructure and resources. Let’s break down the critical aspects in simple terms: IAM Roles: In AWS, Identity and Access Management (IAM) allows you to control access to Cloud Formation resources. IAM roles define what actions a user or service can perform. Permissions: Permissions within IAM roles determine the level of access. You can grant permissions for specific Cloud Formation actions, like building or maintaining stacks. Principle of Least Privilege: Under this principle, only the most minor privilege level is provided to the end-user to execute specific work. Stack Policies: Stack policies control what updates are allowed or denied during a stack update. This is an additional layer of control. Cross-Account Access: You should allow entities from different AWS accounts to manage Cloud Formation stacks. IAM roles facilitate this cross-account access. Audit Trails: Cloud Formation access is often logged, providing an audit trail. This helps in tracking who did what and when. AWS Cloud Formation-FAQs What is AWS Cloud Formation? AWS Cloud Formation is one of the greatest services provided by IT Giant Amazon. It helps you model and set up Amazon Web Services (AWS) resources and lets you invest minimal time to handle resources. It also supports concentrating on other critical applications running on AWS. 2. How does CloudFormation work? CloudFormation uses templates which are available in two formats like: JSON or YAML format. It supports explaining the architecture and resources that are essential for the application. It then provisions and configures those resources in an automated and secure manner. 3. What are Cloud Formation templates? CloudFormation templates are text files that define the AWS resources and properties needed for your application. These templates serve as a blueprint for creating and managing your infrastructure. 4. What types of resources can I manage with CloudFormation? Cloud Formation supports AWS services such as: a. EC2 instances, b. S3 buckets, c. RDS databases. You can manage almost any AWS resource using Cloud Formation. 5. How do I create a stack in Cloud Formation? To create a stack, you provide a CloudFormation template and specify parameters, if any. CloudFormation then provisions the necessary resources as defined in the template. 6. Can I update existing stacks? Yes, CloudFormation allows you to update stacks to incorporate changes to your infrastructure. You can modify the template or change parameters and then update the stack accordingly. 7. What is a change set in Cloud Formation? A change set summarizes the changes CloudFormation will make to your stack before applying those changes. It helps you preview and understand the impact of modifications. 8. How do I delete a stack in Cloud Formation? The Cloud Formation end-user gets able to delete a stack via AWS Management Console, AWS CLI, or SDKs. Deleting a stack removes all the resources provisioned by that stack. 9. Can I use Cloud Formation with resources created outside of Cloud Formation? You can import existing resources into CloudFormation stacks, allowing you to manage existing and new resources through a unified template. 10. Is Cloud Formation available globally? AWS CloudFormation is a global service allowing you to create and manage stacks in any AWS region worldwide. 11. Can I use Cloud Formation for multi-tier applications? Yes, CloudFormation is designed to create and manage multi-tier applications. You can define dependencies between resources, ensuring that they are provisioned in the correct order. 12. What is the AWS Cloud Formation Registry? The AWS CloudFormation Registry is a collection of pre-built templates, known as AWS Resource Types, that you can use to create and manage AWS resources quickly and easily. It automates the resource configuration and deployment approach. 13. How does Cloud Formation handle rollbacks in case of failures? CloudFormation has built-in rollback capabilities. In case the stack fails, then, in order to prevent unreliable resources, CloudFormation immediately comes back to the state of deployment that was previously attained. 14. Can I integrate Cloud Formation with other AWS services? Yes, CloudFormation can be consolidated with other AWS products. For example, you can use AWS CloudFormation Stack Sets to extend your infrastructure across multiple accounts and regions. 15. Is there a cost associated with using AWS Cloud Formation? While there is no additional charge for using Cloud Formation itself, you will be billed for the AWS resources it provides. It is essential for you to examine the AWS cost page for further information about resource-specific charges. Conclusion Your team will lose time manually configuring and installing AWS resources. It also raises the possibility of configuration oversights and inconsistencies, which can result in management issues and security vulnerabilities. Furthermore, it makes it more difficult to swiftly update or scale resources. Your team may speed up the AWS deployment process by using an IaC tool like CloudFormation . Your resource configurations can be set once and deploy them as many times as necessary. You may also use change sets to update resources quickly and predictably, and CloudFormation templates can help you keep track of how you arrange your resources and how they’ve changed over time. To learn from AWS Experts do check 3RI Technologies AWS Courses. Prev Previous What is Artificial Intelligence and Its Applications? Next Understanding Java Runtime Environment (JRE) and Its Core Components Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/what-is-aws-cloudformations.jpg",
+        "alt": "what is aws cloudformations",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-An-AWS-Certified-Professional.png",
+        "alt": "Become An AWS Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Cloud+Computing&cd%5Bpage_title%5D=What+is+AWS+CloudFormation%3F&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=81432&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-aws-cloudformation%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2023/07/24/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-online-training/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-a-java-runtime-environment/",
+      "https://www.3ritechnologies.com/what-is-artificial-intelligence-and-its-applications/",
+      "https://www.3ritechnologies.com/what-is-aws-cloudformation/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/what-is-aws-cloudformation/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "What is AWS CloudFormation? A Simplified Guide to Cloud Infrastructure Automation",
+    "og_description": "Learn what AWS CloudFormation is, how cloud formation in AWS simplifies infrastructure management, and why it's essential for modern cloud professionals. Enroll in our AWS Course in Pune for hands-on expertise.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/what-is-aws-cloudformation/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cloudformation/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "What is AWS CloudFormation?",
+            "datePublished": "2023-07-24T10:15:58+00:00",
+            "dateModified": "2025-06-02T06:49:34+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cloudformation/"
+            },
+            "wordCount": 3296,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cloudformation/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/what-is-aws-cloudformations.jpg",
+            "keywords": [
+              "AWS Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Cloud Computing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-aws-cloudformation/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/what-is-aws-cloudformation/",
+            "url": "https://www.3ritechnologies.com/what-is-aws-cloudformation/",
+            "name": "What is AWS CloudFormation? A Simplified Guide to Cloud Infrastructure Automation",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cloudformation/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cloudformation/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/what-is-aws-cloudformations.jpg",
+            "datePublished": "2023-07-24T10:15:58+00:00",
+            "dateModified": "2025-06-02T06:49:34+00:00",
+            "description": "Learn what AWS CloudFormation is, how cloud formation in AWS simplifies infrastructure management, and why it's essential for modern cloud professionals. Enroll in our AWS Course in Pune for hands-on expertise.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cloudformation/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-aws-cloudformation/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/what-is-aws-cloudformation/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/what-is-aws-cloudformations.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/what-is-aws-cloudformations.jpg",
+            "width": 1280,
+            "height": 720,
+            "caption": "what is aws cloudformations"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/what-is-aws-cloudformation/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "What is AWS CloudFormation?"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

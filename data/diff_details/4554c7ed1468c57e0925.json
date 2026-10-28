@@ -1,0 +1,350 @@
+{
+  "url": "https://www.3ritechnologies.com/what-is-predictive-analytics/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "What Is Predictive Analytics? A Simple Guide to How It Works",
+    "meta_description": "Predictive analytics is the key to forecasting future trends. Learn what it is, see real-world examples, and discover the technology behind making smarter, data-driven decisions.",
+    "h1": [
+      "What is Predictive Analytics."
+    ],
+    "content": "Skip to content Home > What is Predictive Analytics. What is Predictive Analytics. Table of Contents PriyankaS3ri July 13, 2024 12:05 pm Predictive analytics definition Predictive analytics is a data analysis technique that uses historical data, statistical methods, and machine learning models to forecast future outcomes. It helps businesses identify patterns, predict trends, and make informed decisions. Commonly used in industries like finance, healthcare, and marketing, it improves efficiency, reduces risks, and supports strategic planning. Ever wish you could predict the future? In business, that’s exactly what is predictive analytics for. At its core, predictive analytics is a powerful set of tools that uses data to forecast what’s next. From predictive risk analytics that flags potential issues to the predictive analytics technologies that power personalized marketing, its impact is huge. Mastering this predictive analytics technology is a core skill for modern professionals. Aspiring experts often begin with foundational programs, like industry-leading Data Analytics Courses In Pune , to turn theory into career-defining skills. Predictive analytics is used by businesses to optimize their processes and determine whether new goods are worthwhile investments. Predictive analytics is a tool used by investors to allocate their funds. Predictive analytics is a tool used by online merchants to improve user-generated buy recommendations and boost revenue. Predictive analysis can be done manually or with the use of machine learning methods. Predictions about the future, in any case, are based on historical data. Regression analysis, which may discover the link between two variables or three or more variables, works as a tool used in predictive analytics. In the case that one of the variables changes, the outcome can be predicted using a mathematical equation that shows the links between the variables. Become a PRO Data Analyst with Data Analyst Course in Pune How Does Predictive Analytics Actually Work Predictive analytics uses historical patterns to estimate the probability that specific trends will recur. To arrive at these conclusions, it uses a range of methods, such as data mining, machine learning, artificial intelligence (AI), statistics, and modeling. For example, data mining is the practice of using analysis to find patterns in huge data sets. In text analysis, large text chunks are employed for the same objective. Numerous fields, such as video game production, customer service, audio-to-text conversion, and portfolio management, weather forecasting, employ predictive models. Descriptive statistical models of the current data are used in all of these applications to forecast future data. Businesses may utilize predictive analytics to estimate sales, manage inventories, and create marketing strategies. It also aids in a company’s survival, particularly in fiercely competitive sectors like retail and healthcare. Investors and financial advisors utilize this technology to reduce overall risk and manage investment portfolios more effectively. Uses of Predictive Analytics Predictive analytics is a tool for decision-making in several industries. Here are a few illustrations. Human Resources Predictive analytics is used by human resources to enhance a number of functions, including predicting future skill needs for the workforce and pinpointing the causes of high employee turnover. In order to forecast a worker’s career advancement and support professional growth, predictive analytics can also evaluate the worker’s performance, abilities, and preferences. Manufacturing In the industrial industry, forecasting is crucial for maximizing resource utilization throughout a supply chain. The shop floor and inventory management are two essential supply chain spokes that depend on precise forecasts to operate. Using predictive modeling, the quality of the data used for these forecasts is often enhanced and purified. Modeling ensures that the system can take in more data, including from customer-facing operations, in order to produce a more accurate forecast. Underwriting Predictive analytics and data are crucial to underwriting. Insurance firms look over new policy applications to assess the risk of having to pay for a claim in the future. The approach is predicated on both historical occurrences that have led to payouts and the present risk pool of comparable policyholders. Predictive models that match qualities to past policyholder and claim data are often used by actuaries. Credit Predictive analytics is heavily utilized in credit rating. When a business or individual applies for credit, the risk that the applicant won’t be able to repay any approved new credit is estimated using information from their credit history as well as the credit records of borrowers with comparable characteristics. SkyRocket your career with our course Data Engineering Training with Placement Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Marketing When creating a new campaign, marketers consider how customers have responded to the economy as a whole. These changes in the population can be used by them to assess if the assortment of products they currently offer will persuade customers to buy. Stock Traders A range of historical measures are examined by active traders when making decisions about which stocks or other assets to purchase. Based on historical data, bands, moving averages, and breakpoints are used to predict future price changes. Supply Chain Pricing plans and inventory levels are managed with the help of supply chain analytics. Supply chain performance, demand, and possible disruptions are predicted using statistical models and historical data in supply chain predictive analytics. This helps businesses make smarter decisions, optimize their use of resources and processes, and proactively identify and mitigate risks. Businesses are able to predict what supplies should be available when and whether shortages may occur. Fraud Detection Predictive analytics is used by financial services to look for unusual trends and patterns in transaction data. The identified anomalies can next be investigated for possible indications of fraud. This can be done either monitoring activity across bank accounts or by looking into the timing of certain transactions. Predictive Analytics vs. Machine Learning Occasionally, individuals mistake machine learning with predictive analytics. Predictive analytics helps us understand possible future events by analyzing past data. Predictive analytics is essentially a group of statistical methods (such as predictive modeling, data mining, and machine learning) that estimate or forecast future events using historical and present information. Consequently, machine learning is one method used in predictive analysis. The definition of machine learning, a subfield of computer science, is “the programming of a digital computer to operate in a way which, if accomplished by humans or animals, would be regarded as involving the process of learning.” That description was given in 1959 by Arthur Samuel, a pioneer in computer games and artificial intelligence. Looking forward to becoming an expert in Data Science? Then get certified with Data Science And Machine Learning Course. Types of Predictive Analytical Neural networks, decision trees, and regression are the three techniques in predictive analytics that are most widely employed. Decision Trees Making a decision tree could be helpful if you want to know what influences someone’s decisions. This kind of model divides data into several categories according to particular factors, such price or market capitalization. It appears to be a tree with several branches and leaves, as the name suggests. Branches show the options, and individual leaves stand for specific decisions. Decision trees are simple to comprehend and assess. They come in handy when you have to make a snap decision. This article explains how Decision Tree in Data science works with real examples. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send Regression In statistical analysis, this model is the most frequently utilized. Utilize the linear relationship between the inputs to find patterns in large amounts of data. This method requires the determination of a formula that shows the relationship between each input in the dataset. For example, regression analysis can be used to ascertain the relationship between price and other significant variables and a stock’s performance. Neural Networks Neural networks, which simulate how the human brain works, have made predictive analytics possible. Artificial intelligence and pattern recognition are used to enable this model to manage complex data relationships. If you have one or more obstacles to overcome, use this strategy. For instance, you might not have the formula required to ascertain the relationship across the inputs and outputs in your dataset, be obliged to generate forecasts as opposed to explanations, or just have too much data on hand. Cluster Models Clustering data with similar properties is one technique to combine them. Sales on Amazon.com, for example, may be categorized based on the quantity purchased or the average age of the customer accounts. By grouping data according to common traits, analysts can potentially find additional elements that characterize future action. Time Series Modeling The relationship between what occurs when and how data is related to time in different scenarios is necessary for some predictive analytics. These models do periodic evaluations of the inputs, such as weekly, monthly, or daily iterations. Analytical models can then search for trends, seasonality, or behavioral inclinations based on timing. Two useful applications of this type of predictive model include predicting when high customer service periods are necessary or when specific sales can be predicted to rise. Check out the Data Science online training and get certified today. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send How Businesses Can Use Predictive Analytics As was previously said, there are several uses for predictive analysis.Businesses can utilize models to advance their objectives and improve operations. Businesses commonly employ predictive models to enhance customer outreach and connection. Executives and business owners might utilize this kind of statistical analysis to comprehend customer behavior. For example, a business owner can utilize predictive algorithms to target and identify loyal clients who might otherwise go to a rival. Marketing and advertising heavily rely on predictive analytics. Businesses can use models to determine the kind of customers who are most likely to respond well to sales and marketing campaigns. By concentrating on customers who would react well, business managers can save money instead of running random advertisements. 5 Examples of Predictive Analytics in Action 1. Finance: Projecting Future Cash Flow Financial records must be kept on a regular basis by all businesses, and predictive analytics can be very helpful in predicting the future health of your company. When making decisions, you can forecast sales, profits, and expenses using historical data from prior financial statements and industry statistics. 2. Entertainment & Hospitality: Determining Staffing Needs Numerous factors impact customer inflow and outflow in the entertainment and hospitality sectors, which in turn impacts how many staff members a hotel or venue needs on hand. Understaffing may lead to overworked staff, expensive errors, and a poor customer experience in addition to the financial expenses of overstaffing. A group created a multivariate regression model that took into account a variety of variables in order to determine the number of hotel check-ins on a certain day. Thanks to this strategy, Caesars was able to staff its hotels and casinos as efficiently as possible without going overboard. 3. Marketing: Behavioral Targeting Consumer data is easily accessible in marketing and is used to direct the design of advertising, content, and strategies with the aim of successfully reaching potential customers where they are. Predictive analytics is the process of forecasting future events based on past behavioral data. Marketing campaigns can be planned based on the sales trends predicted by predictive analytics at different times of the year. Additionally, you may forecast a lead’s probability of progressing from awareness to purchase by using past behavioral data. To find out, for example, that a lead’s likelihood of eventually becoming a customer is predicted—with a statistically significant degree of certainty—by the quantity of content offerings they interact with, you may utilize a single linear regression model. You may plan customized adverts for various phases of the customer lifecycle using this data. Interested to begin a career in Data Analytics? Enroll now for Data Analytics Course in Pune . Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send 4. Manufacturing: Preventing Malfunction While the previously described instances utilize predictive analytics to initiate suitable measures in response to foreseen circumstances, predictive analytics can also be employed to prevent adverse or hazardous occurrences. In the manufacturing industry, for example, algorithms can be trained with past data to precisely forecast when a piece of machinery is going to break down. An employee can halt the machine and potentially save the company thousands, if not millions, of dollars in repair expenses and damaged merchandise when the algorithm detects an impending problem and sets out an alert. Instead of predicting problem scenarios months or years in advance, our analysis does so in real time. In order to maximize efficiency and prevent future problems, some algorithms even suggest modifications and solutions, which can save time, money, and effort. This is an illustration of prescriptive analytics; to solve a problem, analytics are typically applied in conjunction with one or more other types. 5. Health Care: Early Allergy Reaction Identification The AbbieSense sensor is able to identify early physiological indicators of anaphylaxis as indicators of a subsequent reaction, and it does so much more quickly than a human. An algorithmic response is triggered when a reaction is expected to occur. When epinephrine is required, the algorithm can automatically inject it, forecast the severity of the reaction, and notify the person and any caretakers. Potential life-saving benefits could arise from the technology’s quicker reaction prediction than manual detection. Models are used by corporate executives, investors, and financial experts to lower risk. For example, using models, an advisor or investor can assist in creating an investment portfolio with the right amount of risk, taking into account variables like age, ambitions, and family responsibilities. Businesses utilize them to cut expenses. They are able to assess a product’s chances of success or failure prior to its development. Alternatively, they could allocate funds for enhancing production efficiency prior to starting the manufacturing process. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send Benefits of Predictive Analytics Criticism of Predictive Analytics The use of predictive analytics has come under fire due to purported discrepancies in its outcomes and has in some cases been made illegal by law. Predictive models are most frequently utilized in this context because they generate statistical discrimination towards racial or ethnic groups in areas such as credit score, house lending, employment, or risk of criminal activity. One well-known example of this is redlining, a bank practice that is currently forbidden in home loans. It is not recommended to use the projections, no matter how correct they may be, as they exacerbate the situation of redlined districts and encourage discriminatory financing practices. Using Data to Strategize for the Future Predictive analytics may offer the information you need to make the next step, regardless of your industry. Developing a solid foundation in analytical skills can help you in a variety of situations, such as making financial decisions, creating marketing plans, altering your course of action, or trying to save lives. Take into consideration enrolling in Business Analytics if you want practical experience and a greater grasp of how analytics may benefit your company. Learn more visit 3RI Technologies. Conclusion Predictive analytics aims to forecast future events and then utilize those forecasts to enhance decision-making. Numerous industries, including marketing, retail, healthcare, and finance, use predictive analytics. Predictive analytics uses a variety of techniques, including neural networks, decision trees, and regression analysis. Prev Previous Implementing Stacks in Data Structures Next Shaping Tomorrow: The Top Trends Defining the Future of Predictive Analytics Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/What-Is-Predictive-Analytics.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Data-Science-Certified-Professional.png",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Data+Analytics&cd%5Bpage_title%5D=What+is+Predictive+Analytics.&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=96394&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-predictive-analytics%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2024/07/13/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-engineering-training-with-placement/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/decision-tree-machine-learning-explained/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/trends-shaping-the-future-of-predictive-analytics/",
+      "https://www.3ritechnologies.com/what-is-predictive-analytics/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/what-is-predictive-analytics/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "What Is Predictive Analytics? A Simple Guide to How It Works",
+    "og_description": "Predictive analytics is the key to forecasting future trends. Learn what it is, see real-world examples, and discover the technology behind making smarter, data-driven decisions.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/what-is-predictive-analytics/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/what-is-predictive-analytics/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "What is Predictive Analytics.",
+            "datePublished": "2024-07-13T06:35:42+00:00",
+            "dateModified": "2026-03-24T08:54:12+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-predictive-analytics/"
+            },
+            "wordCount": 2488,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-predictive-analytics/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/What-Is-Predictive-Analytics.jpg",
+            "keywords": [
+              "Data Science Blog Design"
+            ],
+            "articleSection": [
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-predictive-analytics/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/what-is-predictive-analytics/",
+            "url": "https://www.3ritechnologies.com/what-is-predictive-analytics/",
+            "name": "What Is Predictive Analytics? A Simple Guide to How It Works",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-predictive-analytics/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-predictive-analytics/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/What-Is-Predictive-Analytics.jpg",
+            "datePublished": "2024-07-13T06:35:42+00:00",
+            "dateModified": "2026-03-24T08:54:12+00:00",
+            "description": "Predictive analytics is the key to forecasting future trends. Learn what it is, see real-world examples, and discover the technology behind making smarter, data-driven decisions.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/what-is-predictive-analytics/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-predictive-analytics/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/what-is-predictive-analytics/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/What-Is-Predictive-Analytics.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/What-Is-Predictive-Analytics.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/what-is-predictive-analytics/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "What is Predictive Analytics."
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

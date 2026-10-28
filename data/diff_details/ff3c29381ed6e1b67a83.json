@@ -1,0 +1,333 @@
+{
+  "url": "https://www.3ritechnologies.com/what-is-aws-cli/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "What is AWS CLI? Understanding the AWS Command Line Interface | 3ritechnologies",
+    "meta_description": "Learn what is AWS CLI (awscli) and how this powerful command line tool helps manage AWS services. Understand cli aws interactions, including aws s3 cli commands, and master the AWS CLI with 3ritechnologies.",
+    "h1": [
+      "What is AWS CLI? A Comprehensive Guide to the AWS Command Line Interface",
+      "Key Benefits of Using the AWS CLI (awscli) for Cloud Management"
+    ],
+    "content": "Skip to content Home > What is AWS CLI? A Comprehensive Guide to the AWS Command Line Interface What is AWS CLI? A Comprehensive Guide to the AWS Command Line Interface Amazon Web Services (AWS) dominates the cloud computing industry and is often regarded as a technological leader. It helps companies with various tasks, like making games, handling data, storing it, archiving it, developing it, and many more. But AWS is more than just the browser panel that looks nice. You should check out AWS CLI, Amazon's Command Line Interface. AWS Training and Certification is a great way to acquaint yourself with Amazon Web Services. Table of Contents PriyankaS3ri July 14, 2023 4:41 pm Amazon Web Services (AWS) dominates the cloud computing industry and is often regarded as a technological leader. It helps companies with various tasks, like making games, handling data, storing it, archiving it, developing it, and many more. But AWS is more than just the browser panel that looks nice. You should check out AWS CLI, Amazon’s Command Line Interface. AWS Training and Certification is a great way to acquaint yourself with Amazon Web Services. In this blog, we’ll talk about AWS CLI tools, AWS command line , and other related terms. Understanding what is AWS CLI is essential for anyone working extensively with Amazon Web Services. The AWS Command Line Interface (AWS CLI), often referred to as awscli, is a unified tool that provides a powerful command line interface for interacting with various AWS services. Whether you’re looking to automate tasks, manage resources like S3 buckets using aws s3 cli commands, or simply prefer the direct control offered by cli aws, grasping what is cli in this context is key. This article will delve into what is awscli, its capabilities, and how it simplifies cloud management. For those looking to deepen their cloud expertise further, our AWS Online Certification Training offers comprehensive learning paths to master tools like the AWS CLI and beyond. Key Benefits of Using the AWS CLI (awscli) for Cloud Management You may control and monitor your AWS resources from a single terminal window on your computer using the AWS Command Line Interface (AWS CLI). The AWS Command Line Interface (AWS CLI) is an alternative to the AWS Management Console and APIs for controlling most AWS features. AWS has enabled command-line access to its primary services from within a local terminal session, making it accessible to Linux, MacOS, and Windows users.Therefore, with a single installation and little configuration, the terminal programme may be used to gain access to all of the capabilities of the AWS Management Console. In other words: Linux Shells – The command shell programs bash, tsch, and zsh can execute commands in Linux, macOS, and Unix operating systems. Windows Command Line – PowerShell and the command prompt are viable options for executing commands in Windows. Remotely – Amazon EC2 instances can be managed using a remote terminal, like PuTTY or SSH. You may even automate administrative tasks for all your AWS resources with the help of AWS Systems Manager. In addition, it provides direct access to AWS services’ open APIs. AWS CLI commands identical to simple API commands can be customized for several services. What is the use of AWS CLI? In order to access AWS services, such Amazon S3, you must enter your login information. The service can then check to see if you are authorized to use the resources it owns. You need to enter your password in order to access the console. To utilize the CLI or API, you must generate access keys for your AWS account. The AWS CLI is a highly useful tool when configuring AWS cloud services, especially those that need multiple phases. With CLI, tedious tasks can be automated. By automating procedures, developers can save time and stay away from console logins. You will not have to resubmit your AWS credentials once you have configured them, in contrast to the console software, which requests your credentials each time you use your AWS cloud services. Using Amazon EC2 with AWS CLI Once the CLI is installed, all it takes to access S3 resources with the AWS S3 CLI is to execute a short command. Every bucket that is available in your AWS account was listed. Let’s begin by utilizing the AWSCLI S3 to create a bucket. The command to form a bucket is: aws s3 mb s3://bucket-name It’s time to put the bucket together. Let’s upload an item to the bucket using the CLI. To do it, use the following command: aws s3 cp filename s3://bucket-name • A file has been successfully uploaded to the bucket you created. Let’s remove the generated bucket before calling this hands-on session to a conclusion. The instruction to remove the bucket is as follows: aws s3 rb s3://bucketname Please be advised that this command will not work if the bucket contains any objects. Before removing the bucket, you must remove any files that may be inside of it. Run the subsequent command to eliminate the file. aws s3 rm s3://bucketname/path/filename Creating a Key Pair To enable your end users to start the product created with the tutorial’s sample template, you must generate an Amazon EC2 key pair. A key pair consists of a public key employed for data encryption and a private key needed for data decryption. After executing the subcommand create-key-pair, supply the required arguments. Let’s use the following command to create a Keypair straight from the CLI: Let us utilize the subsequent command to generate a Keypair directly from the CLI. create-key-pair –key-name blogKey –query ‘KeyMaterial’ –output text > blogKey.pem A successful key pair generation has occurred.There are now two ways to confirm the production of keys. Entering into your account and verifying straight in the console is one method. The initial verification method is completed. Let’s now verify it straight from the CLI. Use the following command to achieve this: aws ec2 describe-key-pairs –key-name blogKey You have successfully built a key pair. This time, let’s use it to launch an instance directly from the CLI. To do this, use the following command: aws ec2 run-instances –image-id ami-07ebfd5b3428b6f4d –count 1 –instance-type t2.micro –key-name blogKey –security-group-ids sg-0152f4b28b4b0e140 –subnet-id subnet-544d1933 You have successfully used the CLI to create an instance with just one command. This illustrates the value of the CLI. In the event that you decide not to use the CLI, there are a few procedures you need to perform to start an instance. Alternatively, you can use the AWS SDKs to integrate the CLI commands in order to start instances. Thus, you have created a key pair and launched an instance using the AWS CLI. Now let’s practice using some CLI commands to access the S3 service. Using Amazon S3 with AWS CLI With the AWS Command Line Interface (AWS CLI), you can use Amazon Simple Storage Service (Amazon S3) features. AWS CLI provides access to Amazon S3 through two levels of commands: S3: High-level commands that simplify routine tasks like adding, changing, and deleting items and buckets. You may use the AWS S3 CLI to access S3 resources by just executing a simple command that you can use as soon as the CLI is installed. A list of every bucket that is accessible in your AWS account was present. Let’s start by creating a bucket using the AWSCLI S3. • To create a bucket, use this command: aws s3 mb s3://bucket-name Now that the bucket is ready. Let’s use the CLI to upload something to the bucket. To get started, enter the following command: aws s3 cp filename s3://bucket-name • A file has been uploaded to the recently created bucket successfully. Let’s remove the generated bucket before calling this hands-on session to a conclusion. The instruction to remove the bucket is as follows: aws s3 rb s3://bucketname • Please be aware that if there are any objects inside the bucket, this command will not function. If there is a file within the bucket, you must remove the file before removing the bucket. To delete the file, run the following command: aws s3 rm s3://bucketname/path/filename Pros of AWS CLI One of the most significant features of AWS CLI is that it can save you a great deal of time. You can save time and money by employing tools like shell scripting and avoiding clunky graphical user interfaces (GUIs). 1. Simpler to Install It took the user a few steps and the setting of a few environment variables to install earlier toolkits like the old AWS EC2 API toolkit.Many things could go wrong if you did something wrong. AWS CLI installations’ speed, simplicity, and reliability are among their many advantages. 2. Fully compatible with all AWS services The EC2 service previously required the use of a different CLI tool. The service functioned admirably, but end customers struggled with other AWS offerings like the Relational Database Service (RDS). Conversely, the AWS Command Line Interface (CLI) is a straightforward interface for controlling all AWS services. 3. Saves Time GUIs are ideal for users who are just beginning to learn a system. Once you’re up and running, the tools that made it simple to use become a hindrance. After a certain level of expertise, most users find that AWS CLI is quicker and easier to use. 4. Scripting The most significant advantage is that all Amazon web services can be controlled automatically via scripts. When certain tasks are automated, developers must no longer use the AWS Management Console constantly. Complete cloud infrastructure automation is a breeze with the help of shell scripts. 5. Very Basic To get started with AWS CLI, no complicated steps are required. It’s simple: grab the AWS Command Line Interface (CLI), install it, and configure it. Interested to begin a career in AWS? Enroll now for AWS Training in Pune . Types of AWS CLI Let’s talk about the various AWS CLI versions before we start installing. There are two different kinds of AWS CLI: AWS CLI Version 1: This is the initial release of the AWS Command Line Interface (CLI) utility, which AWS continues to support. Version 2 of the AWS CLI has many new features that can’t be added to version 1. You must install AWS CLI version 2 to use these tools. AWS CLI Version 2: This is the most recent version of the Amazon Web Services Command Line Interface. Version 2 may be installed in a single packet only. Let’s look at everything new in CLI version 2. You can import passwords for AWS from CSV files. Autocomplete server-side file names Auto-prompt AWS CLI settings to make things easier for users. You can ask for the next entry with the –cli-auto-prompt option. Look at this picture as an example: There are now wizards for setting up Amazon Dynamodb and lambda tasks. Enroll in our AWS Online Training today! Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send How Does AWS CLI Operates? Computing resources, content distribution, database storage, and other infrastructure services are all available to developers through AWS, a safe and reliable cloud services platform. Proponents highlight its rapidity, adaptability, competitive price, high-quality support staff, and the variety of services it provides. The AWS CLI is the cherry on top because it centralizes the management of all those services in a single, straightforward interface. It skips the simple but time-consuming step of using the system’s GUI to enter data and perform other actions. Installation instructions for the AWS Command Line Interface The tool is available for download from Amazon’s AWS CLI resource page. It’s available for instant download on-screen for any OS. In addition, there is a link to the project on GitHub, a user forum, and a guide for newcomers. Amazon provides the following set of tools for the setup process: Windows 64-bit download Windows 32-bit download Chocolately: choco awscli Mac and Linux download (requires Python 2.6.5 or greater) Pip install link Getting started guide CLI Reference from Amazon GitHub project User forum Before installing the AWS Command Line Interface (CLI), users need an AWS account, an access key ID, and a secret access key. If you have a pip/Python system, you can just run the following: $ pip install –upgrade – user awscli Python/pip/CLI Linux and AWS CLI Windows, macOS, and Virtual Environment installation guides may be found in Amazon’s set-up documentation. The application is available for optional installation on Linux, Unix, and macOS using the Bundled Installer. The only steps necessary for installation are downloading the archive, uncompressing it, running the (short) installation script, and checking your work. To learn from industry experts and become a PRO AWS Practitioner check Amazon Web Services Course Examples The following examples demonstrate the power of the interface by demonstrating its application to various duties. Removal of An S3 Bucket Amazon’s Simple Storage Device is the Amazon S3 service. It offers fundamental online data storage with a pay-per-use model. Buckets are used to store the data. Deleting a bucket containing multiple files and folders can take time when using the default GUI. You can complete this task with only one command and a few seconds using the AWS CLI: $ aws s3 rb s3://bucket-name –force Establishing EC2 Instances Amazon Elastic Compute Cloud, or EC2, is a web service from Amazon that makes it easy for users to use cloud computing on a web scale.The example below demonstrates how simple it is to use the command line tool to launch several EC2 servers. $ aws ec2 start-instances –instance-ids i-4j3423ie i-32u89uf2 List All Terminated EC2 Instances and Specified Why Each Terminated When managing multiple EC2 instances, the default graphical user interface (GUI) can be cumbersome when displaying a catalog of instances that have stopped and their causes. Here’s a simple example of how to use AWS CLI (and jq) to get the job done: aws ec2 describe-instances –filters Name=instance-state-name,Values=stopped –region eu-west-1 –out Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Structure of Commands and CLI Options Before we use some AWS CLI tasks, let’s first look at how the CLI organizes commands. Sample of CLI syntax: aws <command> <subcommand> [options and parameters] Let’s understand this syntax. AWS – The command at the heart of all AWS CLI commands invoke the CLI Command> – This Amazon Web Services (AWS) service will be accessible in the future. Subcommand> – Defines the operation to be carried out. [Options and parameters] – This is where you may set the parameters for your CLI or service. Several CLI Choices: –region: Tells AWS where the command’s request should be sent. –output: tells a command how its result should look. You can get the results in JSON, YAML, text, or a table. –CLI-read-timeout: Sets the number of seconds that a socket can be read for the most. If it’s 0, there’s no limit on time. Update your skills with DevOps With AWS Training Best Practices The recommended practices for using the interface, which serves as a manager for all of Amazon’s web services, are similar to those for using AWS in general. Amazon has accumulated enough high-quality documentation of its best practices to fill a mass-market paperback. Architecture, web application hosting, security, electronic mail, identity and access management, Elastic Compute Cloud, and Trusted Advisor best practices are all included. Michael Sheehy, an experienced programmer, compiled this list of recommendations. 1. Keep your credentials secure Great power entails enormous responsibility. For white hat users and hackers, controlling Amazon Web Services is simpler by the command line interface. Never communicate with root accounts regularly. For your AWS root account, avoid generating a root access key. 2. Ensure application security Only the application layer should have access to your database layer. Only allow crucial connections to the outside world to occur; block all other internet activity. 3. Back up often and early Back up your instance regularly with Amazon EBS snapshots. Before an emergency occurs, test your recovery resources. 4. Utilize the Reliable Advisor Amazon refers to its Trusted Advisor as “your customized cloud expert!” It looks at your AWS setup and helps ensure you follow best practices. The goal of the Trusted Advisor is to cut costs, improve security, and improve the reliability and efficiency of systems. For example, you can check service limits by using the AWS command line tool to get to Trusted Advisor. 5. Comprehend the Model of Shared Responsibility Users control their own data, working system, and security, among other things. Amazon is responsible for infrastructure and services. Whether you use the standard graphical user interface (GUI) or the easier and faster command line interface (CLI), this is true. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send The Bottom Line You should now be convinced that the AWS Command Line Interface (CLI) tool offers a great deal of practicality and ease of use for a developer who frequently uses AWS services. This tool allows you to do various actions, like spinning up EC2 instances, creating DynamoDB tables, pushing files into an S3 bucket, and much more. You now have a better grasp of the AWS CLI due to this blog. To learn from AWS Experts do check 3RI Technologies AWS Courses. Prev Previous Guide to Natural Language Processing: Closing Gap between Machines and Humans Next What is Artificial Intelligence and Its Applications? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/AWS-CLI.png",
+        "alt": "what is AWS CLI",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-An-AWS-Certified-Professional.png",
+        "alt": "Become An AWS Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Cloud+Computing&cd%5Bpage_title%5D=What+is+AWS+CLI%3F+A+Comprehensive+Guide+to+the+AWS+Command+Line+Interface&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=81280&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-aws-cli%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2023/07/14/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-online-training/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-with-aws-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-artificial-intelligence-and-its-applications/",
+      "https://www.3ritechnologies.com/what-is-aws-cli/",
+      "https://www.3ritechnologies.com/what-is-natural-language-processing/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/what-is-aws-cli/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "What is AWS CLI? Understanding the AWS Command Line Interface | 3ritechnologies",
+    "og_description": "Learn what is AWS CLI (awscli) and how this powerful command line tool helps manage AWS services. Understand cli aws interactions, including aws s3 cli commands, and master the AWS CLI with 3ritechnologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/what-is-aws-cli/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cli/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "What is AWS CLI? A Comprehensive Guide to the AWS Command Line Interface",
+            "datePublished": "2023-07-14T11:11:40+00:00",
+            "dateModified": "2025-06-05T05:23:46+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cli/"
+            },
+            "wordCount": 2790,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cli/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/AWS-CLI.png",
+            "keywords": [
+              "AWS Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Cloud Computing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-aws-cli/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/what-is-aws-cli/",
+            "url": "https://www.3ritechnologies.com/what-is-aws-cli/",
+            "name": "What is AWS CLI? Understanding the AWS Command Line Interface | 3ritechnologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cli/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cli/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/AWS-CLI.png",
+            "datePublished": "2023-07-14T11:11:40+00:00",
+            "dateModified": "2025-06-05T05:23:46+00:00",
+            "description": "Learn what is AWS CLI (awscli) and how this powerful command line tool helps manage AWS services. Understand cli aws interactions, including aws s3 cli commands, and master the AWS CLI with 3ritechnologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/what-is-aws-cli/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-aws-cli/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/what-is-aws-cli/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/AWS-CLI.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/AWS-CLI.png",
+            "width": 1000,
+            "height": 667,
+            "caption": "what is AWS CLI"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/what-is-aws-cli/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "What is AWS CLI? A Comprehensive Guide to the AWS Command Line Interface"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

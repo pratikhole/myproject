@@ -1,0 +1,506 @@
+{
+  "url": "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Apache Spark & Scala Training Institute in Pune | Learn from Experts",
+    "meta_description": "3RI Provides best Spark & Scala Training in Pune from industry experts sessions, we also offer Job Assistance to our students. Theoreticalaspects cover",
+    "h1": [
+      "Spark Classes"
+    ],
+    "content": "Home > Courses > Apache Spark & Scala Training Institute in Pune | Learn from Experts Spark Classes Big Data Analytics Courses \"Our Apache Spark & Scala course equips you with in-depth knowledge of big data analytics and the powerful Spark framework. Learn how to efficiently analyze large datasets, process data in real-time, and understand key concepts of data processing. This Spark training focuses on practical hands-on experience, enabling you to become proficient in big data analytics with Scala. Whether you’re new to data analysis or seeking advanced training, this course prepares you for industry-leading certifications, offering you the tools to excel in the growing big data sector. \" ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.1 out of 5 ★ ★ ★ ★ ★ Rated 5 out of 5 Course Duration 6 weeks Live Project 2 Project Certification Guaranteed Training Format Live Online /Self-Paced/Classroom Enroll Now Download Brochure Chat Now Key Features Course Duration : 6 Weeks Real-Time Projects : 2 Project Based Learning EMI Option Available Certification & Job Assistance 24 x 7 Support Syllabus Overview Batch Schedule FAQ's Reviews Enroll Now - Payment Apache Spark & Scala Syllabus The detailed syllabus is designed for freshers as well as working professionals Download Brochure Course Content 1. Introduction to Bigdata Introduction and relevance Uses of Big Data analytics in various industries like Telecom, E-commerce, Finance, and Insurance, etc. Problems with Traditional Large-Scale Systems 2. Hadoop (Big Data) Ecosystem Motivation for Hadoop Different types of projects by Apache Role of projects in the Hadoop Ecosystem Key technology foundations required for Big Data Limitations and Solutions of existing Data Analytics Architecture Comparison of traditional data management systems with Big Data management systems Evaluate key framework requirements for Big Data analytics Hadoop Ecosystem & Hadoop 2.x core components Explain the relevance of real-time data Explain how to use big and real-time data as a Business planning tool 3. Hadoop Cluster Architecture – Configuration Files Hadoop Master-Slave Architecture The Hadoop Distributed File System – data storage Explain different types of cluster setups (Fully distributed/Pseudo etc.) Hadoop Cluster set up – Installation Hadoop 2.x Cluster Architecture A Typical enterprise cluster – Hadoop Cluster Modes 4. Data Analysis using HIVE Introduction to Hive – Hive Use Cases Discuss the Hive data storage principle Explain the File formats and Records formats supported by the Hive environment Perform operations with data in Hive Hive QL: Joining Tables, Dynamic Partitioning, Custom MapReduce Scripts Hive Script, Hive UDF 5. Scala Basics What is Scala? Why Scala for Spark? Scala in other Frameworks Introduction to Scala REPL Basic Scala Operations Variable Types in Scala Control Structures in Scala Foreach loop, Functions and Procedures Collections in Scala- Array Array Buffer, Map, Tuples, Lists, and more Scala Advance 6. Advanced Scala Functional Programming Higher-Order Functions Anonymous Functions Class in Scala Getters and Setters Custom Getters and Setters Properties with only Getters Auxiliary Constructor and Primary Constructor Singletons Extending a Class Overriding Methods Traits as Interfaces and Layered Traits 7. Spark What is Apache Spark? Using the Spark Shell RDDs (Resilient Distributed Datasets) Functional Programming in Spark Working with RDDs in Spark A Closer Look at RDDs Key-Value Pair RDDs MapReduce Other Pair RDD Operations 8. Apache Kafka Need for Kafka What is Kafka? Core Concepts of Kafka Kafka Architecture Where is Kafka Used? Understanding the Components of Kafka Cluster Configuring Kafka Cluster Kafka Producer and Consumer Java API 9. Spark SQL Need for Spark SQL What is Spark SQL? Spark SQL Architecture SQL Context in Spark SQL User Defined Functions Data Frames & Datasets Interoperating with RDDs JSON and Parquet File Formats Loading Data through Different Sources 10. Spark Streaming What is Spark Streaming? Spark Streaming Features Spark Streaming Workflow How Uber Uses Streaming Data Streaming Context & DStreams Transformations on DStreams Using a Kafka Direct Data Source for spark streaming ❖ Project Work: Multiple Real World Use Case Scenarios Apache Spark & Scala Classes in Pune Our Apache Spark and Scala course is designed to help you dive deep into the world of big data analytics. Spark is a powerful, fast-processing engine for big data, and when combined with Scala, it becomes even more potent for data processing. This course will equip you with the skills to harness Spark’s distributed computing capabilities to perform complex analytics efficiently. Whether you are looking to learn Spark with Scala or looking for Spark IT training, this course covers everything from the basics to advanced topics in Spark and big data analytics. You’ll gain hands-on experience in building big data applications, mastering tools that are in high demand by data engineers and analysts. We offer the course at our Spark classes held at our institute, designed to provide real-world exposure, which helps you understand the nuances of big data and Scala programming. Our Spark IT training institute offers a structured learning path, ensuring that every participant receives personalized attention to excel in big data projects and become proficient in Spark development. By the end of the course, you will have the skills needed to work with large-scale datasets and leverage Spark’s features for advanced analytics. We have multiple branches in Pune with our training institutes at Deccan and Pimple Saudagar for the student convenience. Our training centers are advancing equipped with excellent infrastructure and ready to use for students. We keep updating our Hadoop syllabus, which gives our students updated course knowledge. We try to provide Best Hadoop Training in Pune . Hands-On Big Data with Spark & Scala Dive right in, into the informative article below to uncover all the facts, benefits, uses, course information on Spark& Scala exclusively with computer language experts 3RI Technologies. A little About Spark & Scala Spark is a programming language that runs on Hadoop, which initially developed & designed for nonstop and super fast computation. For the effective use of complex processing, the language uses MapReduce, which then extends to an improved MapReduce model. 3RI Technologies is one such institute that provides Spark and Scala Training in Pune with all the latest modules of the language with many outstanding features. Spark and Scala Training in Pune can be beneficial for the students who plan to take the course at 3RI Technologies. Here 3RI Technologies provides Spark and Scala certification in Pune after completing the course. We have an expert team of language professionals at our training institute, which gives you cutting edge knowledge. The course can turn out to be a perfect match for beginners who can then transform into experts by the end of the course. The course at our training institute designed in such a way that it gives you in-depth knowledge of the language. Taking this course will turn you into Spark and Scala language programming experts, which will also include SparkSQL, Machine Learning with MLlib, Spark environment, Graph processing using Graphx, and Stream Processing. This course will add to your vibrant skillsets, increase your work potential for an exhilarating career. Introduction to the Language Spark with Scala The online training of Spark with Scala is a type of computer language course originally designed to deliver the students a head start the detailed introduction of Spark and Scala. The training will provided to the students in several notions of Big Data with spark particulars, theoretical learning of Scala and Spark, Spark and Scala practical programming language, and much more. At 3RI Technologies, the Spark and Scala training course help all its students to absorb the key features of working of Spark and Scala and the way it runs. The course is taken care of by our Spark and Scala expert and professional team. Who Can All Take This Course? The Spark and Scala course developed for Data scientists, Graduates, Big Data Analytics, Analytical professionals, and for those who enjoy smooth programming and project managing on Big Data Analytics. This course can also be taken by software engineers who want to develop some extraordinary skills in the big data world and make that difference in the IT world. If you carry no previous experience in programming but love the programming concept and wish to learn it, you will have to start the journey of learning programming with an introductory course as an initial step. What All is needed to Avail the Course? Prior programming practice/experience is a must. Basic fundamental knowledge of programming is required You need to carry your laptop if required These courses developed along with Windows, but for those who are comfortable with Linux or MacOS are free to use those operating systems too. The software which required during the course period is free of cost and easily available in the market, the expert team will take you through the downloading and installing process. Section 2 How can Spark and Scala Make the Difference? The use of Big Data Analysis is growing very in the IT world today, and the skill highly valued in the IT Ocean. This course will take you through the newest and advanced technology in big data analysis with Apache Spark. Spark and Scala Training is a must is your planning to enhance your skills. You can take the Spark and Scala course from Pune’s best computer language training institute, 3RI Technologies. The Spark and Scala course come with endless features and benefits at 3RI Technologies. The top MNC’s that include eBay, JPL, Amazon, Yahoo, and NASA, all of them, use Spark to rapidly gather significance from vast data collections over a flaw tolerant Hadoop group. The same tricks and techniques will be taught by our experts doing the course period, which will also allow you to use your very own Windows system to practice right at home. You might think this language might be hard, but the fact is the language is much easier than you even think. When using Scala programming language Spark works as the best fit, this course at 3RI Technologies includes a crash course of Scala to give you perfect hands on the language and to speed up instantly. For the ones who have perfect hands-on Python and have a thorough knowledge of Python can avail of the Python version of this class. Master, Learn, and ace the craft of encircling data analysis issues as Spark issues through more than 20 hands-on models, and after that scale them up to keep running on distributed computing services in this course. Become familiar with the ideas of Spark’s Resilient Distributed Datastores Get a brief training in the Scala programming language Create and run Spark employments rapidly utilizing Scala Make an interpretation of complex examination issues into iterative or multi-arrange Spark contents Scale up to bigger informational collections utilizing Amazon’s Elastic MapReduce administration See how Hadoop YARN disseminates Spark crosswise over figuring bunches Work on utilizing other Spark advancements, similar to Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX Placement Opportunities and Assistance after Successfully Completing Spark & Scala Training All the courses at 3RI Technologies, including the Spark and Scala course, include a placement guarantee, and our institute is totally placement oriented. Proper guidance will provided to every individual student in terms of placement. The promise of placement oriented training at 3RI Technologies is what makes it the best training institute in and around Pune. Apart from this, 3RI Technologies is also known for its cost-effective courses as well as our expert language professionals. The location of 3RI Technologies is very wisely chosen, which is in the heart of Pune within the finest localities keeping mind of our student’s convenience. All these features make 3RI Technologies a very unique and one of its kind training institutes. Job Oriented Courses STEP in Cloud Computing STEP in DevOps Mastering Data Science STEP in Python Full Stack STEP in JAVA Full Stack STEP in Software Testing STEP in MEAN Stack Angular STEP in MERN Stack ReactJS STEP in Salesforce STEP in PHP Python Programming Python Programming Web Development in Python Cloud Computing AWS – Amazon Web Services AWS Cloud Practitioner DevOps with AWS DevOps – Dockers And Kubernetes Salesforce Microsoft Azure Data Analytics Data Science Artificial Intelligence Hadoop 2.X BigData Analytics Apache Spark & Scala Hadoop Admin Business Intelligence Tableau – Data Visualization Informatica Development – datawarehosuing Qlikview QlikSense Software Testing Selenium with Java Selenium With Python Tosca Training API Testing JMeter Testing LoadRunner Testing ETL Testing QTP / UFT RPA - Robotic Process Automation RPA- Ui Path Automation Anywhere Java Technology Core Java Advanced Java Spring Hibernate Spring Framework Web Designing & Development UI Development Angular ReactJS MEAN Stack MERN Stack Web Development in Python Database Technology DBMS: Oracle SQL Oracle : PL/SQL Oracle : DBA I/II RAC with Oracle MS SQL SERVER Development MS SQL SERVER DBA MONGO DB Scripting Languages UNIX Shell Scripting Python Programming Perl scripting .Net Technology Diploma in .Net ASP.NET MVC C# Programming WPF Programming WCF Programming Internet Marketing Digital Marketing SEO Training Classes Mobile App Development Android App Development iOS App Development Soft Skills & Aptitude Soft Skills Training Aptitude Training Basic Programming Languages Fundamentals of Computer C Programming C++ Programming Data Structure Industrial Training Industrial Training Blockchain Blockchain Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Batch Schedule Schedule Your Batch at your convenient time. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 Data Science 27-Oct-26 Mon- Thu 12:30 PM Enroll Now 2 Python 24-Oct-26 Sat - Sun 02:00 PM Enroll Now 3 Data Analytics 24-Oct-26 Sat - Sun 12:15 PM Enroll Now 4 GenAI 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 5 Machine Learning & Deep Learning 28-Oct-26 Mon- Fri 04:00 PM Enroll Now 6 PowerBI 24-Oct-26 Sat - Sun 12:00 PM Enroll Now 7 MySQL 27-Oct-26 Tue - Fri 05:30 PM Enroll Now 8 MySQL 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 9 Soft Skills 25-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 26-Oct-26 Mon - Fri 04:00 PM Enroll Now FAQs Most frequent questions and answers 1.Can I join this course as I don’t have any Programming Background? Yes, you can surely join this course. 2. Will there be any live project covered in this course? We strongly believe in hands on practical training and our trainers make sure that is imparted to our students as well. Saying that, yes we will cover a live project which needs to be completed during the course 3. Will I get any certificate after this course? After the course completion, an exam will be conducted to judge your knowledge along with the live project work completion check and you will be awarded a certificate from 3RI Technologies. 4. Will I get any placement assistance after the course completion? Yes, we provide placement assistance to our students. We have a dedicated team for Placement and tie ups with 300+ MNC’s and SME companies. I'm Interested in This Program Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Our Clients Students Reviews It's really an incredible institute. I participated in these classes for the Python course. The environment created by the class is very motivating. They feel like in a world of technology. The whole staff is super helpful. Krishna Mam thank you for this wonderful experience. The best part is that the relationship does not end with the course. We can always clear our doubts. I am very happy with my selection for the Python course at 3RI Technologies. Shubham Raut ***** It's a pleasure to learn from 3RI Technologies. The friendly coach and the learning environment are the best. He has answer to every question.Thank you, Mr. Amy, sir, for your Python training and for helping me become a Python expert. Muneeb khan ***** It was a good experience to persue my knowledge in 3RI technologies. I persued my python knowledge here, the teachers in 3RI are very helpful.Mam always hepls us to clear our doubts.Whenever anytime we got stuck in any type of coding she helps us. Sanchit *****",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/urbonpro.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/cb18c4_aaa5cc27347d4d1f809e1194612f74f6mv2-1-150x150.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/images-3.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/01/22.png",
+        "alt": "Enquire about the 3RI Technologies training program",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon41.jpg",
+        "alt": "ZS",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon40.png",
+        "alt": "Zensar",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon39.png",
+        "alt": "bmc",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon38.png",
+        "alt": "thoughtworks",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon36-768x261.png",
+        "alt": "tata consultancy",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon34.gif",
+        "alt": "synerzip",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon33-e1604575181323.png",
+        "alt": "survik",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon32.png",
+        "alt": "siemens",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon31.jpg",
+        "alt": "R systems",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon30.png",
+        "alt": "pubmatic",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon29.png",
+        "alt": "citi",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon28.jpg",
+        "alt": "persistance",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon26.gif",
+        "alt": "Mphasis",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon25.png",
+        "alt": "Market Reports Center",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon24-e1604575512879.png",
+        "alt": "market and market",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon23-e1604575367263.png",
+        "alt": "accenture",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon22.png",
+        "alt": "sungard",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon21.jpg",
+        "alt": "kpit",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon20.png",
+        "alt": "comp-icon20",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon18.jpg",
+        "alt": "comp-icon18",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon17.png",
+        "alt": "comp-icon17",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon14.png",
+        "alt": "comp-icon14",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon13-e1654928115125.jpg",
+        "alt": "comp-icon13",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon12.png",
+        "alt": "comp-icon12",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon11.png",
+        "alt": "comp-icon11",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon10-e1654925790405.png",
+        "alt": "comp-icon10",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon9.png",
+        "alt": "comp-icon9",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon8.jpg",
+        "alt": "comp-icon8",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon7.jpg",
+        "alt": "comp-icon7",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon6.png",
+        "alt": "comp-icon6",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon5.png",
+        "alt": "comp-icon5",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon4.png",
+        "alt": "comp-icon4",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon3.png",
+        "alt": "comp-icon3",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon2.png",
+        "alt": "comp-icon2",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon1-1.png",
+        "alt": "comp-icon1",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/3d-lpm-logo.jpg",
+        "alt": "3d lpm logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/veritas-logo.jpg",
+        "alt": "veritas logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/synecron-logo.jpg",
+        "alt": "synecron logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/calsoft-logo.jpg",
+        "alt": "calsoft logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=Apache+Spark+%26amp%3B+Scala+Training+Institute+in+Pune+%7C+Learn+from+Experts&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=680&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcourse%2Fapache-spark-and-scala%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/",
+      "https://www.3ritechnologies.com/course/Mongo-DB-NoSQLDatabase/",
+      "https://www.3ritechnologies.com/course/Perl-Scripting/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/android-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+      "https://www.3ritechnologies.com/course/aptitude/",
+      "https://www.3ritechnologies.com/course/asp-net-mvc-training-in-pune/",
+      "https://www.3ritechnologies.com/course/asp-net-wpf-training-course/",
+      "https://www.3ritechnologies.com/course/automation-anywhere-training-in-pune/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
+      "https://www.3ritechnologies.com/course/big-data-hadoop-training-in-pune/",
+      "https://www.3ritechnologies.com/course/blockchain-training-in-pune/",
+      "https://www.3ritechnologies.com/course/c-programming-classes-pune/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/cpp-programming-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/csharp-training-institute-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/data-structure-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/digital-marketing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-informatica-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/fundamentals-of-computer/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/hadoop-admin-training-in-pune/",
+      "https://www.3ritechnologies.com/course/industrial-training-company-for-bca-mca-students-pune/",
+      "https://www.3ritechnologies.com/course/ios-app-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-j2ee-training-in-pune/",
+      "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/ms-sql-server-dba-training/",
+      "https://www.3ritechnologies.com/course/oracle-dba-certification-course-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-rac-training-in-pune/",
+      "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/qliksense-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qlikview-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qtp-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/reactjs-training-in-pune/",
+      "https://www.3ritechnologies.com/course/rpa-training-in-pune/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/seo-training-in-pune/",
+      "https://www.3ritechnologies.com/course/softskill-training-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/spring-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/sqlserver-dba-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tableau-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/unix-shell-scripting-training/",
+      "https://www.3ritechnologies.com/course/wcf-training-course/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-dot-net-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
+      "https://www.3ritechnologies.com/course/webservices-with-soapui-testing-training/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/payment/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Apache Spark & Scala Training Institute in Pune | Learn from Experts",
+    "og_description": "3RI Provides best Spark & Scala Training in Pune from industry experts sessions, we also offer Job Assistance to our students. Theoreticalaspects cover",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+            "url": "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+            "name": "Apache Spark & Scala Training Institute in Pune | Learn from Experts",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/course/apache-spark-and-scala/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/course/apache-spark-and-scala/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
+            "datePublished": "2019-07-05T11:53:53+00:00",
+            "dateModified": "2025-06-09T07:01:53+00:00",
+            "description": "3RI Provides best Spark & Scala Training in Pune from industry experts sessions, we also offer Job Assistance to our students. Theoreticalaspects cover",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/course/apache-spark-and-scala/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/course/apache-spark-and-scala/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/course/apache-spark-and-scala/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "width": 192,
+            "height": 192
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/course/apache-spark-and-scala/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Courses",
+                "item": "https://www.3ritechnologies.com/course/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Apache Spark &amp; Scala Training Institute in Pune | Learn from Experts"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

@@ -1,0 +1,321 @@
+{
+  "url": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Top Advantages and Disadvantages of Java | Benefits & Drawbacks Explained",
+    "meta_description": "Explore the key advantages and disadvantages of Java including its major benefits, drawbacks, and real-world applications. Learn Java the right way with expert-led Java Classes in Pune by 3RI Technologies.",
+    "h1": [
+      "Advantages and Disadvantages of Java: What You Need to Know"
+    ],
+    "content": "Skip to content Home > Advantages and Disadvantages of Java: What You Need to Know Advantages and Disadvantages of Java: What You Need to Know Since we have learned to use computers and laptops, we have gone through Java's most common programming language. It is the most used programming language for more than two decades and is being introduced for network programming. Table of Contents PriyankaS3ri June 17, 2021 5:55 pm Since we have learned to use computers and laptops, we have gone through Java’s most common programming language. It is the most used programming language for more than two decades and is being introduced for network programming. Moreover, specialists have a firm belief in Java because of its everlasting performance for application building. Earlier, Java was designed for handheld devices and set-top boxes, but later it started building web applications. As a result, Java holds the top position amongst other various programming languages. And today, Java is ruling over different other programming languages. But it’s a known fact that every coin has two faces; in the same way, Java has several advantages and disadvantages. Java remains one of the most widely used programming languages, but it’s essential to weigh both the advantages and disadvantages of Java before diving in. While the benefits of Java—such as platform independence and robust community support—make it a developer favorite, it also has drawbacks like slower performance and memory consumption. This guide outlines the major Java advantages and disadvantages to help you make informed decisions. If you’re planning to master Java professionally, enroll in our Java Classes in Pune at 3RI Technologies to gain hands-on experience and real-world skills. If you are looking to make your career in the programming world, it’s crucial to know the advantages and disadvantages of Java. Because it will guide you towards making the best and appropriate choice for your career, this blog will make you known for numerous java programming language advantages and disadvantages. So let’s start learning about it! Understanding the Benefits and Drawbacks of Java for Developers The first section which we cover is about the advantages of Java. Of course, due to its popularity, many advantages cannot be counted on our fingers, but still, here, we have formulated the top benefits one can get from using Java. 1- Simple Unlike other programming languages, Java is the language that is easy to learn and understand. The syntax of the Java language is based upon C++, and it uses automatic garbage collection, which means there is no need for unreferenced objects from memory. Java programming language can be read and written quickly because it has removed features like explicit pointers, operator overloading, and more. However, Java is being used and taught in numerous schools and colleges across the planet due to its simplicity. 2- Object-oriented We all know that amongst other programming languages, Java is known as the most object-oriented language because it’s more practical than other programming languages. For example, anything stored in Java is the object responsible for taking care of data and behavior altogether. It further uses object-oriented concepts such as objects, class, inheritance, encapsulation, polymorphism, and abstraction. Hence, this programming language can be known as the object-oriented language. 3- Secured Java doesn’t use any explicit pointers; it’s the safest and most secure programming language for more than 20 years. The programming of Java is done under the virtual machine sandbox. It provides the class loader, which is used in the loading of the class to JVM dynamically. Java separates the class from the local file system from those which are imported to the network. 4- Robust Java uses a strong memory system; hence it is the most robust programming language. Through java code, exceptions can also be handled within the java program. To make java code stronger, type checking can be used. Java doesn’t provide explicit pointers to avoid the programmer accessing the memory directly from the java code. Due to its unique storage system, Java is used in many big firms and organizations with ease. 5- Platform independent After compiling java code for once, the need of compiling it, again and again, becomes 0; hence it can efficiently run on several platforms. Java can be run anywhere and anytime, and during the compilation of the java code, the byte code will be converted and makes the java platform-independent programming language. No other programming language is a platform-independent language other than Java. 6- Multithreaded Java programming language is based on the multi-threaded environment where a big task can be divided into smaller tasks or smaller threads and then runs separately. When the multithreading function is going on in the java program, providing memory becomes 0. That means countless tasks can be performed at the same time after dividing them into smaller threads. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send 7- High-level programming language Because Java is a human-readable language, it is considered a high-level programming language. Moreover, Java is a very simple yet easy language to be maintained through its syntax, which is similar to C++ but in the most straightforward manner. We have been learning about Java, and sometimes Java can be used effectively for securing our career. 8- Portable As discussed earlier, Java is the platform-independent language; it is the most portable language since it’s introduced. No matter what platform it is, java code can be run on any platform, thus making it the portable language of all time. With this advantage, we have come to know that Java is a platform-independent language and a portable language. 9- Automatic garbage collection The java virtual machine manages the automatic garbage collection or memory management. When the objects stored in the Java are of no use, and it does not refer to any other object, it will be removed automatically by the automatic garbage collection. 10- Stability The programs run by Java compose more stability than other programming languages. However, the new update in Java will be introduced shortly with more advanced features and functions. Java programming language is the preferred choice of many specialists to work with. Explore your skill at Java Classes in Pune . Disadvantages of Java Another section is of java drawbacks. As it was said earlier that Java has both advantages and disadvantages, here we will discuss the drawbacks or limitations of Java. Knowing and understand Java’s drawbacks is also essential, just like its advantages. 1- Performance If we compare Java with C, C++, and other programming languages in performance, Java’s performance is comparatively slower. This is because it needs to be interpreted during its runtime. On the other hand, the C++ programming language can be compiled on any operating system from binary and therefore results in faster performance. Thus, Java has a disadvantage over its performance with other languages. 2- Memory consumption Since the Java language runs on top of the virtual machine, it consumes more memory than you think. Meanwhile, other programming languages don’t consume ample memory; that is why they are suitable for business, institution, individual, and more. The memory of the java language manages from garbage collection, and when it runs, it affects the overall performance of the web application. 3- Cost Because Java requires higher processing and memory, it is a bit costly language compared to various other programming languages. Hence, it’s not suitable and affordable to work with Java because it needs a better hardware system which is very expensive. That’s why if complicated programming needs to be done, it’s best to switch to other programming languages like C and C++. 4- Less machine interactive When we talk about the interaction of Java with machines, it lacks its performance. This is because Java makes the machine less viable for the software, which needs to run quickly and directly with the machine. Also, there are no explicit pointers in Java which makes Java a more interactive language. 5- Unattractive looks and feel of GUI To create a complex UI, no graphical interface is perfect or suitable in Java. Although there are many GUIs available, there are a lot of inconsistencies with them. A popular framework like swing, SWT, JavaFX, JSF is there in Java for developing UI, but no one is stable for creating the complicated UI. And if you want to choose one, you need to perform a lot of research. 6- No backup facility The main focus of Java always lies in storage; hence it’s not suitable for data backup. This is one of the essential java drawbacks, making it lose interest and rating amongst the users. That’s why if you are looking for data backup along with high storage facility, go for various other programming languages like C and C++. Because after Java, if any programming language is best, it’s C or C++ only. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes 7- Verbose and complex codes Although Java is the most readable and understandable programming language, the java codes are verbose. It means that it has many words and difficult sentences for reading and understanding. Through this, the java code becomes less readable. Therefore, Java mainly focuses on being manageable, but at the same time, it compromises with long and difficult java codes. To be Job-ready, check out our Job Oriented Courses today! Here, we have arrived at the end of the advantages and disadvantages of the java programming language. Java has more benefits than its drawbacks. Moreover, individuals and companies overlook the disadvantage of Java and use this programming language due to its popularity in the software world. With this blog, we can now easily compare Java with various other programming languages in this world. Whereas in terms of making a career in the software world, no other programming language is suitable other than Java. If you new to the software world, try learning the java language instead of learning any other programming language. Java has one more advantage over other programming languages: it creates many job opportunities. Unlike C and C++, Java gives rise to more job positions with security. From android app development, web app development to big data, all can be built effectively through Java. Learn at 3RI Technologies. Prev Previous LoadRunner Interview Questions and Answers Next Advantages and Disadvantages of Cloud Computing Explained Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/Advantages-and-Disadvantages-of-Java-1.jpg",
+        "alt": "Advantages and Disadvantages of Java",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Java-Certified-Professional.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Java&cd%5Bpage_title%5D=Advantages+and+Disadvantages+of+Java%3A+What+You+Need+to+Know&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=54051&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fadvantages-and-disadvantages-of-java%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2021/06/17/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/advantages-and-disadvantages-of-cloud-computing/",
+      "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/loadrunner-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Top Advantages and Disadvantages of Java | Benefits & Drawbacks Explained",
+    "og_description": "Explore the key advantages and disadvantages of Java including its major benefits, drawbacks, and real-world applications. Learn Java the right way with expert-led Java Classes in Pune by 3RI Technologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Advantages and Disadvantages of Java: What You Need to Know",
+            "datePublished": "2021-06-17T12:25:48+00:00",
+            "dateModified": "2025-05-19T04:05:56+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/"
+            },
+            "wordCount": 1690,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/Advantages-and-Disadvantages-of-Java-1.jpg",
+            "keywords": [
+              "Java Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Java"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/",
+            "url": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/",
+            "name": "Top Advantages and Disadvantages of Java | Benefits & Drawbacks Explained",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/Advantages-and-Disadvantages-of-Java-1.jpg",
+            "datePublished": "2021-06-17T12:25:48+00:00",
+            "dateModified": "2025-05-19T04:05:56+00:00",
+            "description": "Explore the key advantages and disadvantages of Java including its major benefits, drawbacks, and real-world applications. Learn Java the right way with expert-led Java Classes in Pune by 3RI Technologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/Advantages-and-Disadvantages-of-Java-1.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/Advantages-and-Disadvantages-of-Java-1.jpg",
+            "width": 1000,
+            "height": 667,
+            "caption": "Advantages and Disadvantages of Java"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/advantages-and-disadvantages-of-java/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Advantages and Disadvantages of Java: What You Need to Know"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

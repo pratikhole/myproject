@@ -1,0 +1,321 @@
+{
+  "url": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Designing Scalable and Highly Available Applications on AWS",
+    "meta_description": "Struggling to build scalable, highly available AWS apps? AWS Training in Pune teaches practical cloud architecture skills with 3RI Technologies.",
+    "h1": [
+      "Designing Scalable and Highly Available Applications on AWS"
+    ],
+    "content": "Skip to content Home > Designing Scalable and Highly Available Applications on AWS Designing Scalable and Highly Available Applications on AWS Good architecture is invisible until something breaks. This blog unpacks how AWS helps developers design applications that stay stable, even during heavy traffic. Written for curious beginners and experienced professionals alike, it also points readers toward AWS Training in Pune for deeper, real-world learning. Table of Contents PriyankaS3ri July 17, 2026 2:06 pm What happens to your application the moment traffic triples overnight—does it crash, slow down, or keep serving users without a hiccup? This is the exact question that separates amateur cloud setups from production-grade systems. Scalability and high availability are no longer optional add-ons; they are the backbone of every serious AWS application running today. Whether you are a student, a working professional, or an aspiring cloud architect, understanding how to design resilient systems on Amazon Web Services is now a core career skill. Enrolling in an AWS Course in Pune can help you gain practical exposure to scalable cloud architecture, high-availability strategies, Auto Scaling, load balancing, and real-world AWS deployment practices required in modern cloud roles. How to Design a Production-Ready AWS Architecture for Scalability and High Availability Building an application that survives real-world traffic spikes requires more than just launching a few EC2 instances. It requires a mindset shift toward amazon web services cloud computing principles from day one. A production-ready architecture typically spans multiple Availability Zones (AZs) so that if one data center faces an outage, your application keeps running from another. This is the foundation of AWS high availability . Relying on a single AZ or a single instance is one of the most common mistakes beginners make. A scalable architecture commonly includes: Multiple Amazon EC2 instances to distribute application workloads. Auto Scaling Groups to increase or reduce computing capacity. Elastic Load Balancing to route requests across healthy resources. Multiple Availability Zones to improve application resilience. Amazon Route 53 for reliable DNS and traffic routing. Monitoring tools to identify performance and infrastructure issues. At 3RI Technologies , cloud learners are introduced to practical AWS architecture concepts that connect technical services with real production scenarios. Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Traditional infrastructure can struggle when traffic increases or systems fail, while scalable AWS architecture is built to adapt to changing workloads. The comparison below shows how AWS improves traffic handling, automation, resource usage, and application availability. Architecture Factor Traditional Fixed Infrastructure Scalable AWS Architecture Traffic handling Limited server capacity Resources scale with demand Failure management Higher risk of downtime Workloads can use multiple zones Deployment Often manual Infrastructure can be automated Resource usage Fixed capacity Capacity adjusts to workloads Availability Depends on individual systems Designed for redundancy A good architecture also follows AWS best practices , including monitoring resources, applying security controls, automating infrastructure, and reviewing unnecessary spending with AWS Cost Explorer . Using Auto Scaling and Elastic Load Balancing to Handle Changing Application Traffic No application experiences constant, predictable traffic. E-commerce platforms see spikes during festive sales, and media apps see surges during viral moments. This unpredictability is exactly why auto-scaling in AWS exists. AWS autoscaling automatically adds or removes EC2 instances based on real-time demand, so you’re never overpaying for idle servers or under-provisioning during traffic surges. Combined with Elastic Load Balancing, which distributes incoming requests across healthy instances, this duo forms the backbone of any resilient cloud system. Consider an online ticket booking application. Thousands of users may try to book tickets immediately after a popular event is announced. In this situation: AWS Auto Scaling can add EC2 instances when demand increases. Elastic Load Balancing can distribute incoming requests. Health checks can identify unhealthy application targets. Scaling policies can respond to metrics such as CPU utilisation. Multi-AZ deployment can support better application availability. The relationship between AWS Auto Scaling and ELB is an important topic in AWS Training in Pune because it reflects how production cloud environments manage unpredictable workloads. Building a Production-Ready AWS Architecture with AWS Training in Pune Theory only goes so far — real architectural skill comes from building and breaking things in a lab environment. This is where structured AWS Training in Pune at 3RI Technologies gives learners a practical edge, walking them through every core service used in scalable, highly available systems. 1. Auto Scaling Groups (ASG) Auto Scaling Groups form the core of elastic infrastructure, automatically launching or terminating EC2 instances based on demand. In the AWS Classes in Pune offered by 3RI Technologies, learners configure ASGs hands-on, setting scaling policies and observing how instances respond to simulated load in real time. Define minimum, maximum, and desired instance capacity Attach scaling policies tied to CloudWatch alarms Test failover by manually terminating instances 2. Elastic Load Balancing (ELB) Elastic Load Balancing distributes traffic across multiple targets to prevent any single server from becoming a bottleneck. During the AWS Course in Pune curriculum, learners build Application Load Balancers and Network Load Balancers, then connect them to Auto Scaling Groups to simulate production traffic distribution. Application Load Balancer for HTTP/HTTPS routing Network Load Balancer for high-throughput, low-latency needs Health check configuration for automatic failover 3. Amazon Route 53 Amazon Route 53 is AWS’s scalable DNS and domain routing service, and it plays a direct role in high availability by routing users to the healthiest, closest endpoint. Trainers at 3RI Technologies explain routing policies with real scenarios — like failover routing that redirects users to a backup region automatically if the primary region goes down, a concept every architecture-focused learner should master early. 4. AWS CloudFormation AWS CloudFormation allows teams to define infrastructure as code, so entire environments — networks, servers, load balancers — can be deployed consistently with a single template. In Online AWS Training in Pune sessions, learners write CloudFormation templates to deploy identical environments across development, staging, and production, eliminating manual configuration errors and speeding up disaster recovery. 5. Amazon Kinesis Amazon Kinesis handles real-time streaming data, which is increasingly important for applications processing logs, clickstreams, or IoT sensor data at scale. Ingests and processes data streams in real time Integrates with Lambda for real-time analytics Supports scalable, fault-tolerant data pipelines 6. Custom AMI A Custom AMI (Amazon Machine Image) lets teams pre-configure an instance with the exact software, patches, and settings needed, so new instances launch instantly during scaling events without manual setup delays. 3RI Technologies includes Custom AMI creation as part of its hands-on labs, helping learners understand how golden images speed up deployment consistency across large fleets of servers. 7. High Availability (HA) Architecture High Availability architecture ties every service above together—spanning multiple Availability Zones, using redundant databases, and automating failover so downtime becomes a rare exception rather than a risk. Learners enrolled in the AWS Course in Pune with Placement and work on 10 Real-Time AWS Projects from 3RI Technologies , giving them direct exposure to building and testing HA architectures the way enterprise teams do, before they ever step into a job interview. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send AWS Scalability and High Availability Best Practices for Production Applications Designing for scale isn’t a one-time task; it’s an ongoing discipline. A few best practices consistently separate resilient systems from fragile ones. Design for failure — assume any component can fail and plan redundancy accordingly. Automate everything — from scaling to backups to deployments, reducing human error. Monitor proactively with CloudWatch dashboards and alarms rather than reacting after outages. Use managed services like RDS Multi-AZ or DynamoDB Global Tables instead of self-managing databases. Review costs regularly using AWS Cost Explorer to ensure scaling decisions stay budget-conscious. Test disaster recovery plans periodically instead of assuming backups will work when needed. These practices apply whether you’re managing a small startup app or an enterprise-grade platform serving millions of requests daily. Conclusion Designing scalable and highly available applications on AWS isn’t just about knowing which services exist—it requires understanding how Auto Scaling, Load Balancing, Route 53, CloudFormation, and high-availability architecture work together to keep systems stable under pressure. For students and professionals looking to build practical cloud expertise, enrolling in an AWS Course in Pune can provide structured, hands-on learning with real-world AWS environments. 3RI Technologies bridges the gap between textbook concepts and production-ready skills through practical projects and placement-focused training, helping learners confidently design, deploy, and manage resilient cloud architectures. Prev Previous How to Build and Deploy Cloud Applications on AWS Next Serverless Computing on AWS: Concepts, Benefits, and Real-World Examples Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/How-AWS-Ensures-High-Availability-for-Cloud-Applications.png",
+        "alt": "Simple AWS diagram showing how applications scale automatically under increased load.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/21-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Cloud+Computing&cd%5Bpage_title%5D=Designing+Scalable+and+Highly+Available+Applications+on+AWS&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=120922&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fdesigning-scalable-and-highly-available-applications-on-aws%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/10-real-time-projects-aws-training-in-pune/",
+      "https://www.3ritechnologies.com/2026/07/17/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/how-to-build-and-deploy-cloud-applications-on-aws/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Designing Scalable and Highly Available Applications on AWS",
+    "og_description": "Struggling to build scalable, highly available AWS apps? AWS Training in Pune teaches practical cloud architecture skills with 3RI Technologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Designing Scalable and Highly Available Applications on AWS",
+            "datePublished": "2026-07-17T08:36:00+00:00",
+            "dateModified": "2026-07-17T08:37:21+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/"
+            },
+            "wordCount": 1300,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/How-AWS-Ensures-High-Availability-for-Cloud-Applications.png",
+            "keywords": [
+              "AWS Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Cloud Computing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/",
+            "url": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/",
+            "name": "Designing Scalable and Highly Available Applications on AWS",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/How-AWS-Ensures-High-Availability-for-Cloud-Applications.png",
+            "datePublished": "2026-07-17T08:36:00+00:00",
+            "dateModified": "2026-07-17T08:37:21+00:00",
+            "description": "Struggling to build scalable, highly available AWS apps? AWS Training in Pune teaches practical cloud architecture skills with 3RI Technologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/How-AWS-Ensures-High-Availability-for-Cloud-Applications.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/How-AWS-Ensures-High-Availability-for-Cloud-Applications.png",
+            "width": 1000,
+            "height": 669,
+            "caption": "Understand how scalable AWS applications stay reliable with practical AWS Training in Pune insights."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Designing Scalable and Highly Available Applications on AWS"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

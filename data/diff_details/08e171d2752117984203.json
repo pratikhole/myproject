@@ -1,0 +1,354 @@
+{
+  "url": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "What is the Spring Framework in Java? Key Features & Career Scope",
+    "meta_description": "Understand what is Spring Framework in Java, its features, and how it powers enterprise applications. Learn Java Spring with our Best Java Spring Framework Training in Pune.",
+    "h1": [
+      "What is the Spring Framework in Java? A Complete Guide"
+    ],
+    "content": "Skip to content Home > What is the Spring Framework in Java? A Complete Guide What is the Spring Framework in Java? A Complete Guide There are seven modules in the Java spring framework. In addition to these modules, there is Spring ORM, Spring Context, Spring Core, Spring AOP, Spring DAO, Spring Web Flow and Spring Web MVC. There are several modules that enable you to build different types of enterprise applications; for example, Spring Web MVC allows you to build MVC-based applications. Table of Contents PriyankaS3ri March 10, 2022 11:22 am From mobile applications to enterprise-scale systems, Java is one of the most commonly used programming languages.Since Java can power almost any development, a number of tools and frameworks have been created to facilitate and simplify Java-based software development. Here’s what we found at what the spring framework is. The Java Spring Framework is one of the most popular and powerful Java frameworks used for building secure, scalable, and enterprise-level applications. But what is the Spring Framework in Java exactly? It’s a lightweight, open-source framework that simplifies Java development with robust features like dependency injection and aspect-oriented programming. Whether you’re exploring Spring in Java for web apps or backend systems, this technology remains a core skill for developers. At 3RI Technologies, our Best Java Spring Framework Training equips you with hands-on skills to master Spring framework Java and accelerate your software development career. Java-based frameworks such as Spring are widely used to develop web applications. This article examines the Spring framework and demonstrates how to create Java applications. Modern Java-based enterprise applications – on any platform – can be programmed and configured using the Spring Framework. A key feature of Spring is the infrastructure support for enterprise applications. In Spring, teams can focus on the application logic and deployment environment without worrying about the “plumbing” of their enterprise applications. Open-source Java framework Spring is used to build enterprise Java applications. With Spring, you can simplify the complex and cumbersome process of developing enterprise Java applications by embracing technologies such as: Dependency injection (DI) Aspect-oriented programming (AOP) Plain Old Java Object (POJO) However, lightweight frameworks like spring enable the development of scalable, robust, and secure enterprise web applications. Spring includes a multitude of sub-frameworks, including Web Flow, ORM, and MVC. Java and Kotlin are just a few languages that Spring supports. In addition to Spring, all other Spring-based projects, including these, rely on the framework. Spring Boot spring framework Spring GraphQL Spring Cloud Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Core Concepts and Features of the Java Spring Framework It is an application framework for developing applications in Java Enterprise Edition (JEE) and Spring. Because it supports multiple frameworks, it can be considered a framework. For example, it can support Hibernate, EJB, Struts, Tapestry, and JSF. As a broader concept, the framework can be seen as a structured method for solving a wide range of technical issues. As one can see, the Spring Framework provides a comprehensive tool for supporting Java applications. The Spring Framework was invented in 2004 by Australian computer specialist Roderick B. Johnson. Many versions of the Spring Framework have been released since then. Spring Framework 4.3.8 is the most recent release. Evolution of Spring Framework First released in 2004, the Java Spring Framework gives developers the tools to create web applications. Spring 2.0 introduced XML namespaces and AspectJ support, Spring 2.5 introduced annotation-driven configuration, and Spring 3.0 introduced a Java-based configuration model. Its most recent version is Spring 4.0. It is compatible with Java 8 as well as Java EE 7. Even though Spring can be used with an older version of Java, Java SE 6 is the minimum requirement. Besides JMS 2.0 and JPA 2.1, Spring 4.0 now supports Java EE 7 technologies like Bean validation 1.1, Servlet 3.1, and JCache. What are the main features of Spring? Spring centers on the “plumbing” of endeavor applications so that groups can center on application-level commerce rationale, without superfluous ties to particular arrangement situations. At its center, the Spring System advances the standards of Reversal of Control (IoC) and Reliance Infusion (DI). This implies that rather than composing code that expressly makes and oversees objects and their conditions, the system takes control of question creation and infuses conditions into the objects. This approach leads to freely coupled and exceedingly testable code. Key Components of the Spring Framework The Spring System gives a comprehensive programming and setup show for present day Java-based endeavor applications – on any kind of sending stage. Spring centers on the “plumbing” of endeavor applications so that groups can center on application-level commerce rationale, without superfluous ties to particular arrangement situations. At its center, the Spring System advances the standards of Reversal of Control (IoC) and Reliance Infusion (DI). This implies that rather than composing code that expressly makes and oversees objects and their conditions, the system takes control of question creation and infuses conditions into the objects. This approach leads to freely coupled and exceedingly testable code. Highlights of Spring System The Spring System contains the taking after critical highlights: Reversal of Control (IoC) The Spring System actualizes the guideline of IoC, where the control of question creation and reliance infusion is moved from the application code to the system. Free coupling: Objects are not firmly coupled to their conditions, making them simpler to supplant or adjust without influencing other parts of the application. Testability: Objects can be effortlessly tried in confinement by giving taunt or stub conditions amid testing, permitting for comprehensive unit testing. Reusability: Components can be reused completely different settings or applications, as they are not tied to particular usage of their conditions. Measured plan : With IoC, the application code gets to be more secluded and centered on commerce rationale, whereas the system takes care of question creation and administration. Dependency Infusion (DI) Spring underpins DI, permitting objects to be injected with their conditions instead of having to form or oversee them expressly. This advances simpler arrangement, superior decoupling, and progressed testability. In Spring, DI is accomplished through the Spring IoC holder. The holder is mindful for making and overseeing objects, known as beans, and wiring them together by infusing their conditions. The conditions are ordinarily announced as interfacing or unique classes, and the Spring holder settle and gives the concrete usage at runtime. Spring Framework Architecture There are seven modules in the Java spring framework . In addition to these modules, there is Spring ORM, Spring Context, Spring Core, Spring AOP, Spring DAO, Spring Web Flow and Spring Web MVC. There are several modules that enable you to build different types of enterprise applications; for example, Spring Web MVC allows you to build MVC-based applications. Why do we use Spring in Java? Provides predefined templates for Hibernate, JDBC, JPA, etc., thus reducing your writing too much code. JEE (Java Enterprise Edition) applications can now be developed more quickly with Spring Framework. Several declarative features are supported, including validation,transaction support, caching, and formatting. It also provides a strong abstraction to Java Enterprise Edition (JEE) specifications. It works with POJOs (Plain Old Java Objects), so your application is lightweight. Because of the dependency injection feature, your code becomes loosely coupled. Why spring framework used? The Spring Framework architecture consists of different modules arranged in layers. An application is built by using the functionalities of each module. The module list is composed of around 20 modules, organized Developers may choose whatever module they wish into Web, AOP (Aspect Oriented Programming), Core Container, Instrumentation,Data Access/ Integration, and Test. Developers are free to select the required module here. Because of its modular architecture, it can be easily integrated with other frameworks. To be Job-ready, check out our Job Oriented Courses today! Let’s now look at these modules to understand why we use the spring framework. In the Spring Framework, there are many modules to perform specific tasks, and spring core is the module that drives the work of the other modules. Spring is known for its modularity, which facilitates application development. Various frameworks can be used to extend Spring core. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Spring Framework has the following advantages: 1. Overcoming the challenges of enterprise application development Spring solves the problems associated with complex application development. Spring IoC, Spring Core, and Spring AOP provide a framework for integrating different business application components. 2. Provide support for enterprise application development using POJOs By using POJO classes instead of bulky Enterprise containers, enterprises can easily develop applications. This allows them to test them more easily. 3. Easily integrates with other frameworks All the Java frameworks, including ORM, Struts, Hibernate, and others, can be used with Spring. In addition, Spring Frameworks do not impose any restrictions on the frameworks that can be used with it. 4. Application Testing Testing is simplified with Spring Container because you can develop and test outside enterprise containers. 5. Modularity Spring Framework is a modular framework with numerous modules that may use according to application requirements, such as Spring MVC,Spring Transactions, Spring JDBC, Spring ORM, etc. 6. Spring Transaction Management The Spring Transaction Management interface is extremely flexible. In the case of global transactions, local transactions can be implemented in the small application, which can be scaled to JTA in the case of bigger applications. Features of the spring framework Lightweight: Even though Spring Framework is large and transparent, it is lightweight. Inversion Of Control (IoC): A loose coupling between Spring Framework and Inversion of Control is provided by Inversion of Control. Objects are not required to create or search for dependencies, but instead provide their dependencies. Aspect-Oriented Programming (AOP): With Spring Framework, business logic and system services are separated to support Aspect-Oriented Programming. Container: Application objects are created and managed by Spring Framework. MVC Framework: The Spring Framework is a framework for building web applications. This framework supports multiple views and is configurable using interfaces. Transaction Management: The Spring framework provides transaction management. Container-less environments can used with it, and it is not J2EE-based. JDBC Exception Handling: The Spring Framework provides exception hierarchy in its JDBC abstraction layer in order to simplify error handling. Spring boot The Spring Framework is used to build Spring Boot. It is faster and easier to set up, configure, and run web and simple applications. Spring-based application is created as an independent stand-alone application, which requires minimal Spring configuration to run. Spring Boot makes the process of developing applications quick and easy. Classpaths and beans are examined, reasonable assumptions are made about what’s missing, and the items are added. Using Spring Boot can concentrate on business functions and not infrastructure. Spring Boot’s benefits can be seen in the following examples: On the classpath, does Spring MVC appear? It is almost always necessary to add certain beans, and Spring Boot automatically does so.Tomcat is also configured for Spring MVC applications as an embedded servlet container by Spring Boot. Is Jetty on the classpath? Tomcat is probably not the best choice for embedded Jetty in this scenario. Spring Boot will handle the rest. Is Thymeleaf being used? Adding some beans to the app context is a must if that is the case. It is done automatically by Spring Boot. Spring Boot provides automatic configuration in the following ways. Even so, Spring Boot doesn’t slow down your development process. What Makes Spring Boots So Popular? Java is the programming language of choice for this project; it is one of the most widely used around the world. Additionally, Spring Boot is a great tool that lets you set up enterprise-grade applications quickly without needing to worry about configuring them correctly and safely. Additionally, there is a large user community. There are plenty of free learning materials and courses available online. The accessibility of education has greatly influenced the popularity of the framework. Spring boot framework Java application framework Spring provides Java developers with infrastructure support. In addition to being a popular framework for Java Enterprise Edition (Java EE), it allows developers to develop high-performance applications using plain old Java objects (POJOs). The platform allows developers to develop high-performance Java Enterprise Edition (Java EE) applications by using simple Java objects (POJOs). Developers can add their custom code to this predefined code to solve specific problems. Java Server, Hibernate, Maven, Struts, Faces (JSF), and Spring are popular Java frameworks. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Spring: How it works A web application usually consists of three layers (layered architecture): Presentation/view layer (UI) – Content is presented and interacted with via this layer. Business logic layer – The program’s functionality is described in this layer. Data access layer – Data is retrieved from the sources by the deep layer. Each layer of an application must be present for it to work. Thus, the presentation layer is in communication with the business logic layer, which, in turn, is in communication with the data access layer. Each layer must communicate with the other for work properly. There are often thousands of classes and dependencies in an application. The practice of tightly coupling (interdependence) application code isn’t recommended without a Spring Framework. Components with loose coupling are independent of each other, with changes to one not affecting the other. Spring MVC architecture MVCC design pattern is used to build web applications using Spring MVC Java framework. The implementation of dependency injection and inversion of control is also included. Dispatcher Servlets provide an elegant solution for using MVC in spring framework with the Spring MVC architecture in Java. With its Model-View-Controller (MVC) architecture and ready-to-use components, Spring Web MVC makes developing flexible and loosely coupled web applications incredibly easy. With MVC, developers can separate the input logic, the business logic, and the UI logic of an application while maintaining loose coupling between them. Spring Web Model-View-Controller View – The format of information provided is referred to as a view. View pages are typically created using JSP+JSTL. Besides Spring, other view technologies such as Apache Velocity, FreeMarker, and Thymeleaf are also supported by Spring. Controller – A controller represents the logic of an application resides. The @Controller annotation identifies a controller class. Front Controller – As the front controller for Spring Web MVC, DispatcherServlet is used. A Spring MVC application’s flow is managed by this class. Model – Data is represented by a model in an application. The model consists of objects that represent the data of the application. Explore your skill at Java Classes in Pune . Benefits of Spring MVC Framework :Spring MVC Framework has the following advantages: Lightweight- Your application is developed and deployed using a lightweight servlet container with Lightweight. Separate roles – In Spring MVC, each role is fulfilled by a separate object, such as the model object, the controller, the view resolver, the dispatcher servlet, the command object, the validator, and so on. Rapid development – Fast and parallel development is possible with the Spring MVC framework. Reusable business code – As an alternative to creating new objects, we can reuse old ones. Easy to test – We create JavaBeans classes in Spring to inject test data through setter methods. Powerful Configuration provides the ability to configure a framework and application class in a manner that can be referenced across contexts, such as web controllers and business objects. Flexible Mapping – A specific annotation is provided that allows the page to be redirected easily. An overview of Spring Web MVC The DispatcherServlet intercepts all incoming requests as the front-end controller. In the dispatcher server, handler mapping is entered from the XML file and the request is forwarded to the controller. An object of ModelAndView is returned by the controller. A dispatcher servlet checks the entry of the view resolver in the XML file and calls the view component specified. This is an example of the Spring Web MVC Framework Let’s look at an example of Spring Web MVC. Follow these steps: In the case of spring jar files, load them or add the dependencies before creating the controller class Web.xml must include the controller class entry that defines the bean in a separate XML file Display the message on the JSP page Start the server and deploy the project Spring framework modules Java applications can be built using the Spring Framework, an open-source framework. A framework that includes technologies such as Spring simplifies the complex and cumbersome process of creating enterprise Java applications. Programming in an aspect-oriented manner (AOP) Dependency injection (DI) Plain Old Java Object (POJO) Spring is a lightweight framework that combines these technologies to create scalable, secure, and robust enterprise web applications. A macro-level view of the Spring framework can be described as a collection of sub-frameworks, such as Spring MVC, Spring ORM, and Spring Web Flow. Kotlin and Groovy are also supported by Spring in addition to Java. The Spring framework is also used to power all other Spring-based projects, including: Spring Boot Spring Cloud Spring GraphQL Core Container The following modules are included in this container: Spring Core: Spring Framework is based on this module. Inversion of Control (IoC) and Dependency Injection are implemented with the singleton pattern. Spring Bean: This module implements bean factories using the factory design pattern. Spring Context: Based on the solid base provided by the CoreCore and Beans modules, this module allows access to any defined or configured object. Spring Expression Languages (SpEL): Java server pages support expression language through this module. The runtime querying and manipulating an object graph is supported using powerful expression language. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send Library Vs Framework The system will tell you where to put your code, but will call your code as required. Basically put, your code calls the code within the library, but within the system it is the code within the system that calls the code A system may be a set of pre-written code that gives a structure for creating program applications. A library, on the other hand, could be a collection of pre-written code that can be utilized to perform particular assignments. System characterizes the in general design of the application and gives a common set of conventions for building and keeping up the code. Library is ordinarily littler in scope than a system and is aiming to be utilized as a apparatus to assist designers finish particular errands. A system as a collection of libraries, but totally diverse. Utilize libraries to control program stream. Get to your library anytime, anyplace. On the other hand, with a system, the stream is controlled by the system. Systems tend to be more firmly coupled to the application, meaning that the framework’s code is closely interlaced with the application’s code. Libraries are regularly more freely coupled, meaning that the library’s code can be utilized autonomously of the application’s code. Systems give a more comprehensive set of usefulness and frequently incorporate a wide assortment of pre-built components. Libraries tend to be more specialized and give a particular set of capacities or apparatuses. Spring Framework Modules · Spring Core Module: In the Spring Framework, the IoC container is provided by the Spring Core module. Bean factories and application contexts are the two types of Spring containers. This interface defines a bean factory for org. spring framework.beans.factory, which acts as a bean container. Using Bean Factory containers, you can separate configurations and specifications from program logic. In Spring, a bean factory creates application objects from an IoC container. In addition, bean factories manage dependencies among objects. There are many implementations of the BeanFactory interface. BeanFactory is the most commonly used implementation of XMLBeanFactory. You can express the application objects to compose your application and remove dependencies between objects. · Spring AOP Module: An AOP program decomposes into aspects or concerns, just like Object-Oriented Programming (OOP) does. By using Spring AOP, you can implement problems or elements in a Spring application in Spring AOP. An application can benefit from these aspects when handling transactions, logging, and monitoring failures. The transfer of money between bank accounts, for example, is one aspect of managing bank transactions. The Spring AOP module provides an abstraction layer for transaction management. · Spring ORM Module: Using the Spring ORM module, an application can access data from a database. It supports JDO, Hibernate, and iBatis APIs for manipulating databases. A DAO-based ORM solution can be built using Spring ORM using DAOs: Transparent exception handling Lightweight, thread-safe template classes with DAO support that can manage declaratively Managing resources · Spring Web MVC Module: Spring provides a Web MVC module for building Web applications that adhere to the MVC architecture. A Web application’s model and view are separated in the code by the MVC pattern. Whenever a request comes in from the browser, it reaches the DispatcherServlet class (the Front Controller), which then passes it along to a controller (either the SimpleFormController class or the AbstractWizardformController class) using handler mappings. In the controller, information embedded in a request is extracted and processed before being sent to the DispatcherServlet class as a model object. Lastly, the DispatcherServlet class communicates the results to ViewResolvers, which displays the results to the user. . Spring Web Flow Module: A module that extends Spring Web MVC is Spring Web Flow. For example, SimpleFormController and AbstractWizardFormController are classes that implement predefined workflows in the Spring Web MVC framework. A Java class or an XML file is used to define a workflow between different web application pages in Spring Web Flow. The website offers a download for Spring Web Flow. The following are some advantages of Spring Web Flow: The flow between different UIs clearly defined the application through the XML file. Using web flow definitions, you can virtually divide an application into different modules and reuse them in different circumstances. Automated lifecycle management for Spring Web Flow · Spring Web DAO Module: As part of the Spring DAO package, data access technologies such as JDO, JDBC, or Hibernate are supported. The module eliminates the need for tedious JDBC coding by providing an abstraction layer over JDBC. Transaction management classes are provided both declaratively and programmatically. With Spring DAO, you can connect to heterogeneous Java databases and map O/R routes, so you can use a variety of data access technologies. Spring provides abstract DAO base classes so that database resources can be accessed quickly and easily. A variety of data access technologies are supported by the Spring framework. A JdbcDataSource instance and a preconfigured JdbcTemplate instance are accessed using the JdbcDaoSupport class and methods. The JdbcDaoSupport class needs only to be extended and the DataSource mapping provided in an application context configuration in order to access a DAO-based application. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes · Spring Application Context Module: The core module serves as the basis for the Spring Application context module. BeanFactory interface org.spring framework.context.ApplicationContext represents an application context. The module also offers functionality such as internationalization (I18N), validation, resource loading and event propagation, that are provided by the org.spring framework.beans package. Implementing the MessageSource interface provides messaging functionality for an application through the Application context. Students of 3RI Technologies can take Java courses to become Graphic designers, EJB programmers, Software developers, System programmers, and so on. Training, real-time projects, and industrial training are offered by 3RI Technologies , one of the best training institutes. With a holistic approach, 3RI Technologies provides the candidates with a comprehensive understanding of the courses and offers enriched knowledge. Prev Previous What is Java? A Beginner’s Guide to Java Programming Language Next Why Java Is Platform Independent: A Simplified Guide Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/03/What-is-the-Spring-Framework-in-Java.jpg",
+        "alt": "What is the Spring Framework in Java",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Java-Certified-Professional.png",
+        "alt": "Become a Java Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Java%2C+Programming%2C+Website+Development&cd%5Bpage_title%5D=What+is+the+Spring+Framework+in+Java%3F+A+Complete+Guide&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=62863&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-the-spring-framework-in-java%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2022/03/10/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/spring-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-java/",
+      "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/",
+      "https://www.3ritechnologies.com/why-java-is-platform-independent/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "What is the Spring Framework in Java? Key Features & Career Scope",
+    "og_description": "Understand what is Spring Framework in Java, its features, and how it powers enterprise applications. Learn Java Spring with our Best Java Spring Framework Training in Pune.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "What is the Spring Framework in Java? A Complete Guide",
+            "datePublished": "2022-03-10T05:52:32+00:00",
+            "dateModified": "2025-06-02T07:05:57+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/"
+            },
+            "wordCount": 3840,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/03/What-is-the-Spring-Framework-in-Java.jpg",
+            "keywords": [
+              "Java Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Java",
+              "Programming",
+              "Website Development"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/",
+            "url": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/",
+            "name": "What is the Spring Framework in Java? Key Features & Career Scope",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/03/What-is-the-Spring-Framework-in-Java.jpg",
+            "datePublished": "2022-03-10T05:52:32+00:00",
+            "dateModified": "2025-06-02T07:05:57+00:00",
+            "description": "Understand what is Spring Framework in Java, its features, and how it powers enterprise applications. Learn Java Spring with our Best Java Spring Framework Training in Pune.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2022/03/What-is-the-Spring-Framework-in-Java.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/03/What-is-the-Spring-Framework-in-Java.jpg",
+            "width": 1000,
+            "height": 667,
+            "caption": "What is the Spring Framework in Java"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/what-is-the-spring-framework-in-java/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "What is the Spring Framework in Java? A Complete Guide"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

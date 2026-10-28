@@ -1,0 +1,346 @@
+{
+  "url": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "What is a Database? Types, Benefits & DBMS Explained",
+    "meta_description": "Explore what a database is, its types, and the advantages and disadvantages of DBMS. Start learning with expert-led sql classes in Pune at 3RI Technologies.",
+    "h1": [
+      "What is a Database? Types, Benefits & DBMS Explained",
+      "Database and DBMS: Meaning, Types, Advantages & Disadvantages"
+    ],
+    "content": "Skip to content Home > What is a Database? Types, Benefits & DBMS Explained What is a Database? Types, Benefits & DBMS Explained Explore what a database is, its types, and the advantages and disadvantages of DBMS. Start learning with expert-led sql classes in Pune at 3RI Technologies. Table of Contents PriyankaS3ri March 27, 2023 12:34 pm Database and DBMS: Meaning, Types, Advantages & Disadvantages Understanding what is database and what is data base management system (DBMS) is the first step toward mastering data management. A database stores structured information, while DBMS tools help manage and retrieve that data efficiently. The advantages of DBMS include better data control, faster access, and consistency. However, the disadvantages of DBMS, such as high setup costs and system complexity, also matter. You’ll also learn about types of databases, their use cases, and the advantages and disadvantages of database systems. Start your journey with expert-led Data analytics classes in Pune at 3RI Technologies — and build skills that matter. Databases are necessary for businesses to store, update, and maintain a range of data, including info on personnel and clients. Each database has a unique combination of characteristics and storage capacity based on how much information a company needs to maintain, how many clients it has, and how complex its data is. Knowing the different database types will help you choose which might be the best for a company. In this article, we define what is database , database management system advantages and disadvantages , and so on.Database and DBMS: Meaning, Types, Advantages & Disadvantages What is a Database? (Database Kya Hai) Data is collected in many formats, such as text, numbers, and media. Data can be converted into a binary digital form for computing, enabling it to be successfully conveyed and processed. For example, 3RI Technologies may contain information regarding its students’ names, ages, educational backgrounds, and course specifics. One can refer to data either singularly or plural. We occasionally encounter the expression “raw data.” It is data in its most basic digital form. As the importance of data began to increase early on, terms such as “electronic data processing” and “data processing” were widely adopted in the IT industry. check out this guide to Mastering Dynamic Dashboard Creation in Excel for Data Science & Analytics As data grew exponentially over time, so did the units used to measure it. According to PwC, the world produced 4.4 ZB (zettabytes) of data in 2019. According to IDC, it will climb to 175 ZB by 2025. Databases, database management systems (DBMS), and relational database management systems (RDBMS) arose to arrange this data quickly. What Is Database? The Database is described as a software system that enables the user to build, construct, and maintain databases, as well as regulate access to the data. It is a set of data managing programs that aid in providing various sorts to generating , managing, retrieving, updating, and saving data. A database is an organized or orderly collection of related data maintained for easy access, retrieval, management, and modification. It is where all data is kept, akin to a library with various books from all genres. Think of data as books. You can create a table with rows and columns of data in a database. The material can be easily found and retrieved again by indexing it. A vast number of Internet websites are managed using databases. Database administrators create databases so users can access the information using a single set of software programs. MySQL, SQL Server, MongoDB, Oracle Database, PostgreSQL, Informix, Sybase, and other databases are available. These modern databases are managed by DBMS. Structured Query Language, or SQL as it is more often known, is used to alter the data in a database. To master Oracle like a PRO, you should consider joining DBMS Oracle Data analytics Classes in Pune as they are one of the best training providers. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Why do we need a database? Databases are used for storage, management, and retrieving any type of data. They gather data about people, locations, or objects. That data is collected in certain place so that it may be thoroughly analyzed. Types of Databases There are different kinds of databases used to store different kinds of information: 1. Centralized Database This particular sort of database stores information in a centralized database system. Users find it useful to retrieve their saved data across several applications and places. These programs have an authentication system that allows users to access data safely. An example of a centralized database is a central library that maintains a database of all the libraries at an institution or college. 2. Distributed Database In distributed systems, data is spread out over several organizational database systems instead of having one central database system. These database systems talk to each other through communications links. These links make it easier for people to get to the data. Apache Cassandra, HBase, and Ignite are all examples of distributed databases. 3. Relational Database The relational data model of this database stores information as rows (also called tuples) and columns (also called attributes), which together make up a table (relation). SQL stores, manage and protects data in relational databases. In 1970, E.F. Codd built the database. Every table in the database has a key that makes its data different from the data in other tables. Relational databases include Microsoft SQL Server, Oracle, MySQL, and others. 4. NoSQL Database A SQL database type can store many different kinds of data sets, and not just in SQL. It’s not a relational database because it doesn’t store information in tables. It was made because people wanted more modern applications. NoSQL came up with a variety of database systems to meet these needs. 5. Cloud Database A database that stores information in a virtual environment running on a cloud computing platform. It provides individuals with various cloud computing options for accessing databases (SaaS, PaaS, IaaS, etc.). There are various cloud systems available. However, the ones listed below are the best: Microsoft Azure Kamatera PhonixNAP Amazon Web Services(AWS) ScienceSoft Google Cloud SQL, etc. 6. Object-oriented Databases The type of database that uses an object-based data model to store information in the database system. The data is saved and shown as objects, just like in object-oriented programming languages, where data is saved and shown as objects. 7. Hierarchical Databases It is a database type that stores data as nodes that indicate parent-child connections. In this instance, the data is set up in a manner like a tree. Data is kept in records with links between them. In the tree, there will only be one parent record per child record. With every parent record, there could be several kid records, though. 8. Network Databases The database frequently follows the network data model. In this case, data is represented as a network of interconnected nodes. In contrast to a hierarchical database, it lets each record have several child and parent nodes to form a generalized graph structure. Want to learn MS SQL Server? Have a look at MS SQL Server Development Classes in Pune 9. Personal Database Data collected and kept on the user’s computer is called a personal database. In essence, this database is designed to serve a single user. 10. Operational Database A database that is always being added to and changed. Its main purpose is to be used for doing and managing routine data tasks in different industries. One company, for example, uses operational databases to handle the day-to-day business. 11. Enterprise Database Large businesses and organizations use this database to keep track of a huge amount of data. It helps to boost and improve the productivity of an organization. Users can use the database at the same time. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Example of Databases Examples of databases include: 1. Microsoft SQL Server Microsoft created SQL Server, a relational database management system. It is constructed using SQL, which is an accepted query language for DMSs. 2. Oracle Database Oracle Database, created by Oracle Corporation, is built on a multi-model DBMS. It is frequently utilized when carrying out online transactions. 3. MySQL MySQL is a Relational Database Management System. It is based on Structured Query Language (SQL). It is used in data warehouses, e-commerce platforms, and other places. It is used a lot as a Database Management System for the web. 4. IBM Db2 IBM developed the Db2 Relational Database Management System. It is meant to analyze, store, and retrieve data efficiently. 5. PostgreSQL PostgreSQL is a Relational Database Management System that is free to use and is open source. People use it a lot for data warehousing. Advantages & Disadvantages of DBMS DBMS is associated with several benefits and drawbacks. Let’s discuss the following: Advantages of Database Management System: A database allows us to access data strategically, allowing us to handle information more simply. There are several benefits to using a database, therefore Here are a few examples: 1. Enhances information exchange and workforce productivity A database management system centralizes all data, allowing for easier access to a wide range of data by personnel in one location. Users can react quickly to environmental changes and make wiser choices. Those with access to additional customer data, such as marketers, can understand their customers better and respond quickly to market trends or consumer preferences shifts. The productivity of the marketers and all other end users increases. As a result, DBMS allows you to make prompt, wise decisions that will help your business succeed. 2. No redundant data One of the biggest benefits of databases is this. DBMS eliminates redundant data. By preventing data duplication, it reduces storage needs and speeds up access. DBMS uses the storage space more effectively, which permits centralized storage of all data rather than several copies of the same piece of data for each user in a business. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send 3. Offers enhanced data security and privacy With database management software, you can manage who can see, add, and delete each base component. The data administrator can configure different access rights for various users. Moreover, DBMS supports data encryption, which is essential if the company holds customer or other confidential information. More data privacy is also a result of limited data access. To acquire the skills that will pay you more in your career, check Mongo DB(No SQL Database) Classes in Pune 4. Enhances your ability to grow revenues It improves your understanding of how your company’s operations function. Are they collaborating to ensure your success? Or are they acting separately and not cooperating? You may be committing costly and time-consuming errors. For instance, suppose you observe that your business has a significant sales volume but could be more profitable. You are instead losing money. When examining your Database, you see that you sell excessively low-end products. Yet, as a small firm, you cannot sell them in large quantities (like Amazon) to generate a substantial profit. It implies that you should prioritize quality over quantity. Then, you can instruct your sales team to sell more products of average or superior quality. Sell fewer units, but increase revenue. 5. Ensures data consistency Each data item is stored in a database just once. It removes the possibility of the item being updated on only one system. This maintains the consistency of data. Data consistency is vital to companies, especially if they acquire data using numerous data-gathering methods or internal or external sources. Consistency of data is the foundation of data-driven decision-making. Data consistency can result in better-informed business decisions. 6. Reliable backup and restoration Every business has a big problem with data loss. With the old file system, you must back up your data regularly or by hand. If there are a lot of files, this process could take a long time. DBMS is the answer to this issue. Most DBMSs have powerful software that backs up and automatically restores the database if something goes wrong. They back up all of your data automatically based on the schedules you set. 7. The issue of redundancy can be resolved . Data redundancy may be a major issue, but databases can help to alleviate it. 8. Enhances data security The organization’s data is a valuable asset that is vulnerable to cyber threats. This is why the database is employed since it improves data security. 9. Improves data access The database allows numerous users to view the data at the same time. 10. Scale economies of scale Cost savings may be realized by consolidating all of an organization’s operational data into a single database and allowing apps to operate on a single source of data. Disadvantages of Database Management System: The database system improves organizational efficiency, yet it has downsides. Let us now look at the database’s drawbacks. 1. Increased expenses Database management systems are frequently associated with greater prices since they call for cutting-edge hardware, software, and knowledgeable workers. Training, licensing, regulatory compliance, and other expenses might be included in the cost of maintaining the resources needed to run a DBMS. DBMS also needs a fast processor and lots of memory to store data safely and securely. They may also be pricey options . 2. Complexity The complexity of the DBMS’s functionality results from its need to satisfy numerous criteria and address numerous data issues. Developers, designers, and database users must have the proper skill set to use the database and unlock its potential effectively. Data loss or database failure may occur if they do not comprehend the DBMS. 3. The greater effect of failure The fact that the DBMS is the central repository for all your data makes the system more vulnerable. Since all users rely on a centralized location, the loss of any component can devastate operations and cause irreparable harm to the database. 4. Frequent update Because DBMSs are frequently updated with new features and bug corrections, there are a lot of requests for upgrades. Occasionally, when a new version is issued, it could include extra features the user doesn’t need and even change how the prior feature works. These new features in configuration and changes to implementation must be communicated to the database administrator. For some upgraded versions to operate properly, a computer may be required with higher specifications. These improvements could also be highly pricey. The use of DBMS entails frequent replacement stages. 5. Massive Dimensions Database management software needs a lot of space on the disc to work right. It needs extra software, which needs space to store itself. There may be a need for gigabytes of space for the DBMS configuration. 6. Complexity The database might get pretty complicated. there are multiple tables involved with a plethora of properties. 7. Damage danger Because the database is a one-stop shop for storing and managing all corporate information, any damage to it might affect all applications. 8. Start-up expenses The enormous expenditures spent constitute a stumbling point in the database’s implementation. 9. Performance Because the database strategy is designed to support numerous apps rather than just one, certain applications may operate slower than before. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send The Bottom Line Using databases and other BI and computing tools, professionals in organizations can organize data to help them make better and more effective decisions, be more flexible, and stay in business for a long. Databases are going in new directions because of the different kinds of databases, changes in how technology is used, improvements in automation, and the cloud. If you want a thorough understanding of DBMS, enroll in a 3RI Technologies course. Prev Previous Advantages And Disadvantages of Artificial Intelligence Next Real-World Applications and Uses of Java Programming Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/03/What-is-Database-Types-Example-Advantages-Disadvantages.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Data-Science-Certified-Professional.png",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Job-Oriented-IT-Courses.jpg",
+        "alt": "Job Oriented Courses",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=What+is+a+Database%3F+Types%2C+Benefits+%26amp%3B+DBMS+Explained&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=78120&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-database-types-example-advantages-disadvantages%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2023/03/27/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/advantages-and-disadvantages-of-artificial-intelligence/",
+      "https://www.3ritechnologies.com/applications-of-java-in-real-world/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "What is a Database? Types, Benefits & DBMS Explained",
+    "og_description": "Explore what a database is, its types, and the advantages and disadvantages of DBMS. Start learning with expert-led sql classes in Pune at 3RI Technologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "What is a Database? Types, Benefits &amp; DBMS Explained",
+            "datePublished": "2023-03-27T07:04:37+00:00",
+            "dateModified": "2026-09-02T05:38:16+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/"
+            },
+            "wordCount": 2521,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/03/What-is-Database-Types-Example-Advantages-Disadvantages.jpg",
+            "keywords": [
+              "Data Science Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/",
+            "url": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/",
+            "name": "What is a Database? Types, Benefits & DBMS Explained",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/03/What-is-Database-Types-Example-Advantages-Disadvantages.jpg",
+            "datePublished": "2023-03-27T07:04:37+00:00",
+            "dateModified": "2026-09-02T05:38:16+00:00",
+            "description": "Explore what a database is, its types, and the advantages and disadvantages of DBMS. Start learning with expert-led sql classes in Pune at 3RI Technologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/03/What-is-Database-Types-Example-Advantages-Disadvantages.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/03/What-is-Database-Types-Example-Advantages-Disadvantages.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "What is a Database? Types, Benefits &amp; DBMS Explained"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

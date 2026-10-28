@@ -1,0 +1,351 @@
+{
+  "url": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Real-Time TOSCA Projects with SAP, API, DEX, and Test Data Management",
+    "meta_description": "See how SAP, API, DEX, and TDM fit into real TOSCA projects with Tosca Training in Pune. Continue your journey through Software Testing Classes in Pune.",
+    "h1": [
+      "Real-Time TOSCA Projects with SAP, API, DEX, and Test Data Management"
+    ],
+    "content": "Skip to content Home > Real-Time TOSCA Projects with SAP, API, DEX, and Test Data Management Real-Time TOSCA Projects with SAP, API, DEX, and Test Data Management Real-world TOSCA projects are the best way to understand how SAP, API, DEX, and Test Data Management work together in testing. If you're planning to join Tosca Training in Pune, this guide also helps you choose the right Software Testing Classes in Pune for practical learning. Table of Contents PriyankaS3ri August 5, 2026 1:42 pm Can you really call yourself job-ready in test automation without ever touching a real project? Most learners study Tosca theory for weeks, yet freeze the moment they face an actual SAP module, an API call, or a parallel execution setup. That gap between knowing and doing is exactly why Tosca Training in Pune matters today. This blog walks you through real-time TOSCA projects involving SAP, API, DEX, and Test Data Management, showing how practical exposure through 3RI Technologies helps beginners, students, and working professionals build confidence and land real automation roles. Top Real-Time TOSCA Projects with Tosca Training in Pune Learning a testing tool from slides alone rarely prepares anyone for a live project environment. That is why structured Tosca Training in Pune is built around hands-on assignments that mirror what automation engineers actually do inside client organisations. Instead of memorising menus and options, learners work through repository setups, dynamic scripting, recovery scenarios, and data-driven testing, one project at a time This sequence is not random. Each project builds on the logic of the one before it, starting with basic workspace setup and ending with API validation, so learners move from foundational concepts to enterprise-level automation in a structured, step-by-step manner. 1. Create a repository and project on the cloud license Every automation journey in Tosca begins with a properly configured workspace, and this project introduces learners to exactly that. Instead of working locally, trainees set up a repository and project using a cloud-based license, which closely resembles how enterprise teams manage shared test assets. This exercise builds a strong foundation in the Tosca workspace structure before any scripting begins. Configuring a new project under a shared cloud repository Understanding folder structures, modules, and execution lists Managing user access and license allocation for teams Learning why centralized repositories reduce version conflicts By the end of this module, learners understand how distributed teams collaborate on the same automation project without overwriting each other’s work, a skill that matters far more once they join real projects. This particular exercise is one of the first hands-on assignments that 3RI Technologies hands over to trainees, precisely because it sets the tone for everything that follows in the course. 2. Create dynamic expressions in Tosca Static test scripts break the moment application data changes, which is why dynamic expressions are one of the most valued tosca best practices for automation . In this project, learners write expressions that adjust values automatically during execution rather than hardcoding them into every test step. Using built-in functions to generate dynamic dates, numbers, and strings Writing conditional expressions for flexible test flows Reducing maintenance effort when application data changes frequently Applying expressions across multiple modules for consistency This is where many beginners start seeing Tosca as more than a record-and-playback tool. Dynamic expressions teach logical thinking, and that mindset carries forward into almost every other project on this list. Trainers at 3RI Technologies often introduce this assignment right after the basics, so learners start thinking beyond fixed values early in the course rather than picking up the habit later on the job. 3. Create real-time recovery/cleanup scenarios Test scripts fail for reasons outside anyone’s control, be it a slow server, an unexpected pop-up, or a broken session. This project focuses on recovery and cleanup scenarios that keep automation running smoothly even when something goes wrong mid-execution. Designing recovery scenarios that handle unexpected application states Setting up cleanup steps to reset the environment after failures Reducing false failures caused by environmental issues, not actual bugs Improving overall execution stability during unattended runs Recovery scenarios are often overlooked in theory-only courses, yet they are one of the first things a project manager checks in a live automation suite. Trainees who complete this module walk into interviews with a genuine talking point about resilient scripting. It is one of the assignments 3RI Technologies insists on including, since instructors have noticed that learners who skip this step often struggle once they face unpredictable environments in a real client setup. 4. Create test cases with the implementation of tables and loops in Tosca Repeating the same test logic for multiple data sets manually is inefficient and error-prone. This project teaches learners how to use tables and loops to run a single test case against several inputs, a core technique behind reusable automation projects . Building data-driven test cases using Tosca’s table structures Implementing loops to iterate through multiple test records Minimising duplication of test steps across similar scenarios Structuring data for easy updates without touching test logic Once learners see how one well-designed test case can validate dozens of data combinations, they start appreciating why efficient scripting is valued so highly in professional QA teams. 5. Set up a Tosca server (separate from the Tosca tool) to implement parallel execution (DEX) As applications grow, sequential test execution becomes too slow for release timelines. This project introduces Tosca server installation as an independent component from the Tosca client tool, specifically to enable Distributed Execution (DEX) across multiple machines simultaneously. Installing and configuring the Tosca server separately from the desktop tool Understanding the role of DEX in splitting test suites across agents Reducing overall execution in tosca time for large regression suites Monitoring parallel runs and consolidating results from multiple agents DEX is often the differentiator between a beginner and a professional automation resource. Anyone who understands how to configure and monitor parallel execution brings genuine value to a release cycle, especially in organizations running frequent sprints. Given how often this comes up in client environments, 3RI Technologies treats this as one of the more advanced, high-value assignments in the entire training path. 6. Use Tosca server for data (TDS) Good automation is only as reliable as the data behind it. This project focuses on Tosca Data Service (TDS), which allows test data to be managed centrally on the server instead of being scattered across individual machines or spreadsheets. Connecting test cases to a centralized data source through TDS Understanding TDS in TOSCA for consistent, reusable data sets Reducing duplication of test data across multiple projects Improving data governance and traceability for audit purposes Learners who complete this project understand why enterprises with hundreds of test cases rely on centralized test data management rather than manual data entry, which directly ties into broader Test Data Management practices used across QA teams. This assignment is deliberately paired with the earlier DEX exercise by 3RI Technologies , since parallel execution and centralized data almost always go hand in hand in real production environments. 7. SAP installation and test case creation SAP remains one of the most widely automated enterprise applications, and this project gives learners direct exposure to testing within an SAP environment using Tosca. It covers connecting Tosca to SAP modules and building functional test cases around common business transactions. Configuring Tosca to scan and recognise SAP GUI objects Creating modules for standard SAP transactions and screens Writing test cases that validate SAP workflows end to end Handling SAP-specific controls that differ from standard web applications SAP testing experience is a strong career differentiator because many enterprises, banks, and manufacturing companies run their core operations on SAP. Learners who complete this project can speak confidently about ERP automation in interviews, not just generic web testing. This SAP-focused module is one of the more requested additions to the 3RI Technologies curriculum, largely because so many hiring companies in Pune specifically look for ERP testing exposure. 8. API test case creation Modern applications rarely rely on the user interface alone; a large share of business logic sits behind APIs. This final project trains learners to create and validate API test cases directly in Tosca, without needing separate specialised tools. Configuring Tosca modules to send and receive API requests Validating response codes, headers, and payload data Combining API and UI test cases within the same automation suite Handling authentication tokens and dynamic request parameters API testing knowledge extends automation coverage beyond the visible interface, which is increasingly what employers expect from candidates completing a modern Tosca Course in Pune . Top Benefits of Working on Real-Time TOSCA Projects Reading about Tosca and actually building test suites are two very different experiences. Working on real-time projects during training changes how learners understand the tool, and it changes how confidently they perform once they join a live project team. Many beginners assume that automation testing is purely about clicking through a friendly interface. Real projects quickly correct that assumption. The moment a learner has to configure a Tosca server for parallel execution or troubleshoot why an SAP transaction is not recognising an object, they start thinking like an actual QA engineer rather than a student following a manual. This shift in mindset is often what employers notice first during technical interviews. Faster adaptation to client projects – Since the training already mirrors real project structures, new hires need far less hand-holding during onboarding. Stronger problem-solving ability – Recovery scenarios, dynamic expressions, and loops force learners to think through logic, not just click through steps. Better interview performance—Candidates who can describe SAP, API, and DEX projects stand out compared to those who only know theoretical concepts. Improved understanding of enterprise tools—Exposure to SAP and centralised data services gives learners insight into how large organisations actually test their systems. Hands-on confidence with parallel execution—Understanding DEX and server-based execution prepares learners for release cycles that demand speed. Higher retention of concepts—Practical repetition helps learners remember Tosca modules far longer than passive lecture-based learning. For those exploring options, comparing different Tosca Classes in Pune or broader Software Testing Classes in Pune is worthwhile before enrolling. Look closely at whether the curriculum includes real projects, server-based execution, and placement guidance, rather than just theoretical sessions and recorded videos. Each of these benefits builds on the last. Faster adaptation and stronger problem-solving lead naturally into better interview performance, while enterprise tool awareness and parallel execution confidence are what keep that performance consistent once the person is actually on the Tosca jobs . Essential Skills, Tools, and Career Opportunities Through Real-Time TOSCA Projects Completing real-time projects builds more than Tosca tool knowledge ; it develops a rounded skill set that employers actively look for. Beginners often assume that knowing Tosca’s interface is enough, but professional roles demand a broader combination of technical and analytical abilities. Skills learners develop Working through these real-time projects gradually builds a set of skills that go well beyond just knowing where each button sits in the Tosca interface. The table below breaks down what learners actually walk away with, and why each skill matters once they are on a live project. Skill Gained Why It Matters on the Job Solid grasp of tosca modules including SAP, API, DEX, and TDS Lets a tester move between different project types without needing extra ramp-up time Designing reusable, data-driven test cases with tables and loops Cuts down scripting effort and keeps test suites easier to maintain over time Configuring server-side setups for parallel execution Helps meet tight release deadlines by running large suites faster Writing dynamic expressions instead of hardcoded values Keeps scripts working even when application data changes frequently Understanding enterprise testing standards in ERP environments Prepares learners for SAP-heavy projects common in banking and manufacturing Handling recovery and cleanup scenarios confidently Reduces false failures and keeps unattended test runs stable Tools and environment exposure Alongside these skills, learners also get comfortable operating a range of tools that mirror what a real automation team uses day to day. Here is a quick snapshot: Tool / Environment Where It Fits In Tosca Commander Building, organising, and managing test cases and modules Tosca Server Running execution distribution (DEX) and data services (TDS) SAP GUI Automating ERP transactions and business workflows API clients within Tosca Validating request-response cycles and backend logic Cloud-based repositories Supporting collaborative, team-based project work Seeing these skills and tools laid out side by side makes it easier to understand how a single training path can prepare someone for very different project demands, from ERP-heavy assignments to fast-moving, API-first applications. This blend of tool exposure is exactly what separates candidates trained through practical Tosca Automation Classes in Pune from those who only studied theory. Employers today filter resumes based on real project experience, not certificates alone. It also helps to understand how these skills connect to one another rather than treating each module as an isolated topic. A tester who understands dynamic expressions will find it far easier to build data-driven test cases using tables and loops, since both rely on similar logical thinking. Similarly, someone comfortable with recovery and cleanup scenarios will manage parallel execution through DEX more effectively, because unattended runs across multiple agents demand the same kind of fault tolerance. Real-time projects are designed to reinforce this connection, so learners are not just collecting individual skills but building a coherent, end-to-end automation capability. Students often ask whether it is necessary to learn every module in depth before applying for jobs. The honest answer is that depth matters less than the ability to demonstrate applied understanding. A candidate who can explain, with a real example, how they set up a Tosca server for parallel execution or configured TDS for a data-driven suite will almost always be preferred over someone who can only recite definitions. This is precisely the value that structured, project-based training adds over self-study. Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Career opportunities after real-time project exposure The demand for skilled automation testers continues to rise as more companies shift toward continuous testing and faster release cycles. Professionals trained on real-time SAP, API, DEX, and TDS projects typically find opportunities such as those listed below: Job Role Typical Responsibility Automation Test Engineer Builds and maintains Tosca test suites across projects SAP Test Automation Specialist Focuses on automating ERP transactions and business workflows API Test Automation Engineer Validates backend services and integrates them with UI test suites QA Lead (Parallel Execution) Manages DEX pipelines and oversees large-scale regression runs Test Data Management Analyst Maintains centralised, reusable data sets through TDS Job portals frequently list tosca openings that specifically ask for SAP or API automation experience, which is a direct reflection of how enterprises are structuring their testing teams today. This is also why many professionals actively search for a Software Testing Course in Pune with Placemen t, since placement support bridges the gap between completing training and actually securing an offer. Frequently Asked Questions 1. What exactly does Tosca Training in Pune cover for a complete beginner? A well-structured Tosca Training in Pune program starts with the basics of the tool’s interface and gradually moves into real assignments like repository setup, dynamic scripting, and data-driven testing. It is built so that someone with little or no automation background can follow along step by step, without feeling lost once the projects get more technical. 2. Do I need SAP knowledge before joining a Tosca Course in Pune? No prior SAP experience is required. A good Tosca Course in Pune , including the one run by 3RI Technologies , introduces SAP testing as a dedicated project within the course itself, so learners pick up ERP automation skills gradually rather than needing them on day one. 3. How are API and DEX projects handled in Tosca Automation Classes in Pune? In most Tosca Automation Classes in Pune , API testing and DEX (parallel execution) are treated as separate, practical modules rather than a quick mention. Learners typically configure their own API test cases and set up a Tosca server for distributed execution, which mirrors how these features are actually used on live projects. 4. What is the real difference between DEX and TDS in Tosca? DEX focuses on running test suites in parallel across multiple machines to save execution time, while TDS is about managing test data centrally so that every parallel run has consistent, reliable information to work with. Most Tosca Classes in Pune teach these two together, since one rarely works well without the other in a real automation setup. 5. Is this kind of training suitable for someone with a non-technical background? Yes, many people who join Software Testing Classes in Pune come from non-programming backgrounds. Tosca is designed to reduce heavy coding, and structured project-based learning helps such learners build logical thinking gradually through practical exercises rather than complex scripts. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send 6. Does 3RI Technologies offer placement support after the course? 3RI Technologies is known for pairing its practical curriculum with placement guidance, which is exactly why many learners specifically look for a Software Testing Course in Pune with Placement rather than a training-only program. This support usually includes resume guidance and interview preparation once the project work is complete. 7. How long does it typically take to complete a Tosca automation course with real projects? The duration depends on the depth of the curriculum, but a course that includes real-time SAP, API, DEX, and TDS projects, similar to what 3RI Technologies offers, usually takes a few weeks of consistent, project-based learning rather than a single crash session. 8. Can working professionals switching careers benefit from these real-time projects? Absolutely. Professionals moving into QA from other roles often find that real-time exposure to SAP, API, and TDS shortens their learning curve considerably. It gives them concrete project examples to talk about in interviews, which matters more to employers than certificates alone. Conclusion In conclusion , real-time TOSCA projects covering SAP, API, DEX, and Test Data Management give learners far more than tool familiarity; they build the practical judgment needed to handle actual automation challenges on the job. From setting up a cloud repository to managing parallel execution through DEX and centralising data with TDS, each project addressed here reflects a genuine slice of enterprise testing work. Choosing a well-structured Tosca Training in Pune program, such as the one offered by 3RI Technologies , gives beginners, students, and working professionals a practical, project-driven path into automation testing, backed by an educational institute that focuses on real skills and career readiness rather than theory alone. Prev Previous A List Of The Top-Rated Job-Oriented Courses for your career growth Next Top 10 Java Development Trends in 2026 Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/Tosca-Training-in-Pune-Covering-SAP-API-and-DEX-Projects.png",
+        "alt": "Image highlighting practical TOSCA automation projects with SAP, API, DEX, and TDM for Tosca Training in Pune.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-2.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-3.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/21-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Testing&cd%5Bpage_title%5D=Real-Time+TOSCA+Projects+with+SAP%2C+API%2C+DEX%2C+and+Test+Data+Management&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=121550&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Freal-time-tosca-projects-sap-api-dex-test-data-management%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2026/08/05/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/top-10-java-development-trends-in-2026/",
+      "https://www.3ritechnologies.com/top-job-oriented-courses-in-pune-for-career-growth/",
+      "https://www.3ritechnologies.com/tricentis-tosca-automation-tool-tutorial/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Real-Time TOSCA Projects with SAP, API, DEX, and Test Data Management",
+    "og_description": "See how SAP, API, DEX, and TDM fit into real TOSCA projects with Tosca Training in Pune. Continue your journey through Software Testing Classes in Pune.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Real-Time TOSCA Projects with SAP, API, DEX, and Test Data Management",
+            "datePublished": "2026-08-05T08:12:08+00:00",
+            "dateModified": "2026-08-05T08:32:12+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/"
+            },
+            "wordCount": 2989,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/Tosca-Training-in-Pune-Covering-SAP-API-and-DEX-Projects.png",
+            "keywords": [
+              "Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Testing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/",
+            "url": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/",
+            "name": "Real-Time TOSCA Projects with SAP, API, DEX, and Test Data Management",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/Tosca-Training-in-Pune-Covering-SAP-API-and-DEX-Projects.png",
+            "datePublished": "2026-08-05T08:12:08+00:00",
+            "dateModified": "2026-08-05T08:32:12+00:00",
+            "description": "See how SAP, API, DEX, and TDM fit into real TOSCA projects with Tosca Training in Pune. Continue your journey through Software Testing Classes in Pune.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/Tosca-Training-in-Pune-Covering-SAP-API-and-DEX-Projects.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/Tosca-Training-in-Pune-Covering-SAP-API-and-DEX-Projects.png",
+            "width": 1000,
+            "height": 669,
+            "caption": "Understand practical TOSCA project workflows with SAP, API, DEX, and TDM through Tosca Training in Pune"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/real-time-tosca-projects-sap-api-dex-test-data-management/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Real-Time TOSCA Projects with SAP, API, DEX, and Test Data Management"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

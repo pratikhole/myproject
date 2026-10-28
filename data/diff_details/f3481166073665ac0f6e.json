@@ -1,0 +1,350 @@
+{
+  "url": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Cybersecurity Live Projects to Grow Your Skills & Portfolio",
+    "meta_description": "New to cybersecurity? Build practical skills with Cyber Security Course in Pune and strengthen your portfolio through Cyber Security Classes in Pune. Join today.",
+    "h1": [
+      "Cybersecurity Live Projects to Grow Your Skills & Portfolio"
+    ],
+    "content": "Skip to content Home > Cybersecurity Live Projects to Grow Your Skills & Portfolio Cybersecurity Live Projects to Grow Your Skills & Portfolio From network security to threat detection, live projects help you learn by doing. This blog explains how a Cyber Security Course in Pune can help you grow while exploring trusted Cyber Security Classes in Pune for hands-on experience. Table of Contents PriyankaS3ri August 10, 2026 5:32 pm Can you really call yourself job-ready after finishing a few online modules and quizzes? Most learners can’t—because reading about firewalls is nothing like configuring one under pressure. Employers today want proof, not promises, and that proof comes from hands-on, real-time work. This is exactly why cyber security projects have become the deciding factor between a resume that gets shortlisted and one that gets skipped. Whether you are a college student exploring cyber security project ideas, a career-switcher searching for a practical Cyber Security Course in Pune , or a working professional aiming to specialise further, live projects give you something theory never can—real experience. This article walks you through the best live projects to build a strong cyber security portfolio , the skills they teach, and how they help you stand out in interviews. Why Live Cybersecurity Projects Make Learning More Effective Cybersecurity is not a subject you can master by memorising definitions. It’s a discipline built on pattern recognition, troubleshooting, and decision-making under pressure—skills that only develop through practice. This is why every serious Cyber Security Training in Pune program today places heavy emphasis on lab work and simulated attack environments. When learners work in a live or simulated production-style environment , they encounter the same messy, unpredictable challenges that professionals face daily—false positive alerts, misconfigured firewalls, or a sudden spike in network traffic. Reading about an SQL injection attack is very different from actually detecting and containing one. The reason project-based learning delivers better results than simply reading or watching is that it gives you hands-on experience you can apply in real situations: It builds muscle memory for tools like SIEM consoles, endpoint dashboards, and firewall interfaces. It exposes learners to real-world constraints such as budget, downtime, and compliance requirements. It sharpens analytical thinking—a core part of any cyber security challenge . It creates tangible, demonstrable outcomes that can be added directly to a resume or LinkedIn profile. For anyone comparing options for a Cyber Security Course in Pune with Placement , the presence of live, guided projects in the curriculum should be a non-negotiable checkpoint—not an optional add-on. Best Live Projects That Strengthen Your Cyber Security Portfolio Not all projects carry equal weight on a resume. The strongest portfolios are built around projects that mirror actual enterprise security operations—network defence, endpoint protection, and threat detection. Below are three project categories, offered as part of practical training by 3RI Technologies , that consistently strengthen a learner’s real-world readiness. Project 1: Network Security Practicals — Build a Strong Foundation in Enterprise Network Protection Every organisation’s first line of defence is its network. This project introduces learners to the design and hardening of enterprise-grade network security, a skill set demanded across almost every Cyber Security Classes in Pune curriculum. The work begins with creating basic network segmentation and setting up access control lists (ACLs) to limit how traffic and communication move across the corporate network. This one step alone teaches learners something most theory classes skip entirely—how to physically block the pathways malware relies on to spread from one system to another. From there, the project moves into designing a secure network built around basic firewall zones and attack protection, modelled on a small- to medium-sized company’s infrastructure, so the environment feels close to what a working network actually looks like. By the end of this project, learners understand how segmentation limits lateral movement during a breach — a concept that stays theoretical until you actually build and test it yourself. In short, the project helps you get comfortable with: Splitting a flat corporate network into smaller, controlled zones Writing access control lists that decide who talks to whom Setting up firewall zones that reflect how a real small or mid-sized company operates Spotting the gaps an attacker would otherwise walk straight through Project 2: Endpoint Security Controls and Malware Protection — Safeguard Every Device in the Network Laptops, workstations, and servers are often the easiest entry points for cyberattacks, making endpoint security a critical part of any organisation’s defence strategy. This project demonstrates how security teams monitor and protect every endpoint from a centralized management console, providing learners with the practical exposure expected in the Best Cyber Security Courses in Pune . Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send Learners begin by installing a centralized admin console because managing hundreds of devices individually is not practical in a real business environment. They then deploy security agents across Windows and Linux endpoints, allowing the console to monitor every connected system. Once the endpoints are integrated, learners configure malware protection policies based on different device roles and set up real-time alerts so security teams can respond immediately whenever suspicious activity or malware is detected. At 3RI Technologies , learners gain valuable hands-on experience that prepares them to manage endpoint security, strengthen organisational defences, and build skills that employers actively look for in today’s cybersecurity job market. This hands-on exercise gives learners a working understanding of endpoint detection and response (EDR) — one of the most in-demand skill areas in current job postings. Along the way, this project builds practical comfort with: Managing a fleet of devices from one central console instead of chasing each machine separately Getting agents up and running on both Linux and Windows systems Tailoring protection policies so they actually fit how different devices are used Reading and acting on real-time malware alerts before they turn into bigger problems Project 3: Production-Level SIEM Capstone Project — Gain Real-World Threat Detection Experience This capstone project is offered as a distinctive part of the real time cyber security projects track at 3RI Technologies , giving learners direct exposure to a production-style Security Operations Centre (SOC) workflow that many training providers simply do not offer at this depth. This is the most advanced project in the portfolio track, designed to simulate exactly what a SOC analyst does on a daily basis, starting with incident detection and monitoring — the ongoing task of watching network and system activity closely enough to notice when something looks off. From there, learners install a central SIEM console and begin forwarding security logs from firewalls, servers, endpoint laptops, and corporate workstations into it, so every event across the organisation lands in one place instead of being scattered across dozens of systems. Once the logs are flowing in, the project moves into custom correlation rule creation, where learners write rules to catch new and evolving incident types that default signatures would otherwise miss. The final stretch of the project puts this all to use in detecting ransomware and advanced web attacks, using the correlated log data to spot attack patterns early, before they escalate into serious damage. Completing this capstone project gives learners a portfolio-ready SOC analyst project that showcases practical skills employers value for threat detection and security monitoring roles. It’s the kind of real-world experience offered by quality Cyber Security Classes in Pune , helping learners confidently demonstrate their abilities during interviews. By completing this project, learners will know how to: Keep a constant eye on network and system activity for anything unusual Bring logs from firewalls, servers, and workstations into a single SIEM console Write correlation rules that catch incidents default settings would miss Recognise the early signs of ransomware and advanced web-based attacks before they spread Project Core Focus Key Skill Gained Relevant Job Role Network Security Practicals Segmentation & Firewall Zones Network hardening & access control Network Security Engineer Endpoint Security Controls Malware Protection & EDR Endpoint policy management Endpoint Security Analyst SIEM Capstone Project Threat Detection & Correlation Log analysis & incident response SOC Analyst / Threat Hunter Together, these three projects help you build a well-rounded cybersecurity portfolio by covering network security, endpoint protection, and threat detection—the same layered approach used by real security teams. Along the way, you’ll also gain hands-on experience applying 10+ cybersecurity best practices that are essential for securing modern IT environments. Skills Required for Cyber Security Careers Through Real-World Projects Recruiters aren’t just scanning resumes for certifications anymore; they’re looking for evidence of applied skill. Live projects naturally build the exact competencies that cyber security experts use every day. Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Technical skills developed: Firewall configuration and network segmentation Endpoint detection and response (EDR) tool handling SIEM log correlation and rule writing Incident detection, triage, and response documentation Understanding of malware behaviour and containment Non-technical skills developed: Analytical and critical thinking under time pressure Structured documentation and reporting habits Collaboration, since real SOC environments rely on teamwork Attention to detail—a single missed log entry can mean a missed breach These are the same skills tested during technical interviews, making project-based learning directly relevant to how cyber security professional s are evaluated during hiring. If you’re researching the skills required for cyber security roles, this combination of technical depth and analytical maturity is consistently listed at the top of job descriptions. Working on cyber security projects for beginners also creates a smoother transition toward more advanced enterprise security responsibilities. How Live Cybersecurity Projects Help You Stand Out in Job Interviews Interviewers rarely ask, “What is a firewall?” They ask, “Walk me through how you configured one” or “Tell me about a time you detected a suspicious pattern in logs.” Candidates who’ve completed live projects can answer these with specifics, not generic definitions. Recruiters frequently ask candidates one important question: “Can you describe a cybersecurity project you’ve worked on?” Candidates who have completed practical projects answer with confidence because they can explain their own experience rather than repeating textbook definitions. Interview Advantages of Live Projects You can speak from experience instead of reciting textbook answers. You can showcase a documented portfolio with screenshots, configurations, and reports. You demonstrate familiarity with real tools—SIEM dashboards, endpoint consoles, firewall interfaces—not just their names. You show initiative, which signals to employers that you actively pursued practical cyber security opportunities rather than relying solely on classroom learning. This is also why placement-focused programs, including a well-structured Cyber Security Course in Pune with Placement by 3RI Technologies , integrate project reviews and mock interviews into their training — because portfolio-backed confidence consistently performs better in real hiring rounds. Learn Cybersecurity Through Hands-On Projects with 3RI Technologies Building a career in cybersecurity requires more than certificates — it requires proof of applied skill, and that proof comes from structured, real-time project work. 3RI Technologies has built its training with Cyber Security Course in Pune​ approach around this exact principle, combining strong theoretical foundations with guided, production-style projects that mirror actual enterprise security operations. If you are searching for cyber security courses near me , it’s worth evaluating how much hands-on project exposure a program actually offers — not just how many topics it covers on paper. A curriculum that walks you through network segmentation, endpoint protection, and a full SIEM capstone project gives you a portfolio that speaks for itself in interviews. Whether you’re a student exploring cyber security projects for college students or a working professional aiming to move into a SOC or network security role, the right combination of guided cyber security practice and real project exposure can significantly accelerate your learning curve. . Prev Previous Business Analyst Projects | Skills | Live Projects at 3RI Next Business Analyst: Meaning, Roles, Skills, and Salary Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/Cybersecurity-Live-Projects-to-Build-Skills-Portfolio.png",
+        "alt": "Students gaining hands-on experience in a Cyber Security Course in Pune by completing live cybersecurity projects",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-14.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-15.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/21-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-16.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-17.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-18.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/image-19.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Cyber+Security&cd%5Bpage_title%5D=Cybersecurity+Live+Projects+to+Grow+Your+Skills+%26+Portfolio%C2%A0&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=121682&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcybersecurity-live-projects-to-grow-your-skills-portfolio%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/10-best-cybersecurity-practices-2026/",
+      "https://www.3ritechnologies.com/2026/08/10/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/business-analyst-meaning-roles-skills-salary/",
+      "https://www.3ritechnologies.com/business-analyst-projects-skills-live-projects/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/cyber-security-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Cybersecurity Live Projects to Grow Your Skills & Portfolio",
+    "og_description": "New to cybersecurity? Build practical skills with Cyber Security Course in Pune and strengthen your portfolio through Cyber Security Classes in Pune. Join today.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Cybersecurity Live Projects to Grow Your Skills &#038; Portfolio ",
+            "datePublished": "2026-08-10T12:02:00+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/"
+            },
+            "wordCount": 1857,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/Cybersecurity-Live-Projects-to-Build-Skills-Portfolio.png",
+            "keywords": [
+              "Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Cyber Security"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/",
+            "url": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/",
+            "name": "Cybersecurity Live Projects to Grow Your Skills & Portfolio",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/Cybersecurity-Live-Projects-to-Build-Skills-Portfolio.png",
+            "datePublished": "2026-08-10T12:02:00+00:00",
+            "description": "New to cybersecurity? Build practical skills with Cyber Security Course in Pune and strengthen your portfolio through Cyber Security Classes in Pune. Join today.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/Cybersecurity-Live-Projects-to-Build-Skills-Portfolio.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/08/Cybersecurity-Live-Projects-to-Build-Skills-Portfolio.png",
+            "width": 1000,
+            "height": 669,
+            "caption": "Every live project in a Cyber Security Course in Pune helps you build confidence and practical skills"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/cybersecurity-live-projects-to-grow-your-skills-portfolio/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Cybersecurity Live Projects to Grow Your Skills &#038; Portfolio "
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

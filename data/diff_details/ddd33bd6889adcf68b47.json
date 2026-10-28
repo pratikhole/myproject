@@ -1,0 +1,334 @@
+{
+  "url": "https://www.3ritechnologies.com/angularjs-vs-nodejs/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "AngularJS vs NodeJS: Key Differences, Use Cases & Career Scope",
+    "meta_description": "Understand the difference between AngularJS and NodeJS. Explore their roles, features, and combined potential in full stack development. Enroll in our AngularJS Course to master front-end skills.",
+    "h1": [
+      "AngularJS vs NodeJS: Understanding the Differences and Synergies"
+    ],
+    "content": "Skip to content Home > AngularJS vs NodeJS: Understanding the Differences and Synergies AngularJS vs NodeJS: Understanding the Differences and Synergies What is Node JS? Node.js is a cross-platform runtime library and an environment for running JavaScript applications outside the browser. It is a free open source tool for creating server-side JS Table of Contents PriyankaS3ri July 13, 2020 6:04 pm A Complete Guide to AngularJS and NodeJS for Aspiring Developers In today’s full stack development landscape, understanding how AngularJS and NodeJS complement each other is vital. While AngularJS is a robust front-end framework for building dynamic user interfaces, NodeJS excels at handling backend operations. Many developers use AngularJS with NodeJS to create seamless, scalable applications. If you’re exploring the technical differences between AngularJS and NodeJS, or how to use Node JS with Angular JS, this guide offers clarity. Get hands-on with modern front-end tools through our AngularJS Course at 3RI Technologies, and build a solid foundation for your full stack journey. What is Node JS? Node.js is a cross-platform runtime library and an environment for running JavaScript applications outside the browser. It is a free open source tool for creating server-side JS applications. Node.js applications are written in JavaScript. This application can run on Linux and Microsoft Windows while running Node.js. This framework offers a comprehensive library of various JavaScript modules to simplify the web development process. What is Angular JS? AngularJS is a structural framework for developing dynamic web applications. Developers can use HTML as a template language, and the HTML syntax can express the application’s components briefly but clearly. It is a fully functional JavaScript framework, whose main objective is a simplification. It supports the development of dynamic one-sided web applications and supports the Programming Framework (MVC).Node.js is a cross-platform runtime environment for applications written in JavaScript, while AnglarJS is an open-source framework for developing web applications. Enroll for AngularJS Online Course Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send AngularJS vs NodeJS The node must be installed on the computer system, while AnglarJS, like any other JavaScript file, needs only AngularJS files to be used in applications. Node.JS is a useful tool for creating fast and scalable server network applications, while AngularJS is best suited for creating client-side web applications. Node.JS is an ideal language for the development of small projects, and AngularJS is an ideal language for creating highly interactive web applications. Node.JS is written in C, C ++, and JavaScript, while AngularJS is written entirely in JavaScript. Important Node.js structures, such as Sails.js, Partial.js, and Express.js, while AngularJS itself is the framework for web applications. Developers can use JavaScript on both the client and the server. Then you can focus on learning a language. Angular JS requires a deep understanding of the prototyping, scope, and several other aspects of JavaScript. Node.js is very useful for generating database queries because JavaScript is used to write queries to the database such as MongoDB, CouchDB. This reduces the task for the developer, as he does not have to remember the syntax differences when combining the Node.js and NoSQL databases. Almost all other frameworks implement MVC by asking to split an application into MVC components. It is a difficult task, but Angular makes it easy, because it implements MVC, dividing the application into MVC components. Node.js is an ideal option for collaborative drawing/editing applications in real-time, in which the user can see the modified document live by another user, such as Dropbox or Google Docs. Angular’s declarative approach simplifies application development in a WYSIWYG way. Instead of spending time on how the program works and what loads first, developers can define what they want and Angular JS takes care of dependencies. Node.js is useful in situations where something faster and more scalable is needed. Angular is useful when creating real-time applications, such as instant messaging or chats applications. AngularJS vs NodeJS: Core architecture AngularJS was developed by Google as a framework for the development of web applications. Unlike other JavaScript frameworks, Angular is written entirely in JavaScript. It still follows the rules of JavaScript syntax. On the other hand, NodeJS was developed as a cross-platform runtime environment based on Google’s JavaScript V8 engine. It was written in several programming languages ​​- JavaScript, C and C ++. AngularJS vs NodeJS: Web Framework Unlike NodeJS, AngularJS is a web structure. Developers can use the web infrastructure to automate common development tasks while developing a variety of applications – websites, web applications, web services, and web application frameworks. NodeJS cannot be used as a web framework by JavaScript programmers. However, you have the option to choose from a variety of structures based on NodeJS – Socket.io, Hapi.js, Meteor.js, Express.js, and Sails.js . AngularJS vs NodeJS: Installation Developers can write NodeJS applications in JavaScript. However, applications must run on different platforms in the runtime environment – Windows, Linux, and macOS. Therefore, developers must install NodeJS on their computer system when creating the development environment. However, developers do not need to install AngularJS on their computer systems. You can embed AngularJS files in the code base like other JavaScript files. AngularJS vs NodeJS: Important Features NodeJS and AngularJS support MVC architecture models. However, each of the two JavaScript-based technologies has different functions. With AngularJS, programmers can use HTML as a model language. Developers can even express different components of a Web application by developing HTML syntax. AngularJS also simplifies the development of dynamic one-sided web applications, providing functions such as data binding, scope, instructions, filters, models, routing, deep links, and dependency injection. On the other hand, NodeJS as a server-side framework provides several functions that developers need to create a network and server-side applications. Developers can take advantage of the functionality provided by NodeJS to simplify the development of one-page sites, video streaming sites, and similar I / O-intensive web applications. NodeJS also helps programmers to use asynchronous APIs and a single thread event mechanism, dramatically improving the speed of code execution. Developers can even use NodeJS for Web applications to provide bulk data without buffering. AngularJS vs NodeJS: Working with Data AngularJS not only implements the MVC architecture model in other ways, but it also supports bidirectional data binding. The bidirectional data link automatically synchronizes data between the model of a web application and the components of the view. However, AngularJS does not provide a function to write queries to the database. On the other hand, programmers can use NodeJS to generate database queries in JavaScript. This makes it easier for programmers to create database queries for non-relational databases, such as MongoDB and CouchDB, overcoming syntactic differences. AngularJS vs NodeJS: Programming Language and Paradigm Support NodeJS and AngularJS support many programming languages ​​in addition to JavaScript. NodeJS supports Ruby, CoffeeScript, and TypeScript, while AngularJS supports CoffeeScript, TypeScript and Dart. Both JavaScript-based technologies even support many common programming examples. AngularJS supports object-oriented, functional, and event-driven examples. At the same time, NodeJS supports examples of object-oriented, functional, event, relational, and sub/pub programming. Learn more at 3RI Technologies AngularJS vs NodeJS: Use Cases AngularJS is widely used by JavaScript developers to create single-page, client-side web applications. The functions provided by the web framework make it easy to program interactive applications in real-time. On the other hand, developers often use NodeJS to create a fast and scalable network and server applications. The functionality of the cross-platform runtime environment still helps developers create applications that need to be designed in real-time or edited together. In general, AngularJS is a client-side infrastructure, while NodeJS is a cross-platform runtime environment. JavaScript developers can integrate NodeJS and AngularJS to simplify the development of isomorphic applications. You can even use AngularJS and NodeJS as two main components of the MEAN software stack with MongoDB and ExpressJS. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes What is Best NodeJS or JS Angular? The Node.js and AngularJS platforms aim to create web applications using JavaScript. However, the two differ in their architecture and in the way they work. Node.js is used primarily to build server-side applications. AngularJS is suitable for creating client-side web applications with a single page. Angular Classes in Pune will help you to learn everything in detail. These two frames are powerful, advanced, and widely used around the world. Therefore, you must choose according to the needs of your project. Related blogs Difference between Angular and AngularJS AngularJS Interview Questions and Answers MEAN Stack Interview Questions and Answers Salesforce Interview Questions and Answers Career in Salesforce Why Learn Python in 2020 Top 10 Python Interview Questions & Answers for Freshers and Experts What is Python used for in Programming Python Best Practices: 5 Tips For Better Coding For Best Quality Python Programming Classes in Pune, Join 3ri Technologies! Best Technologies To Learn In IT Industry 2020 Python vs Java DevOps Career in 2020 Prev Previous Angular JS vs React JS: A Detailed Comparison for Developers Next Angularjs Features Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/07/AngularJS-vs-NodeJS.jpg",
+        "alt": "Difference between AngularJS and NodeJS",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Angular-Certified-Professional.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Web+Technologies&cd%5Bpage_title%5D=AngularJS+vs+NodeJS%3A+Understanding+the+Differences+and+Synergies&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=18679&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fangularjs-vs-nodejs%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2020/07/13/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/angular-vs-angularjs/",
+      "https://www.3ritechnologies.com/angular-vs-react/",
+      "https://www.3ritechnologies.com/angularjs-features/",
+      "https://www.3ritechnologies.com/angularjs-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/angularjs-vs-nodejs/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/best-technologies-to-learn/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/career-in-devops/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/for-best-quality-python-programming-classes-in-pune-join-3ri-technologies/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/mean-stack-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-best-practices-5-tips-for-better-coding/",
+      "https://www.3ritechnologies.com/python-interview-questions-answers/",
+      "https://www.3ritechnologies.com/python-vs-java/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/salesforce-career/",
+      "https://www.3ritechnologies.com/salesforce-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-python-used-for-in-programming/",
+      "https://www.3ritechnologies.com/why-learn-python-in-2020/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/angularjs-vs-nodejs/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "AngularJS vs NodeJS: Key Differences, Use Cases & Career Scope",
+    "og_description": "Understand the difference between AngularJS and NodeJS. Explore their roles, features, and combined potential in full stack development. Enroll in our AngularJS Course to master front-end skills.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/angularjs-vs-nodejs/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/angularjs-vs-nodejs/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "AngularJS vs NodeJS: Understanding the Differences and Synergies",
+            "datePublished": "2020-07-13T12:34:05+00:00",
+            "dateModified": "2025-06-02T07:28:44+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/angularjs-vs-nodejs/"
+            },
+            "wordCount": 1419,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/angularjs-vs-nodejs/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/07/AngularJS-vs-NodeJS.jpg",
+            "keywords": [
+              "Angular Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Web Technologies"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/angularjs-vs-nodejs/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/angularjs-vs-nodejs/",
+            "url": "https://www.3ritechnologies.com/angularjs-vs-nodejs/",
+            "name": "AngularJS vs NodeJS: Key Differences, Use Cases & Career Scope",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/angularjs-vs-nodejs/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/angularjs-vs-nodejs/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/07/AngularJS-vs-NodeJS.jpg",
+            "datePublished": "2020-07-13T12:34:05+00:00",
+            "dateModified": "2025-06-02T07:28:44+00:00",
+            "description": "Understand the difference between AngularJS and NodeJS. Explore their roles, features, and combined potential in full stack development. Enroll in our AngularJS Course to master front-end skills.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/angularjs-vs-nodejs/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/angularjs-vs-nodejs/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/angularjs-vs-nodejs/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2020/07/AngularJS-vs-NodeJS.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/07/AngularJS-vs-NodeJS.jpg",
+            "width": 1000,
+            "height": 667,
+            "caption": "Difference between AngularJS and NodeJS"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/angularjs-vs-nodejs/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "AngularJS vs NodeJS: Understanding the Differences and Synergies"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

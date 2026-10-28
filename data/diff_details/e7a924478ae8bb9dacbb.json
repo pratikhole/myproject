@@ -1,0 +1,320 @@
+{
+  "url": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Launch Your AWS Virtual Machine (EC2) in Minutes: A Guide",
+    "meta_description": "Ready to launch your first virtual machine on AWS? This easy, step-by-step guide shows you how to set up an Amazon AWS virtual machine (EC2) in just minutes. Perfect for beginners. Click to start building on the cloud!",
+    "h1": [
+      "How to Set Up an AWS Virtual Machine (EC2) in Minutes"
+    ],
+    "content": "Skip to content Home > How to Set Up an AWS Virtual Machine (EC2) in Minutes How to Set Up an AWS Virtual Machine (EC2) in Minutes Explore AWS Virtual Machines (EC2) – Learn how they work, their benefits, and how to deploy and manage them efficiently. Table of Contents PriyankaS3ri March 10, 2025 3:50 pm AWS, short for Amazon Web Services, is Amazon.com’s cloud computing platform. It delivers a suite of services and tools designed to assist businesses and individuals in storing, processing, and managing their data and applications within the cloud. The power of cloud computing lies in its flexibility, and at the heart of this is the AWS virtual machine, more formally known as an EC2 instance. Learning to quickly deploy a virtual machine on AWS is a non-negotiable skill for developers, administrators, and data professionals alike. While a single guide can get you started, mastering the full ecosystem of AWS virtual machines and related services requires deeper, structured learning. For those looking to build a robust career in cloud technology, our expert-led AWS Training in Pune provides the comprehensive skills you need. In the following steps, we’ll walk you through launching your very own Amazon AWS virtual machine so you can get hands-on experience immediately. The advent of AWS has transformed how computing and storage are handled. The burden of maintaining physical hardware, security, and upkeep is now a thing of the past. AWS takes care of these aspects, allowing you to concentrate on building and launching applications and data without the complexities and costs of infrastructure management. An AWS Virtual Machine provides the flexibility of a virtual server that runs on AWS, removing the dependency on physical hardware. It acts as a robust substitute for traditional servers, enabling seamless application hosting and efficient workload distribution across multiple servers. Opting for an AWS Virtual Machine is a wise choice for establishing a virtual private server on the AWS platform. Managing and operating a virtual machine (VM) via the AWS console is intuitive and straightforward. Keep reading to explore its functionality, key features, and real-world applications. Since its inception, AWS has attracted a vast user base due to its cost-effective and versatile services. For IT professionals, mastering AWS can unlock thrilling career prospects in leading companies. One fundamental concept to understand while exploring AWS is the AWS Virtual Machine. Let’s dive into it. Simply put, Amazon Web Services (AWS) Virtual Machine (VM), also known as EC2, is a cloud-based service that delivers scalable and flexible computing resources on demand. With AWS, users can deploy virtual servers—referred to as instances—configure them as required, and run various applications and services. Every virtual machine instance functions as a fully working server that is accessible and controllable from a distance. AWS offers a range of instance types, from lightweight, low-power options to high-performance configurations, catering to diverse computing needs. These virtual instances can be effortlessly scaled up or down based on demand, making them a cost-effective choice for running cloud applications and services. From Zero to Live: A Step-by-Step Guide to Launching Your First VM on AWS Several operating systems can operate on a single physical server thanks to virtual machines (VMs), which are software-based simulations of real computers. For businesses leveraging AWS, cost optimization is crucial while maintaining high performance and reliability. This is where virtualization proves beneficial. It helps companies maximize server utilization while keeping costs manageable and ensuring seamless service delivery to customers. AWS Virtual Machines provide secure, isolated environments for hosting applications, services, and workloads. With AWS handling the physical infrastructure, users can concentrate on optimizing their applications without the hassle of managing hardware intricacies. Why Use AWS Virtual Machine? AWS Virtual Machines offers a comprehensive cloud computing solution, providing everything you need as a professional. With highly scalable and flexible resources, AWS VMs enable you to run a wide range of applications and services efficiently in the cloud. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send Key Benefits of Using AWS Virtual Machines: Cost-Effective Solutions – VM instances can be stopped and restarted as needed, allowing you to optimize costs by paying only for what you use. Flexibility – AWS instances can be customized to meet specific computing requirements, including memory, storage, and processing power. Scalability – The system can be easily scaled up (vertical scaling) or distributed across multiple instances (horizontal scaling) based on demand. Security – AWS offers strong security features, including security groups and network access control lists, to safeguard VM instances. Reliability – Built on AWS’s highly available infrastructure, VMs ensure smooth operation and resilience against disruptions. Seamless Integration – EC2 instances work seamlessly with other AWS services like Amazon S3 and Amazon RDS, offering a complete cloud computing ecosystem. How to Set Up a VM on AWS? To effectively set up your AWS virtual machine , follow these steps: Step 1: Log in to the AWS Management Console: Create an account if you don’t have one. Step 2: Navigate to EC2 Service: Click on “Launch Instance” to initiate the instance creation process. Step 3: Choose an Amazon Machine Image (AMI): Select an AMI that includes your preferred operating system and required software. Step 4: Select an Instance Type: Choose based on your needs, specifying CPU, memory, storage, and networking capacity. Step 5 : Configure Instance Details: Set network settings, security groups, and storage options. Step 6 : Set Up Key Pairs: Enable secure remote access to your instance. Step 7: Review Configuration Settings: Ensure everything is correct and click “Launch” to start your instance. Step 8: Connect to Your Instance: Use Secure Shell Protocol (SSH) for Linux or Remote Desktop Protocol (RDP) for Windows . Step 9: Customize the instance further according to your platform requirements. Features of AWS Virtual Machine AWS Virtual Machines come with a range of powerful features, ensuring flexibility, scalability, and cost-efficiency. Here are some key highlights: 1. Global Deployment : AWS VMs are distributed across multiple AWS regions, enhancing availability, fault tolerance, and reducing latency for users worldwide. 2. Application Portability : Applications can be seamlessly transferred between data centers without modifications. AWS supports multiple virtualization technologies, including Xen, KVM, and VMware ESXi. 3. Autoscaling Capability : AWS enables instances to automatically scale in response to traffic demands, ensuring optimal performance and resource utilization. Autoscaling groups work with load balancers to manage instance capacity dynamically. 4. On-Demand Virtual Servers : AWS offers a pay-per-use model where instances can be started, stopped, or terminated as required, ensuring cost-effective resource management. 5. Manual Fine-Tuning : Users can manually configure memory, CPU, and other resources to optimize performance based on application requirements. 6. Automatic Resource Optimization : AWS dynamically adjusts CPU, memory, and storage allocation based on real-time application usage, reducing costs and enhancing efficiency. 7. Seamless Software Updates : AWS ensures a smooth release cycle, allowing users to access the latest versions without compatibility issues or downtime. 8. Low Latency Performance : With AWS data centers positioned globally, applications experience minimal latency, ensuring faster response times. 9. Scalability at Its Best : AWS VMs support automatic scaling, allowing businesses to increase or decrease instances based on demand while only paying for what they use. Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Use Cases of AWS Virtual Machine AWS Virtual Machines offer a flexible and scalable solution to meet diverse computing requirements. They are easy to deploy, manage, and access through the AWS console. Here are three key use cases: 1. Hosting an Application Server : For high availability and reliability, multiple instances of an application can be deployed across different Availability Zones (AZs). In case of an outage in one AZ, another zone ensures uninterrupted service. 2. Application Testing Before Deployment : AWS VMs allow developers to test applications in production-like environments. This helps in evaluating different database configurations, storage systems, and network setups before launching them live. 3. Using AWS as a Platform-as-a-Service (PaaS) : With AWS, developers can focus on coding without worrying about infrastructure management. Simply upload the application, configure settings, and let AWS handle provisioning, scaling, and maintenance. Conclusion AWS Virtual Machines serve a wide range of purposes, including software development, testing, and various computing processes. By leveraging AWS Virtual Machines, organizations can streamline operations, boost efficiency, and scale effortlessly to meet changing demands. Gaining hands-on experience with AWS allows professionals to master cloud technologies and stay ahead in the industry. Take your expertise to the next level by enrolling in our DevOps training and learning how to implement the latest cloud solutions in your business. In this blog, we explored AWS Virtual Machines, their features, and the numerous benefits they offer to organizations. AWS VMs provide a flexible, secure, and reliable cloud computing solution, making them an excellent choice for deploying and managing applications efficiently. Whether you’re hosting web applications, databases, or big data workloads, AWS VMs deliver scalability and performance suited for businesses of all sizes. Take the first step in mastering AWS by enrolling in our AWS Certification in Pune and enhance your cloud expertise today! Frequently Asked Questions (FAQs) Q1. Can I use AWS to operate more than one virtual machine? Ans. Yes, AWS allows you to launch and manage multiple virtual machines (instances) simultaneously, enabling you to scale as per your business needs. Q2. How does an AWS Virtual Machine enhance application performance? Ans. AWS VMs offer scalability, load balancing, and multi-zone deployment, ensuring optimal performance, reduced latency, and high availability. Q3. After starting an AWS virtual machine, is it possible to change the instance type? Ans. Yes, AWS allows you to resize instances by changing the instance type, enabling you to adjust computing power, memory, and storage as needed. Q4. What security features does AWS Virtual Machine offer? Ans. AWS provides robust security features, including security groups, network access control lists (NACLs), encryption, and identity management, ensuring data protection and secure access. Q5. Does managing and configuring AWS Virtual Machines need highly skilled technical knowledge? Ans. No, AWS offers a user-friendly interface, step-by-step documentation, and automated setup options, making it accessible to both beginners and experienced users. Prev Previous Grid Computing: Understanding its Types, Workings, and Applications Next Top AWS Certifications in 2025 That Employers Are Looking For Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/03/Blog-Images-18.png",
+        "alt": "What is AWS Virtual Machine? Explore its features, setup process, and benefits for cost-effective and scalable cloud solutions.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/21-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=aws%2C+Blog&cd%5Bpage_title%5D=How+to+Set+Up+an+AWS+Virtual+Machine+%28EC2%29+in+Minutes&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=108536&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fhow-to-set-up-an-aws-virtual-machine-ec2-in-minutes%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2025/03/10/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/grid-computing-types-workings-and-applications/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/the-best-aws-certifications-to-get-hired-in-2025/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Launch Your AWS Virtual Machine (EC2) in Minutes: A Guide",
+    "og_description": "Ready to launch your first virtual machine on AWS? This easy, step-by-step guide shows you how to set up an Amazon AWS virtual machine (EC2) in just minutes. Perfect for beginners. Click to start building on the cloud!",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "How to Set Up an AWS Virtual Machine (EC2) in Minutes",
+            "datePublished": "2025-03-10T10:20:22+00:00",
+            "dateModified": "2025-06-12T04:55:58+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/"
+            },
+            "wordCount": 1591,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/03/Blog-Images-18.png",
+            "keywords": [
+              "AWS Blog Design"
+            ],
+            "articleSection": [
+              "aws",
+              "Blog"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/",
+            "url": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/",
+            "name": "Launch Your AWS Virtual Machine (EC2) in Minutes: A Guide",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/03/Blog-Images-18.png",
+            "datePublished": "2025-03-10T10:20:22+00:00",
+            "dateModified": "2025-06-12T04:55:58+00:00",
+            "description": "Ready to launch your first virtual machine on AWS? This easy, step-by-step guide shows you how to set up an Amazon AWS virtual machine (EC2) in just minutes. Perfect for beginners. Click to start building on the cloud!",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/03/Blog-Images-18.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/03/Blog-Images-18.png",
+            "width": 1000,
+            "height": 667,
+            "caption": "What is AWS Virtual Machine? Explore its features, setup process, and benefits for cost-effective and scalable cloud solutions."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/how-to-set-up-an-aws-virtual-machine-ec2-in-minutes/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "How to Set Up an AWS Virtual Machine (EC2) in Minutes"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

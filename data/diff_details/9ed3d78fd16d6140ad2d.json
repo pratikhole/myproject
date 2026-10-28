@@ -1,0 +1,342 @@
+{
+  "url": "https://www.3ritechnologies.com/multithreading-in-java/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Multithreading in Java -|3RI Technologies Pvt Ltd",
+    "meta_description": "Multithreading program in java permits simultaneous execution of at least two parts of a program for the greatest usage of CPU.",
+    "h1": [
+      "Multithreading in Java"
+    ],
+    "content": "Skip to content Home > Multithreading in Java Multithreading in Java Multithreading program in java permits simultaneous execution of at least two parts of a program for the greatest usage of CPU. Every single part of the program mentioned above is known as a string. Along these lines, strings are lightweight processes inside an interaction. Table of Contents PriyankaS3ri May 25, 2022 11:29 am Multithreading program in java permits simultaneous execution of at least two parts of a program for the greatest usage of CPU. Every single part of the program mentioned above is known as a string. Along these lines, strings are lightweight processes inside an interaction. Strings can be made by utilizing two systems : Expanding the Thread class Carrying out the Runnable Interface String creation by expanding the Thread class We make a class that expands the java.lang.Thread class. This class takes the place of the run() strategy accessible in the thread in the java class. A string starts its life inside run() strategy. Initially, make an object of your new class and call the start() technique to begin the enactment of a string. Begin() summons the run() technique on the Thread object. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send // Java code for thread creation by extending // the Thread class Class MultithreadingDemo extends Thread { Public void run() { Try { // Displaying the thread that is running System.out.println( “Thread “ + Thread.currentThread().getId() + “ is running”); } Catch (Exception e) { // Throwing an exception System.out.println(“Exception is caught”); } } } // Main Class Public class Multithread { Public static void main(String[] args) { Int n = 8; // Number of threads For (int I = 0; I < n; i++) { MultithreadingDemo object = new MultithreadingDemo(); Object.start(); } } } Output Thread 15 is running Thread 14 is running Thread 16 is running Thread 12 is running Thread 11 is running Thread 13 is running Thread 18 is running Thread 17 is running Multithreading in Java is nothing but a course of executing numerous strings at a time. To specify further, a string is nothing but a lightweight sub-process, also called the littlest unit of conduct. The main motive of Multiprocessing and multithreading is to achieve the execution of multiple tasks. Notwithstanding, we use multithreading than multiprocessing since strings utilize a common memory region. They don’t allot separate memory regions so save memory, and setting exchanging between the strings takes less time than process. Java Multithreading is for the most part utilized in games, movement, and so forth. Life Cycle of a Thread A string carries forward with numerous stages in its day-to-day life cycle. For instance, a string is conceived, began, runs, and afterward kicks the bucket. The coexisting graph shows the cumulative life structure of a string. Java Thread Tutorial The underlying is the different phases of the life cycle of the Java Thread tutorial – New – In this stage, another string starts its existence cycle in the new state. Besides, it remains in this state until the procedure begins the string. It is furthermore attributed to as a conceived string. Runnable – Once a recently conceived string is started, the string becomes fine-tuned to run. A string in this state is viewed as executing its assignment. Pausing − Sometimes, a string changes to the holding upstate while the string trusts that another string will play out an undertaking. String comes back to the runnable state only when other string signals are holding up to execute. Coordinated Waiting − A runnable string can enter the planned hanging tight state for a predetermined time. A string in this state progresses back to the state where it’s runnable. It happens when that time stretch terminates or when the occasion it is sitting tight for happens. Ended (Dead) − A runnable string enters the ended state when it gets done with its job or in any case ends. String Priorities Each Java string has a need that assists the working framework with deciding the request where strings are booked. Strings with higher needs are more vital to a program and ought to be allotted processor time before lower-need strings. Be that as it may, string needs can’t ensure the request where strings execute and are a lot of stage subordinate. // ABC class implements the interface Runnable Class ABC implements Runnable { Public void run() { // try-catch block Try { // moving thread t2 to the state timed waiting Thread.sleep(100); } Catch (InterruptedException ie) { Ie.printStackTrace(); } System.out.println(“The state of thread t1 while it invoked the method join() on thread t2 –“+ ThreadState.t1.getState()); // try-catch block Try { Thread.sleep(200); } Catch (InterruptedException ie) { Ie.printStackTrace(); } } } // ThreadState class implements the interface Runnable Public class ThreadState implements Runnable { Public static Thread t1; Public static ThreadState obj; // main method Public static void main(String argvs[]) { // creating an object of the class ThreadState Obj = new ThreadState(); T1 = new Thread(obj); // thread t1 is spawned // The thread t1 is currently in the NEW state. System.out.println(“The state of thread t1 after spawning it – “ + t1.getState()); // invoking the start() method on // the thread t1 T1.start(); // thread t1 is moved to the Runnable state System.out.println(“The state of thread t1 after invoking the method start() on it – “ + t1.getState()); } Public void run() { ABC myObj = new ABC(); Thread t2 = new Thread(myObj); // thread t2 is created and is currently in the NEW state. System.out.println(“The state of thread t2 after spawning it – “+ t2.getState()); T2.start(); // thread t2 is moved to the runnable state System.out.println(“the state of thread t2 after calling the method start() on it – “ + t2.getState()); // try-catch block for the smooth flow of the program Try { // moving the thread t1 to the state timed waiting Thread.sleep(200); } Catch (InterruptedException ie) { Ie.printStackTrace(); } System.out.println(“The state of thread t2 after invoking the method sleep() on it – “+ t2.getState() ); // try-catch block for the smooth flow of the program Try { // waiting for thread t2 to complete its execution T2.join(); } Catch (InterruptedException ie) { Ie.printStackTrace(); } System.out.println(“The state of thread t2 when it has completed it’s execution – “ + t2.getState()); } } Output: The state of thread t1 after spawning it – NEW The state of thread t1 after invoking the method start() on it – RUNNABLE The state of thread t2 after spawning it – NEW The state of thread t2 after calling the method start() on it – RUNNABLE The state of thread t1 while it invoked the method join() on thread t2 -TIMED_WAITING The state of thread t2 after invoking the method sleep() on it – TIMED_WAITING The state of thread t2 when it has completed it’s execution – TERMINATED Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Java Thread Synchronization In multithreading program in java , there is an unconventional way of administering the projects. Assuming one string is thinking of certain information and another string is perusing information simultaneously, could make irregularity in the application. Whenever there is a need to get to the common assets by at least two strings, the synchronization approach is used. Java has given synchronized strategies to carry out synchronized conduct. In this multi threading concept in java methodology, when the string comes inside the synchronized square, then no other string can call that technique on a similar item. All strings need to stand by till that string completes the synchronized square and emerges from that. Along the similar grounds, synchronization is beneficial in a multithreading concepts in java application. One string needs to stand by till the other string completes its execution really at that time different strings are taken into account for execution. Before we plunge into the classes and articles connected with multithreading in Java , let us check out the strings and their states in Java. Explore your skill at Java Classes in Pune . Benefits of Multithreading in java At the point when we discuss the fast execution of any program, it simply needs to play out a few activities simultaneously. It is extremely favorable with regards to making a productive program that executes rapidly at basically no time. The following are a couple of normal advantages : benefits of multithreading in java Improving proficiency – It makes the application extremely proficient by utilizing the CPUs. I let the strings utilize the CPU productively by utilizing it while different strings sit tight for some result. Sharing Memory – The greatest aspect of multithreading is, that the string that it utilizes doesn’t involve the memory however use it on a common premise. Subsequently, it likewise utilizes memory by sharing it suitably. Reduces run time – It typically mitigates the time used by an application to run the specified program. The time that it saves with the help of strings could be employed for various projects to restrict program execution time. Utilized in complex applications – The utilization of strings in application advancement makes it a part simple to make the modules in the application. They are being utilized in an exceptionally productive way to make planning and advancement simple. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send In what ways does Multithreading in java make functioning so natural? In the last couple of segments, we got to know that it is so valuable to involve Multithreading in any application to make it productive. It makes work entirely simple with regards to fostering an application that should use less chance to play out any activity. Notwithstanding the exhibition benefits, it likewise permits the application to involve the capacity in a common way and subsequently save the memory also. Each application that processes a tremendous measure of information or needs to perform huge calculations ought to involve the element to cause it to consume less time and proposition the right result in an extremely limited ability to focus time. Notwithstanding its normal in addition to focuses, it makes the program look a cycle confounded. On the opposite side, assuming it is dealt with appropriately, it could prompt giving an edge to the application over other programming’s that are not contained multithreading. Required abilities We had executed multithreading in the model area, and we have a thought of how to compose any program that utilizes the component of multithreading. To the extent that we comprehended things, clearly it isn’t super complicated and doesn’t request a ton of ability to foster the application. There are a couple of essential abilities in light of Java that one must know about to carry out accurately in any application. The essential information on Java is exceptionally important to work with strings. We needed to utilize either the class Thread or needs to carry out the Runnable point of interaction to present this effective component, so clearly one needs to know how to function with classes and points of interaction. These are the required things that an engineer ought to succeed at prior to getting their hands into creating modules in light of strings. To be Job-ready, check out our Job Oriented Courses today! What makes it a good idea for us to involve Multithreading in java? However we are intimately acquainted with the positive side of multithreading, we should realize the reason why would it be a good idea for us we use it in our projects. Indeed, it is expressed that behind anything or any activity, there should exist some reason. So getting the exact reason behind the utilization of this is fundamental. So how about we find out what things that make us use it are. It helps us in the advancement of the application that works proficiently to satisfy the business prerequisite. Whatever consumes fewer assets is valued all of the time. Similarly, this element upgrades capacity productivity and assists us with saving assets. It likewise permits us to plan a program that involves less time in execution and makes the client experience extremely fulfilling. Multithreading in java scope In the cutthroat period where everybody is hurrying to save their time, multithreading could be at last valuable. The projects or calculations planned these days are extremely perplexing in some cases and solicitation a huge arrangement of assets and a sizable amount of chance to get executed. By presenting this choice in the calculations, we can make the time consumed while the calculation is really less. The designer with the range of abilities of utilization advancement utilizing strings will be under colossal interest as the intricacy of uses is expanding bit by bit step by step. Indeed, even in the ongoing time frame, organizations are recruiting Java designers like anything, and understanding how strings are carried out can add an edge to your abilities. It is generally better to know a lot and right so it very well may be carried out someplace, and the case is something similar with multithreading also. To learn more check out 3RI Technologies Multithreading vs Multiprocessing Although a system’s processing capability can be increased through multithreading or multiprocessing, these two strategies differ in several important ways. The following are some of the main ways that various approaches vary from one another: While multithreading increases computing power by using a single process with several code segments, multiprocessing employs two or more CPUs to improve computing power. While multiprocessing adds CPUs to boost computing capability, multithreading concentrates on creating computational threads from a single process. While multithreading creates simultaneous threads, multiprocessing builds a more dependable system. While creating multiprocessing takes a lot of effort and specialized resources, multithreading is quick and requires few resources. While multithreading runs several threads concurrently, multiprocessing runs multiple processes concurrently. While multiprocessing produces a distinct address space for each process, multithreading uses a single address space for all threads. How does Java Handle Multiple Threads? Multithreading is possible in Java because it has built-in tools for making and controlling threads. It gives you a Thread class that you can extend to make your own threads and a Runnable interface that you can use to give threads jobs. You can either add to the Thread class and change its run() method to set the thread’s job, or you can implement the Runnable interface and give the Thread constructor an instance of the Runnable class. Then, the start() method is called to start running the thread. Multithreading is the term for this thread’s simultaneous operation with other threads in the JVM. How Numerous Varieties of Threads Exist? User threads and server threads are the two most common types of threads in Java. User threads are started by the program and keep running until their job is done, or the application closes. In contrast, a daemon thread operates invisibly in the background and terminates itself once no user threads remain active. This kind of thread is helpful for things like garbage gathering, etc. Thread Priority: What Is It? Java uses an integer float double-long called thread priority to indicate a thread’s importance. Although this behavior is not guaranteed, threads with higher priorities are more likely to be scheduled for execution before threads with lower priorities. Java has a variety of priorities in addition to methods for setting and obtaining a thread’s priority value. In Java, the thread priority value ranges from 1 to 10, where 1 represents the lowest priority and 10 represents the greatest. Five is a thread’s default priority. This range makes it possible to prioritize threads according to their unique needs flexibly and scalable. To set a thread’s priority, use the `setPriority()` function of the Thread class. An integer input that represents the intended priority value is required for this method to function. An analogous function for obtaining a thread’s current priority value is `getPriority().` Multitasking Multitasking is a technique for reducing execution time and increasing CPU utilization by doing numerous activities concurrently. You can multitask in Java utilizing two approaches, as detailed below: ● Multiprocessing ● Multithreading ● Multiprocessing Java only cares about how many processors are on the host machine when it comes to multiprocessing. Every process that the user starts goes to the CPU. It puts information about the process into the CPU’s registers. Anyone can use more than one computer at the same time in Java. So, when the user tells the computer to run the second process simultaneously, it uses the second CPU core. ● Multithreading Java supports multiprocessing and multithreading as methods of operation. Nonetheless, there are a few notable distinctions between the two. Instead of using a physical processor, multithreading uses distinct, virtual threads. Depending on how complex a thread is, it assigns one or more to each process. Every thread functions independently and is virtual. This greatly improves the process’s operation. The process will continue to operate even if an unforeseen event kills one or two threads. Java Thread Methods S. No. The Modifier and Type Method Description 1. void start() It starts the thread’s execution. 2. void run() It processes a thread’s action. 3. Static void sleep() It puts a thread to sleep for the time you give it. 4. Static Thread currentThread() It gives back a pointer to the thread object that is currently running. 5. void join() It awaits the death of a thread. 6. int getPriority() It gives back the thread’s priority. 7. void setPriority() This sets a new priority for the thread. 8. String getName() It gives back the thread’s name. 9. void setName() It changes the name of the thread. 10. long getId() It returns the thread’s identifier. 11. boolean isAlive() It determines whether the thread is alive. 12. static void yield() It makes the thread object that is presently running pause and lets other threads run temporarily. 13. void suspend() It acts as a thread suspender. 14. void resume() Its purpose is to continue the suspended thread. 15. void stop() It serves as the thread’s stopper. 16. void destroy() Its purpose is to eliminate the thread group with all its subdivisions. 17. boolean isDaemon() The program verifies if the running thread is a daemon thread. 18. void setDaemon() It designates the thread as either a daemon or user thread. 19. void interrupt() It ends the active thread. 20. boolean isinterrupted() It checks to see if there has been a thread interruption. 21. static boolean interrupted() It determines if there has been an interruption to the running thread. 22. static int activeCount() It tells you how many active threads are in the thread group of the present thread. 23. void checkAccess() It checks the thread’s permissions to see if the one running now can make changes. 24. static boolean holdLock() It only gives an accurate result if the current thread holds the monitor lock on the item sent in. 25. static void dumpStack() It prints the stack trace of the running thread to the default error stream. 26. StackTraceElement[] getStackTrace() It gives back an array of stack trace elements corresponding to the thread’s stack dump. 27. static int enumerate() Its purpose is to replicate each running thread’s thread group and subgroup into the designated array. 28. Thread.State getState() Its purpose is to provide the thread’s current state. 29. ThreadGroup getThreadGroup() Assigning this thread to a particular thread group is what it returns. 30. String toString() Its purpose is to provide a string that describes this thread, including its group, priority, and name. 31. void notify() It serves as a notification system for a single thread that is waiting on a particular object. 32. void notifyAll() It serves the purpose of notifying every thread that is waiting on a specific item. 33. void setContextClassLoader() It establishes the Thread’s context ClassLoader. 34. ClassLoader getContextClassLoader() It returns the ClassLoader, which is the thread context. 35. static Thread.UncaughtExceptionHandler getDefaultUncaughtExceptionHandler() When a thread ends suddenly because of an uncaught exception, this function calls the default manager and returns it. 36. Static void setDefaultUncaughtExceptionHandler() It modifies the default handler that is triggered when an uncaught exception causes a thread to end unexpectedly. Learn Java Multithreading Through Best Practices Use Thread Pooling: Classes such as ExecutorService offer thread pooling, which relieves the need to create a new thread for each task. This lowers overhead by managing and reusing threads. Synchronization: Use synchronization techniques like atomic classes, lock interfaces, and synchronized blocks or procedures to ensure data consistency and avoid race conditions. Refrain from Using Global Variables : Reduce threads’ time sharing global variables. Use thread-local variables or explicit data passing between threads as an alternative. Immutable Objects: It is preferable to use shared data that is immutable. This removes the requirement for synchronization when using these kinds of objects. Use the volatile keyword to ensure that other threads may see changes made to one thread. Thread Safety: Create thread-safe methods and classes, allowing for the safe use of many threads without creating problems. Avoid Blocking Operations: Exercise caution when carrying out I/O blocking or other actions that can result in a thread hanging. Take into account utilizing asynchronous programming methods. Example for Multithreading in Java import java.util.concurrent.ExecutorService; import java.util.concurrent.Executors; public class MultithreadingExample { public static void main(String[] args) { // Creating a thread pool with 4 threads ExecutorService executor = Executors.newFixedThreadPool(4); // Submitting tasks to the thread pool for (int i = 0; i < 10; i++) { Runnable task = new Task(i); executor.execute(task); } // Shutting down the thread pool executor.shutdown(); } } class Task implements Runnable { private int taskId; public Task(int taskId) { this.taskId = taskId; } @Override public void run() { System.out.println(“Task ” + taskId + ” is being executed by Thread ” + Thread.currentThread().getName()); // Simulating some work try { Thread.sleep(1000); } catch (InterruptedException e) { e.printStackTrace(); } System.out.println(“Task ” + taskId + ” has completed”); } } In this example, we’ve written a simple program to show how to use a thread pool for multithreading in Java. With the help of Java’s concurrency facilities, the MultithreadingExample class establishes a fixed-size thread pool via the ExecutorService interface. After that, it sends ten tasks—instances of the Task class—to the thread pool for processing. The code that will execute in each thread is defined by the Runnable interface, which is implemented by the Task class. In the Task class, the run function prints out task execution information after simulating some work by resting briefly. The MultithreadingExample application allows you to observe how threads from the thread pool carry out the tasks concurrently. It may be more efficient to manage thread creation, reuse, and maintenance using a thread pool instead of creating a new thread for each task. Though this example demonstrates the fundamentals of multithreading, keep in mind that when working on real-world multithreaded programs, it’s vital to take synchronization techniques, avoiding race circumstances, and resolving other issues as described in the blog into consideration. Who is the on the right track crowd for getting the hang of Multithreading in java advances? With regards to getting the hang of something extra, the majority of us like to acquire a lot. Remembering this point, it is a slam dunk that people keen on learning Java could be the best crowd for this. More specifically, understudies who will foster an application by standing as part of the group ought to find out about strings as they can be utilized in applications to make it look and work in an uncommon way. As far as an expert profession in Java, one unquestionable requirement to master multithreading, and it ought not be kept discretionary. Java engineer who has working involvement with center Java ought to get their hand in realizing this module as it is exceptionally critical when they will attempt to learn or investigate advance java. When engineers attempt to investigate more bundles, understanding strings make their work simpler. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send Properties of Java Threads Need assists the working framework with deciding the request in which strings are planned. These strings’ needs range between MIN_PRIORITY (consistent of 1) and MAX_PRIORITY (steady of 10). Each string is given NORM_PRIORITY (steady 5) as a matter of course. Higher need strings are more essential to a program and are distributed processor time before low need strings. String needs can’t ensure the request. It is stage subordinate. Prev Previous Why Java Is Platform Independent: A Simplified Guide Next Python vs Go (Golang): A Developer’s Guide to Choosing the Right Language Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/05/Multithreading-in-Java.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Java-Certified-Professional.png",
+        "alt": "Become a Java Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Java%2C+Trending+Articles%2C+Web+Technologies&cd%5Bpage_title%5D=Multithreading+in+Java&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=64999&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fmultithreading-in-java%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2022/05/25/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/multithreading-in-java/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-vs-go/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/why-java-is-platform-independent/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/multithreading-in-java/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Multithreading in Java -|3RI Technologies Pvt Ltd",
+    "og_description": "Multithreading program in java permits simultaneous execution of at least two parts of a program for the greatest usage of CPU.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/multithreading-in-java/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/multithreading-in-java/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Multithreading in Java",
+            "datePublished": "2022-05-25T05:59:00+00:00",
+            "dateModified": "2026-09-04T06:57:22+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/multithreading-in-java/"
+            },
+            "wordCount": 4525,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/multithreading-in-java/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/05/Multithreading-in-Java.jpg",
+            "keywords": [
+              "Java Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Java",
+              "Trending Articles",
+              "Web Technologies"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/multithreading-in-java/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/multithreading-in-java/",
+            "url": "https://www.3ritechnologies.com/multithreading-in-java/",
+            "name": "Multithreading in Java -|3RI Technologies Pvt Ltd",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/multithreading-in-java/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/multithreading-in-java/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/05/Multithreading-in-Java.jpg",
+            "datePublished": "2022-05-25T05:59:00+00:00",
+            "dateModified": "2026-09-04T06:57:22+00:00",
+            "description": "Multithreading program in java permits simultaneous execution of at least two parts of a program for the greatest usage of CPU.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/multithreading-in-java/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/multithreading-in-java/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/multithreading-in-java/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2022/05/Multithreading-in-Java.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/05/Multithreading-in-Java.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/multithreading-in-java/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Multithreading in Java"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

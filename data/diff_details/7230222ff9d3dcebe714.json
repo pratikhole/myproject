@@ -1,0 +1,335 @@
+{
+  "url": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Types of Flows in Salesforce: A Clear Guide to Automation | 3ritechnologies",
+    "meta_description": "Unlock Salesforce automation! Discover the different types of flows in Salesforce, from Screen Flows to Record-Triggered Flows. 3ritechnologies explains each flow type clearly.",
+    "h1": [
+      "Understanding the Different Types of Flows in Salesforce: A Comprehensive Guide"
+    ],
+    "content": "Skip to content Home > Understanding the Different Types of Flows in Salesforce: A Comprehensive Guide Understanding the Different Types of Flows in Salesforce: A Comprehensive Guide This guide explains the different types of flows in Salesforce, helping you choose the right one to automate tasks and boost productivity. Table of Contents PriyankaS3ri February 10, 2025 3:57 pm Introduction Salesforce automation simplifies tasks like record creation, data updates, approvals, and custom actions. It streamlines processes ranging from basic activities like posting to Chatter to complex workflows. Common use cases include bulk record updates, task assignments, and stage conversions. With each Salesforce update, these tools become more powerful and efficient. This blog post explores Salesforce automation, its features, and use cases. Ready to optimize your processes? Let’s dive in! Mastering the different types of flows in Salesforce is a game-changer for optimizing your CRM processes and driving unparalleled efficiency. Understanding when to deploy a Screen Flow for guided user interactions versus leveraging a Record-Triggered Flow for automated backend updates, or how Autolaunched Flows can operate without user intervention, empowers you to build robust and intelligent automation solutions. This knowledge is fundamental for any Salesforce professional. For those looking to build a strong foundation or deepen their expertise through hands-on, expert-led guidance, our Salesforce Classes in Pune offer an excellent pathway to proficiency. This article will explore the various types of flows in Salesforce, providing clarity on their functionalities and helping you choose the perfect flow for any automation challenge. What is Salesforce Flow? The Power of Automation Salesforce Flow is an automation tool that captures data input and performs specific tasks automatically, streamlining business processes without the need for manual intervention. Automates Business Tasks: Salesforce Flow simplifies complex business tasks by automating them based on data input, making processes more efficient and reducing manual work. Customizable and Easy to Maintain: Users can create Flows across one or more Salesforce objects to address specific business needs, with easy maintenance and updates as requirements evolve. Integration with External Tools: Flow connects Salesforce with tools like Gmail and Slack, ensuring seamless data updates across platforms without coding. It can also automate tasks using pre-built or custom Flows tailored to user requirements. Types of Flows in Salesforce Salesforce offers five types of Flows, each designed for specific business needs. These Flows automate tasks and processes, improving efficiency and reducing manual work. Here is a breakdown of the different types of Flows in Salesforce: 1. Screen Flow Screen Flow is used when user input is required. It allows you to create a custom UI where users can interact with forms, make selections, and input data. Screen Flows are launched from different places like the Salesforce Utility Bar, Apex custom actions, or quick actions. You can add components like text areas, picklists, checkboxes, and radio buttons, creating a seamless process to collect and update data. When it comes to helping users do complicated activities like presenting records or filling out forms, this type of flow is helpful. 2. Schedule-Triggered Flow A Schedule-Triggered Flow is launched at a specific time or on a set frequency, similar to Apex batch jobs. This Flow can be set to run once, daily, or weekly, and is useful for automating regular tasks like mass updates or sending reminders. The schedule can be customized, and the Flow is monitored through the “Scheduled Jobs” page in Salesforce Setup. Without the need for human interaction, this flow type ensures that activities are finished on schedule. 3. Record-Triggered Flow A Record-Triggered Flow starts automatically when a record is created, updated, or deleted in the system. This Flow type helps automate processes based on record changes, such as updating fields or creating new records. You can set entry conditions to filter which records should trigger the Flow. It can run before or after a record is saved, depending on your requirements. However, it only updates the triggered record and doesn’t allow updating other records. Record-Triggered Flows are efficient and run faster than traditional record updates in Salesforce. 4. Platform Event-Triggered Flow Platform Event-Triggered Flow is designed for handling incoming events from Salesforce or external systems. It runs when a platform event message is received, processing up to 2,000 event messages at a time. This Flow type supports event-driven architecture, using the publish and subscribe model to communicate between systems. It’s ideal for managing large-scale automation and integrating Salesforce with external tools and services based on events. 5. Auto-Launched Flow Auto-Launched Flow is a background process triggered by Apex classes, REST APIs, or Process Builders. It does not require user interaction and runs in the background to perform tasks like complex calculations, data manipulation, or updates. This Flow type is useful for automating processes without alerting the user, making it perfect for solving backend issues or performing intricate operations without disrupting the user experience. Each Flow type in Salesforce offers specific benefits, helping businesses automate processes and improve efficiency without writing complex code. How to Create Flows in Salesforce Creating Flows in Salesforce is a simple process, but understanding the key components and steps involved ensures you can build efficient and functional automation. Here is how you can create a Flow: Building Blocks of Flows Before starting, it’s important to know the core components of Flows: Variables: Used to store and process data, facilitating effective operations and decision-making. Actions: Perform specific activities, like creating or updating records. Resources: Reusable components or features that can be used to maintain efficiency and simplify procedures. Steps to Create a Flow in Salesforce 1. Access Flow Builder Click the gear icon located in the top-right corner of your screen and select Setup from the dropdown menu. Navigate to Process Automation > Flows. 2. Create a New Flow: Click the New Flow button to start a new Flow. 3. Select the Flow Type: Choose the appropriate Flow type (Screen Flow, Autolaunched Flow, Scheduled Flow, etc.), based on the task you want to automate. Different Flow types offer distinct functionalities, so select one that best fits your requirements. Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide 4. Add Variables: To store data, click the Add Variable button. Specify the data type and name for the variable to ensure it can hold the necessary information throughout the Flow. 5. Add Actions: Drag and drop actions onto the canvas to define the tasks the Flow will perform. Examples include creating records, updating fields, or sending notifications. 6. Connect the Actions: Draw lines between actions to establish the execution order, ensuring the Flow proceeds logically from one task to the next. 7. Test the Flow: Hit the “Debug” button to initiate a test of the flow. This allows you to step through each part of the Flow and check for any errors or issues before going live. 8. Activate the Flow: Once you’ve confirmed the Flow is functioning as expected, click the Activate button to make it live and available for use in Salesforce. You can quickly design and automate processes in Salesforce by following these steps, which will save time and increase productivity throughout your company. Benefits of Using Flows in Salesforce There are several benefits to using Flows in Salesforce, some of which include: Enhanced Efficiency Flows in Salesforce simplify repetitive activities, cutting down on manual labor and saving time. You may devote resources to more important duties by automating operations, which will eventually boost operational efficiency and overall productivity. Improved Accuracy Automation through Flows reduces the risk of manual errors, ensuring greater data consistency and accuracy. This increases the dependability of your business operations by reducing errors and producing more consistent outcomes. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send Scalability Salesforce Flows are adaptable, allowing your automation to grow with your business. As your data volumes and processes increase, Flows can handle more complex workflows, ensuring that your automation needs evolve alongside your business. User Engagement Screen Flows create interactive, user-friendly experiences, guiding users through processes step by step. This enhances user interaction and helps ensure that tasks are completed correctly, leading to higher user satisfaction and engagement. Common Mistakes While Designing Flows Here are some common mistakes to avoid while designing Flows in Salesforce: Neglecting Error Handling: Failing to incorporate proper error handling can cause unexpected Flow failures. Always use fault paths to catch and handle errors to ensure smooth operation and better user experience. Overcomplicating Flow Logic: Designing overly complex Flows with too many steps or unnecessary conditions can lead to performance issues and confusion. Keep the logic simple and modular for easier maintenance and better performance. Not Testing Thoroughly: Skipping thorough testing before activation can result in undetected issues. Always extensively test your flow in various situations to make sure it operates as intended. Ignoring Governor Limits: Salesforce has limits on the number of operations that may be performed in a Flow. When developing flows, keep these limitations in mind at all times because failing to do so may result in mistakes or decreased performance. Best Practices for Using Flows in Salesforce The following are recommended practices for utilizing Flows in Salesforce: Keep Flows Simple and Modular: Design your Flows with simplicity in mind. Make complicated processes easier to manage and troubleshoot by breaking them down into smaller, reusable components. Modular Flows also improve performance and allow easier updates. Test Thoroughly Before Deployment: Always test your Flows through several situations to find any possible issues. This helps ensure they function as intended, minimizing disruptions once deployed. To replicate real-world circumstances, utilize the “Debug” feature. Implement Error Handling: Ensure you have proper error handling and fault paths in place. This will help capture and address errors without impacting the user experience. Providing clear error messages helps users understand issues when they arise. Monitor Flow Performance: Regularly monitor the performance of your Flows through tools like “Flow Interviews” to track execution times and identify potential bottlenecks. Optimizing Flow performance ensures smooth user interactions and efficient processing. Use Naming Conventions and Documentation: Use clear and consistent naming conventions for variables, actions, and resources in your Flows. Document the purpose and logic behind each Flow to make future updates and troubleshooting easier for your team. Conclusion Flows are a powerful tool in Salesforce that help businesses automate tasks and enhance productivity. By understanding the different types of Flows, designing them effectively, and following best practices, organizations can streamline operations, reduce manual effort, and improve accuracy, ensuring long-term success and efficiency in their Salesforce environment. Prev Previous Periodic Table of DevOps Tools Next 12 Must-Know Advanced Excel Features for 2025 (With Use Cases) Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Types-of-Flows-in-Salesforce.png",
+        "alt": "Learn about the different types of flows in Salesforce, including screen flows, record-triggered flows, and more, to optimize your automation and streamline business processes.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/image-13.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/image-14.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/21-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/image-15.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Salesforce&cd%5Bpage_title%5D=Understanding+the+Different+Types+of+Flows+in+Salesforce%3A+A+Comprehensive+Guide&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=107489&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Ftypes-of-flows-in-salesforce%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2025/02/10/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/periodic-table-of-devops-tools/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/top-12-advanced-features-of-ms-excel-in-2025/",
+      "https://www.3ritechnologies.com/types-of-flows-in-salesforce/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Types of Flows in Salesforce: A Clear Guide to Automation | 3ritechnologies",
+    "og_description": "Unlock Salesforce automation! Discover the different types of flows in Salesforce, from Screen Flows to Record-Triggered Flows. 3ritechnologies explains each flow type clearly.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Understanding the Different Types of Flows in Salesforce: A Comprehensive Guide",
+            "datePublished": "2025-02-10T10:27:52+00:00",
+            "dateModified": "2025-06-05T04:53:04+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/"
+            },
+            "wordCount": 1673,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Types-of-Flows-in-Salesforce.png",
+            "keywords": [
+              "Software Testing Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Salesforce"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/types-of-flows-in-salesforce/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/",
+            "url": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/",
+            "name": "Types of Flows in Salesforce: A Clear Guide to Automation | 3ritechnologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Types-of-Flows-in-Salesforce.png",
+            "datePublished": "2025-02-10T10:27:52+00:00",
+            "dateModified": "2025-06-05T04:53:04+00:00",
+            "description": "Unlock Salesforce automation! Discover the different types of flows in Salesforce, from Screen Flows to Record-Triggered Flows. 3ritechnologies explains each flow type clearly.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/types-of-flows-in-salesforce/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Types-of-Flows-in-Salesforce.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Types-of-Flows-in-Salesforce.png",
+            "width": 1000,
+            "height": 667,
+            "caption": "Learn about the different types of flows in Salesforce, including screen flows, record-triggered flows, and more, to optimize your automation and streamline business processes."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/types-of-flows-in-salesforce/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Understanding the Different Types of Flows in Salesforce: A Comprehensive Guide"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

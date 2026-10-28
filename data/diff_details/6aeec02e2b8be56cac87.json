@@ -1,0 +1,330 @@
+{
+  "url": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Selenium IDE Extension for Chrome: Everything You Need to Know | 3RI Technologies",
+    "meta_description": "Explore how the Selenium IDE extension for Chrome works, its benefits, and setup process. Learn more with our hands-on selenium course to become job-ready in automation testing using Chrome Selenium IDE.",
+    "h1": [
+      "Selenium IDE Extension for Chrome: Quick Start Guide"
+    ],
+    "content": "Skip to content Home > Selenium IDE Extension for Chrome: Quick Start Guide Selenium IDE Extension for Chrome: Quick Start Guide Selenium IDE for Chrome: Automate tests with this browser extension, now fully compatible with Chrome for easier web testing! learn with 3RI Technologies Table of Contents PriyankaS3ri October 25, 2024 5:48 pm Introduction When Selenium IDE was to begin with discharged in 2006, it played a major part in getting Selenium the foremost broadly utilized browser robotization innovation. For Chrome, Firefox, and Edge browsers, selenium ide for Chrome is an open-source capture and playback test automation plugin. It empowers software engineers to record their mouse developments while exploring a web page or application and after that change those recordings into scripts. Clients can modify test information, restart tests, and investigate test runs once a session has been recorded. Tests may presently be recorded and replayed in Chrome much obliged to the Selenium IDE plugin, which was discharged more as of late. learn more visit Selenium courses in Pune The evolution of the Selenium IDE extension for Chrome has made browser-based automation more accessible than ever. Whether you are exploring Chrome Selenium IDE, installing the Selenium IDE extension or understanding how Selenium for Chrome functions, this guide walks you through it all. Chrome’s support for Selenium IDE empowers testers with rapid script creation and playback. To gain hands-on skills and real-world application, our selenium course at 3RI Technologies offers in-depth training on Selenium Chrome IDE, Chrome Selenium Extension, and automation practices for today’s QA demands. How Selenium for Chrome Boosts Automation Testing Efficiency The Selenium Integrated Development Environment (IDE) was developed by Shinya Kasatani in 2006 as a Firefox plug-in to support test creation. The IDE is a user-friendly interface that captures a user’s browser actions and exports them as reusable scripts. Selenium IDE is designed to accelerate the development of automation scripts and is a component of the Selenium suite. Indeed engineers with no programming encounter can utilize it as a fast prototyping device. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes The primary purpose of selenium is to serve as an adoption and prototyping tool for Selenium, a well-known open-source web browser automation technology. By recording activity, users can easily develop test cases and export them into any programming language supported by Selenium, including Java, Python, C#, and PHP. When more advanced automation capabilities are required, users can easily switch from Selenium IDE to the more powerful and customizable Selenium WebDriver implementation. Browser Supported By Selenium IDE Many popular browsers are supported by Selenium, including Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, and Opera. Browser-specific WebDriver implementations act as the connection between Selenium and the browser. Below is a list of popular browsers supported by Selenium: Google Chrome Mozilla Firefox Microsoft Edge Safari Opera Key Features of Selenium IDE Record test cases naturally: The Selenium IDE features a work that permits you to record test cases naturally. It can finish that by figuring out how a particular site or online application has been associated with the framework. You have the alternative to impair this highlight in case you’re inclined not to utilize it. Different activities are included: The selenium ide permits clients to utilize Selenese commands to carry out different assignments. Bolster for third-party plugins: The Selenium IDE is consistent with third-party plugins. These plugins may be utilized to track generation application administrations, transfer scripts to the cloud, and more. Specific Scripts Testers can create custom scripts that can be run along with test cases using Selenium IDE. Testers who want to add their functionality to their test cases might find this feature useful. Test Results Testers can examine the results of their test cases using the test reports provided by Selenium IDE. This feature is useful for testers who want to examine the results of their test cases. As a rule test responsive web apps: Clients may test their web pages on the Visual Network with the Selenium IDE. It highlights over fifty viewports, recreated gadgets, and browsers. Presently it is cross-browser consistent, Selenium IDE may be gotten to utilizing Google Chrome, Firefox Add-ons, and Web Pilgrim Safari. Built-in Attestation Usefulness: Test scripts made with the Selenium IDE permit clients to include and approve attestations. Those who need to altogether assess the characteristics of web pages might discover these commands supportive. Each time the client clicks on any component, a content box with a set of activities for declaring and confirming shows up. As long as the client proceeds to utilize the Selenium IDE, this list will proceed to develop. Runs from construct scripts for nonstop integration (CI): Selenium IDE Runner is essentially coordinated into CI construct scripts. This can be unexpected upon the CI server’s capacity to both transfer the. Side record and conjure selenium-ide-runner. Limitations Selenium Integrated Development Environment is not an ideal option for testing complex applications that require extensive data manipulation. You cannot use Selenium Integrated Development Environment to perform database testing. Dynamic components that change with each page view are not compatible with Selenium Integrated Development Environment. You cannot take screenshots using the Selenium Integrated Development Environment. Selenium Integrated Development Environment does not provide standard post-test reports. Currently, the Selenium Integrated Development Environment is supported only on Firefox and Chrome. Tests that need to be run under different conditions or iterations are not included in the Selenium Integrated Development Environment. The Selenium Integrated Development Environment does not include error-handling capabilities. The Selenium Integrated Development Environment does not allow grouping of tests by function or type. The Selenium Integrated Development Environment does not provide regression testing. How to Install Selenium IDE Below are the steps to download and install selenium ide for Firefox: Step 1: After opening your Firefox browser, navigate to https: //addons.mozilla.org/en-US/firefox/addon/ selenium-ide /. A window within a window will open. Click on “Fox Add-ons”. Step 2: Wait until the download is complete. Then select “Add”. Step 3: The installation is complete. Then select “OK”. Step 4: The icon of Selenium IDE will appear at the top. Click to launch Selenium IDE. How to Install Selenium IDE in Chrome Below are the steps to download and install Selenium IDE for Google Chrome: Step 1: Go to the Selenium IDE website and select the Chrome download link: https://www.selenium.dev/selenium-ide/ Step 2: Go to https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd and install the extension from the link. Step 3: Click on the Add to Chrome button to add Selenium IDE to Google Chrome. Step 4: Go to the Extensions menu and click on the icon to open Selenium IDE by recording a new test in a new project. Enroll Now for Selenium Training in Pune Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send How to Create a Variable in Selenium IDE In this example, we want to record the text that is returned if we first select an operating system. Click “Save Value” in the “Command” field. In the “Destination” field, enter “name=about”. This is a locator that will be used to find a specific item. Then create a variable named “myOS”. Insert the “echo” command after the start of a new line. Echo is in many ways similar to the print statement. Type ${myOS} to print the recorded value of myOS. So it switches to the “Operating System” field, and this is how it works. The displayed text is noted down. This information is stored in a variable called myOS and then exposed to the log file. You can see what value of the operating system you’re using by running the test and viewing the log. In this example, the value is “Macintosh”. Two New Features That Will Blow Your Selenium Mind. Now that Selenium IDE is cross- browser supported by selenium ide Firefox has been the new browser that came with capture and playback capabilities for 10 years since it was first released in 2006. Not anymore! Selenium IDE is now accessible via a Firefox add-on and a Google Chrome extension. And it’s even better: Selenium IDE’s new command-line test runner, SIDE Runner, enables testing with a Selenium WebDriver server. Selenium Webdriver and Selenium IDE components are combined in SIDE Runner. It runs Selenium IDE scripts saved as .side files using browser drivers such as ChromeDriver, EdgeDriver, Firefox’s Geckodriver, IEDriver, and SafariDriver. SIDE Runner and the other drivers mentioned above can be installed via npm. Enroll our Selenium classes in Pune and become an expert in Software Testing. Functional testing is now less error-prone- Functional testing, whether handwritten or recorded, has long been plagued by errors. Developers’ user interface (UI) code is constantly evolving as they deliver new features more frequently. Object locators often change with UI updates. When you record a script, Selenium IDE captures a large number of object locators, solving this problem. If Selenium IDE cannot find a location during playback, it will try each location until it finds one that works. The test will only fail if none of the viewfinders work. This protects your script from many changes but does not guarantee that the script will always playback. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Conclusion Selenium IDE is a powerful tool for testing with numerous features. Testers can design, document, and execute test cases using Selenium IDE. Record and playback, export test cases, debugging, automatic element search, test suites, parameterization, plugin support, conditional statements, custom scripts, test reports, cross-browser testing, support for multiple operating systems, keyboard shortcuts, and plugin updates are just some of the features offered by selenium ide for Chrome Thanks to the automatic element search and parameterization features, testers can quickly find web elements and test applications with different data sets. Moreover, Selenium IDE provides plugin support that allows testers to customize test cases and extend the functionality of Selenium IDE. Overall, Selenium IDE is a powerful tool that helps testers automate testing procedures and save time. Its diverse features make Selenium IDE an essential tool for developers and testers. Selenium IDE, like many new technologies in software development, is part of a broader trend to make the work of technical staff simpler and easier, allowing them to focus more time and effort on writing code and getting faster feedback. To master the skills of industry experts join our job-oriented courses in Pune . Prev Previous 10 Fascinating Python Applications in the Real World Next Executive Program in Cloud Computing & DevOps (AWS & Azure) Sponsored by IIT Guwahati Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-29.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Selenium-Certified-Professional.png",
+        "alt": "Selenium Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Testing&cd%5Bpage_title%5D=Selenium+IDE+Extension+for+Chrome%3A+Quick+Start+Guide&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=102841&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fselenium-ide-supports-google-chrome%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2024/10/25/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/iit-guwahati-sponsored-executive-program-in-cloud-computing-aws-azure/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/reasons-why-to-use-selenium-ide/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/top-10-fascinating-python-applications-in-the-real-world/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Selenium IDE Extension for Chrome: Everything You Need to Know | 3RI Technologies",
+    "og_description": "Explore how the Selenium IDE extension for Chrome works, its benefits, and setup process. Learn more with our hands-on selenium course to become job-ready in automation testing using Chrome Selenium IDE.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Selenium IDE Extension for Chrome: Quick Start Guide",
+            "datePublished": "2024-10-25T12:18:46+00:00",
+            "dateModified": "2025-05-19T03:29:44+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/"
+            },
+            "wordCount": 1668,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-29.jpg",
+            "keywords": [
+              "Software Testing Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Testing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/",
+            "url": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/",
+            "name": "Selenium IDE Extension for Chrome: Everything You Need to Know | 3RI Technologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-29.jpg",
+            "datePublished": "2024-10-25T12:18:46+00:00",
+            "dateModified": "2025-05-19T03:29:44+00:00",
+            "description": "Explore how the Selenium IDE extension for Chrome works, its benefits, and setup process. Learn more with our hands-on selenium course to become job-ready in automation testing using Chrome Selenium IDE.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-29.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-29.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/selenium-ide-supports-google-chrome/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selenium IDE Extension for Chrome: Quick Start Guide"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

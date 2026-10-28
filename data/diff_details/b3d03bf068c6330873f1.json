@@ -1,0 +1,509 @@
+{
+  "url": "https://www.3ritechnologies.com/course/mongo-db-nosqldatabase/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Mongo-DB-NoSQLDatabase - 3RI Technologies Pvt Ltd",
+    "meta_description": "3RI Technologies is one of the best Mongo DB (No SQL Database) Training providers in Pune. Get trained for Mongo DB by industry expert trainers.",
+    "h1": [
+      "Mongodb Training In Pune"
+    ],
+    "content": "Home > Courses > Mongo-DB-NoSQLDatabase Mongodb Training In Pune Mongodb Nosql Database Training In Pune 3RI Technologies offers comprehensive MongoDB training in Pune, designed to equip learners with the skills needed to work with NoSQL databases. Our course includes hands-on experience with MongoDB features like CRUD operations, data modeling, aggregation, and performance optimization. Whether you're a fresher or a professional, our expert-led training helps you master MongoDB’s fundamentals and advanced concepts. Learn how to design and implement MongoDB databases, work with replication, and explore Mongoose for Node.js. Enroll now for flexible batch timings, real-time project experience, and job assistance. Join the best MongoDB training institute in Pune today! ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.1 out of 5 ★ ★ ★ ★ ★ Rated 5 out of 5 Course Duration 3 Months Live Project 2 Project Certification Guaranteed Training Format Live Online /Self-Paced/Classroom Enroll Now Download Brochure Chat Now Download Brochure & attend Free Online/Classroom Demo Session! Training Mode Online Classroom Select Branch Online Pimple Saudagar Deccan Nal Stop Send Key Features Course Duration : 6 Weeks Real-Time Projects : 2 Project Based Learning EMI Option Available Certification & Job Assistance 24 x 7 Support Syllabus Overview Batch Schedule FAQ's Reviews Enroll Now - Payment Mongo DB Syllabus The detailed syllabus is designed for freshers as well as working professionals Download Brochure Course Content 1. Introduction to NoSQL Database What in NoSQL? Difference between NoSQL and RDBMS Benefits of NoSQL 2. Introduction & Overview of MongoDB Objectives Design Goals. The Mongo Shell JSON Introduction JSON Structure 3. MongoDB Installation Installing Tools Overview of Blog Project. Swig, Express Node Packaged Modules (npm) 4. CRUD Operation in MongoDB CRUD (Creating, Reading & Updating Data) Mongo Shell Query Operators Update Operators and a Few Commands 5. Data Modeling Schema Design Pattern Case Studies & Tradeoffs Storage Classes Automatic Storage Class Static Storage Class External Storage Class Register Storage Class 6. Indexing and Performance Considerations Performance Using Indexes, Monitoring And Understanding Performance Performance In Sharded Environments. 7. Aggregation Aggregation Framework Goals The Use Of The Pipeline Comparison With SQL Facilities. 8. MongoDB Replication Application Engineering Drivers Impact Of Replication And Sharding On Design And Development. 9. Introduction to Mongoose Mongo DB (No SQL Database) Classes in Pune 3RI Technologies offers expert-led MongoDB NoSQL database training in Pune. Our course is designed to provide hands-on experience and in-depth knowledge of MongoDB, a widely-used, flexible, and scalable NoSQL database. Learn everything from the basics of MongoDB setup to advanced features like data modeling, CRUD operations, aggregation, and data replication. The training also covers indexing, performance optimization, and how MongoDB compares with other databases, giving you the edge in building high-performing, scalable applications. Our experienced trainers guide you through real-world projects, ensuring you gain practical skills needed to excel in MongoDB. You will also explore MongoDB’s integration with popular technologies such as Node.js and Express. Whether you are a beginner or an experienced developer, our course is designed to take you from foundational knowledge to expertise, making you job-ready for roles in database management and development. With flexible batch timings, expert guidance, and placement assistance, 3RI Technologies is the best MongoDB training institute in Pune. Enroll today and take the first step toward mastering MongoDB for building modern applications, enhancing your career prospects in the ever-growing tech industry. What is Mongo DB? It is a cross-platform document-oriented database system, classified as a NoSQL database, which bridges the gap between key-value systems and traditional RDBMS systems. MongoDB is a relatively new competitor in the data warehousing circle compared to giants such as Oracle and IBM DB2 but has attracted a lot of attention with its Thanks to its functionality, MongoDB is the database for Big Data processing. MongoDB is suitable for situations such as expansion, caching, and areas where high volume traffic plays an important role. Why is MongoDB so popular? MongoDB is a NoSQL product and is becoming very popular in the developer community. Indeed, MongoDB combines perfectly with programming languages ​​such as JavaScript, Ruby, and Python; This perfect mix transmits a high encoding speed. This functionality, along with its simplicity, has made MongoDB very popular in no time. How is MongoDB better than traditional RDBMS? It is the means to efficiently represent different types of data, with colossal read/write scalability and high availability of transactional systems in real-time. Dominant RDBMS are inadequate to meet this need with their rigid design and low-cost economic sizing solutions. Therefore, Hadoop and NoSQL are complementary in nature and are not competitors. Flexibility: MongoDB stores data in “Json” documents, where it provides a rich data model that is perfectly suited to the types of native programming language. And the dynamic schema facilitates the evolution of the data model only with an imposed scheme system, such as an RDBMS. Power: MongoDB has many features such as secondary indexes, dynamic queries, ranking, complete updates, upgrades, and simple aggregation available in a traditional RDBMS. This provides functionality similar to RDBMS and also offers additional flexibility and scalability benefits. Advantages of Mongo DB Outline: It is perfect for changing the flexible data model. In MongoDB, it is easy to declare, extend, and modify additional fields in the data model and optional null fields. Using RDBMS databases, you must primarily run scripts to update the model. In this case, this can be done through encoding, and no script is required. The clear structure of a single object: the structure of the model is in “Json,” and the structure is clear rather than derived from a table structure. No SQL queries or hibernation: the good thing about MongoDB is that the operations are not complex to use (no SQL) and are based on key/value. You can use easy expression language operators like ‘$ gt,’ ‘$ lt,’ and you can practice with indexes and cursors. Adjustment: the level of consistency can be chosen based on the value of the data. Effortless scalability: the scale reads with replica sets and writes with fragmentation (automatic balancing). Just start another car, and you’re ready to go. Here, adding more machines to distributes your work. Automatic sharing allows you to scale the cluster linearly by adding more machines, allowing you to increase capacity without downtime. No conversion or mapping of application objects to database objects is required. Quick Access: Uses internal memory to store the work set, allowing faster access to data. Ease of use: MongoDB focuses on being easy to install, configure, maintain, and use. For this, MongoDB provides some configuration options and automatically tries to do the right thing. Job Oriented Courses STEP in Cloud Computing STEP in DevOps Mastering Data Science STEP in Python Full Stack STEP in JAVA Full Stack STEP in Software Testing STEP in MEAN Stack Angular STEP in MERN Stack ReactJS STEP in Salesforce STEP in PHP Python Programming Python Programming Web Development in Python Cloud Computing AWS – Amazon Web Services AWS Cloud Practitioner DevOps with AWS DevOps – Dockers And Kubernetes Salesforce Microsoft Azure Data Analytics Data Science Artificial Intelligence Hadoop 2.X BigData Analytics Apache Spark & Scala Hadoop Admin Business Intelligence Tableau – Data Visualization Informatica Development – datawarehosuing Qlikview QlikSense Software Testing Selenium with Java Selenium With Python Tosca Training API Testing JMeter Testing LoadRunner Testing ETL Testing QTP / UFT RPA - Robotic Process Automation RPA- Ui Path Automation Anywhere Java Technology Core Java Advanced Java Spring Hibernate Spring Framework Web Designing & Development UI Development Angular ReactJS MEAN Stack MERN Stack Web Development in Python Database Technology DBMS: Oracle SQL Oracle : PL/SQL Oracle : DBA I/II RAC with Oracle MS SQL SERVER Development MS SQL SERVER DBA MONGO DB Scripting Languages UNIX Shell Scripting Python Programming Perl scripting .Net Technology Diploma in .Net ASP.NET MVC C# Programming WPF Programming WCF Programming Internet Marketing Digital Marketing SEO Training Classes Mobile App Development Android App Development iOS App Development Soft Skills & Aptitude Soft Skills Training Aptitude Training Basic Programming Languages Fundamentals of Computer C Programming C++ Programming Data Structure Industrial Training Industrial Training Blockchain Blockchain Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Batch Schedule Schedule Your Batch at your convenient time. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 Web Design - React 25-Oct-26 Sat - Sun 11:30 AM Enroll Now 2 ReactJS 27-Oct-26 Tue - Fri 05:00 PM Enroll Now 3 ReactJS 24-Oct-26 Sat - Sun 11:30 AM Enroll Now 7 MySQL 27-Oct-26 Tue - Fri 05:30 PM Enroll Now 8 MySQL 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 9 Soft Skills 25-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 26-Oct-26 Mon - Fri 04:00 PM Enroll Now FAQs Most frequent questions and answers 1. Will I get any certificate after this course? After the course completion, an exam will be conducted to judge your knowledge along with the live project work completion check and you will be awarded a certificate from 3RI Technologies. 2. Will I get any placement assistance after the course completion? Yes, we provide placement assistance to our students. We have a dedicated team for Placement and tie ups with 300+ MNC’s and SME companies. 3. Do you provide any demo classes for this course? Yes ,we conduct demo classes every weekend. Please contact us for more details. I'm Interested in This Program Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Our Clients Students Reviews I would certainly recommend it to anyone looking for a suitable direction and not knowing where to start. I would suggest 3RI Technologies. Abhishek Sir had a complete practical experience which he incorporated into his teaching method. I am very grateful to all 3RI Technologies members for their support and encouragement. sunny ***** I got a job within 2 weeks of completing my certification. They are cooperative and friendly, with advanced technical skills and programming skills. The good thing is that the instructor makes sure that all candidates are treated equally in all aspects of all content. Gautam ***** First of all, I was impressed by the infrastructure they created, by the configuration laboratories and, above all, by highly professional universities and based on the reference of my friend, who had already taken a course, participated in a demonstration session from another institution. The best place to learn from the whiteboard is 3RI Technology. Hasmeet singh ***** Mongo DB Information Best Technologies To Learn In IT Industry 2020 What is Database - Types, Example,Advantages, Disadvantages",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/urbonpro.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/cb18c4_aaa5cc27347d4d1f809e1194612f74f6mv2-1-150x150.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/images-3.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/01/22.png",
+        "alt": "Enquire about the 3RI Technologies training program",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon41.jpg",
+        "alt": "ZS",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon40.png",
+        "alt": "Zensar",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon39.png",
+        "alt": "bmc",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon38.png",
+        "alt": "thoughtworks",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon36-768x261.png",
+        "alt": "tata consultancy",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon34.gif",
+        "alt": "synerzip",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon33-e1604575181323.png",
+        "alt": "survik",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon32.png",
+        "alt": "siemens",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon31.jpg",
+        "alt": "R systems",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon30.png",
+        "alt": "pubmatic",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon29.png",
+        "alt": "citi",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon28.jpg",
+        "alt": "persistance",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon26.gif",
+        "alt": "Mphasis",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon25.png",
+        "alt": "Market Reports Center",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon24-e1604575512879.png",
+        "alt": "market and market",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon23-e1604575367263.png",
+        "alt": "accenture",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon22.png",
+        "alt": "sungard",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon21.jpg",
+        "alt": "kpit",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon20.png",
+        "alt": "comp-icon20",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon18.jpg",
+        "alt": "comp-icon18",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon17.png",
+        "alt": "comp-icon17",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon14.png",
+        "alt": "comp-icon14",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon13-e1654928115125.jpg",
+        "alt": "comp-icon13",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon12.png",
+        "alt": "comp-icon12",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon11.png",
+        "alt": "comp-icon11",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon10-e1654925790405.png",
+        "alt": "comp-icon10",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon9.png",
+        "alt": "comp-icon9",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon8.jpg",
+        "alt": "comp-icon8",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon7.jpg",
+        "alt": "comp-icon7",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon6.png",
+        "alt": "comp-icon6",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon5.png",
+        "alt": "comp-icon5",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon4.png",
+        "alt": "comp-icon4",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon3.png",
+        "alt": "comp-icon3",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon2.png",
+        "alt": "comp-icon2",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon1-1.png",
+        "alt": "comp-icon1",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/3d-lpm-logo.jpg",
+        "alt": "3d lpm logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/veritas-logo.jpg",
+        "alt": "veritas logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/synecron-logo.jpg",
+        "alt": "synecron logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/calsoft-logo.jpg",
+        "alt": "calsoft logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=Mongo-DB-NoSQLDatabase&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=949&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcourse%2Fmongo-db-nosqldatabase%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/best-technologies-to-learn/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/",
+      "https://www.3ritechnologies.com/course/Mongo-DB-NoSQLDatabase/",
+      "https://www.3ritechnologies.com/course/Perl-Scripting/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/android-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+      "https://www.3ritechnologies.com/course/aptitude/",
+      "https://www.3ritechnologies.com/course/asp-net-mvc-training-in-pune/",
+      "https://www.3ritechnologies.com/course/asp-net-wpf-training-course/",
+      "https://www.3ritechnologies.com/course/automation-anywhere-training-in-pune/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
+      "https://www.3ritechnologies.com/course/big-data-hadoop-training-in-pune/",
+      "https://www.3ritechnologies.com/course/blockchain-training-in-pune/",
+      "https://www.3ritechnologies.com/course/c-programming-classes-pune/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/cpp-programming-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/csharp-training-institute-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/data-structure-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/digital-marketing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-informatica-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/fundamentals-of-computer/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/hadoop-admin-training-in-pune/",
+      "https://www.3ritechnologies.com/course/industrial-training-company-for-bca-mca-students-pune/",
+      "https://www.3ritechnologies.com/course/ios-app-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-j2ee-training-in-pune/",
+      "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mongo-db-nosqldatabase/",
+      "https://www.3ritechnologies.com/course/ms-sql-server-dba-training/",
+      "https://www.3ritechnologies.com/course/oracle-dba-certification-course-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-rac-training-in-pune/",
+      "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/qliksense-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qlikview-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qtp-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/reactjs-training-in-pune/",
+      "https://www.3ritechnologies.com/course/rpa-training-in-pune/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/seo-training-in-pune/",
+      "https://www.3ritechnologies.com/course/softskill-training-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/spring-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/sqlserver-dba-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tableau-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/unix-shell-scripting-training/",
+      "https://www.3ritechnologies.com/course/wcf-training-course/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-dot-net-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
+      "https://www.3ritechnologies.com/course/webservices-with-soapui-testing-training/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/payment/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-database-types-example-advantages-disadvantages/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/course/mongo-db-nosqldatabase/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Mongo-DB-NoSQLDatabase - 3RI Technologies Pvt Ltd",
+    "og_description": "3RI Technologies is one of the best Mongo DB (No SQL Database) Training providers in Pune. Get trained for Mongo DB by industry expert trainers.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/course/mongo-db-nosqldatabase/",
+            "url": "https://www.3ritechnologies.com/course/mongo-db-nosqldatabase/",
+            "name": "Mongo-DB-NoSQLDatabase - 3RI Technologies Pvt Ltd",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/course/mongo-db-nosqldatabase/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/course/mongo-db-nosqldatabase/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
+            "datePublished": "2019-07-12T05:46:11+00:00",
+            "dateModified": "2025-06-10T10:42:25+00:00",
+            "description": "3RI Technologies is one of the best Mongo DB (No SQL Database) Training providers in Pune. Get trained for Mongo DB by industry expert trainers.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/course/mongo-db-nosqldatabase/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/course/mongo-db-nosqldatabase/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/course/mongo-db-nosqldatabase/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "width": 192,
+            "height": 192
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/course/mongo-db-nosqldatabase/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Courses",
+                "item": "https://www.3ritechnologies.com/course/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Mongo-DB-NoSQLDatabase"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

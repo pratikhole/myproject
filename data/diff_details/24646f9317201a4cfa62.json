@@ -1,0 +1,332 @@
+{
+  "url": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Ansible vs Chef vs Puppet: Comparing the Best DevOps Automation Tools",
+    "meta_description": "Explore the key differences between Ansible, Chef, and Puppet in DevOps. Learn what Puppet is in DevOps and get hands-on experience with DevOps classes in Pune. Start your DevOps career now!",
+    "h1": [
+      "Ansible vs Chef vs Puppet: A Comprehensive Guide for DevOps Automation"
+    ],
+    "content": "Skip to content Home > Ansible vs Chef vs Puppet: A Comprehensive Guide for DevOps Automation Ansible vs Chef vs Puppet: A Comprehensive Guide for DevOps Automation Adopting the appropriate DevOps tools or platform for efficient configuration management is one of the major challenges for businesses looking to switch to DevOps. Even though there are many tools currently on the market that can, it is critical to decide which ones your team should use for the following project. To assist you in selecting the DevOps configuration management tool that should be a part of your stack, we've compared the three most well-liked DevOps configuration management tools: chef vs puppet vs ansible. Table of Contents PriyankaS3ri January 21, 2023 10:22 am If you’re aiming to master DevOps, understanding the differences between Ansible, Chef Puppet is essential. Each tool has unique advantages for automating infrastructure and managing configuration. But what is Puppet in DevOps, and how does it compare to Ansible and Chef? In this guide, we break down the features, benefits, and use cases of these popular tools to help you make an informed decision. Join our DevOps classes in Pune to gain hands-on experience with these tools and accelerate your career in DevOps. But increasingly, organisations are embracing a new way of working together called DevOps. DevOps is often thought of as a set of processes in which software developers and operation engineers work together throughout the whole software development cycle, from coming up with ideas to making and releasing the software. One of the most well-liked methods for creating software in the tech sector is DevOps. It has been shown to cut down on production time, improve communication, lower costs, and reduce deployment failures by a large amount. Adopting the appropriate DevOps tools or platform for efficient configuration management is one of the major challenges for businesses looking to switch to DevOps. Even though there are many tools currently on the market that can, it is critical to decide which ones your team should use for the following project. To assist you in selecting the DevOps configuration management tool that should be a part of your stack, we’ve compared the three most well-liked DevOps configuration management tools: chef vs puppet vs ansible. Continue reading to learn more about the difference between Ansible and Chef , ansible vs chef, chef vs ansible and so on. Interested to begin a career in DevOps? Enroll now for DevOps Training in Pune Choosing the Right Automation Tool: Ansible, Chef, or Puppet? Chef is a DevOps tool for managing configurations. Instead of doing things by hand, it automates, tests, and deploys infrastructure by writing code.This makes it simple to deploy, test, and automate infrastructure. Chef employs a client-server architecture and supports multiple platforms, including Windows, Ubuntu, CentOS, Solaris, etc. This makes it simple to deploy, test, and automate infrastructure. Before we delve into Chef, let’s examine Configuration Management. Chef Architecture Chef’s architecture consists of three components: Workstation Chef Server Nodes Let’s delve deeper into each of these three: 1. Workstation The administrator’s system is, in the simplest terms, the workstation. This computer enables communication with the Chef server and the Chef nodes.This location is where all cookbooks are developed and tested. The workstation is where the cookbook deployment process is carried out. Cookbooks written by other Chef users can also be downloaded from the workstation. For a better understanding of Chef, keep reading to learn about a few more crucial workstation elements: Development Kit – The Development Kit comes with every package needed for Chef. Knife – With the knife command, the workstation can tell the chef server what is in its chef-repo directory. Chef- Repo – Chef-Repo is a list of all the workstations that keep all the cookbooks up to date and have them all. You can use the command chef to generate a repo name to create a Chef repository. Test Kitchen – Test Kitchen provides the workstation with a development environment for creating and testing workbooks before their distribution. Update your skills with DevOps With AWS Training 2 . Chef Server Chef Server serves as the central hub for workstations and nodes. Here, all of the metadata, cookbooks, and recipes are kept. The workstation uses a knife to send the cookbook to the server. The nodes use the Chef client to connect to the server. Before being applied to the nodes, any changes to the infrastructure code must first pass through the Chef Server. 3.Nodes Nodes are physical or virtual machines that the Chef Server manages or configures. These machines can be anything from servers to networking gear to various types of storage media. The Chef client is set up so that the actions necessary to get the node into the state specified by the cookbook can be carried out. By independently running on each node, the Chef client enables nodes always to have the most recent configuration. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Ansible – What Is It? Ansible is an open-source or automation tool for IT tasks like provisioning, intraservice orchestration, application deployment, and configuration management.The modern IT environment is too complex for system administrators and developers to keep up with and frequently requires rapid scaling. Therefore, automation is essential in this environment. Automation simplifies complex tasks, making developers’ jobs easier and freeing them up to concentrate on other tasks that benefit the organisation. In other words, it makes time available while boosting productivity. And as was already mentioned, Ansible is quickly becoming the best automation tool available. Stand out with DevOps Foundation Certification Ansible Architecture Now, let’s discuss the components that comprise the Ansible environment. 1. Modules Modules are short programmes Ansible distributes from a command machine to all nodes or remote hosts. Playbooks execute the module’s control services, packages, and files (see below). Ansible runs all of the modules for updating software or performing other necessary tasks, then removes them when the job is complete. Ansible provides more than 450 modules for regular tasks. 2. Playbooks Ansible playbooks function similarly to task instructions. They are straightforward files created using the human-readable data serialisation language YAML or YAML Ain’t Markup Language. Playbooks, which list the tasks that need to be done quickly and don’t require the user to remember or understand any specific syntax, are the heart of what tends to make Ansible so famous. In addition to declaring configurations, they can also plan the steps of any manually ordered task and execute them simultaneously or sequentially. Each playbook comprises one or more plays, and each play’s purpose is to assign a set of hosts to specific roles represented by tasks. 3. Plugins Plugins are extra pieces of code that expand functionality from using many other tools and platforms. Although Ansible includes several plugins, you can also create your own. Examples of plugins include action, cache, and callback plugins. 4. Inventories A single, straightforward file contains information about all the computers running Ansible (control machine plus nodes), including their IP addresses, databases, servers, and so on. After registering the inventory, a simple text file can assign variables to any host. In addition, you can pull inventory from EC2 and other sources (Amazon Elastic Compute Cloud). 5. Application programming interfaces (APIs) APIs, or application programming interfaces, can improve Ansible’s connection options. This extends beyond using SSH for transmission to include callbacks and other features. The Ansible APIs facilitate communication between the public and private cloud applications. . 6. Hosts & Networking As nodes in the architecture that Ansible controls, hosts can be considered any computer system (RedHat, Linux, Windows, etc.). It uses a data model specific to the Ansible automation engines and can easily move between different kinds of hardware. 7. Cloud A cloud, either private or public, is a network of remote servers that can be used to gather, arrange, and process data. These systems are hosted online rather than storing data on a local server. You can start working remotely after simply deploying the cloud resources and instances and connecting them to the databases. 8. Configuration management database (CMDB) A database acting as a data store for IT systems is known as a CMDB. Users can automatically convert the output of Ansible’s data-collection function into a static HTML summary page by deploying the Ansible-CMDB code. Master the Azure DevOps Skills at Azure DevOps Training Puppet – What Is It? Puppet is a tool for managing configurations. It ensures that all systems are set up in a favoured and predictable way by addressing them similarly. Because it can deploy software on a system automatically, Puppet can also be used as a deployment tool. You can use it to do this. Because Puppet treats infrastructure as code, you can test the environment and make certain that it is deployed correctly by using this tool. Puppet Architecture 1. The puppet slave is a representation of the information that the puppet master receives. These details typically consist of a key-value data pair that discloses information about the Slave state’s uptime, operating system, IP address, and other things. 2. Using the information sent by the puppet slave, the puppet master creates a catalogue that functions as a road map for how the slave should be set up. A record is simply a file containing the desired values for each resource that the Puppet Master manages on a slave. 3. The Puppet slave indicates that the configuration has been finished by the catalogue displayed in the Puppet dashboard. Puppet will require a user or group to have read/write access to a file if they are the ones in charge of that file. One of Puppet software’s unique strengths is the capability to design one’s resource types. Want to Upskill to get ahead in your career? Check out the DevOps Online Training Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Now you are familiar with Chef, Ansible, and Puppet. Let’s compare puppet vs Ansible vs chef. Ansible vs Chef vs Puppet Ansible Puppet Chef Multiple servers interrogate one another. Querying across servers is difficult. Chef does not support queries. Ansible makes it simple to deploy applications. Deploying an application is not so easy. App deployment is not something that a chef is responsible for. Since Ansible is still pretty new, the documentation isn’t all that good. Good documentation exists. The documentation is robust. Ansible has an underdeveloped GUI. Puppet has a better GUI. Chef has a good GUI. Ansible is more widely used. Puppets are not very well-liked. Ansible is more well-known than the chef. Upkeep is not a hard task. All additional servers must undergo maintenance. High upkeep is necessary. Ansible has no master architecture and, thus, no additional servers. Because of its master architecture, an additional server is required. A separate server is needed to run the master server in Chef. Ansible’s coding style is procedural. Puppet’s style is declarative. Chef adheres to a procedural style of coding. Configuration execution is simple to carry out. When compared to Ansible, configuration execution is difficult to process. Configuration execution is difficult to manage. Ansible is lacking in features. There are more features in Puppet. Chef has similar functionality to Ansible. Large enterprises cannot use Ansible; it can only be used for short-term deployments. Puppet is used to manage the infrastructure of large enterprises and for longer-term deployments. The chef manages large enterprises and is well-known for his dependability. Final Words In this blog, we closely looked at three of the most popular DevOps management tools: Ansible vs, Chef vs Puppet . This will help you choose the right DevOps software for your next project. These three tools are perfect for different types of users in the same market. Even though you can’t go wrong with any of the three, it’s important to understand the team’s workflow and DevOps needs before using any of these tools. Visit 3RI Technologies for more details about the DevOps tools course. Prev Previous What is DevOps and How it Works: A Complete Explanation Next What is SNS in AWS? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/01/Ansible-vs-Puppet-vs-Chef-1.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "DevOps Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "DevOps Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/Ansible-vs-Chef-vs-Puppet-1024x1024.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+DevOps&cd%5Bpage_title%5D=Ansible+vs+Chef+vs+Puppet%3A+A+Comprehensive+Guide+for+DevOps+Automation&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=75817&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fansible-vs-chef-vs-puppet%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2023/01/21/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/azure-devops-az-400-certification-online-training/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-with-aws-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-devops-and-how-it-works/",
+      "https://www.3ritechnologies.com/what-is-sns-in-aws/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Ansible vs Chef vs Puppet: Comparing the Best DevOps Automation Tools",
+    "og_description": "Explore the key differences between Ansible, Chef, and Puppet in DevOps. Learn what Puppet is in DevOps and get hands-on experience with DevOps classes in Pune. Start your DevOps career now!",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Ansible vs Chef vs Puppet: A Comprehensive Guide for DevOps Automation",
+            "datePublished": "2023-01-21T04:52:17+00:00",
+            "dateModified": "2025-05-12T06:53:28+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/"
+            },
+            "wordCount": 1884,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/01/Ansible-vs-Puppet-vs-Chef-1.jpg",
+            "keywords": [
+              "DevOps Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "DevOps"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/",
+            "url": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/",
+            "name": "Ansible vs Chef vs Puppet: Comparing the Best DevOps Automation Tools",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/01/Ansible-vs-Puppet-vs-Chef-1.jpg",
+            "datePublished": "2023-01-21T04:52:17+00:00",
+            "dateModified": "2025-05-12T06:53:28+00:00",
+            "description": "Explore the key differences between Ansible, Chef, and Puppet in DevOps. Learn what Puppet is in DevOps and get hands-on experience with DevOps classes in Pune. Start your DevOps career now!",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/01/Ansible-vs-Puppet-vs-Chef-1.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/01/Ansible-vs-Puppet-vs-Chef-1.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Ansible vs Chef vs Puppet: A Comprehensive Guide for DevOps Automation"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

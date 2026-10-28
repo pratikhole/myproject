@@ -1,0 +1,369 @@
+{
+  "url": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "What is Machine Learning? Types, Algorithms & Applications | 3ritechnologies",
+    "meta_description": "Discover what is machine learning, explore different machine learning types, algorithms, and real-world applications of machine learning. Understand machine learning concepts and fundamentals with 3ritechnologies.",
+    "h1": [
+      "What is Machine Learning? Unveiling Definitions, Types, Algorithms, and Applications"
+    ],
+    "content": "Skip to content Home > What is Machine Learning? Unveiling Definitions, Types, Algorithms, and Applications What is Machine Learning? Unveiling Definitions, Types, Algorithms, and Applications Machine learning is popular as a fascinating field in computer science. It has revolutionized the world with its approach to problem-solving and data analysis. Machine learning usually works by making computer learns and making decisions without getting explicitly programmed. Table of Contents madan September 23, 2023 2:52 pm What Is Machine Learning? Machine learning is popular as a fascinating field in computer science. It has revolutionized the world with its approach to problem-solving and data analysis. Machine learning usually works by making computer learns and making decisions without getting explicitly programmed. Its innovation is based on the way humans learn things. Likewise, machine learning models get trained from the data and adapt the predictions. | Now that you have a strong understanding of what machine learning is, the next logical step is to see how this powerful technology translates into a high-value profession. To explore the complete path from learning these fundamentals to landing your first job, read our definitive machine learning career guide. The question, “what is machine learning?” is increasingly common as this transformative technology reshapes industries worldwide. At its core, machine learning is a subset of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. This introduction to machine learning will explore its fundamental machine learning concepts, detailing the different types of machine learning such as supervised, unsupervised, and reinforcement learning. We will also delve into various machine learning algorithms and explain what is a machine learning model, alongside the diverse applications of machine learning and an overview of machine learning techniques. For those in Pune aspiring to master this domain and its broader AI context, our Artificial intelligence courses in pune provide comprehensive training, covering everything from machine learning fundamentals to advanced machine learning algorithms types. Understanding what is the machine learning field truly entails, including its potential and even its disadvantages of machine learning, is crucial for anyone looking to leverage its power. We will also touch upon the classification of machine learning and what are the types of machine learning in more detail throughout this guide. The Fundamental Machine Learning Concepts You Need to Know Machine learning has been a fascinating journey to tell over many decades. With time, it has revolutionized many industries and people’s lives. Machine learning is a subcategory of artificial intelligence, which actually pays attention to the creation of models and algorithms. It was the era of the 1950s-1960s when the researchers Alan Turing and Marvin Minsky found the root of machine learning. In 1956, the Dartmouth Conference found out the field of AI. During the time of the 1970s-1980s, researchers concentrated on rule-based systems. These systems work on the basis of predefined rules which can easily solve certain problems. From the 1990s to the 2010s, people witnessed an increase in interest in neural networks because the models were inspired by the human brain. The 2010s came out as a transformative period for machine learning because of the introduction of deep learning. Presently, machine learning has become a fundamental part of daily life. Different industries are using AI-powered applications and taking the benefits of them. Machine learning history is definitely a story of true innovation and constant advances in the computing field. In the future, it promises to unlock new opportunities and deal with complex issues broadly. Unlock the power of data with our comprehensive Data Science course in Pune . Why Should We Learn Machine Learning? We are living in a world witnessing rapid technological advancements and digital transformation as well. Being a powerful tool, it is changing the shape of working in different industries. It not only drives innovations but also solves complex problems. Unquestionably, it is becoming a skill set that is requisite in today’s job profile. So, if you are in doubt about whether to learn about machine learning or not, then you must read out the reasons behind it. Before any machine learning algorithm can perform effectively, the data it learns from must be accurate, consistent, and free from unnecessary noise. This process, known as data cleaning , ensures that models are trained on high-quality inputs, ultimately improving prediction accuracy and reducing errors. Whether you’re working with structured or unstructured data, cleaning is a foundational step that can make or break your project’s success. To understand its significance and learn practical techniques, explore our in-depth article on Data Cleaning in Machine Learning. High career opportunities Professionals who know machine learning are in high demand at the current time. whether it’s a finance company or healthcare industry, all are trusting machine learning technology to accomplish their goals. Problem-solving and innovation ML allows computers to make decisions without getting programmed. This is the prime reason that machine learning has become a choice for many groundbreaking techniques. Platforms like Netflix and Amazon actively use machine learning. Professional and personal growth Machine learning is an area that covers statistics, programming, mathematics, and domain-related knowledge. By learning technical skills, the users can improve intellectual growth and acquire problem-solving abilities. Efficiency and automation For labor-intensive tasks and automating repetitive, machine learning plays a major role. It can enhance efficiency while focusing more on creative and strategic endeavors. With machine learning, individuals can learn to automate tasks on a daily basis. Data-driven decision making Most organizations nowadays trust data to make decisions based on different data. You will get the right to use different tools and techniques to get insight into large datasets. If you are able to learn machine learning, then you can contribute your part in the decision-making process. Global Impact Machine learning is powerful enough to address some real-world challenges like healthcare access, climate change, and poverty alleviation. With the assistance of machine learning, you can complete projects and initiate with global impact. Machine learning is becoming a trend and a need in the present digital age. It allows individuals to solve complex problems, make knowledgeable decisions, and generate innovations. Whether you want to excel in your career or learn the art of making decisions, machine learning is best for you. It has opened the doors for opportunities so that anyone can learn about it and secure their future. Learn data engineering skills from experts. only at Data Engineering Certification Course. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Types of Machine Learning Machine learning is a significant subset of artificial intelligence because it is the ultimate for developing models and algorithms for making the perfect decisions without the help of explicit programming. To do different tasks, there are different kinds of machine learning available from which you make the final decision. Supervised learning One of the common types of machine learning, supervised learning works with an approach to train an algorithm that is trained on labeled datasets. Here, every input data point is actively paired with the consistent correct output. Hence, the model is capable of mapping the inputs to outputs by recognizing the relationships and patterns in data. You can find the use of supervised learning in spam detection, image classification, and speech recognition. Unsupervised learning This type of machine learning contains the process of training a model based on an unlabelled dataset. In this, the algorithm is proficient in discovering the patterns as well as structure in the data. Unsupervised learning is used for clustering and dimensionality reduction. Semi-supervised learning It is a category that combines different elements of both unsupervised and supervised learning. Eventually, it starts working using a small amount of labeled data and a larger part of unlabelled data. Here, the model can learn with the help of labeled data and influence unlabelled data to increase the performance. Deep learning Deep learning is one of the popular types of machine learning that is ideally used for employing artificial neural networks. However, it is also used for solving real complex problems. Deep learning comprises several hidden layers that are capable of automatically learning hierarchical features present in data. Natural Language Processing (NLP) NLP is described as a specialized arena that works by the interaction between computers and human language. This technique is basically used for analyzing, processing, and understanding speech and text data. Reinforcement learning This type generally concentrates on training agents to create a sequence of decisions for increasing a cumulative reward. You can find the use of machine learning in game playing, self-driving cars, and autonomous robotics. Computer vision Listed in the specialized category, computer vision emphasizes on teaching computers to understand and apply visual information. It is helpful in performing tasks like image segmentation, object detection, and facial recognition. Ensemble learning Ensemble learning is about the combination of numerous machine learning models to progress overall performance. Some of the techniques such as boosting and bagging are used for creating accurate and robust models. Every machine learning type comes with its own algorithms techniques and applications. with time, machine learning is emerging as a strong technology to follow. Therefore, understanding its types becomes equally important. Machine learning Life cycle/ How does machine learning work? Machine learning is a kind of science that allows computers to perform without getting programmed. This technology allows the system to recognize patterns in data, make the right decisions, and forecast future results. Many companies are taking the benefits of machine learning to determine the products that are most likely to buy from customers. Data collection It is the very first step in the machine learning procedure where you have to collect the relevant data. The data is usually available in different sources like databases, the internet, or sensors. For effective machine learning models, diverse and high-quality data is quintessential. Data Preprocessing In this step, raw data is cleaned and preprocessed for eradicating handle missing values, and noises and to normalize the data. The data preprocessing step confirms that data is presented in a suitable format for analysis and training. Feature Engineering The selection and transformation of relevant features in data are involved in the feature engineering process. Its goal is to improve the model’s capability to capture essential patterns and relationships in data. Selection of models A number of algorithms are provided by machine learning. All of them have their own flaws and strengths. The choice of models is determined by focusing on data, needed outcomes, and the nature of the problem. Linear regression, support vector machines, neural networks, and decision trees are some of the common machine-learning models. Training the model Labeled data is fed with the particular model in the training step. Now, the algorithm adjusts its parameters as needed to reduce the difference between the prediction and actual outcomes. This includes mathematical optimization methods. Evaluation To evaluate the model’s performance, various tests are done on testing data, which is generally not found during training. Evaluation metrics used are precision, accuracy, F1-score, recall, and mean squared error. These are selected on the type of issues. Hyperparameter tuning By fine-tuning the model’s hyperparameters like learning rate or hidden layers of the neural network, it can find out the impact of it on the performance. With the help of random search or grid search, you can find the optimal hyperparameters. Deployment After a satisfactory model is trained properly, it can be used in real-world applications. The process includes incorporating the model into software systems or workflows where it can easily make the prediction depending on unseen data. Maintenance and monitoring Time-to-time monitoring of machine learning models is necessary to check their effectiveness and accuracy. Making a change and drift in data may need updating or retraining of the model. Interpretability It is very important to understand the process of making predictions by a model. It becomes more significant when the applications need transparency and trust. Certain techniques like model interpretability and feature importance analysis are useful in explaining a model’s decision. Learning ML completely depends on mathematical and data algorithms that allow computers to take the experience and make the right predictions. Ensure to keep a check on interpretability and continuous monitoring because with this you can use machine learning for different applications. Enroll in the Data Analyst course in Pune to master Data Analytics. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send Which Language is Best for Machine Learning? Machine learning is an essential part of artificial intelligence which is considered to be complex, but at the same time, it is an exciting field as well. Someone who is new to data science or data analytics shows an interest in learning machine learning. There are many languages available; the confusion is that which one is best to learn this technology. So, to clear the cloud of confusion, it is important to know the different languages available currently. Python It is a broadly used language for machine learning and data science. Python is acknowledged for its ironic ecosystem of frameworks and libraries like Keras, TensorFlow, PyTorch, and others. Most of the beginners and experts choose this language because of its easiness and readability. R It is another language that is quite common among data scientists and statisticians. It is useful in getting Excel in data visualization, exploratory data analysis, and statistical analysis. Though it is not as popular as Python when we talk about general-purpose programming, it actively focuses on machine learning and data analysis. C++ C++ language is popular for its effectiveness and speed. Thus, it is highly suitable for computationally intensive machine learning work. You can use libraries such as Shark TensorFlow that provide C++ for machine learning. Java One of the high-performance languages, Java is perfect for enterprise-level applications. Weka and Deep learning are such libraries that offer tools to Java developers for building and deploying machine learning models. Those products that need high performance, integration, and scalability can select Java language over others. Scala Most of the developers select Scala to work with a famous distributed data framework known as Apache Spark. Spark comprises machine learning libraries that can easily integrate with Scala. If you have to work on big data project, then you can go with Scala. Julia It exists as a newer programming language; Julia is specifically designed for scientific computing and good performance numerical. It works with a combination of easy use of Python and high-speed of C++. That is why; it has attracted many developers worldwide to know about machine learning. Prolog Prolog is described as a logic programming language that is ideally used for some kinds of rule-based machine learning applications and symbolic reasoning. It is not preferred as much as other languages. MATLAB Available as a proprietary language, MATLAB is widely used in different industries and academia for the purpose of data analysis and numerical computing. It ranges from toolboxes for machine learning to deep learning. Indeed, Python is a versatile language used for various techniques, and machine learning is one of them. But, that doesn’t mean you will not make use of other languages. Each one of them is exceptional in their own character. To Know More About courses Visit Job Oriented Course In Pune. Machine learning methods Counted as an important field of artificial intelligence, machine learning emphasizes evolving statistical models and algorithms. They allow computers to make predictions and make the right decisions. Commonly, there are quite a lot of machine learning methods on which most of the users rely. Transfer learning The method includes the training process of a model on a task and then fine-tuning. This is done to find out different, but associated tasks. In deep learning, it is actively used because pre-trained models such as ResNet or BERT are quickly adapted for particular tasks. Anomaly Detection The mentioned method is used for detecting data points that diverge from the norm. Isolation Forests and One-class SVMs are some of the examples of Anomaly Detection. Neural Networks and Deep Learning It is one of the subcategories of machine learning that work by mimicking the function as well as structure of the human brain. Ensemble methods It is a combination of several machine learning models and works to advance overall performance. The prime example of this category is Bagging and Boosting. Natural Language Processing Techniques Word Embeddings, Sentiment Analysis, Machine Translation, and Named Entity Recognition are excellent for performing text-related tasks. Regression The regression method is one of the categories that come under supervised ML. It is an important method because it helps in predicting a particular numerical value relying on previous data. Supervised Learning It is categorized into two categories, i.e. classification and regression. The classification tasks work with the goal of allocating a label or category to input data. Some of the algorithms used are Decision Trees, Logistic Regression, Neural Networks, and Support Vector Machines. In regression, the models are used at the time when output is a constant numerical value. Some examples of regression algorithms are linear regression, ridge regression, and Polynomial regression. Clustering Clustering methods aim to group observations that have almost the same characteristics. It doesn’t use any kind of output information needed for training. In this, only the visualization technique is used for observing the solution quality. Semi-supervised Learning It is a kind of approach which associates supervised and unsupervised learning together. Only a small amount of labeled data and a large amount of unlabelled data are used for enhancing the model working. Self-Supervised Learning It is one of the kinds of unsupervised learning where models are meant for generating labels with the help of data. It is extensively used for pre-training deep neural networks. The selection of machine learning methods depends on the problem the users face and the nature of the data. Practitioners and researchers are continuously developing new techniques and algorithms to deal with real-world problems. Masters in the skills of Data Analytics Enroll in Data Analytics Course In Pune. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Reinforcement machine learning Reinforcement Learning (RL) is described as a subfield of machine learning technology. It ponders on training agents so as to make an order of decisions. It will help in improving the cumulative reward. It works when an agent is related to an environment to learn to take actions which results in the highest possible reward. Have a look at some important concepts and components present in reinforcement learning. Environment – It offers feedback to agents in the form of penalties or rewards depending on their work or actions they take. Agent – Decision-maker or learner who interacts with the environment. It is constantly trained to make ideal decisions. Action (a) – Decisions or choices taken by the agents. How to make a decision completely depends on the situation or problem. State (s) – It represents the current situation or configuration of the environment. Moreover, it comprises all kinds of relevant information required by the agent to make the final decision. Policy (π) – Recognized as an approach or mapping from states to actions, hence agent is able to choose its decisions in different states. The key aim is to learn the policy while improving the expected cumulative reward. Value Function (V) – Starting from a specific state and following a policy, an agent can achieve cumulative reward. Furthermore, it also assists in evaluating the desirability of various states. Reward (r) – To measure the quick benefit or cost of action, a numerical signal is offered by the environment after the completion of every action. Agent works with an objective to increase the total expected reward. Q-Function (Q) – An agent can achieve the estimated cumulative reward by taking a specific action in a certain state while following a policy. Reinforcement learning algorithms work with an objective to search for value function or optimal policy which is used for increasing the expected cumulative reward. Fields like autonomous driving, game playing, recommendation systems and others actively use Reinforce Learning. Common machine learning algorithms perform Each algorithm of machine learning is specially designed for specific tasks. Here, we are discussing some prime machine learning algorithms as per their primary use cases. Supervised learning . . Logistic regression – This type is meant for binary classification issues to guess the probability that generally belongs to a specific category. . Linear regression – It is ideally used for expecting a constant variable depending on more than one input character in order to fit a linear equation to observed data. . Random forest – Known as an ensemble method, it combines multiple decision trees. This is helpful in progressing prediction accuracy and minimizes overfitting issues. . Decision trees – Present as a tree-like model, it is ideal for regression as well as classification tasks. With decision trees, one can separate data into different subsets depending on feature values. . Naïve Bayes – Probabilistic classifier is used for spam detection and text classification. It generally works on the basis of Bayes’ theorem. . Support Vector Machines (SVM) – SVM is usually used for binary classification and further be extended to different classes. It finds the hyperplanes for completing the regression tasks. Unsupervised Learning . K-Means Clustering – It is used for separating data points into K clusters depending on similarity. Basically, it works with an aim to reduce the intra-cluster variance. . Principal Component Analysis (PCA) – For finding the essential features in data, one has to follow the dimensionality reduction technique. . Hierarchical Clustering – It creates a tree-like hierarchy of clusters that makes it capable of picturing the relationships shared between two data points. . Association Rule Mining (Apriori) – Well, the users opt it for to learn interesting relationships or patterns present in transactional data. Semi-Supervised Learning . Label Propagation – This category uses a few data point labels to spread them to nearby unlabelled data points as per similarity measures. . Self-Training – Being a very simple approach, here a model is generally trained on a labeled dataset and further used to label unlabelled data. Reinforcement Learning . Q Learning – Used for making decisions as it’s a model-free reinforcement learning algorithm. Decision-taking ability comes by learning a value function. . Policy Gradient Methods – It is the algorithms that directly study the policy function. This is required for making the right decisions and used widely in continuous action spaces. . Deep Q-networks (DQN) – When Q-learning is combined with deep neural networks; the handling of complex environments with HD state spaces is possible. 5. Deep Learning Convolutional Neural Networks (CNN) – Required for spatial and image data for learning features by using convolutional layers. Transformer – It is eventually designed for performing NLP, thus adapted for doing sequence-to-sequence tasks. Feedforward Neural Networks (FNN) – It acts as basic neural networks having hidden, input and output layers. These are further used for completing different tasks such as regression and image classification. Recurrent Neural Networks (RNN) – RNN is appropriate for sequential data comprising hidden states. It also keeps information across time steps. Mentioned are common machine learning algorithms that are designed for performing particular tasks and completing challenges in the machine learning field. The selection of the algorithm generally depends on the difficulty and nature of the data. Check out Data Science Online training and get certified today. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send Machine Learning vs. Deep Learning vs. Neural Networks Machine learning, Deep learning, and Neural networks are all related and become important parts of artificial intelligence (AI). Though they are associated, they have some distinct differences and roles to play in solving different kinds of problems. Machine Learning Machine learning is a bigger part of artificial intelligence that concentrates on creating models and algorithms to study patterns from data. It allows the process of making predictions to be easy without being explicitly programmed. Generally, ML algorithms are classified into three types: supervised learning, unsupervised learning, and reinforcement learning. Each of them deals with diverse kinds of issues. Supervised learning is about training a model having labeled data. In this, the algorithm is trained to map inputs to outputs. Some of the common tasks involve regression and classification. Unsupervised, on the other hand, is meant for finding the structure or patterns in unlabelled data. It is mostly used for clustering and dimensionality reduction processes. Lastly, reinforcement learning works with agents learning so that they can interact with an environment. This leads to an increase in reward and hence, is used in applications like game playing and robotics. Neural networks A neural network is present as a specific category of machine learning that is inspired to be designed like human brain structure and functionality. They have interconnected nodes that are systematized into layers. An artificial neuron or perceptron is known to be a fundamental block of neural networks. They are arranged in layers the input layer, one or more hidden layers, and the output layer. Users opt for neural networks for doing different tasks like speech and image recognition, playing games, and natural language processing. Deep learning Presently, deep learning is described as a subfield of machine learning that widely focuses on neural networks along with different hidden layers. Therefore, it makes them deep networks. All these networks are proficient in automatically learning hierarchical features present in data. In the earlier few years, deep learning has emerged as a remarkable technology. It is mostly used in natural language processing, autonomous vehicles, speech recognition, and many more. For image-related jobs, Convolutional Neural Networks (CNNs) are used. While for completing natural language processing tasks, users opt for Recurrent Neural Networks (RNNs). Machine learning covers numerous learning algorithms like neural networks. Deep learning is becoming quite successful because many companies are taking benefit of it. No doubt, it has now become a dominant tactic in AI applications. Advantages and Disadvantages of Machine Learning As mentioned, machine learning is a part of artificial intelligence which includes the use of statistical models and algorithms for improving performance. Like any other technology, machine learning also has its specific advantages and disadvantages. Advantages First of all, we will discuss the advantages of machine learning technology. Improved decision making Machine learning algorithms are competent to examine large volumes of data, improve decision-making power, and take deeper insights. Such factors are important in various fields like healthcare, finance, and marketing. Automation Sometimes completing important tasks becomes difficult in different companies and industries. That is now possible with machine learning which not only saves your time but money also. Certain tasks such as natural language processing, recognition, and recommendation systems can be automated with the help of machine learning technology. Accuracy Machine learning models are designed in a way to attain a high level of accuracy in different applications. It is widely used in ML models and medical diagnosis for analyzing significant precision and medical images. Scalability Machine learning models are known for improving performance with the explosion of more data. This technique can handle large amounts of information and large datasets. Cost efficiency After the completion of training, machine learning models can complete numerous tasks with minimal human interference, and negligible labor costs and improve efficiency. Personalization If any company wants to create or improve personalized experience, they can take advantage of machine learning. Platforms like Amazon and Netflix are taking the benefits of this technology. Disadvantages Just like advantages, machine learning has disadvantages also. Let’s have a glimpse at a few. Complexity Indeed, machine learning models can be challenging to understand, especially when it comes to deep learning models. The lack of transparency can be one of the disadvantages where interpretability is involved. Data dependency Machine learning works with the help of high-quality data. If in case, the data used is incomplete, this will lead to wrong predictions or decisions. Overfitting Overfitting conditions occur when ML models become too particular on training data. Though, they perform well on training data but don’t work well with unseen data. Ethical concerns Machine learning models can increase the existing biases available in data, which can further lead to intolerant results. This causes raise in ethical concerns. Risks to security It’s true that machine learning models are susceptible to attacks. Their behavior can be changed because of data poisoning and adversarial attacks that can result in compromised security. Computational resources Computational resources like powerful hardware and energy consumption can train Ml models. These resources are actually costly. Regular maintenance There is a need for continuous maintenance and retraining in order to stay relevant because data distributions can change with time. Lack of creativity It has been noted that ML models lack creativity or you can say common sense. These are operated on data patterns and hence, can’t go beyond them to get trained. However, machine learning provides immense benefits in terms of accuracy, automation, and adaptability. Still, there are certain challenges associated with complexity, data quality, maintenance, and others that can hinder machine learning performance. To Learn From the Experts Visit 3RI Technologies. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Real-world machine learning use cases Machine learning has a wide spectrum of applications among different industries and domains. Here are a few real-world use cases mentioned below – Healthcare Machine learning models have the knack for examining medical images like MRI, X-rays, and others. Thus, it becomes easy to detect diseases like abnormalities, fractures, or cancer. Finance ML can assess the credit risk and wealth of loan candidates. Moreover, it is also used to make high-frequency decisions depending on market trends and data. E-commerce ML is a highly useful technology in the E-commerce industry. It recommends the right products to the users depending on past behavior and preferences. Likewise, it also adjusts the process depending on competition, demand, and other factors. Manufacturing In manufacturing, ML performs predictive maintenance where it uses sensor data for the prediction of failure in equipment and machinery. Along with this, ML inspects the products to find out the defects and this happens with the help of computer vision and image analysis. Logistics and transportation In the transportation industry, ML is useful in searching the effective routes for delivering trucks or transportation networks. ML also helps in monitoring the vehicles’ conditions and predicting the time of maintenance. Energy ML is helpful in forecasting energy demand which can optimize the power generation and distribution. It can also identify unusual patterns in order to prevent equipment failures and improve competence. Retail Machine learning assists the retail industry in many ways. Firstly, it optimizes the inventory levels as per the historical sales data and demand predictions. Secondly, it also categorizes the customers having similar behaviors to target marketing campaigns. Entertainment The entertainment industry is also not behind using machine learning technology. It helps in suggesting music, and movies to the users as per the viewing history or preferences. Besides, it also flags and filters the unsuitable content. Cybersecurity Cybersecurity is the main concern for every industry. Hence, machine learning is ideal for finding the unusual patterns available in network traffic for detecting cyber threats. Even biometrics and behavior analysis are used for verifying user identifications. Agriculture Precision farming in which data from satellites and sensors are used for optimizing irrigation, crop planting, and harvesting is possible with machine learning. This technique can also find out the plant diseases via image analysis. Government and public services Prediction of crime hotspots has now become easy with machine learning. Therefore, government and public services are taking benefit of this for analyzing data along with coordinating responses at the time of natural disasters. Sports analytics Machine learning helps players make strategic decisions and predict how a player gets injuries depending on historical data. Education Now, personalized learning is possible with machine learning technology. With the help of this, the system can predict student outcomes and find out the risks. Machine learning is proudly evolving with time and identifying various applications in almost every industry. It is becoming popular because it can easily analyze large datasets and take insight with the help of valuable tools. Challenges of machine learning Machine learning is emerging as an advanced field, but at the same time, it also faces various challenges. Some of the significant tasks involved are – Model complexity The complexity occurs when the model is either overfitting or underfitting. In overfitting cases, models that are very complex can learn training data but are unable to generate new or unseen data. On the other hand, in underfitting, the simple models cannot capture the patterns in data. Data quality and quantity There are numerous machine learning algorithms that need large amounts of data to get trained. Still, there are some cases that require enough high-quality data that can be challenging. It is possible that data may contain some errors, irrelevant information, or outliers having the potential to impact the model performance. Interpretability There are machine learning models like deep neural networks having ‘black boxes’. This can be quite challenging to comprehend certain predictions. Feature engineering Making the selection of appropriate features can be a time-consuming thing and domain-specific process that can be quite challenging. Hyperparameter tuning Searching for the right combination of hyperparameters required for a model can be an iterative method. Computational resources Deep neural networks usually need significant computational power and resources that can be challenging. Generalization It is challenging to ensure that models work better with unseen data from the same distribution. Privacy and security It is evident that machine learning systems can unintentionally leak sensitive information. Thus, the chances of web attacks can become vulnerable in models. Scalability If you want your machine learning models to work effectively, you have to face the challenges in real-time applications. Concept drift As time passes, the underlying data distribution can be changed causing the models to work minimally. Getting adapted to these changes can be challenging. Regulatory and compliance issues There is a requirement of legal and regulatory need based on location and application. This may impact both the deployment and development of machine learning systems. Cost The costs related to model development, data collection, and infrastructure can be substantial. To address these issues, you often need a combination of expertise in domain knowledge, machine learning, and commitment to rigorous testing and evaluation. Top Machine Learning Applications Machine Learning includes lots of applications that are used in numerous industries. Here are some of the top machine learning applications that are important to be highlighted. Image and video analysis Machine learning is useful for identifying patterns or objects, locating and classifying objects, and recognizing and verifying the objects within the images. Moreover, it also analyses the video content for numerous purposes like content recommendations, surveillance, and others. Natural Language Processing (NLP) NLP is used for categorizing the text documents as per the categories, performing the sentiment analysis, identifying the entities in the text, doing the translations of different languages, and creating conversational customer support. Recommendation systems The recommendation system is about recommending items as per the users’ interest, doing collaborative filtering, and performing hybrid recommender systems for better searches or recommendations. Healthcare Machine learning assists doctors in diagnosing various diseases depending on patient data and medical images. Apart from this, it is also useful in making predictions of drug candidates for the drug discovery process. Autonomous vehicle Machine learning plays an important role in running autonomous vehicles. It allows vehicles to make decisions or navigate autonomously. Additionally, it also optimizes the traffic flow while minimizing congestion in real-time data. Finance The finance department can do better in terms of finding fraudulent transactions or activities with the help of machine learning. It becomes easy to make trading decisions depending on market developments and historical data. Retail In retail, it is important to optimize the stock levels to meet the demand. In this, machine learning is helpful and it categorizes customers depending on their preferences and behavior. Eventually, it also adjusts the prices as per the market conditions and customer behavior. Gaming The gaming industry has improvised a lot because of machine learning technology. This is ideal for creating non-player characters (NPCs) and opponents. However, it also understands the behavior of players to design the games and personalized gaming experiences. Industries and manufacturing units Machine learning is an advanced technique that is helpful in anticipating equipment failures to reduce downtime. It also identifies the issues in manufacturing processes. Agriculture In the agriculture industry, machine learning is meant for analyzing data with the help of drones and sensors. Farmers also use machine learning for searching and managing diseases and pests in crops. Energy and environment The prediction of energy consumption and optimization of energy usage have become easy with machine learning technology. Security For recognizing the unusual patterns in data, machine learning is the best thing to use. Furthermore, it can also detect and mitigate cyber threats as well as attacks. These are some instances of machine learning applications as it is continuously evolving. With the growing advancements, more and more fields are adapting to machine learning. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Top Machine Learning Trends in 2024 Machine Learning is an emergent field that is driving major innovations in various industries. It is foreseen that in 2024, the market of machine learning will increase in size. That means, this technology will continue to be in great demand in the upcoming future. There are certain machine learning trends that are useful for learners as well as experienced professionals. Have a look at them! Explainable AI (XAI) It is one of the models which are useful at the time of interpretability and transparency. XAI advances the process and helps the users to comprehend the machine learning procedure. Bias Mitigation and AI Ethics Focusing on bias in AI systems is a noteworthy concern. With the development of regulations, guidelines, and tools, it might be easy to use machine learning easily. Federated Learning and Privacy Preservation Techniques like federated learning have gained a lot of popularity. It allows the models to get trained based on decentralized data without compromising with data privacy. Quantum Machine Learning Quantum computing is witnessing the latest advancements that make it more potential and practical. Hence, it becomes easy to solve the complex problems. AutoML and Model Selection Automated Machine Learning is a simplified way when it comes to model selection, hyperparameter tuning, and deployment. Few-shot learning and Meta-leaning These are the techniques that allow models to learn things quickly from a small amount of data. Therefore, it makes AI more adapted and efficient. Machine Learning in Natural Language Processing (NLP) Models such as GPT-4 are known for their better performance and this happens because of NLP. Machine Learning in Healthcare Machine Learning plays a major role in the healthcare industry. From detecting diseases to drug discovery, it is quite useful and offers cost-effective healthcare solutions. Robotics and Autonomous Systems Due to the advancement in reinforcement learning and computer vision, it may impact different industries like logistics, manufacturing, and healthcare. Climate change and sustainability Machine learning is actively used for addressing the challenges in climate change like mitigating and predicting the effects of climate change. Cybersecurity Machine Learning is a great technology for detecting and responding to all kinds of cyber threats. This minimizes the risks to cybersecurity. The machine Learning field is quite dynamic and hence these trends make it more technologically advanced and best for social needs. Prev Previous Top Applications of Data Science in Real Life Next Most In-Demand Data Science Certifications for a Rewarding Career Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/09/machine-learning.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Data-Science-Certified-Professional.png",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Job-Oriented-IT-Courses.jpg",
+        "alt": "Job Oriented Courses",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=What+is+Machine+Learning%3F+Unveiling+Definitions%2C+Types%2C+Algorithms%2C+and+Applications&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=82892&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-machine-learning-definition-types-applications-and-latest-trends%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2023/09/23/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/madan/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-engineering-training-with-placement/",
+      "https://www.3ritechnologies.com/course/data-science-online-training/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-cleaning-in-machine-learning/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/https-www-3ritechnologies-com-ai-machine-learning-career-guide/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/most-in-demand-data-science-certifications/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/top-applications-of-data-science-in-real-life/",
+      "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "What is Machine Learning? Types, Algorithms & Applications | 3ritechnologies",
+    "og_description": "Discover what is machine learning, explore different machine learning types, algorithms, and real-world applications of machine learning. Understand machine learning concepts and fundamentals with 3ritechnologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/"
+            },
+            "author": {
+              "name": "madan",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e"
+            },
+            "headline": "What is Machine Learning? Unveiling Definitions, Types, Algorithms, and Applications",
+            "datePublished": "2023-09-23T09:22:35+00:00",
+            "dateModified": "2025-08-08T08:17:36+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/"
+            },
+            "wordCount": 6579,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/09/machine-learning.jpg",
+            "keywords": [
+              "Data Science Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/",
+            "url": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/",
+            "name": "What is Machine Learning? Types, Algorithms & Applications | 3ritechnologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/09/machine-learning.jpg",
+            "datePublished": "2023-09-23T09:22:35+00:00",
+            "dateModified": "2025-08-08T08:17:36+00:00",
+            "description": "Discover what is machine learning, explore different machine learning types, algorithms, and real-world applications of machine learning. Understand machine learning concepts and fundamentals with 3ritechnologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/09/machine-learning.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/09/machine-learning.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/what-is-machine-learning-definition-types-applications-and-latest-trends/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "What is Machine Learning? Unveiling Definitions, Types, Algorithms, and Applications"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e",
+            "name": "madan",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "caption": "madan"
+            },
+            "url": "https://www.3ritechnologies.com/author/madan/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

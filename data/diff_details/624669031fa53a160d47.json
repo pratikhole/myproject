@@ -1,0 +1,370 @@
+{
+  "url": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Python Libraries Explained: Top Picks, Uses, and Choosing the Right One",
+    "meta_description": "Explore the ultimate list of Python libraries, their applications, and how to pick the right ones for data science, AI, and more.",
+    "h1": [
+      "Top Python Libraries: What They Are, How They Work & Why They Matter"
+    ],
+    "content": "Skip to content Home > Top Python Libraries: What They Are, How They Work & Why They Matter Top Python Libraries: What They Are, How They Work & Why They Matter Learn about the most popular Python libraries, their functions, and how to choose the perfect one for your next project. Table of Contents PriyankaS3ri January 6, 2025 4:06 pm Introduction Python is a popular programming language that is becoming more and more well-known all over the world. It can handle common problems and is used to create applications for a variety of domains, including software engineering, data science, and machine learning. Understanding the top Python fundamentals is essential for anyone aiming to build a strong foundation in data analysis. Libraries like Pandas, NumPy, Matplotlib, and Scikit-learn not only simplify complex tasks but also enhance your ability to process, visualise, and interpret data effectively. If you’re serious about advancing your skills, joining data analytics certification courses in Pune can provide structured learning and practical exposure to these tools. The data analytics course syllabus is carefully designed to cover these libraries in depth, ensuring you gain hands-on experience that prepares you for real-world challenges and career opportunities. Understanding what are libraries in Python is crucial for anyone looking to master programming. Python libraries simplify development and supercharge productivity, offering pre-written code for everything from data analysis to AI. But with an ever-growing list of Python libraries, choosing the right one can be overwhelming. This article explores the most important Python library list, their uses, and how to select the best for your goals. Whether you’re curious about the Python list library or need guidance on real-world usage, 3RI Technologies’ Python Training in Pune helps you build deep, practical skills that matter. Python’s extensive libraries, which are collections of scripts that we may utilize in our programs for clearly defined activities, are a key factor in its steadily rising popularity. Python libraries also include classes, values, documentation, message templates, and configuration information. For the programmer, it simplifies and facilitates Python programming. In the domains of data science, machine learning, data visualization, etc., Python libraries are essential. Complete Python Libraries List and How to Select the Best for Your Project A collection of similar modules connected together is called a Python library. It includes a code bundle that programmers can utilize repeatedly across various applications, which speeds up and streamlines programming by eliminating the need to write the same code repeatedly for various projects. Additionally, the source code for every Python library is available. Python libraries are used across numerous domains, including machine learning, data visualization, and computer science. Standard Libraries in Python (Top List) With built-in modules that provide access to fundamental system functionality, the Python standard library shares the same semantics, syntax, and tokens. Additionally, it has more than 200 essential modules that combine to make Python a high-level programming language . The majority of the additional libraries that Python provides developers to facilitate programming are built in C. Let’s examine the list of Python libraries that we frequently utilize for programming: Scikit-learn To work with complex data, this well-known open-source Python module is utilized. The SciPy and Numpy libraries are compatible with it. It supports a number of supervised and unsupervised techniques, such as clustering, regression, and classification, as well as machine learning. Lean to more about Scikit- learn Keras Users can carry out in-depth study on deep neural networks using this open-source neural network library. It is regarded as a good choice as deep learning becomes more and more popular. The industry and research community favor Keras over TensorFlow and Theano. Matplotlib Matplotlib is an essential package for data analysis since we use it to plot numerical data. Plotting highly defined figures like graphs, pie charts, scatterplots, and histograms is possible using this open-source Python package. Numpy Numerical Python, or Numpy, is one of the most widely used open-source Python packages. It facilitates mathematical and scientific computations by supporting massive matrices, multi-dimensional data, and built-in mathematical functions. PyGame The PyGame library provides a user-friendly interface for platform-independent graphics, audio, input, and SDL (Standard Directmedia Library). Python programming allows us to create video games using graphics and audio modules. Pandas Pandas is used for data science tasks like control, analysis, data manipulation, and information cleaning. Additionally, it facilitates sorting, conversion, re-indexing, aggregate, concatenation, visualization, and iteration. PyBrain PyBrain is an acronym for the Python-Based Neural Networks, Artificial Intelligence, and Reinforcement Learning Library. PyBrain is dependable for developers beginning their research journeys because it is simple to use and offers flexibility. Statsmodels It is employed in the estimation and analysis of statistical models. Additionally, it produces excellent results in statistical tests and other tasks that are carried out within it. TensorFlow TensorFlow, created by Google in collaboration with the Brain Team, is next on our list of Python libraries. We utilize this open-source toolkit to solve challenging physics and math problems, as well as for high-level calculations and machine learning and deep learning techniques. Seaborn This Python module allows us to visualize statistical models. Because it offers a variety of color schemes for pattern displays, facilitates the creation of complicated representations with ease, and guarantees direct relapse evaluation and charting, this Matplotlib-based module enables statistical graphics. Scrapy We also utilize this open-source Python package to gather data from websites since it facilitates web crawling and screen scraping. We also utilize it for data mining and automated data testing. PyTorch It is the biggest Python machine learning package for tensor computation optimization and neural network problem solving. Tensor calculations with string GPU acceleration can be carried out via its comprehensive API. SciPy This Python open-source library is used for scientific computing, information processing, and other high-level computations because it has a number of simple functions and methods that speed up and simplify computations. How to Choose the Right Python Library? Now that you are aware of the most popular Python libraries, let’s examine how to select the best one for your requirements: Examine the many kinds of data that you will be working with. This will assist you in selecting the library that is appropriate for managing particular data kinds, such text or numeric data. Establish your goals first, including the needs and aims of the project. Next, decide if you require a library for data analysis, machine learning, or other uses. The library you select needs to work with the other libraries you intend to use as well as the Python version. Assess the library’s performance while carrying out particular operations because some libraries are speed and memory-optimized. Give preference to libraries that have vibrant community support. To receive better assistance and resources, become familiar with the library’s documentation and community. Try out a variety of libraries to see which is best for your project and to obtain practical experience. Take into account the learning curve of libraries because some require a lot of work to understand. Future Of Python For Data Science Python’s prospects for use in data science seem incredibly bright. In the field of data science, Python has become a dominating language, and its popularity is only increasing. Python provides the perfect environment for data scientists with its wide array of robust libraries, frameworks, and tools made especially for data analysis, machine learning, and artificial intelligence. Choose the Right Program To Grow In Your Data Science Career Do you want to pursue a career in the fascinating field of data analytics? Our courses in data analytics are meant to provide you the abilities and information need to succeed in this quickly expanding field. Through practical projects, real-world scenarios, and case studies, our knowledgeable instructors will help you gain the experience you need to be successful. Our courses will teach you how to evaluate data, produce informative reports, and make decisions based on data that will help your organization succeed. Become a Python Pro There are plenty other useful Python libraries that are worth looking at in addition to these top 20 data science Python libraries. As a next step, check out and sign up for our special Data Scientist program if you want to learn and become an expert in data science using Python! The Ultimate Python Web Development Frameworks List Prev Previous How should you learn Data Science with the course syllabus? Next Top 10 Java Projects for Beginners in 2025 to Enhance Your Skills Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Python-Libraries-Blog-Image.jpg",
+        "alt": "Looking for Python libraries? Find the top lists, uses, and expert tips by 3RI Technologies to select the best libraries for your coding needs.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/dab6e1f9e2.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-2.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/images-2.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-3.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-4.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-5.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-6.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-7.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-8.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-9.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-10.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-11.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/download-12.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Python&cd%5Bpage_title%5D=Top+Python+Libraries%3A+What+They+Are%2C+How+They+Work+%26amp%3B+Why+They+Matter&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=106720&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fpython-libraries-top-lists-uses-how-to-choose%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2025/01/06/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/for-best-quality-python-programming-classes-in-pune-join-3ri-technologies/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/fundamental-concepts-of-python/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/how-should-you-learn-data-science-with-the-course-syllabus/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/",
+      "https://www.3ritechnologies.com/python-web-development-frameworks-list/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/top-10-java-projects-for-beginners-in-2025/",
+      "https://www.3ritechnologies.com/what-is-sklearn-in-python/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Python Libraries Explained: Top Picks, Uses, and Choosing the Right One",
+    "og_description": "Explore the ultimate list of Python libraries, their applications, and how to pick the right ones for data science, AI, and more.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Top Python Libraries: What They Are, How They Work &amp; Why They Matter",
+            "datePublished": "2025-01-06T10:36:01+00:00",
+            "dateModified": "2025-12-20T07:34:34+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/"
+            },
+            "wordCount": 1334,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Python-Libraries-Blog-Image.jpg",
+            "keywords": [
+              "Python Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Python"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/",
+            "url": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/",
+            "name": "Python Libraries Explained: Top Picks, Uses, and Choosing the Right One",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Python-Libraries-Blog-Image.jpg",
+            "datePublished": "2025-01-06T10:36:01+00:00",
+            "dateModified": "2025-12-20T07:34:34+00:00",
+            "description": "Explore the ultimate list of Python libraries, their applications, and how to pick the right ones for data science, AI, and more.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Python-Libraries-Blog-Image.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Python-Libraries-Blog-Image.jpg",
+            "width": 1000,
+            "height": 667,
+            "caption": "Looking for Python libraries? Find the top lists, uses, and expert tips by 3RI Technologies to select the best libraries for your coding needs."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Top Python Libraries: What They Are, How They Work &amp; Why They Matter"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

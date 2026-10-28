@@ -1,0 +1,336 @@
+{
+  "url": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Become a Data Analytics Expert: Master Machine Learning with Our Course!",
+    "meta_description": "Explore key machine learning roles in data analytics with our practical course. Start your journey to success now!",
+    "h1": [
+      "Key Roles of Machine Learning in Data Analytics",
+      "Key Roles of Machine Learning in Data Analytics"
+    ],
+    "content": "Skip to content Home > Key Roles of Machine Learning in Data Analytics Key Roles of Machine Learning in Data Analytics Your career with 3RI's comprehensive Machine Learning in Data Analytics course. Gain hands-on experience and industry-relevant skills to become a sought-after data professional. Enrol now to transform your future! Table of Contents PriyankaS3ri January 9, 2025 12:16 pm Key Roles of Machine Learning in Data Analytics In today’s data-driven world, organizations generate vast amounts of data, and successful analysis is crucial for gaining new insights, improving decision-making, and accomplishing corporate objectives. Machine learning (ML), a branch of artificial intelligence (AI), transforms data analytics by enabling systems to recognize patterns, learn from data, and make predictions with minimal human intervention. This blog will explore the primary uses of machine learning in data analytics , including automating data analysis, uncovering hidden patterns, increasing predictive power, and promoting better real-time decision-making. What is Machine Learning (ML)? Machine learning (ML), a subfield of AI, aims to create models and algorithms that computers can use to learn from data and get better over time without human intervention or code. Machine learning systems don’t adhere to set rules; they learn from their mistakes by analyzing data for patterns, making predictions, and adjusting their actions accordingly. What is Data Analytics? Data analytics analyzes, converts, and interprets unprocessed data to find significant trends, patterns, and insights that can inform choices. It entails taking vast amounts of data and turning them into actionable insights using statistical methods, tools, and algorithms. Numerous industries extensively use data analytics to improve business performance, streamline operations, forecast trends, and resolve challenging issues. Key Concepts of Machine Learning Algorithms: Machine learning uses algorithms to analyze data and find patterns. Algorithms in this category vary from simple linear regression to advanced deep-learning prototypes. Training Data: Massive datasets are utilized to train machine learning algorithms. Since the model learns by recognizing connections between inputs and outputs, the quantity and quality of the training data are crucial. Model: The model is the product of the machine learning process. After training, the model can produce predictions or judgments on fresh data. Types of Machine Learning Supervised Learning: Supervised learning refers to training the model with a labeled dataset in which the correct output is already known. Predicting the results for fresh, unseen data is the aim. Regression and classification tasks are two examples. Unsupervised Learning: Without labeled outputs, the model discovers patterns in the data. Some of its common uses include dimensionality reduction, clustering, and association. Reinforcement Learning: The model fine-tunes its approach to get the best result by interacting with an environment and getting feedback through rewards or penalties. Key Applications of Machine Learning Predictive Analytics: Using machine learning (ML) models, predictive analytics forecasts future events based on past data, including sales and stock price forecasting. Recommendation systems: Often utilized in streaming services and e-commerce, algorithms examine user behavior to offer tailored suggestions. Fraud Detection: By identifying patterns that point to fraud, machine learning models can spot suspicious activity in financial transactions. Image and Speech Recognition: Deep learning models analyze and comprehend audio or visual input, making voice assistants and facial recognition possible. Top ML Approaches for Data Analytics Clustering An advanced machine learning technique called clustering groups datasets according to similar unlabeled data points. Different data points belong to other groups. By organizing both similar and dissimilar datasets, this technique helps to clarify business processes. ML-driven clustering offers a cost-effective analytics solution by enabling customized processing of large datasets, even though many business intelligence tools can group data. Medical imaging and customer segmentation are two fields in which this method is useful. Predictive Analytics Predictive analytics is a sophisticated analytical technique that forecasts future events using historical data. It employs data mining and machine learning approaches to construct statistical models that discover associations, patterns, and correlations. This method works exceptionally well for answering questions and tackling business problems. In contrast to conventional business intelligence tools, machine learning (ML)-based predictive analytics provides customization and is appropriate for several sectors, such as banking, insurance, eCommerce, and more. It facilitates tasks like financial modeling, risk assessment, and sales forecasting. Anomaly Detection One method for finding uncommon or questionable occurrences or observations in datasets is anomaly detection. According to the numbers, these outliers are entirely separate from the average. ML-powered anomaly detection does what traditional analytical tools frequently fail to do: it automatically processes large datasets and eliminates anomalies. This method works well for rapidly detecting problems like fraud, faulty goods, or irregularities in sectors like banking, financial institutions, manufacturing, and healthcare. Explainable AI The next development in machine learning and artificial intelligence is explainable AI. Its objective is to allow self-governing systems to defend their decisions and actions. However, the limitations of machines in providing explanations present a challenge to this technology. Explainable AI has the potential to revolutionize several sectors, including banking, manufacturing, healthcare, and transportation. It is beneficial in crucial applications such as climate change modeling and predictive maintenance since it allows machines to articulate how they make decisions. Key Roles of Machine Learning in Data Analytics 1. Automating Analysis and Processing of Data Data analytics rely on machine learning to automate data processing and analysis. The conventional data analysis methods necessitate extensive manual work and are often laborious and tiresome when it comes to cleaning, organizing, and processing data. You can automate a lot of these tasks with machine learning techniques, such as: Data cleaning: By automatically identifying and fixing mistakes, inconsistencies, or missing data, machine learning algorithms can raise the general caliber of the data. Data Transformation: Businesses can work with and analyze data more easily by automatically training machine learning models to convert unprocessed data into a more readable format. Feature Engineering: Machine learning (ML) can automate feature selection and engineering, which are crucial for creating predictive models. Better and more accurate data analysis is made possible by this. By automating these procedures, machine learning saves time and effort, freeing up data scientists and analysts to work on more intricate and strategic projects. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send 2. Finding Hidden Insights and Patterns Machine learning’s ability to unearth previously unseen correlations, patterns, and trends in data is a significant plus for data analytics compared to more conventional approaches. In a short time, machine learning algorithms can go through enormous datasets, frequently discovering previously unknown insights. Clustering Algorithms: Machine learning methods, such as hierarchical clustering and K-means, can assist organizations in locating patterns or segments within their data by grouping related data points. This could benefit market research, consumer segmentation, and anomaly detection. Association Rule Learning: Businesses can use association rule learning to identify correlations between variables in their data. Association rule learning, for instance, can reveal buying trends in the retail industry, such as “customers who buy product A often buy product B.” Dimensionality Reduction: While maintaining important information, machine learning methods such as Principal Component Analysis (PCA) simplify big datasets. As a result, analysts can better comprehend the main factors influencing business outcomes. By spotting these patterns, machine learning improves an organization’s capacity to make data-driven decisions based on deeper and more intricate insights. 3. Improving Analytics for Prediction Predictive analytics is among the most well-known machine learning applications in data analytics. When predictive analytics uses historical data to forecast future trends or events, machine learning significantly improves the accuracy and efficacy of the predictions. Regression Models: Many people use machine learning algorithms like neural networks, decision trees, and linear regression to forecast continuous outcomes like customer demand, stock prices, and sales forecasts. Classification Models: Logistic regression, support vector machines (SVMs), and random forests are classification algorithms that can predict categorical outcomes, such as the likelihood of a customer churning or the fraudulentness of a transaction. Time-Series Forecasting: Time-series data is analyzed using machine learning models such as ARIMA and LSTMs (Long Short-Term Memory Networks) to forecast future trends based on past data. By utilizing machine learning, businesses can increase the precision of their forecasts, assisting them in anticipating shifts in the market, consumer behavior, and operational hazards, ultimately resulting in improved decision-making. 4. Facilitating Decision-Making and Real-Time Analytics Organizations must make decisions quickly in today’s fast-paced business world. The volume and speed of incoming data are frequently too much for traditional data analysis techniques. However, businesses can make data-driven decisions more quickly thanks to machine learning’s ability to handle large data sets in real time. Stream Processing: The ability of machine learning algorithms to process and evaluate data in real time makes real-time insights conceivable. This is especially helpful in fraud detection, where loss prevention requires quick action. Anomaly Detection: Real-time detection of anomalies or odd patterns is possible with machine learning models that continuously monitor data streams—applications like cybersecurity, where early detection of anomalous activity can stop security breaches, benefit from this. Dynamic Pricing: By evaluating demand trends and rival pricing in real-time, machine learning enables dynamic pricing models in sectors like ride-sharing and e-commerce, allowing businesses to adjust prices as needed. Machine learning gives companies a competitive edge by enabling real-time analytics, which allows them to react swiftly to shifts in the market, consumer behavior, or operational circumstances. 5. Improving Interpretability and Data Visualization Despite the power of machine learning algorithms, their output must be actionable and intelligible to humans. Decision-makers can better comprehend complex data and insights thanks to machine learning’s significant contribution to improving data visualization and interpretability. Advanced Visualization Techniques: These techniques make it easier to explore and comprehend complex datasets by combining machine learning with data visualization tools to produce more dynamic and interactive visualizations, like 3D graphs, decision trees, or heatmaps. Data Visualization with Power BI: Improve data interpretability using machine learning and Power BI tools for data visualization, such as interactive dashboards that effectively communicate insights. Providing decision-makers with aesthetically appealing depictions of intricate datasets can empower them. Explainable AI (XAI): As machine learning has grown in popularity, there has been an increasing emphasis on improving the interpretability of AI models. By offering easily comprehensible explanations of how models generate their predictions, explainable AI techniques aid in demythologizing the “black box” nature of intricate machine learning models. Natural Language Processing (NLP): The ability of machine learning-driven natural language processing (NLP) tools to produce plain-language summaries of data insights facilitates comprehension and action by non-technical stakeholders. Machine learning helps close the gap between technical data analysis and valuable business insights by making data easier to understand and present. 6. Motivating Prescriptive Analytics Prescriptive analytics, which projects future results and recommends the best action to attain desired results, relies on machine learning and predictive analytics. Optimization Models: By suggesting the best course of action or distribution of resources, machine learning algorithms can optimize business operations. For instance, they can advise a retailer on the ideal inventory levels or the best routes for delivery trucks. Recommender Systems: Recommender systems driven by machine learning suggest products, services, or content to users based on their past usage and preferences. These technologies are widely used in digital marketing, streaming services, and e-commerce to increase customer engagement and revenue. Machine learning-enabled prescriptive analytics offers organizations actionable insights to enhance operations and produce better results. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send The Bottom Line Machine learning transforms data analytics by automating data processing, revealing hidden patterns, improving predictive models, facilitating real-time decision-making, enhancing visualization, and generating prescriptive insights. The importance of machine learning in data analytics will only increase as data volume and complexity continue to rise, allowing businesses to utilize their data and make more intelligent decisions fully. Prev Previous Python for Data Science vs. Python for Web Development: Choosing Your Career Path Next Top 10 Java Career Opportunities in 2025: Salary & Job Descriptions Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Data-Analytics-Blog-Image.png",
+        "alt": "Master machine learning in data analytics and unlock high-demand career opportunities. Enroll in our expert-led course today!",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/f978fe35c8.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Data-Science-Certified-Professional.png",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/4cffd98a16.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/21-1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/31.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=Key+Roles+of+Machine+Learning+in+Data+Analytics&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=106835&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fkey-roles-of-machine-learning-in-data-analytics%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/10-java-career-opportunities-in-2025-with-job-description-and-salary/",
+      "https://www.3ritechnologies.com/2025/01/09/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-for-data-science-vs-python-web-development/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Become a Data Analytics Expert: Master Machine Learning with Our Course!",
+    "og_description": "Explore key machine learning roles in data analytics with our practical course. Start your journey to success now!",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Key Roles of Machine Learning in Data Analytics",
+            "datePublished": "2025-01-09T06:46:31+00:00",
+            "dateModified": "2026-09-14T06:58:46+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/"
+            },
+            "wordCount": 1877,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Data-Analytics-Blog-Image.png",
+            "keywords": [
+              "Data Science Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/",
+            "url": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/",
+            "name": "Become a Data Analytics Expert: Master Machine Learning with Our Course!",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Data-Analytics-Blog-Image.png",
+            "datePublished": "2025-01-09T06:46:31+00:00",
+            "dateModified": "2026-09-14T06:58:46+00:00",
+            "description": "Explore key machine learning roles in data analytics with our practical course. Start your journey to success now!",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Data-Analytics-Blog-Image.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Data-Analytics-Blog-Image.png",
+            "width": 1000,
+            "height": 667,
+            "caption": "Master machine learning in data analytics and unlock high-demand career opportunities. Enroll in our expert-led course today!"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/key-roles-of-machine-learning-in-data-analytics/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Key Roles of Machine Learning in Data Analytics"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

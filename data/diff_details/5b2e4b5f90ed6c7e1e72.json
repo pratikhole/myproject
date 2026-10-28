@@ -1,0 +1,337 @@
+{
+  "url": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "SQL Interview Questions for 3 Years Experience | 3ritechnologies",
+    "meta_description": "Ace your next interview with our expert list of SQL interview questions for professionals with 3 years of experience. Covers key topics and answers to land the job.",
+    "h1": [
+      "Top SQL Interview Questions and Answers"
+    ],
+    "content": "Skip to content Home > Top SQL Interview Questions and Answers Top SQL Interview Questions and Answers SQL is a specific programming language used in database management systems for managing data. SQL programming capabilities are highly desired and required in the industry, as DBMS is used extensively in almost all software applications. Therefore, applicants must crack the interview, during which several SQL interview questions are asked. Table of Contents PriyankaS3ri June 9, 2021 7:08 pm SQL is a specific programming language used in database management systems for managing data. SQL programming capabilities are highly desired and required in the industry, as DBMS is used extensively in almost all software applications. Therefore, applicants must crack the interview, during which several SQL interview questions are asked. Are you preparing for your next SQL role and want to know the right questions to expect? The sql interview questions for 3 years experience are significantly different from entry-level queries. This guide is specifically designed to cover the crucial sql interview questions 3 years experience professionals will face. We’ve compiled a list of the top 3 years experience sql interview questions and sql 3 years experience interview questions that test your practical knowledge of complex queries, optimization, and database design. Acing this interview can be your next career milestone. To build a truly strong foundation and master advanced topics, our expert-led Pl SQL Course offers the in-depth training you need to excel. Interview questions may be asked for candidates based on their experience and other variables. The following list contains SQL interview questions and Answers for beginners, experienced candidates, and SQL queries. Advanced SQL Questions for Experienced Professionals What does a database management system (DBMS) entail? A DBMS is a program that automates Database management, database development, and usage. DBMS is a name for the DBMS system. It is a kind of file manager which manages data in a database instead of on a file system. What is the RDMS? Relational Database Management Systems are systems for database management that preserve data in tables. We can create table relationships. An RDMS can recombine data items from different files with vital data use tools. What is Structured Query Language (SQL), and how does it work? SQL is the programming language used for interacting with databases. It is a widely-used programming language for database-related tasks such as data extraction, update, insertion, and deletion. What is a Database Concept? A database is just a structured data set that allows easy access, storage, retrieval, and management. It is also called structured data and is accessible in various ways. What are the “tables” and “fields”? Table is a set of data arranged according to the Columns and Rows model. Columns are vertical, while rows are horizontal. A table has a fixed number of columns called fields but can have an unlimited number of rows called records. Brief the primary key? A primary key is a group of fields that together clearly defines a row. It is a particular case of a unique key that has an implied NOT NULL constraint. It means that the values for the primary key cannot be NULL. Explain the unique key? ● Each database record had a specific key constraint. It provides the column or set of columns uniqueness. ● A unique automatic constraint is specified on a primary key constraint. However, it’s not the case when it comes to the Unique Key. ● Each table can contain several different constraints but only one primary main constraint. Brief the foreign key? When the primary key field is added to the tables to create the common field related to both tables, the table in the other table names it a foreign key. What is SQL Profiler? The SQL Profiler is an administrator system tool for monitoring SQL server events. The primary purpose of this is to capture and save data for each file or table event for analysis. What does the term “recursive stored procedure” mean? SQL Server supports recursive stored procedures that execute independently. A recursive stored procedure is a technique for problem-solving in which the solution is defined repeatedly. It has a nesting capacity of up to 32 levels. Are SQL servers capable of being linked to other servers? SQL Server can link to any database that has a link to the OLE-DB provider. What is a subquery, and how are its properties defined? A sub-query is a query that can be nested within the main question, such as a Select, Update, Insert, or Delete statement. It can use in situations where expression is allowed. Subquery Properties can be defined as follows: ● There should be no order by clause in a subquery. ● A subquery should be placed immediately to the right of the main query’s comparison operator. ● A subquery should be enclosed in parenthesis since it must execute before the main question. ● Multiple subqueries are included. What is a SQL server agent, and how does it work? The SQL Server agent is critical to the SQL server administrator’s day-to-day tasks (DBA). The server agent aims to facilitate tasks using the scheduler engine, enabling the jobs to run on a scheduled date and time. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send What is SQL Server scheduled tasks? Scheduled tasks or jobs are used to automate operations that can execute at a planned time and interval. This scheduling helps reduce human intervention at night, and feed can carry out at a particular time. The user may also order the tasks to be created. In SQL Server Programming, how are exceptions handled? Exceptions are handled via the TRY——CATCH constructs, with scripts within the TRY block and error handling within the CATCH block. Is it possible to perform a database lock check? Yes, we can perform database lock checks. It is accomplished by the use of the stored procedure sp lock. Explain the Trigger? When insert, update, or delete commands are executed against a table, Triggers are used to run a batch of SQL code. When data is changed, Triggers are automatically activated or executed. It can be automatically performed when inserting, deleting, and updating. What is an insert statement’s IDENTITY column? The IDENTITY column is used in table columns to turn them into total auto numbers or surrogate keys. What is SQL Bulkcopy? Bulk copy is a command-line utility that is used to copy vast amounts of data from Tables. This tool is used to load SQL Server with large amounts of data. What is the distinction between the terms UNION and UNION ALL? ● Two data tables are combined using the UNION command. ● In Union All, Duplicate rows are not removed, so all rows are included from all tables. How are global temporary tables and their scope represented? Temporary global tables before the table name are represented with ##. The scope of the session will be outside, while local temporary tables will be within the session. @@SPID can be used to determine the session id. What are the variations between the dynamic SQL and the stored procedure? The term “Stored Procedure” refers to a set of statements that are stored in compiled form. Dynamic SQL is a compilation of dynamically constructed statements that are not stored in a database and executed only during run time Explain the UPDATE STATISTICS command? If several deletions, changes, or bulk copies occur in indexes, the UPDATE STATISTICS Command updates indexes. What is the purpose of the statement SET NOCOUNT ON/OFF? NOCOUNT is by default set to OFF and returns the number of records affected when executed. However, if the user wishes to disable the display of the number of affected records, it can be explicitly set to ON- (SET NOCOUNT ON). Explain the Magic Tables? SQL Server builds magic tables to store the values returned by DML operations such as Insert, Delete, and Update. These magical tales are used to facilitate data transactions within triggers. What is the aim of the ISNULL() operator? The ISNULL() function decides in SQL Server whether or not the value is NULL. Additionally, this function allows for the replacement of NULL for a value. What is the maximum number of indexes that a table should have? SQL Server 2008 allows a maximum of 100 indexes on each table. In addition, the SQL Server supported up to one clustered index and 999 indexes per table that are non-clustered. How are COMMIT and ROLLBACK different? All statements between BEGIN and COMMIT will be permanent in the database if the COMMIT statement is executed. When the ROLLBACK has been performed, every statement between ROLLBACK and BEGIN is reverted. What is the distinction between the varchar and the nvarchar data types? nvarchar and varchar are similar, but nvarchar can store Unicode characters for several different languages and use more space than varchar. Where are the user names and passwords of SQL Server stored in SQL Server? In sys.server and sys.sql logins, usernames and passwords are stored. What does TABLESAMPLE mean? TABLESAMPLE is used to randomly extract the sample of rows that are all required for the application. The sampling rows are dependent on the percentage of rows. Explain SQL injection? SQL injection is a malicious user attack that inserts malicious code into strings sent in the SQL server instance for scanning and execution. Because all syntactically correct queries received are executed, all statements need to verify the vulnerability. By professional and experienced attackers, even parameters can manipulate. What exactly is a Filtered Index? A sub-set of rows in the table is filtered by filtered indexes to improve query accuracy, storage costs, and index management. When a WHERE clause is used to create an index, the index is called a filtered index. Explain the view? A view is a virtual table with a sub-set of table data. Views are not almost present, and less room is used to store them. Depending on the relationship, one or more tables may contain data. How do you define an index? An index is a performance optimization technique that enables a table’s records to be retrieved more quickly. Each value would have its entry in the index, making data retrieval faster. What is Cursor? In a database, the cursor is a control that allows navigation through the table’s rows or records. It can be used as a one-row pointer in several rows. Cursors are very useful for cross-data database operations such as the addition, retrieval, and removal of records. Describe the query? A database query is a code part that is written from a database to retrieve the data. A Query is constructed to correspond to our expectations for the result set—just a Database question. What does the term “subquery” mean? Subqueries are queries contained within other questions. What does the term “stored procedure” mean? The collection of SQL statements used to connect a database system is called the stored procedure. Numerous SQL statements are condensed into a stored procedure, which executes them whenever and wherever they are required. How are local and global variables different? Local variables are variables that are accessible or exist within a function. They are not available for the other parts and thus cannot be connected or used. Global variables are variables that are accessible or exist throughout the entire program. What is the term “data Integrity”? Data Integrity is a term that refers to the precision and quality of data that is stored in a database. It may also specify integrity constraints to implement business data rules when entered in the application or database. Learn more at 3RI Technologies What does Auto Increment mean? The auto-increment keyword allows the user to specify a unique number generated each time a new record is added to the table. Oracle supports the AUTOINCREMENT keyword, while SQL SERVER supports the IDENTITY keyword. This keyword can usually be used when using PRIMARY KEY. How do the cluster and the non-cluster index differ? A clustered index is used to enable the data recovery from the database by changing the way records are maintained. The database sorts rows by the index column clustering. A non-clustered index doesn’t change the storage but creates another object in the table. Then, after the search is complete, it returns to the original table rows. What exactly is a data warehouse? The data warehouse is a centralized data collection from different sources. The data is consolidated, transformed, and made available for online processing and mining, and Warehouse data has a subset of data known as Data Marts. What does Self-Join mean? The query used to compare with itself is self-associated. It compares values with other values in the same row in a column on the same column. ALIAS ES may be used for the same table comparison. What does Cross-Join mean? Cross join is defined as the Cartesian product of the first table’s row number multiplied by the second table’s row count. If a WHERE clause is used in the cross join, the query looks like an INNER JOIN. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Explain the user-defined functions? User-defined functions are functions that are written to make use of that logic as required. Thus, repeating the same reason many times is unnecessary. The function may instead be called or executed whenever needed. What exactly is collation? Collation is a collection of rules that govern the sorting and comparison of character data. It helps compare A and other language characters and is also dependent on the character width. Explain the pros and cons of a stored procedure? The stored process can be used as modular programming – it means creating once, storing, and calling multiple times whenever required. It supports quicker execution rather than various queries. It resulted in decreased network traffic and increased data protection. The disadvantage is that it can only be done inside the database and increases the database server’s memory consumption. What is OLTP (Online Transaction Processing)? Online Transaction Processing (OLTP) is responsible for managing transaction-based systems used for data entry and processing. OLTP simplifies and makes data management effective. Unlike OLAP’s OLTP systems goal, real-time transactions are served. Example – Daily banking transactions. What does the term “recursive stored process” mean? It is a stored procedure that terminates execution before reaching a boundary condition. This recursive function or method enables programmers to reuse a set of codes indefinitely. What is the difference between the Union, and Minus commands? The UNION operator combines results from two tables and removes duplicate rows. The MINUS operator returns the first query rows but not the second query rows. Thus, a result set can show the records returned by the first and second queries and any additional rows returned by the first query. How do TRUNCATE and DROP statements differ? TRUNCATE removes all rows and cannot be rolled out from the table. DROP command removes a database table, and it cannot roll back the operation. How do aggregate functions vary from scalar functions? Aggregate functions are used to test mathematical expressions and return their results as single values. It can measure from the table columns. Scalar functions return a single value depending on the value of the input. What is log shipping? Log shipping is only automating backups and restore them from a server to another standalone standby server. However, it is a potential method of recovery from disasters. If a server fails for whatever reason, the same data are available on the standby server. Brief the execution plan? An execution plan shows how the SQL server breaks a query to obtain the necessary results. It allows a user to evaluate why questions take longer to execute and maximize queries based on performance. The “Show Execution Plan” option is provided in Query Analyzer. If this option is activated, a query execution plan will be shown in a separate window when the query is rerun. Explain the stored procedure? A stored procedure is a compilation of input and returns output SQL queries. Furthermore, when a design is changed, all clients receive the updated version automatically. Thus, stored procedures improve efficiency by reducing network traffic. In addition, stored processes use to maintain database integrity. How do a local and a global temporary table differ? Suppose a local temporary table is specified within a compound statement. It lasts for the duration of the statement in this situation. At the same time, a global temporary table exists indefinitely in the database, but when the link is closed, it loses its rows. What is the SQL Profiler? SQL Profiler visualizes activities occurring in a SQL Server instance for monitoring and investment. In addition, we can collect and store data for future analysis. We can also place filters to capture the detailed data we want. Can a stored procedure be called inside a stored procedure? Yes, a stored procedure may be called inside another stored procedure. It is referred to as the SQL server’s recursion property, and these are referred to as nested stored procedures. Describe the SQL Server agent It helps implement DBA tasks every day by executing them automatically on a schedule. What does the PRIMARY KEY entail? Primary key column is a column that contains values that uniquely define each row in a table. Never can primary key values be reused. What is the UNIQUE KEY constraint? A UNIQUE constraint imposes the uniqueness of the values in a series of columns and does not enter duplicate values. The unique key constraints are used as the principal constraints to enforce entity integrity. What exactly is a Scheduled Job? The scheduled job permits a user to automatically run the scripts or SQL commands on a scheduled basis. The user can determine the order in which commands are executed and the optimum time to run the job to minimize system load. What exactly is BCP? BCP or Bulk Copy is a method that allows one to copy a large amount of data into tables and views. BCP does not copy structures the same as the source to a destination. BULK INSERT allows the user-specified data file format to be imported into a database table or view. What does Mirroring mean? Mirroring is a solution of high availability. It is configured to maintain a hot standby server consistent in a transaction with the primary server. Transaction logs are sent directly to a secondary server from the central server that maintains a secondary server up to date on the central server. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Explain the Performance monitor? The Windows Performance Monitor is a method for collecting measurements from the whole server. We can also use this method to capture SQL server events. Explain the Normalization The process of table design to minimize redundancies is called normalization. A database must be divided into two or more tables, and relationships between them should be defined. Normalization usually means dividing a database into two or more tables and defining tables. Conclusion These are the most frequently asked SQL Interview Questions . We have given insight into the questions that can be asked in an interview, and you can now manage your interview with confidence. Prev Previous Tableau Developer Salary in India Next Top Express.js Interview Questions and Answers to Help You Succeed Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/SQL-Interview-Questions-and-Answers.jpg",
+        "alt": "SQL Interview Questions and Answers",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Job-Oriented-IT-Courses.jpg",
+        "alt": "Job Oriented Courses",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Job-Oriented-IT-Courses.jpg",
+        "alt": "Job Oriented Courses",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Interview+Questions+And+Answers&cd%5Bpage_title%5D=Top+SQL+Interview+Questions+and+Answers&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=53824&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fsql-interview-questions-and-answers%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2021/06/09/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/expressjs-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/sql-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/tableau-developer-salary-in-india/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "SQL Interview Questions for 3 Years Experience | 3ritechnologies",
+    "og_description": "Ace your next interview with our expert list of SQL interview questions for professionals with 3 years of experience. Covers key topics and answers to land the job.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Top SQL Interview Questions and Answers",
+            "datePublished": "2021-06-09T13:38:40+00:00",
+            "dateModified": "2025-06-06T05:33:11+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/"
+            },
+            "wordCount": 3112,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/SQL-Interview-Questions-and-Answers.jpg",
+            "keywords": [
+              "Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Interview Questions And Answers"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/sql-interview-questions-and-answers/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/",
+            "url": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/",
+            "name": "SQL Interview Questions for 3 Years Experience | 3ritechnologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/SQL-Interview-Questions-and-Answers.jpg",
+            "datePublished": "2021-06-09T13:38:40+00:00",
+            "dateModified": "2025-06-06T05:33:11+00:00",
+            "description": "Ace your next interview with our expert list of SQL interview questions for professionals with 3 years of experience. Covers key topics and answers to land the job.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/sql-interview-questions-and-answers/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/SQL-Interview-Questions-and-Answers.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/SQL-Interview-Questions-and-Answers.jpg",
+            "width": 1000,
+            "height": 667,
+            "caption": "SQL Interview Questions and Answers"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/sql-interview-questions-and-answers/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Top SQL Interview Questions and Answers"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

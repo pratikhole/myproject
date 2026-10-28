@@ -1,0 +1,322 @@
+{
+  "url": "https://www.3ritechnologies.com/deep-learning-in-data-science/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Deep Learning in Data Science| 3RI",
+    "meta_description": "Deep Learning in Data Science: From AI's neural networks to practical applications. Learn key models and applications shaping today's tech landscape and data science in Pune.",
+    "h1": [
+      "Deep Learning in Data Science"
+    ],
+    "content": "Skip to content Home > Deep Learning in Data Science Deep Learning in Data Science Power of deep learning in data science. Discover its connection to AI, machine learning, and real-world applications like image recognition and natural language processing. Learn how deep learning enhances decision-making and shapes the future of technology. Table of Contents PriyankaS3ri October 7, 2024 3:32 pm Deep learning is now a necessary component of daily living. Without recognizing it, we use it on a daily basis. Deep learning is the result of various processes, such as when Google instantly translates a whole webpage into languages or when you use face recognition to unlock your phone. One branch of AI, known as machine learning (ML), encompasses deep learning. While machine learning is a technique to accomplish AI using algorithms educated with data, artificial intelligence (AI) is a methodology that allows a machine to emulate human behavior. Data science in Pune also includes Artificial intelligence, Machine learning, and Data Science Deep learning is a machine learning technique that takes cues from the structure of the human brain. Let us examine deep learning, its models, its distinctions from machine learning, and the top data science courses in Pune. What Is Deep Learning and How Does It Work? Deep learning is a machine learning training model that simulates the structure and function of the human brain. The term “deep” describes the several intricate tiers or points of transformation that are employed in the data processing process to produce algorithms. The neural network is the name of the system that permits communication between the levels. A neural network is an architecture that integrates several machine-learning methods to address specific kinds of jobs. To be able to learn, systems must have access to massive amounts of data for training and processing power. With enormous amounts of unlabelled and unstructured data, the model is trained to provide precise predictive models. Put differently, a deep learning system comprises an extensive neural network that has been trained on an enormous volume of data. Imagine a toddler learning to recognize a dog in order to gain a better understanding of how deep learning functions and how it is analogous to the human brain. A toddler picks up on the characteristics that all dogs share to get an idea of what a dog looks like. To develop a feature set for dogs and construct a prediction model, for example, the application needs machine learning training data provided by data engineers. At first, the model may attempt to guess that any object in a picture that has four legs, fur, whiskers, and a tail is a dog based on patterns of pixels in the digital data. With every iteration, the prediction model does, however, get more sophisticated and precise. To be more accurate, a lot of data and time are needed. Unlike the human brain, deep learning algorithms are able to efficiently and consistently sort through millions of photos in a training set. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send Deep Learning Models Learning Rate Decay: This technique modifies the learning rate while training in order to shorten training times and increase performance. For improved convergence and quicker optimization, this approach modifies the rate in response to error measurement. Transfer Learning: Applys a previously trained model and applies fresh data to refine it for new tasks. Compared to training from scratch, it is quicker and more effective, needing less data and computer power. Training from Scratch: This method uses big labeled datasets to build and train a neural network from scratch. Although it takes a lot of time and resources, it gives the model complete customization. Dropout: By eliminating units at random during training, dropout minimizes overfitting in neural networks. This method improves performance on tasks like speech recognition and categorization and strengthens generalization. Which Artificial Intelligence Applications of Deep Learning are Most Common? The artificial intelligence (AI) component of deep learning has transformed a number of sectors by enabling robots to carry out jobs that need intellect akin to that of humans. Artificial neural networks, its foundation, mimic how the human brain analyzes vast volumes of information to learn. Here are a few typical uses of deep learning in artificial intelligence: Image and Video Recognition: Deep learning models are particularly good at recognizing faces, objects, and patterns in pictures and movies. Face recognition systems, self-driving cars, and medical imaging all depend on this application. Deep learning , for example, has a remarkable ability to accurately identify diseases such as cancer from X-rays or MRI scans in the healthcare field. Natural Language Processing (NLP): NLP uses deep learning to produce and interpret human language. Examples of applications include chatbots, virtual assistants like Siri or Alexa, and machine translation services like Google Translate. Not only can these computers translate text accurately, but they can also understand speech and hold meaningful conversations with people. Autonomous Systems: Self-driving cars and drones mostly rely on deep learning models to read sensor data and make judgments in real-time. Through the analysis of visual data from cameras, radar, and LIDAR sensors, these models are able to autonomously navigate through areas, avoid obstacles, and adhere to traffic regulations. Healthcare and Diagnostics: By improving medical diagnostics and individualized treatments, deep learning is revolutionizing the healthcare sector. AI models, for instance, evaluate patient data to forecast results, enhance treatment strategies, and support medication discovery. They also increase the precision of radiological and pathological diagnoses. Recommendation systems: Sites such as YouTube, Netflix, and Amazon employ deep learning algorithms to examine user activity and provide tailored recommendations. By processing enormous volumes of data about user preferences and activities, these models enhance customer engagement and experience. Deep learning is propelling AI innovation by improving the intelligence, effectiveness, and capacity of systems to tackle challenging issues in a variety of fields. Machine Learning: What is It? & What Does Machine Learning Bias Mean? What is Machine Learning? Machine learning (ML) is a branch of artificial intelligence (AI) that enables computers to learn from data and make decisions or predictions without needing explicit programming for every task. Machine learning models find patterns, correlations, and trends in massive datasets rather than following predetermined instructions. Through experience, they get more and more effective over time. Creating an ML model usually entails feeding a dataset into an algorithm that finds patterns and generates rules for classifications or predictions based on fresh input data. Three primary categories of machine learning exist: Supervised Learning: Labeled data, or input data with predetermined outputs, are used to train the model. The objectives of the model are to accurately predict incoming data and learn the mapping between inputs and outputs. Unsupervised learning involves the model working with unlabeled data and having to figure out any patterns, clusters, or structures on its own. Anomaly detection and clustering are two common uses. Reinforcement Learning: Using feedback in the form of rewards or penalties, an agent interacts with its environment to develop decision-making abilities. Over time, the agent refines its activities to optimize the cumulative reward. What is Bias in Machine Learning? In machine learning , the term “bias” describes a systematic inaccuracy in the learning process that produces biased predictions or results. It happens when a model fails to generalize well to new data or favors particular outcomes. Various variables can give rise to bias: Data Bias: The model may favor particular groups or traits when the training data is not representative of the general population. When training a facial recognition model, for example, on mostly lighter-skinned faces, the model might not perform well on darker-skinned people. Algorithmic Bias: The inability of some machine learning algorithms to adequately represent the complexity of the data can result in underfitting or the preference for simpler models over more complicated ones. Machine learning models must be biased-aware in order to be reliable, accurate, and fair. Future Prospects For Deep Learning Applications Both common and developing technologies use deep learning. Some essential domains where deep learning is anticipated to advance are as follows: Healthcare Innovations: Next-generation deep learning models will allow for AI-powered virtual assistants that provide individualized diagnosis and treatments, real-time health monitoring, and predictive analytics for disease outbreaks. Autonomous Vehicles: Deep learning will let autonomous vehicles recognize pedestrians and road signs more accurately and make safer navigation decisions in real-time. Social media: To improve regulation, platforms will employ deep learningto process and analyze massive amounts of audio, video, and image data quickly and effectively. Smart Cities: AI systems will improve public safety, energy efficiency, traffic control, and other aspects of urban infrastructure, ultimately raising the standard of living in these areas. Edge AI: Deep learning will become more prevalent on IoT and mobile devices, allowing local data processing to improve privacy, lower latency, and facilitate real-time applications like facial recognition. Emotional Intelligence: By examining facial expressions and voice tones, deep learningcan help computers better understand emotions. As a result, customer service and other fields will benefit from improved human-computer interactions. Deep Dreaming: This innovative program will continue to enhance and produce bizarre pictures through deep learning, impacting fields like marketing, entertainment, and the arts. Interpretable AI: In the future, deep learning models will place a higher priority on explainability and transparency, which will increase the trustworthiness of AI systems and enable users to recognize and address biases in their own decision-making. Deep Learning Use Cases We now know a great deal about how deep learning analyzes information similarly to how the human brain does. It can, therefore, be used to accomplish a variety of activities more quickly than a human would. Deep learning has various use cases in big data analytics, ranging from speech recognition software and image recognition tools to medical diagnosis and stock market trading signals. The following fields are currently utilizingdeep learning: Image Classification: By recognizing faces and objects, deep learning enables image search engines such as Facebook and Google to tag, categorize, and arrange photographs automatically. Object Recognition: By using deep learning to identify objects and landmarks, Samsung’s Bixby Vision enables users to scan images for relevant information or make online purchases. Speech Recognition: To provide real-time translation and voice-command features, smart assistants such as Alexa and Google Translate employ deep learning techniques to translate spoken language into text. Medical Imaging: By identifying anomalies like cancers through the analysis of medical scans like MRIs and CT scans, deep learning models improve early diagnosis and treatment planning. Financial Predictions : Using streams of market data, deep learning models in finance forecast stock movements, maximize portfolio management, and evaluate risk. Digital advertising: By providing personalized, in-the-moment advertisements and helping to segment consumers based on their behavior, deep learning enhances the precision of ad targeting. Fraud Detection: Deep learning systems are highly accurate in identifying and flagging possible fraudulent activity by evaluating transaction patterns and data points in real-time. Agriculture: Deep learning monitors crop health, forecasts illnesses, and optimizes farming techniques for increased yields and resource management using satellite and sensor data. Deep Learning vs. Machine Learning Feature Machine Learning Deep Learning Definition A branch of artificial intelligence where models provide predictions or judgments based on data and algorithms. A field of machine learning that automatically extracts knowledge from large datasets using neural networks. Data Requirement Functions best with labeled, structured data. Requires substantial amounts of data and is capable of handling unstructured data (such as pictures and audio). Human Intervention Needs human interaction to optimize performance by adjusting features and parameters. Very little human involvement is required because the neural network optimizes and adjusts on its own. Training Process Human feature extraction and selection are part of training. During training, deep learning models automatically extract features. Computation Power It is trainable on standard hardware and requires minimal processing power. A lot of processing power is required, usually in the form of distributed systems or GPUs. Examples of Use Cases Simple pattern recognition, recommendation systems, and fraud detection. Sophisticated medical diagnostics, facial recognition, natural language processing, and autonomous driving. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Data Science vs. Machine Learning Feature Data Science Machine Learning Definition A wide area that includes the processing, analysis, and display of data in order to extract meaningful insights. A subfield of artificial intelligence focused on developing models for data analysis and computer drawing of conclusions. Scope Includes a broad variety of activities such as communication, data cleaning, exploration, analysis, and visualization. Focuses on developing, refining, and maximizing models for tasks involving prediction and judgment. Objective To process raw data in order to derive valuable insights and valuable information that will aid in decision-making. To create models that let computers recognize patterns in data and anticipate things on their own. Tools Used For data analysis and visualization, use Tableau, Power BI, SQL, R, Python, and Excel. Algorithms that frequently call for TensorFlow, Scikit-learn, or PyTorch, such as decision trees, neural networks, and SVM. Data Types Processes both organized and unstructured data, including text, images, and audio. It mainly needs labeled and organized data, while some algorithms can also handle unstructured data. Related Terms A neural network: what is it? Neural networks are computational models consisting of interconnected layers of nodes, or neurons, that process and learn from input to find patterns and produce predictions. These models are based on the structure and function of the human brain. What is the definition of embodied AI? How does it power autonomous systems? Robots and other physical creatures that interact with their surroundings are examples of embodied AI systems. It fuels autonomous systems by giving them the ability to see, understand, and interact with the outside world, making tasks like navigation and manipulation easier. Linear regression: what is it? Linear regression is a statistical method for modeling the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the observed data. Final Words People occasionally mix up deep learning, machine learning, and data science. They are not interchangeable, though. Understanding data as a whole is what data science embodies. To generate predictions, machine learning algorithms use data from data science. The goal of deep learning is to enhance decision-making using machine learning. It gets rid of a portion of the machine learning-related data pre-processing. These algorithms are capable of automating feature extraction without the assistance of human experts and processing unstructured data, such as text and images. Prev Previous 10 Best Short-Term Job-Oriented Courses Next What is Data Visualization? The Complete Guide to Tools, Techniques, and Best Practices Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-5.jpg",
+        "alt": "Learn all the aspects of Deep learning with 3RI Data Science course in Pune",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Data-Science-Certified-Professional.png",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=Deep+Learning+in+Data+Science&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=100496&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fdeep-learning-in-data-science%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/10-best-short-term-job-oriented-courses/",
+      "https://www.3ritechnologies.com/2024/10/07/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/ai-vs-ml-vs-data-science-what-should-you-learn-in-2024/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-online-training/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/deep-learning-in-data-science/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-data-visualization-a-complete-guide-to-tools-techniques-and-best-practices/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/deep-learning-in-data-science/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Deep Learning in Data Science| 3RI",
+    "og_description": "Deep Learning in Data Science: From AI's neural networks to practical applications. Learn key models and applications shaping today's tech landscape and data science in Pune.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/deep-learning-in-data-science/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/deep-learning-in-data-science/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Deep Learning in Data Science",
+            "datePublished": "2024-10-07T10:02:18+00:00",
+            "dateModified": "2026-10-27T16:29:45+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/deep-learning-in-data-science/"
+            },
+            "wordCount": 2336,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/deep-learning-in-data-science/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-5.jpg",
+            "keywords": [
+              "Data Science Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/deep-learning-in-data-science/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/deep-learning-in-data-science/",
+            "url": "https://www.3ritechnologies.com/deep-learning-in-data-science/",
+            "name": "Deep Learning in Data Science| 3RI",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/deep-learning-in-data-science/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/deep-learning-in-data-science/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-5.jpg",
+            "datePublished": "2024-10-07T10:02:18+00:00",
+            "dateModified": "2026-10-27T16:29:45+00:00",
+            "description": "Deep Learning in Data Science: From AI's neural networks to practical applications. Learn key models and applications shaping today's tech landscape and data science in Pune.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/deep-learning-in-data-science/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/deep-learning-in-data-science/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/deep-learning-in-data-science/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-5.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-5.jpg",
+            "width": 1000,
+            "height": 667,
+            "caption": "Deep Learning In Data science"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/deep-learning-in-data-science/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Deep Learning in Data Science"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

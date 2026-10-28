@@ -1,0 +1,428 @@
+{
+  "url": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Top 25 DevOps Interview Questions and Answers to Land the Job",
+    "meta_description": "Ace your interview with our expert-curated list of the top DevOps interview questions and answers. Includes questions for professionals with 3+ years of experience. Read now to get prepared and confident!",
+    "h1": [
+      "Top 25 DevOps Interview Questions and Answers to Land Your Next Role"
+    ],
+    "content": "Skip to content Home > Top 25 DevOps Interview Questions and Answers to Land Your Next Role Top 25 DevOps Interview Questions and Answers to Land Your Next Role DevOps Interview Question and answers are specially designed for the fresher as well as experienced who wants to crack the interview. These will help you to get the right job at the reputed company as it has an essential aspect related to the topic. Table of Contents PriyankaS3ri January 27, 2020 2:15 pm Preparing for a technical interview is the final hurdle to landing your dream job in the fast-paced world of cloud and automation. To succeed, you need to go beyond theory and demonstrate practical expertise by confidently answering the top DevOps interview questions. The questions you’ll face will vary, with specific DevOps interview questions for 3 years experience designed to probe deeper into your real-world problem-solving skills. To truly excel and stand out, a solid foundation is essential, which is why many aspiring professionals enroll in a structured DevOps course in Pune to master the fundamentals. In this guide, we present the essential DevOps interview questions you must know to ace your next interview. From Core Concepts to Scenario-Based Questions for Experienced Professionals DevOps Interview Question and answers are specially designed for the fresher as well as experienced who wants to crack the interview. These will help you to get the right job at the reputed company as it has an essential aspect related to the topic. Q1. What is DevOps? DevOps is the perfect blend of two essential things; Development and Operations. Most people consider DevOps as the software, tool, or framework, but it is the combined tool that gives support and runs as automation. It is an Agile methodology based on both things; Development and Operations. Q2. What is the requirement for DevOps? DevOps becomes the need with the advancement in technology. It helps to deliver the work faster as well as in a better way so that it can be capable of meet the demands of customers. Q3. What is the fundamental principle of DevOps? The key fundamental principle of DevOps is as follows: Continuous Integration Continuous Deployment Automation Infrastructure as a Code Continuous Monitoring Security Q4. What tools can be used for DevOps? Docker Git Jenkins ELK Puppet Ansible Nagios Q5. How Do These Tools Interact With One Another? Here is a general flow of logic that shows how everything gets done automatically so that delivery goes smoothly. But, depending on the needs of each organization, this flow may be different. Developers write the code, and Version Control System technologies such as Git are used to track the source code. The code is published to the Git repository by the developers, along with any updates. This code is retrieved from the repository by Jenkins using the Git plugin, and it is then built with Ant or Maven. Configuration management tools like puppet configure and deploy the testing environment. Jenkins subsequently pushes the code to the test environment, which examines it through programs like Selenium. Jenkins transmits the code to the production server after it passes testing (even the production server is provisioned & maintained by tools like a puppet). After deployment, it is constantly monitored by tools like Nagios. Docker containers offer a place to test the features of a build. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Q6. Why Has DevOps Gained Popularity? The market window for products has shrunk a lot in recent years. Almost every day, we see something new. This gives customers a wide range of options, making the market competitive. After a break, companies can’t afford to add many new features.So that their items do not become lost amid the competition, they send small updates to customers regularly. Customer satisfaction is now an organization’s motto and is a successful product’s goal. Companies need to do the following to reach this goal: Frequently deployed features Shorten the duration between problem fixes. Reduce the number of releases that fail. In the event of a release failure, recovery time is reduced. DevOps culture is a very effective tool for attaining the goals above and, as a result, creating smooth product delivery. Because of these benefits, multinational corporations such as Amazon and Google have adopted the concept, resulting in improved performance. Q7. What Are The Various DevOps Phases? Most of the time, DevOps is divided into 6 phases. But phases don’t have hard lines between them, and a new one doesn’t start until the last one is done. Planning – The first part of the DevOps lifecycle is planning and making the software. In this step, you need to know enough about the project to help its participants reach their ultimate work goal. Development – In this stage, the project is built by creating infrastructure, codes, test definitions, or automated processes. Continuous Integration – Validation and testing will be done automatically after this step. This has a special function that guarantees the development environment is properly configured.It is then published in a service that connects it to the other applications. Automated Installation – DevOps encourages using tools and scripts to automate deployments. The objective is to activate a feature after completing the entire process. Operations – Most of the time, all DevOps operations happen continuously over the life of a piece of software because the infrastructure is always changing. During this phase, there are chances for change, availability, and scalability. Monitoring – This part of the DevOps process is always going on. DevOps watches and analyzes information showing how the application is doing. Q8. What Benefits Does DevOps Offer? For your response, discuss your past position and how DevOps assisted you there. If you haven’t done anything of such, we can talk about the advantages below. Technical Advantages: Distribution of software continuously Simpler issues to solve Faster problem resolution Business Advantages : Rapider supply of services Enhanced operational conditions There is more time to provide value (as opposed to fixing or maintaining). Q9. What Is The Most Vital Objective DevOps Aids Us In Achieving? DevOps helps us implement changes as quickly as possible while lowering the risks related to software quality control and compliance. DevOps is mostly concerned with this. DevOps, however, also has several other benefits. For instance, happy customers result from greater teamwork and communication, such as when the Ops and Dev teams work together to develop high-quality software. Q10. What Are The Main Activities in DevOps for Infrastructure and Application Development? Core DevOps application development and infrastructure operations include: Application Development: Code creation Packaging Deployment Code protection Unit tests Infrastructure: Provisioning Configuration Deployment Orchestration Q11. What Are The Anti-Patterns for DevOps? A common use is generally followed in a pattern.If others use a pattern that does not work for your organization, you embrace an anti-pattern and continue following it without question. There are several DevOps myths. Among them are some of the following: A method is DevOps. Does DevOps entail Agile? We need a dedicated DevOps crew. DevOps will resolve every one of our problems. DevOps is an acronym for “Developers Managing Production.” “DevOps” refers to “development-driven release management.” DevOps is not driven by development. IT operations have little influence on DevOps. We cannot implement DevOps; We are exceptional. We cannot implement DevOps because we have the wrong personnel. Q12. Give An Example of How DevOps Can Be Used in The Real World. Network Cycling – DevOps Deployment has made testing and rapid design much faster.Previously, only every three months did telco service providers add security fixes. Now, it’s easy for them to do it every day. The new iteration of network cycling was introduced by putting it into place and creating arrangements. Etsy -A peer-to-peer e-commerce platform called Etsy primarily specializes in handmade, vintage, and retro goods and supplies and unusual factory-made goods worldwide. Previously, Etsy struggled with lengthy, arduous, and complex site changes that halted the website. Customers may have purchased from a rival. As a result, hurting the millions of Etsy users whose wares were sold through an online marketplace. Etsy changed from its waterfall strategy, which included full-site deployments that took four hours and happened twice a week, to a more agile and useful procedure with the aid of DevOps and a new technical management team. It currently has a completely automated deployment process, and it is claimed that its use of continuous delivery techniques has allowed for more than 50 successful deployments each day. Q13. How Will You Handle A Project Requiring DevOps Implementation? For a specific project, you can use the following standard ways to implement DevOps: Stage 1 : A two- to a three-week evaluation of the current process and implementation to find ways to improve it so the team can make an implementation plan. Stage 2 : Make an example of the concept (PoC). Once the project plan has been reviewed and approved, the team can begin carrying it out. Stage 3: Now that testing, version control, integration,deployment, delivery, and monitoring are all part of DevOps; the project can go forward. Appropriate integration, testing, delivery, deployment,version control, and monitoring procedures were followed, and now the project is ready to adopt DevOps. Q14. What is VCS? VCS, aka Version Control System, is the developed software platform that gathers developers at a single platform to work simultaneously as well as save the entire work records. The main features of VCS are as follows: Let the developers work together. Separate changes management as no overwriting is there. Record every history of the codes. Q15. How many types of VCS? There is two primary division of VCS you can see, such as: Central Version Control System Distributed/Decentralized Version Control System Q16. What Advantages Do Version Control Systems (VCS) Offer? The following are the primary pros of Version Control: With the Version Control System (VCS), any worker can open the file whenever. It also lets you combine all the changes made into a single version. It is made so that multiple people can edit text files simultaneously. This makes sharing between multiple computers fairly easy. It is important for documents that need to be rewritten and changed because it leaves a record of who changed what and when. It gives everyone on the team access to the full history of the project so that if the central server goes down, we can use the storage space of any other team member. The VCS is a smart way to store all the old and different versions. Any version can be asked for at any time to find out about finished projects in the past. Q17. Compare Centralised And Distributed Version Control Systems (VCS) Centralized Version Control System A central server houses all versions of a file. No developer maintains a local copy of every file. Upon the failure of the central server, all project data would be lost. Distributed Control System Every version of the code is stored on each developer’s computer. Team members can work offline, and backups don’t have to be done in a single place. There is no risk even if the server crashes. Q18. Which VCS Tool Are You Used To? You may discuss the VCS tool you developed here: I’ve worked with Git, a distributed VCS with several advantages over other VCS programmes like SVN. A central server is unnecessary for distributed VCS systems to store all of a project’s file versions. As an alternative, every developer “clones” a repository and keeps the whole project history on their hard drive. Q19. What Does The Version Control System employ the Different Branching Mechanisms? In version control systems like git, branching is a key idea that promotes team cooperation. Some of the most prominent branching kinds include the following: Feature Branching When using this branching method, we can be guaranteed that a certain aspect of the project will remain within that branch. As soon as the feature has passed testing, the branch gets merged into the main branch. Task Branching In this scenario, each task has its branch, and the task key is the branch name. It is easy to identify the work that each branch is responsible for when the branch name also doubles as the task name. Release Branching A set of features that are intended for a release can be cloned onto a release branch once they have been finished. To this branch, no new features will be added. Only work related to bug fixes, documentation, and releases is carried out on a release branch. The releases are given a version number after they have been finished and integrated into the main branch. These modifications must also be submitted to the development branch, which would have advanced with developing new features. A company’s branching methods would differ depending on its needs and objectives. Q20. What is Git, and what language used in it? Git is an SCM, aka source code management tool that ensures smooth working of every size of the project. It contains an entire history of projects, and the language used in Git is C. C makes the working of this swift and effective. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send Q21. What is SubGit? To migrate the tool of Git, we used subGit that helps to build a writable Git mirror. Looking for Job-Oriented Courses? Check out 3RI Technologies Q22. What Git command downloads a GitHub repository to a computer? Git fork Git push Git commit Git clone Git clone is the git command that downloads any GitHub repository to your PC. Q23. What Are The Benefits of Utilizing Git? Redundancy and repetition of data A lot of availability One Git directory per repository only. Superior performance in terms of disc usage and the network Friendly to collaboration Suitable for a variety of purposes Q24. How Can A Commit in Git Be Undone After It Has Been Pushed and Publicized? Make sure to include both possible responses to this query because, depending on the circumstances, any of the following choices may be used: Push the updated commit to the remote repository after fixing or removing the problematic file. The most obvious way to fix a mistake is to do this. Commit the file to the remote repository when it has undergone the necessary changes. git commit -m “commit message” Make a new commit that reverses all the changes that the faulty commit did. You have my command to carry out this. git revert <bad commit name> Q25. How Do You Combine The Last N Commits Into One? There are two possibilities to combine the most recent N commits into one. Include both of the following choices in your response: Use the following command to start writing the new commit message from scratch. git reset –soft HEAD~N && git commit You must extract those messages and transmit them to Git commit if you wish to begin altering the new commit message with a string of already-existing commit messages and for that, I will employ git reset –soft HEAD~N && git commit –edit -m”$(git log –format=%B –reverse .HEAD@{N})” Q26. What Does Git Bisect Mean? How Can It Be Used to Identify The Origin of A (Regression) Bug? I want to start by giving a brief introduction to Git bisect. Binary search is used by Git bisect to identify the commit that caused an issue.The Git bisect command is git bisect <subcommand> <options> Since you’ve already mentioned the command, please clarify what it does. This command employs a binary search method to determine which commit in the history of your project created a bug. You utilize it by specifying a “bad” commit known to include the problem and a “good” commit known to have occurred before the bug’s introduction. Git bisect chooses a commit and inquires whether it is “good” or “bad” between the two endpoints.” It narrows the range until the specific commit that introduced the change is located. Q27.Which of the following commands is appropriate for renaming files? Git rm Git mv Git rm -r None of the above B) git mv is the correct answer Q28. What Exactly is Git Stash? A developer is working on a branch when they decide to switch to another branch to work on something else, but they don’t want to change your unfinished work. Git stash is the answer to this problem. Your changed tracked files are stored using Git stash on a stack of unfinished modifications that you can apply again at any time. Q29 . Describe What It Means to “Branch” in Git? Say you are creating an application and want to add new features.The new feature can be built on a new branch that you establish. You always work on the main branch by default. The circles on the branch represent different branch commits. Once all the modifications have been made, you can merge it with the main branch. Q30. How are Git Merge and Git Rebase Dissimilar? As you work on a new feature on a separate branch, another team member pushes fresh modifications to the main branch.You can use the following two features: Git Merge: Use Git merge to add the new commits to your feature branch. If you need to incorporate changes, it generates an additional merge commit. However, it taints the history of your feature branch. Git Rebase: Rebasing the feature branch on the main is an alternative to merging. Incorporates all recent main branch contributions Every commit in the original branch gets replaced by a new commit, rewriting the project’s history. Q31. If A Branch Has Previously Been Merged Into The Master, How Will You Know with Git? I will recommend that you include both of the following commands: Git branch – The branch merged into the current branch is listed in the merged field. Git branch – The branch names that have not been merged are listed as no-merged. Q32. Where Can I Find A List of Files Modified in a Particular Commit? Explain what this command will do for this answer rather than just giving the command so that you can state that, Use com to receive a list of files that have changed in a specific commit. git diff-tree -r {hash} This will list every file edited or added in that commit based on the commit hash. The -r parameter instructs the command to list individual files rather than just the root directory names. Although it is entirely optional, you can additionally include the following information because it will help you impress the interviewer. Two flags can easily suppress certain additional information that will be included in the output: git diff-tree –no-commit-id –name-only -r {hash} Here, the options -no-commit-id and -name-only will only print the names of the files and conceal the commit hashes from being printed in the output. Q33. Are Git Pull And Git Fetch Identical? By importing any recent changes to the target branch from the main repository, git pull updates the target branch in the local repository. However, “git fetch” is a somewhat distinct variant of “git pull.” Instead of “git pull,” it pulls each new commit from the target branch and places it in a new branch in the local repository. For these changes to appear in your target branch, git fetch must be followed by git merge. After successfully merging with the branch being fetched, the target branch will be updated (where we used git fetch). The entire process can alternatively be explained by an equation that looks like this: git pull = git fetch + git merge Q34. What are the Advantages of Ansible? It has various advantages, but some of the benefits are as follows: It is a very low overhead. It improves performance. It is idempotent. There is no need for a new installation process. Easy to understand. Q35. In which can you use Ansible? It plays a crucial role in the IT industry to manage apps to remote nodes. With the help of a single command, we can make changes into 100 nodes. Q36. What Exactly Is The Ansible Module? In Ansible, modules are regarded as the basic units of labor. Each module can be written in a common programming language like Python, Perl, Ruby, shell, etc., and is largely independent. Idempotency, one of the guiding principles of modules, guarantees that the system will always be in the same state, even if an operation is performed several times, as during the recovery from an outage. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Q37. What Exactly are Ansible Playbooks? A playbook is the name of the setup, deployment, and orchestration language used by Ansible. They could include instructions for a general IT procedure or a rule you want your remote systems to abide by. Playbooks are written in a simple text language and are intended to be readable by humans. Playbooks can handle remote machine setups and deployments at a fundamental level. Q38. How Can I View A Comprehensive List of Every Ansible_ Variable? By default, Ansible accumulates “facts” about the managed computers, which Playbooks and templates can access. Execute the “setup” module ad hoc to view a list of all the accessible information about a machine: Ansible -m setup hostname This will generate a dictionary of every fact available for that specific host. Q39. How does Ansible Work Properly? Ansible categorizes its two server types as follows: Regulating machines Nodes Ansible must be installed on the controlling system for SSH to manage the nodes. The positions of the nodes would be specified and configured by the controlling machine’s inventories. Due to Ansible’s agentless design, no installations are necessary on the servers hosting the distant nodes. As a result, running any background processes when controlling distant nodes is unnecessary. Ansible is capable of controlling a large number of nodes from a single controlling machine by utilising Ansible Playbooks and an SSH connection. Playbooks are in the YAML format and can perform a variety of tasks. Q40. Why Do I Need to Utilize Ansible? Ansible can assist with: Configuration Administration Deployment of an Application Automation of Tasks Q41. In Ansible, What Are Handlers? Similar to regular tasks in an Ansible Playbook, handlers in Ansible are only executed when a task contains the ‘notify’ directive. When another job invokes a handler, it is triggered. Q42. Are You Familiar With Ansible Galaxy? What Is Its Purpose? Indeed, I have. The “Galaxy website” by Ansible is called Ansible Galaxy, allowing users to exchange Ansible roles. It is utilized for installing, creating, and managing Ansible roles. Q43. What Distinguishes Ansible from Puppet? Ansible: Simple agent-free installation Using the Python YAML is the format of configuration files. Absence of support for Windows Puppet: Agent-based configuration Founded on Ruby DSL is used to author configuration files Support for every prevalent OS Q44. Explain Docker and its image. A containerization technology that is gathering all the apps in the form of vessels for the effective working of apps. While the image is the primary source for the Docker container. If we also talk about docker container then, it is running instance of the images of docker. Q45. A Docker Container: What Is It? Docker containers run as independent processes in user space on the host operating system but share the kernel with other containers. Docker containers share the kernel with other containers. They consist of the application and its dependencies. Docker containers are independent of any specific infrastructure and can operate on any computer, infrastructure, and cloud. Now go over the creation of a Docker container. You have two options: create your own Docker image and execute it, or utilize one of the images currently on the Docker Hub. Docker containers are runtime variations of Docker images. Q46. What Exactly is Docker Hub? You can connect to code repositories, create and test your images, save manually submitted images, and deploy images to hosts by connecting to Docker Cloud via the cloud-based registry service known as Docker Hub. In addition to providing a centralized resource for user and team collaboration, it supports distribution and change management, process automation for the whole development lifecycle, and container image discovery. Q47. Describe The Distinctions Between Docker Images And Containers Docker Images: The templates for Docker containers are called Docker images. A Dockerfile is used to construct an image. It is kept in a Docker hub or repository. It is a read-only filesystem for the image layer. Docker Containers: A Docker image is the same as a container, a runtime instance. Containers are made using Docker images. The Docker daemon houses them. Each layer of the container is a read-write filesystem. Q48. What Exactly is Docker Swarm? A description of Docker Swarm should be included at the outset of this response. Using native Docker clustering, a collection of servers is merged into a single virtual Docker host. Docker Swarm makes it simple to scale up to several hosts for any software application that already communicates with a Docker daemon. Swarm provides the standard Docker API. I’ll also recommend that you include a few supported tools: Jenkins Dokku Docker Machine Docker Compose Q49. Why Do You Need A Dockerfile? When using the build command to produce Docker images, a Dockerfile is used. Users can build Docker containers by executing the code in a Docker image. A Docker registry is then updated with the newly produced Docker image. Docker images can be downloaded from the registry, and users can then use those images to construct new containers. Q50. Explain Docker’s Architecture Docker’s architecture is client-server. Docker Client is a service that executes commands. The REST API is used to convert the command before sending it to the Docker Daemon (server) Docker Daemon responds favorably to the request and establishes a connection to the host OS to create Docker images and start Docker containers. A template of instructions called a Docker image is used to build containers. Docker containers are packages containing a programme along with its prerequisites and dependencies. Docker registry is a service that stores and distributes Docker images across the internet. Q51. How Can We Distribute Docker Containers Among Various Nodes? Thanks to Docker Swarm, it is now feasible to share Docker containers over many machines. IT administrators and developers can use a Docker Swarm tool to establish and manage a cluster of swarm nodes within the Docker platform. Docker Swarm is a technology that Docker developed. Manager nodes and worker nodes are the two different nodes that make up a swarm. Q52. What is The Function of Docker’s Expose and Publish Commands? Expose: Expose is a command used in Dockerfile. It is used to expose Docker network ports. It is a set of instructions used while constructing an image and executing a container. Expose is the Docker command used. Example: Expose 8080 Publish: Publish is a Docker run command parameter. It is usable outside of the Docker environment. A host port is mapped to an active container port using it. Docker uses the command —publish or –p. Example: docker run –d –p 0.0.0.80:80 Q53. How Do You Set Up A Docker Container? Using the command below, we can create Docker containers using Docker images – docker run -t -i <image name> <command name> Create and start a container with this command. You should also include the following: Use the command below to view all currently executing containers on a host. docker ps -a Q54. How Can A Docker Container Be Stopped and Started? To terminate a Docker container, execute the following command: docker stop <container ID> Use the following command to restart the Docker container: docker restart <container ID> Q55. Is DevOps a part of Agile methodology? Yes, it is part of Agile methodology, with the only difference is that it can only be implemented over the development section. At the same time, Agile can be used for both operations and developments. Q56. Are there any advantages to using Git? Yes, Git has several advantages which you can take by using it such as; It has high availability. It is collaboration-friendly. It has better network performance. Data redundancy and replication. Q57. Suggest ways to start and stop the docker container? To stop the container, you will require a stop container ID while restarting the ID to restart it. Update your skills with DevOps With AWS Training Q58. On which platform docker runs well? There are only two platforms over which docker can run, such as Cloud and Linux. It can’t run over Mac and Microsoft. Linux: Ubuntu 12.04 LTS+ CentOS 6+ Gentoo Fedora 20+ RHEL 6.5+ CRUX 3.0+ArchLinux openSUSE 12.3+ CRUX 3.0+ Cloud: Amazon EC2 Microsoft Azure Rackspace Google Compute Engine Q59. What is Scrum? It is beneficial things that divide complex into more essential software chunks. It has three roles, mainly such as scrum master, team, and product owner.) Q60. How to build a Git repository? If the repository does not exist, you can create it by running a command of ‘git init’ By running this command. Want to Upskill to get ahead in your career? Check out the Azure DevOps Training Q61. What is Jenkins? It is a tool of continuous integration. This Java scripted open-source tool that keeps a record on VCS. It used to look after the entire methods of the concerned team. Q62. Difference between Maven, Ant, and Jenkins? Jenkins is a tool of continuous integration while the other two build technologies. Q63. What are the benefits of Jenkins? Support huge plugin. It tracks bugs at an early stage. Create an automatic build report. Q64. Tools for Jenkins supports? Jenkins supports mostly eight kinds of tools as; Mercurial Perforce AccuRev CVS Subversion Git Clearcase RTC Q65. Steps to setup Jenkins jobs? Just go to the menu to select a new item. Now input a name for the job by selecting freestyle. Submit Ok Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Q66. Can You Describe The Jenkins Architecture? Jenkins uses the master-slave architecture. Whenever a commitment is made to the code, the master downloads the most recent version from the GitHub repository. The build, test, and run processes, as well as the production of test case reports, are delegated by the master to the enslaved people. All of the enslaved people receive an equal share of this workload. Jenkins also employs numerous enslaved people because it’s possible that after code updates, it may be necessary to run several test case suites for various environments. Q67. How will Jenkins be Protected? The following describes how I secure Jenkins. Please share your alternative method in the comments section below if you have one: Make sure that the world is secure. Ensure the proper plugin is used to integrate Jenkins with my company’s user directory. To fine-tune access, make sure the matrix/Project matrix is enabled. Automate Jenkins’s rights/privileges configuration procedure using a unique version-controlled script. Keep physical access to Jenkins data/folders to a minimum. Run security audits on the same regularly. One of the many well-known programmes heavily utilized in DevOps is Jenkins. With the DevOps Certification course from 3RI Technologies, you’ll receive excellent instruction from sector specialists and practical experience using Jenkins. Check it out: Q68. What Core Principles Comprise The Jenkins Pipeline? Pipeline – CD pipeline user-defined model. The code for the pipeline specifies the full build procedure, which comprises creating, testing, and distributing an application. Node – A machine within the Jenkins environment that can execute a pipeline. Step – A single mission that directs Jenkins’ actions at a specific period Stage – Establishes a conceptually distinct subset of all the tasks carried out along the pipeline (build, test, deploy stages) Q69. Explain The Syntax For the Two Types of Pipelines in Jenkins Jenkins offers both scripted and declarative pipeline code development methods. Scripted Pipeline – As their Domain Specific Language, Groovy is used. Throughout the pipeline, one or more node blocks perform the main tasks. Syntax: Uses any accessible agent to run the pipeline or any of its phases Establishes the build phase Takes actions relating to the construction stage Establishes the test phase Carries out actions relating to the testing stage The deployment stage is defined Carries out actions relating to the deployment stage 2. Declarative Pipeline – It offers a straightforward and user-friendly syntax for defining a pipeline. The pipeline block, in this case, specifies the work carried out all along the pipeline. Syntax: Uses any accessible agent to run the pipeline or any of its phases Establishes the build phase Takes actions relating to the construction stage Establishes the test phase Carries out actions relating to the testing stage The deployment stage is defined. Carries out actions relating to the deployment stage Q70. Describe the three security measures Jenkins uses to confirm users. Jenkins stores user information and login credentials in an internal database. Users can verify their identities by Jenkins through a Lightweight Directory Access Protocol (LDAP) server. Jenkins allows the user to choose the authentication mechanism that will be used by the application server that is being deployed. Q71. What Options Does Jenkins Provide For Scheduling And Running Builds? Through commits in source code management. After other constructions are finished. Scheduled to begin at a specified time Manual requests for builds Q72. What are Jenkins’ Labels, and How Can They Be Used? There may be several types of apps, such as Java, C#, and others, that can all be built by a single CI/CD server, just as CI/CD solutions need to be centrally managed NET, etc., and With the microservices methodology, the development stack for the project is loosely tied so that you can have Labeled in each node and select the choice corresponding to the label. Only produced tasks with a label match this node; thus, when a build is planned with the node’s label present, it waits for the next executor to become available, regardless of other executors in other nodes. Q73. What Use Does Blueocean Serve in Jenkins? Blue Ocean reevaluates Jenkins’ user interface. Blue Ocean clears the air and improves focus for every team member because it was built from the ground up for Jenkins Pipeline while being compatible with freestyle jobs. It offers a complex user interface to denote each pipeline stage, improved issue pinpointing, and a robust Pipeline editor for beginners. Q74. Puppet Manifests—What Are They? Every Puppet Node or Puppet Agent has its configuration information stored in Puppet Master, written in Puppet’s native language. These specifications are defined in a language Puppet can comprehend and are known as Puppet Manifests. These manifests are composed of Puppet codes, and their filenames end in. pp. For example, we can develop a manifest in Puppet Master that creates a file and install Apache on all associated Puppet Agents or enslaved people. Q75. How Can I Set Up Systems Using Puppets? The Puppet Agent and Puppet Master software are required to configure systems using Puppet in a client or server architecture. Without these applications, it is not possible to configure systems. We are required to use the Puppet apply application while working with a stand-alone architecture. Q76. A Puppet Module Is What? In What Ways Is It Unique From The Puppet Manifest? Only manifests and data are needed to make up a Puppet module (e.g., facts, files, and templates). The modules used by Puppet must be placed in a specified directory structure. Puppet Modules are helpful for code organisation since they permit the Puppet code to be broken up into numerous manifests. You should use Puppet Modules for most of your Puppet Manifests file organization. To begin, Puppet Modules are not the same as Puppet Manifests. Manifests are just the Puppet code written in a programme. Puppet Manifests are saved in files with the. Pp extension. Q77. What Exactly is A Puppet Codedir? It is Puppet’s most important directory for storing code and data. It comprises environments, which hold manifests and modules, a global modules directory that is shared across all environments, and your personal Hiera data. Q78. Where is Codedir Located in Puppet? It is located in one of the following places: Windows: %PROGRAMDATA%\\PuppetLabs\\code (usually, C:\\ProgramData\\PuppetLabs\\code) Unix/Linux Systems: /etc/puppetlabs/code Non-Root Users: ~/.puppetlabs/etc/code Q79. What Exactly is Nagios? You can respond to this question by stating that Nagios is among the monitoring tools. In a DevOps culture, it is utilized for Continuous monitoring of systems, applications, services, business processes, etc. In the event of a failure, Nagios can notify technical employees of the issue, allowing them to initiate remediation steps before business processes, end users, or customers are impacted. With Nagios, you do not need to explain why an unnoticed infrastructure failure hurts your organization’s bottom line. Now that you have described Nagios, you can list the different things that can be accomplished with it. By utilizing Nagios, you can: Plan infrastructure upgrades before the breakdown of obsolete systems. Respond at the first indication of a problem. Fix problems automatically as they are found. Coordinate the replies of technical teams. Ensure your organisation is meeting its SLAs. Ensure IT infrastructure failures have minimal impact on your firm’s bottom line. Monitor the entirety of your infrastructure and company operations. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Q80. Can You Explain How Nagios Operates? On a server, Nagios operates as a daemon or service, depending on the configuration. When Nagios executes plugins stored on the same server at regular intervals, such plugins will communicate with hosts or servers on your local network or the internet. One can view the current status information using the online interface. Notifications can be sent to you via email or text message if something significant occurs. The Nagios daemon operates similarly to a scheduler in that it executes particular scripts at particular times. It remembers the outcomes of those scripts and will execute other scripts based on whether or not the outcomes have changed. Q81. What are Nagios’s Plugins? They are scripts that can be executed from a command line to verify the status of a host or service, such as Perl scripts, Shell scripts, etc. Nagios uses the findings from Plugins to determine the status of hosts and services on your network. Describe why we need plugins after you’ve defined them. Anytime a host or service needs to have its status checked, Nagios will run a plugin. When the check is finished, the Plugin returns the outcome to Nagios. The results Nagios receives from the Plugin will be processed, and the necessary steps will be taken. Q82. In Nagios, What is NRPE (Nagios Remote Plugin Executor)? With the NRPE extension, you can run Nagios plugins on distant Linux/Unix workstations. This is primarily done so that Nagios can track “local” resources (such as CPU load, memory consumption, etc.) on distant machines. An agent like NRPE needs to be deployed on distant Linux/Unix machines because these public resources are typically not exposed to external machines. Use the diagram below as the foundation for your explanation of the NRPE architecture. There are two components to the NRPE addon: Located on the local monitoring machine is the check nrpe plugin. The remote Linux/Unix machine’s NRPE daemon runs. The diagram below illustrates the SSL (Secure Socket Layer) connection between the monitoring host and the remote host. Q83. What Do Nagios’ Active and Passive Checks Mean? Active Checks: The Nagios daemon’s check logic starts active checks. When a plugin is run, Nagios passes the information about what needs to be checked. The plugin will then assess the host’s or service’s operational status and submit its findings to the Nagios daemon. Notifications will be sent after processing the host or service check findings. Passive Checks: In passive checks, a third-party programme verifies whether a host or service is operational. The check’s findings are written to the external command file. To process the results of all passive checks later, Nagios first reads the external command file. Depending on the information in the check result, Nagios may send notifications, log alarms, etc. Q84. What Role Does Nagios Play in Distributed Monitoring? You can monitor your entire organisation with Nagios by employing a distributed monitoring system in which local agent instances of Nagios perform monitoring activities and report the findings to a single master. From the master, you manage all setup, notification, and reporting while the enslaved people do all of the work. This architecture uses Nagios’s ability to use passive checks, external apps or processes that return results to Nagios. These external applications are other instances of Nagios in a distributed configuration. Q85. Tell Me About Nagios’s Main Configuration File and Where I Can Find It? First, describe the contents and purpose of this main configuration file. Several directives in the primary configuration file impact how the Nagios daemon functions. The Nagios daemon and CGIs read this configuration file (It specifies the location of your main configuration file). You may now determine both its location and method of production. When you execute the configure script, a sample main configuration file is generated in the Nagios distribution’s base directory. The primary configuration file’s default name is Nagios. cfg. It is often put in the etc/ subdirectory of your Nagios installation (i.e. /usr/local/Nagios/etc/). Q86. How Does Nagios’ Flap Detection Function? When a service or host changes state too frequently, this is known as flapping, leading to numerous issues and recovery notifications. Nagios will check to see if a host or service has begun or ceased flapping whenever it checks the status of a host or service. To do it, Nagios adheres to the following procedure: Archiving the results of the host or service’s latest 21 checks and examining the historical check results to spot state transitions and changes Calculating the host’s or service’s per cent state change value (a measure of change) based on the state transitions evaluating the value of the per cent state change about the low and high flapping thresholds When a host or service crosses a high flapping threshold, it is said to have started flapping. When a host or service’s per cent state drops below a minimal flapping threshold, it is said to have ceased flapping. Q87. What Are The Three Key Factors in Nagios that Influence Recursion And Inheritance? Use Name Register Use identifies the object that should be used to access its properties. An object’s name serves as a placeholder for other items. The register can be either 0 or 1 (signifying that it is merely a template) (an actual object). Never is the register value inherited. define someobjecttype{ object-specific variables …. name template_name use name_of_template register [0/1] } Q88. What Are The Advantages of Monitoring HTTP and SSL Certificates Using Nagios? HTTP Certificate Tracking: Increased availability of servers, services, and applications. Rapid network outages and protocol error detection. Enables the monitoring of web servers and transaction performance. SSL Certificate Tracking: Increased accessibility of the website Availability of applications frequently. It offers better security. Q89. What Are The Various Selenium Components? Selenium contains the following elements: Selenium WebDriver Applies a superior method for automating browser actions. It is not dependent on JavaScript. Selenium Grid Integrates with Selenium RC and does tests in a variety of browsers on a variety of nodes. Selenium Integrated Development Environment (IDE) It should be used for prototyping because it provides an easy framework. It has a Firefox plug-in that is simple to install. Remote control for selenium (RC) Any programming language (Java, PHP, Perl, C#, etc.) can be used by a developer as part of the testing framework. Q90. What Are The Various Selenium WebDriver Exceptions? The execution of a programme can be interrupted by exceptions, which are circumstances that deviate from the typical execution of a program’s instructions. The following are the exclusions that apply to selenium: NoSuchElementException – It is thrown whenever a particular element on the web page cannot be located along its associated attributes. SessionNotFoundException – The action is being carried out by the WebDriver immediately following the termination of the browser. TimeoutException – It is generated whenever a command that is acting does not finish within the allotted amount of time. ElementNotVisibleException – It is thrown when an element is present in Document Object Model (DOM) but is not visible. Ex: Hidden Elements defined in HTML using type=“hidden”. Q91. Can Selenium Run An App On An Android Browser? With an Android driver’s help, Selenium can test applications on browsers built for Android devices. When testing native apps or web apps in the Android browser, you can use either the Selendroid or Appium testing framework. What follows is an example of some code: Q92. What Are The Many Test Types Supported By Selenium? Regression – After an alteration, this testing helps to determine whether or not there are any new mistakes, regressions, or other problems in the code’s various functional and non-functional domains. Functional -The test cases for this form of black-box testing are based on the software specification. Load Testing – Putting a strain on a device is what this testing is all about. Therefore the goal is to evaluate how it reacts to being stressed. This aims to investigate how the system reacts when subjected to particular constraints. Q93. What Objectives Do Configuration Management Processes Serve? Configuration Management (CM) aims to keep a product or system’s integrity intact throughout its entire lifecycle. This is accomplished by making the process of developing or deploying the product or system controllable and repeatable, ultimately resulting in a product or system of higher quality. The CM process enables the systematic management of system information as well as system changes for a variety of reasons, including the following: Lengthen life, Reduce expense, Reduce danger and Liability or defect correction. Enhance capability, Improve performance, Reliability or maintainability Q94. What Exactly is Selenium IDE? An all-inclusive environment for developing Selenium scripts is the Selenium Integrated Development Environment (IDE). It can be used to change, record, and debug tests. A Firefox add-on is also available. The entire Selenium Core is included with the Selenium IDE, enabling us to replay and record tests quickly and efficiently in the actual context in which they will be run. Regardless of the testing approach we like, Selenium IDE is the greatest environment for creating Selenium tests because it allows for quick instruction movement and autocomplete assistance. Q95. What Distinguishes The Selenium Commands Assert and Verify? The following are the Selenium commands’ differences between Verify and Assert: The verify commands analyse the given condition to determine whether or not it is true. The execution of the programme continues unabated regardless of whether the condition being checked is satisfied; this means that all of the verification steps will be carried out even if the condition is false. The assert command can be used to determine whether or not a given condition is true. We perform the following to determine whether or not the element that was supplied is present on the page. If the condition is satisfied, the programme control will proceed to the subsequent testing stage. If the condition is untrue, however, the execution will be stopped, and no more checks will be carried out. Q96. Why Does Chef Utilise SSL Certificates? To guarantee that each node has access to the appropriate data, the Chef server and each client use SSL certificates to communicate. Every node in the network possesses a pair of private and public keys. The public key is saved on the server that Chef runs. The node’s private key will be included in an SSL certificate provided to the server when the certificate is sent. For the server to correctly identify the node and grant it access to the necessary data, it checks this information against the public key. Q97. What Does Chef’s Resource Mean? A package that should be installed, a service that should be operating, or a file that should be created are all examples of Resources. A Resource represents a component of the infrastructure and the desired state of that component. You need to explain the purposes of the Resource, which should include the following points: Specifies the desired operating condition for a configuration item. Specifies the procedures that must be carried out to get the intended outcome for that item. Identifies the type of resource used, such as a template, a package, or a service. When necessary, it lists any further information, which may also be referred to as resource characteristics. They are organised into recipes, which describe various operational settings. Q98. In DevOps, What Does CAMS Stand For? CAMS is an acronym for Culture, Automation, Measurement, and Sharing in DevOps. Culture – Culture can be compared to the foundation of DevOps. It entails carrying out all procedures involving the development team and the operations team in a specific manner to make things easier for completing the software production. Automation – One of the most important aspects of DevOps is the use of automation. Its primary function is to shorten the time between activities such as testing and deployment. According to the conventional procedures for developing software, we may anticipate that only one team will work concurrently. However, when it comes to DevOps, we can observe all the teams cooperating in conjunction with the automation being implemented. All of the alterations were communicated to the other teams so that they may implement them. Measurement – The CAMS model of DevOps emphasizes the importance of measuring critical aspects of the software development process, which can provide insight into the team’s productivity. Measuring various elements like income, costs, revenue, mean time between failures, etc. The most important part of the measurement process is selecting the appropriate metrics to monitor. In the same vein, to motivate the team to improve their performance, one must additionally incentivize the appropriate measures. Sharing – The culture of sharing plays an important part in DevOps since it facilitates the process of passing on one’s knowledge to other team members. This contributes to the growth of the number of people familiar with DevOps. This culture can be strengthened by holding regular question-and-answer sessions with teams. This will ensure that more individuals share their perspectives on the issues being confronted, allowing for a more suitable resolution and acquiring additional knowledge. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send Q99. Mention the daily activities of the current role? Working on deployments and JIRA tickets. Working to resolve problems of fails deployments. Look after the infrastructure and maintenance. Stand out with Devops Foundation Certification Q100. What automation you have done in your projects? Well, in many projects I did: Automation of password expiry. Clearing the old log files or history. Code quality threshold violations. So, the questions mentioned above are shortlisted to crack the interview of DevOps. It is usually asked at the meetings so, be ready with the answers to impress the interviewers. DevOps Training in Pune is the best institute for that. We also provide DevOps Online Training. Best of luck! Prev Previous The Ultimate Guide to Data Science Interview Questions and Answers Next The Ultimate List of MEAN Stack Interview Questions and Answers Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Top-100-DevOps-Interview-Questions-and-Answers-1.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "DevOps Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-An-AWS-Certified-Professional.png",
+        "alt": "Become An AWS Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "https://www.3ritechnologies.com/salesforce-interview-questions-and-answers/",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-An-AWS-Certified-Professional.png",
+        "alt": "Become An AWS Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "DevOps Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Untitled-300x203.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Untitled1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "DevOps Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Untitled2-300x124.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Untitled3-300x123.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Untitled3-300x123.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "DevOps Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Untitled4-300x136.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "DevOps Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+DevOps%2C+Interview+Questions+And+Answers&cd%5Bpage_title%5D=Top+25+DevOps+Interview+Questions+and+Answers+to+Land+Your+Next+Role&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=6506&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2F25-best-devops-interview-questions-and-answers%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2020/01/27/",
+      "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/azure-devops-az-400-certification-online-training/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-with-aws-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/data-science-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/mean-stack-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Top 25 DevOps Interview Questions and Answers to Land the Job",
+    "og_description": "Ace your interview with our expert-curated list of the top DevOps interview questions and answers. Includes questions for professionals with 3+ years of experience. Read now to get prepared and confident!",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Top 25 DevOps Interview Questions and Answers to Land Your Next Role",
+            "datePublished": "2020-01-27T08:45:15+00:00",
+            "dateModified": "2025-06-12T04:59:34+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/"
+            },
+            "wordCount": 8450,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Top-100-DevOps-Interview-Questions-and-Answers-1.jpg",
+            "keywords": [
+              "DevOps Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "DevOps",
+              "Interview Questions And Answers"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/",
+            "url": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/",
+            "name": "Top 25 DevOps Interview Questions and Answers to Land the Job",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Top-100-DevOps-Interview-Questions-and-Answers-1.jpg",
+            "datePublished": "2020-01-27T08:45:15+00:00",
+            "dateModified": "2025-06-12T04:59:34+00:00",
+            "description": "Ace your interview with our expert-curated list of the top DevOps interview questions and answers. Includes questions for professionals with 3+ years of experience. Read now to get prepared and confident!",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Top-100-DevOps-Interview-Questions-and-Answers-1.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Top-100-DevOps-Interview-Questions-and-Answers-1.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/25-best-devops-interview-questions-and-answers/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Top 25 DevOps Interview Questions and Answers to Land Your Next Role"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

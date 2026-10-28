@@ -1,0 +1,340 @@
+{
+  "url": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "DevOps and Segregation of Duties: Roles, Responsibilities & Best Practices",
+    "meta_description": "Explore how DevOps duties align with compliance through segregation of duties. Learn how to manage roles effectively using the right tools and practices. Join our AWS & DevOps course at 3RI Technologies to master modern DevOps.",
+    "h1": [
+      "Understanding DevOps and Segregation of Duties"
+    ],
+    "content": "Skip to content Home > Understanding DevOps and Segregation of Duties Understanding DevOps and Segregation of Duties The use of DevOps has completely changed how software is created, tested, and implemented in the quick-paced field of IT operations.This article examines the relationship between DevOps and SoD and how both can work together to accomplish governance and agility. Table of Contents PriyankaS3ri June 20, 2024 5:40 pm The use of DevOps has completely changed how software is created, tested, and implemented in the quick-paced field of IT operations. But in the middle of the productivity improvements and faster delivery cycles that DevOps approaches bring, an important issue comes up: Segregation of Duties (SoD). SoD is a fundamental idea in assuring security and compliance in businesses, especially in settings that handle sensitive data or are subject to legal requirements. This article examines the relationship between DevOps and SoD and how both can work together to accomplish governance and agility. In today’s agile environments, ensuring accountability and compliance in DevOps workflows is crucial. DevOps duties often blend development and operations, but without proper boundaries, it can lead to risks. That’s where DevOps segregation of duties plays a critical role—ensuring no single individual has unchecked control. With the rise of segregation of duties software, teams can maintain clarity in responsibilities. To build a solid foundation in DevOps and cloud architecture, 3RI Technologies offers an industry-aligned AWS & DevOps course. Learn to streamline deployments while adhering to essential governance protocols. Why Segregation of Duties Matters in DevOps Restricting developers’ access to production has nothing to do with the segregation of duties. Having a second pair of eyes to monitor everything that goes into production helps to ensure that no one person may undermine the system by segregating roles. For this reason, launching a nuclear missile requires two physical keys, and the keyholes are farther apart than the reach of the human body. It makes sure that two people, at the very least, think it’s a good idea to risk thermal nuclear war by launching an intercontinental ballistic missile. (…take a minute to process it.) Interested to begin a career in DevOps? Enroll now for DevOps Training in Pune . What Developers Think of the Segregation of Duties One of the most essential concepts in information security and organizational management is the segregation of duties (SoD), which is especially important in the software development industry. It involves assigning tasks to several people or groups to maintain checks and balances, minimize conflicts of interest, and lower the possibility of mistakes or fraud. From the standpoint of a developer, SoD is essential to preserving the security and integrity of software systems. Most developers see SoD as a way to improve transparency and responsibility in their teams. Throughout the development lifecycle, SoD makes ensuring that essential checks are in place and helps reduce the danger of unauthorized changes by assigning different responsibilities for tasks like coding, testing, and deployment. This division facilitates adherence to industry standards and legal obligations while also promoting a more robust development environment. Additionally, developers value SoD because it promotes cooperation and information exchange. Team members can specialize in their particular areas of expertise when roles are clearly defined, which supports more effective problem-solving and creativity. In addition, SoD fosters a culture of continuous development, allowing developers to concentrate on honing their craft and making a positive impact on the project as a whole rather than worrying about competing obligations. Simply put, developers regard the separation of roles as a fundamental idea that encourages safety, cooperation, and efficient management in software development procedures. Organizations can improve stakeholder trust and the dependability of their software products by following SoD principles. Traditional Solutions are Too Limiting Initially, many organizations restrict access to production by granting only operations personnel access, assuming that “duty” equates to “job role.” However, this only makes things slower. Some might limit developers to using CI/CD pipelines exclusively for production deployment, and as an additional safety measure, they might also forbid developers from changing any pipeline definitions. That functions properly until two workers in operations choose to compromise the system. What happens next? Perhaps we should give operations staff members only half of the password, similar to the nuclear key, so it requires two of them to modify. Though you get the point that a job’s role has nothing to do with reducing the likelihood of a lousy actor. Want to Upskill to get ahead in your career? Check out the DevOps Online Training . Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send 3 Myths of SoD vs DevOps Myth 1: Pushing straight to production with DevOps + CI/CD First and foremost, security and audit professionals frequently have inaccurate information when it comes to achieving SoD requirements in DevOps. It’s a common misconception that developers upload code directly from their IDE to production without any inspection, testing, etc., which happens when a CI/CD pipeline is in place. Nothing, ironically, could be further from the reality. In truth, wholly automated end-to-end CI/CD pipelines are still somewhat unusual today. Furthermore, it is quite uncommon in most firms for just one person to oversee all development, testing, operations, and deployment aspects. Generally speaking, all but the smallest businesses will have an operations person to handle environment management (and deployment) and at least one or two developers to code. Myth 2: The SoD Is Good At Preventing Errors and Fraud One thing we are sure of is that system faults never go away—no matter how much SoD—or testing, oversight, QA time, etc.—they still happen and persist. Regarding fraud, in my opinion, DevOps and CI/CD dramatically lower the cost of rolling back changes and make it simpler to detect fraud (“fail fast, recover fast, learn faster”). As such, there is always a point at which the benefits of having an additional set of eyes to help reduce errors *do* drop. Furthermore, in this contemporary, cloud-based, occasionally serverless world, humans cannot attain the velocity required to stay up with the pace of business. Myth 3: DevOps and SoD Cannot Coexist There are a few things more irritating than being abruptly told that; sorry, but the work you’re proposing to conduct (DevOps!) just cannot be approved due to incompatibility with our internal control standards. Argh! This not only constitutes a flagrant distortion of the proper usage of internal controls inside a business, but it also shows resistance to change that effectively stifles innovation, breeds shadow IT and encourages employees to work as far away from supervision as possible. If you want to watch your company implode due to extreme fragmentation, adopt the persona of the “jack-booted thug” and warn everyone that anything that deviates from your tiny, out-of-date worldview is unacceptable. It is quite possible to comply with SoD compliance requirements while utilizing DevOps methodologies. There is much room to improve upon historical methods using CI/CD pipelines to lower fraud and errors. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send SoD Compliance in DevOps+CI/CD Now, you’re probably thinking, “Yes!” or, “Okay, wise guy, so how exactly can we make this work?”. It’s straightforward, though it does involve some engineering work. First, the somewhat idealistic “right way” to approach this problem is as follows in a CI/CD pipeline: Even now, there is still a lot of physical intervention involved in this process. But moving forward, the entire CI/CD pipeline needs to extensively use automation. Integration of lint-like code security and quality checks should be part of the IDE. Both a software composition analysis (SCA) tool and a static application security testing (SAST) tool should regularly and recurrently scan the repository (SCA analyzes libraries and functions/methods for versions with known vulnerabilities). In addition to standard code quality testing, we incorporate dynamic application security testing (DAST) in the pipeline. UAT testing can also be highly automated when using a test-driven development (TDD) technique. Using programs like Terraform and kitchen-terraform allows for the automated testing and configuration of infrastructure. Furthermore, it is advisable to pre-harden images or containers by integrating suitable security technologies into them or the hosting environment (e.g., sidecars for containers). The output produced by these tests and tools must be imported natively as feasible into your issue tracker (such as JIRA or Pivotal), for example, by using ThreadFix to import SAST and DAST data. There are two main reasons why dashboard and reporting automation is crucial: Integrating this data into the dev and ops “work as usual” workflow guarantees that problems are resolved promptly. These dashboards offer a productive and efficient means of informing management. And perhaps most importantly for this topic, having all of this data in an approachable style can assist auditors feel more at ease about fulfilling internal controls like SoD. Update your skills with DevOps With AWS Training What IT Security Thinks About Segregation of Duties Recently spoke with someone who works in IT security. He adores the division of labor. His catchphrase is, “The key to earning customers’ trust is compliance and stability.” Implementing legal compliance requirements will always cause the least disruption to regular business activities, and access control is a simple and effective method of enforcing the division of labor. However, flexibility suffers as a result. It is imperative to adhere to prescribed protocols when implementing access control methods to enforce segregation of duties. This ensures compliance safety, guards systems and data, and preserves operational stability, integrity, and confidentiality. It’s excellent that he takes his work very seriously. Security is complex and demanding. Just picture our systems as wholly automated and housed in a locked box. We wouldn’t need to discuss IT security, access control, and job segregation because everything would just function. The DevOps approach could be one approach. Stand out with DevOps Foundation Certification Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes How DevOps Handles Task Segregation Do we have two competing initiatives—DevOps versus Segregation of Duties, the push for agility versus putting in place stricter access controls? This will vary depending on how far an organization has progressed with automating deliveries and releasing changes into production. Imagine you push a critical hotfix into the shared source repository ten minutes after customer support reports a critical bug. Imagine that you can modify the rate at which your modification is released based on how quickly this hotfix needs to be distributed, possibly omitting some non-functional tests. After five minutes, your hotfix is prepared for release. IT Business locates your change by opening the Production Release Dashboard for the organization. And going forward, all they need to do is press a large green button on the screen. After two minutes, the automated rollback procedure will begin, or your emergency hotfix will remain in production based on the final testing results. Unfortunately, this depiction still doesn’t reflect reality in many larger firms. I previously worked on a 12-person task force where we were prepared to deploy an emergency hotfix ten minutes after the root cause was identified. However, the large green button was absent. Furthermore, we lacked an automated rollback procedure in the event of a malfunction. All we had was a Jenkins job; no one knew where that specific task was. The only person available at the moment with access to the Jenkins Dashboard in production was our IT Operations team, and they are responsible for hundreds of Jenkins jobs. However, they were unaware of the location of that particular work. After more than two hours, we were able to provide our clients who had been complaining about poor customer service with the hotfix. It took twelve people more than an hour to make a significant shift. It was absurd that it takes 24 hours to begin Jenkins work.check out this DevOps Training Course provided by 3RI Technologies , a reputable online learning company with a global network of thousands of satisfied students. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send The Bottom Line With this procedure, all changes—whether they originate from your cross-functional DevOps team, a specialized development team, or a specialized operations team—are reviewed by many people before being authorized. And voilà—department segregation with DevOps! Prev Previous Why the Best DevOps Engineers Follow These 5 Habits Next DevOps vs. Traditional SDLC: Understanding the Evolution in Software Development Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/DevOps-and-Segregation-of-Duties.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "DevOps Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-7-1024x647.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=DevOps&cd%5Bpage_title%5D=Understanding+DevOps+and+Segregation+of+Duties&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=95600&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fdevops-and-segregation-of-duties%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2024/06/20/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-with-aws-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-and-segregation-of-duties/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/devops-to-a-traditional-sdlc/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/habits-of-successful-devops-engineer/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "DevOps and Segregation of Duties: Roles, Responsibilities & Best Practices",
+    "og_description": "Explore how DevOps duties align with compliance through segregation of duties. Learn how to manage roles effectively using the right tools and practices. Join our AWS & DevOps course at 3RI Technologies to master modern DevOps.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Understanding DevOps and Segregation of Duties",
+            "datePublished": "2024-06-20T12:10:32+00:00",
+            "dateModified": "2025-05-20T04:56:10+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/"
+            },
+            "wordCount": 1951,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/DevOps-and-Segregation-of-Duties.jpg",
+            "keywords": [
+              "DevOps Blog Design"
+            ],
+            "articleSection": [
+              "DevOps"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/devops-and-segregation-of-duties/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/",
+            "url": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/",
+            "name": "DevOps and Segregation of Duties: Roles, Responsibilities & Best Practices",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/DevOps-and-Segregation-of-Duties.jpg",
+            "datePublished": "2024-06-20T12:10:32+00:00",
+            "dateModified": "2025-05-20T04:56:10+00:00",
+            "description": "Explore how DevOps duties align with compliance through segregation of duties. Learn how to manage roles effectively using the right tools and practices. Join our AWS & DevOps course at 3RI Technologies to master modern DevOps.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/devops-and-segregation-of-duties/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/DevOps-and-Segregation-of-Duties.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/DevOps-and-Segregation-of-Duties.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/devops-and-segregation-of-duties/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Understanding DevOps and Segregation of Duties"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

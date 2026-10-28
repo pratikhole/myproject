@@ -1,0 +1,319 @@
+{
+  "url": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Serverless Computing on AWS: Concepts & Real-World Examples",
+    "meta_description": "Learn Serverless Computing on AWS with practical examples, AWS Lambda, and EC2 automation. Enhance your cloud skills through AWS Classes in Pune.",
+    "h1": [
+      "Serverless Computing on AWS: Concepts, Benefits, and Real-World Examples"
+    ],
+    "content": "Skip to content Home > Serverless Computing on AWS: Concepts, Benefits, and Real-World Examples Serverless Computing on AWS: Concepts, Benefits, and Real-World Examples Learn how Serverless Computing on AWS simplifies modern application development with AWS Lambda, event-driven architecture, and EC2 automation. If you're exploring AWS Classes in Pune, this beginner-friendly guide will help you understand the core concepts, benefits, and real-world applications of serverless computing. Table of Contents PriyankaS3ri July 17, 2026 5:11 pm Cloud computing continues to evolve, and Serverless Computing on AWS is transforming the way modern applications are built. Instead of managing servers, scaling infrastructure, or handling maintenance, developers can focus entirely on writing code while AWS manages the backend infrastructure. In this blog, you’ll explore the concepts, benefits, and real-world examples of Serverless Computing on AWS, along with how services like AWS Lambda simplify application development. If you’re looking to build practical cloud skills through AWS Classes in Pune , understanding these concepts will help you create scalable, cost-effective, and efficient cloud applications. What is Serverless Computing on AWS? (Concepts and Benefits) To begin with, “serverless” does not imply the absence of servers. Servers still exist, but AWS takes full responsibility for provisioning, patching, and scaling them. As a developer, you simply upload your code, and AWS runs it whenever needed, then shuts it down automatically when it’s not in use. Imagine ordering dinner at a restaurant rather than preparing it at home. You don’t own the kitchen or buy the ingredients — you just place an order, and the meal is delivered. In conventional cloud computing, you rent a server and pay for it whether or not you make full use of it. With serverless computing , you pay only for the actual execution time of your code, which makes it attractive for students, startups, and businesses trying to minimise costs. Want to Book A Free Expert Guidance Session? Book Now Get Free Career Counseling from Experts ! Email Phone Send Serverless Computing versus Classical Computing Feature Traditional Computing Serverless Computing Server Management Manual setup and maintenance Fully managed by AWS Scaling Manual or pre-configured Automatic, based on demand Cost Model Pay for allocated resources Pay only for execution time Deployment Speed Slower, involves infrastructure setup Faster, code-focused deployment Idle Resource Cost Charged even when idle No charge when not running Ideal For Long-running, predictable workloads Event-driven, variable workloads Key benefits of serverless computing on AWS: Absence of infrastructure management—Developers just concentrate on writing logic. Automatic scaling that adjusts to traffic spikes without manual intervention. cost effectiveness since billing is determined by actual consumption rather than idle capacity. Faster time-to-market and built-in high availability across AWS zones. For students starting their cloud journey, these concepts are easier to grasp through structured, practical training. 3RI Technologies focuses on hands-on implementation of complete AWS projects from scratch , so learners actually build and deploy a serverless application themselves from day one. AWS Lambda Basics and Serverless Applications AWS Lambda is the backbone of serverless computing on AWS. To put it simply, Lambda allows you to execute code without the need for server provisioning or management. This is how it operates, step-by-step: A function is a brief segment of code that you write. You upload it to AWS Lambda. You define a trigger — a file upload, an API call, or a scheduled time. Lambda executes your code automatically whenever that trigger occurs, then shuts down. A serverless application is typically built by connecting multiple AWS services together, with Lambda acting as the “glue” that processes data and triggers actions. Python, Node.js, Java, Go, and other languages are supported by Lambda, and its functions can begin running in milliseconds. Practical example — photo-sharing app: A user uploads a photo to an Amazon S3 bucket. The upload instantly triggers an AWS Lambda function. Lambda automatically resizes the image into a thumbnail and a display size. The resized versions are saved back to S3, ready to show in the app. This shows the real value of Lambda: a task that would normally need a dedicated server running around the clock is instead handled in milliseconds, only when a photo is actually uploaded. Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Reading documentation alone isn’t enough to grasp Lambda’s real potential—the concept clicks once you build something. This is how trainers at 3RI Technologies simplify Lambda basics: instead of explaining triggers and functions abstractly, they get students to write and deploy a real Lambda function in the first session, so a serverless application stops being theory and becomes something they’ve actually shipped. Event-Driven Architecture in AWS Serverless computing is built around event-driven architecture. Instead of applications running continuously and waiting for requests, they “wake up” only when a specific event occurs. An event could be A file being uploaded to Amazon S3. A new record added to a DynamoDB table. A user submitting a form through an API. A scheduled time trigger, like a daily report generation task. Picture a security camera system. It doesn’t record 24/7 wastefully; it activates only when motion is detected. That’s exactly how event-driven serverless applications behave — they respond only when something meaningful happens. AWS services like S3, API Gateway, DynamoDB, and CloudWatch all act as event sources that trigger Lambda functions, creating an automated pipeline without any server sitting idle. Event-driven thinking is often the hardest mental shift for beginners, since most first learn programming in a step-by-step, always-running style. 3RI Technologies breaks this down by mapping each event source to a real mini-project — students configure an S3 upload to trigger a Lambda function and watch the output appear live, which helps them genuinely understand event-driven architecture instead of memorizing a definition. EC2 Automation: Auto Stop/Start EC2 Using AWS Lambda While Lambda itself is serverless, it can also manage traditional resources like EC2 instances more efficiently. One of the most practical use cases is EC2 automation—specifically, AWS EC2 Auto Stop and Start . Here’s the problem it solves: many organizations run EC2 instances for development or testing, but these are often left running overnight or on weekends, wasting money unnecessarily. The solution: AWS Lambda, combined with Amazon CloudWatch Events, can automatically stop EC2 instances after work hours and start them again the next morning. A simple example scenario: A company’s development team works from 9 AM to 6 PM. A Lambda function is scheduled to stop all tagged EC2 instances at 6 PM daily. Another Lambda function starts those same instances at 9 AM. Result: the company saves on EC2 costs during the 15 idle hours every night. This kind of EC2 automation is a favorite interview topic since it demonstrates real cost-optimization skills, yet beginners often trip up on details like IAM permissions and CloudWatch scheduling. This is why 3RI Technologies dedicates hands-on practice time to auto-stop/start EC2—walking students through the Lambda script, the IAM role, and the CloudWatch trigger, then letting them break and fix the automation themselves so they understand not just how it works but why it fails when misconfigured. Practical and Real-World Examples of Serverless Computing Serverless computing isn’t just theory — it powers many applications you likely use every day. Serverless services are used by E-commerce websites to process orders, issue email confirmations, and instantly update inventory. Media companies use AWS Lambda to automatically transcode videos into different resolutions the moment they’re uploaded. Chatbots and voice assistants rely on serverless backends to process user queries instantly. IoT applications use serverless architecture to handle massive streams of sensor data, triggering alerts only when certain conditions are met. Because serverless computing reduces upfront infrastructure spending, startups frequently utilize it to construct whole MVPs. These real-world applications show why serverless skills are in high demand, but reading about them isn’t the same as building one. This is the approach 3RI Technologies takes with every serverless topic: instead of just describing how an e-commerce order pipeline or a video transcoding workflow works, students recreate a scaled-down version of it themselves using Lambda, S3, and event triggers—and explaining serverless computing through these practical, project-style examples is what makes the concept stick. For students in Maharashtra looking to specialize in cloud technologies, enrolling in AWS Classes in Pune that emphasize real-world deployment techniques and AWS industry best practices can shorten the learning curve, especially with direct, hands-on work with Lambda, EC2, S3, and event-driven pipelines. This exposure to industry-oriented projects is what builds confidence for internships, certifications, and cloud engineering careers. Conclusion The development and deployment of contemporary applications has been transformed by serverless computing on AWS. Because AWS handles infrastructure management, scalability, and availability, developers can concentrate on building effective code instead of managing servers. From understanding AWS Lambda basics to exploring event-driven architecture and EC2 automation, this blog covered the essential concepts that make serverless computing a powerful approach for building scalable cloud applications. The practical examples also highlight why serverless computing has become an essential skill for today’s cloud professionals. If you’re ready to turn these concepts into hands-on experience, enrolling in an AWS Course in Pune can help you build practical skills and prepare for a successful career in cloud computing. Prev Previous Designing Scalable and Highly Available Applications on AWS Next Playwright Test Automation Course in Pune: Key Benefits and Features Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjkiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Serverless Computing on AWS diagram with AWS Lambda, event-driven architecture, and EC2 automation explained for AWS Classes in Pune.",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzQ4IDY0NSIgd2lkdGg9Ijc0OCIgaGVpZ2h0PSI2NDUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjU1IDYzNyIgd2lkdGg9IjY1NSIgaGVpZ2h0PSI2MzciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTQzIDU3OCIgd2lkdGg9Ijk0MyIgaGVpZ2h0PSI1NzgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjU1IDU1MyIgd2lkdGg9IjY1NSIgaGVpZ2h0PSI1NTMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Cloud+Computing&cd%5Bpage_title%5D=Serverless+Computing+on+AWS%3A+Concepts%2C+Benefits%2C+and+Real-World+Examples&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=120932&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fserverless-computing-on-aws-concepts-benefits-and-real-world-examples%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/10-real-time-projects-aws-training-in-pune/",
+      "https://www.3ritechnologies.com/2026/07/17/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/automation-testing-courses-in-pune-playwright-benefits-features/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/designing-scalable-and-highly-available-applications-on-aws/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Serverless Computing on AWS: Concepts & Real-World Examples",
+    "og_description": "Learn Serverless Computing on AWS with practical examples, AWS Lambda, and EC2 automation. Enhance your cloud skills through AWS Classes in Pune.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Serverless Computing on AWS: Concepts, Benefits, and Real-World Examples",
+            "datePublished": "2026-07-17T11:41:00+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/"
+            },
+            "wordCount": 1441,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Serverless-Computing-on-AWS-Guide-AWS-Classes-in-Pune.png",
+            "keywords": [
+              "AWS Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Cloud Computing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/",
+            "url": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/",
+            "name": "Serverless Computing on AWS: Concepts & Real-World Examples",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Serverless-Computing-on-AWS-Guide-AWS-Classes-in-Pune.png",
+            "datePublished": "2026-07-17T11:41:00+00:00",
+            "description": "Learn Serverless Computing on AWS with practical examples, AWS Lambda, and EC2 automation. Enhance your cloud skills through AWS Classes in Pune.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Serverless-Computing-on-AWS-Guide-AWS-Classes-in-Pune.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/Serverless-Computing-on-AWS-Guide-AWS-Classes-in-Pune.png",
+            "width": 1000,
+            "height": 669,
+            "caption": "Learn how Serverless Computing on AWS works with AWS Lambda, event-driven architecture, and EC2 automation through this visual guide from AWS Classes in Pune."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/serverless-computing-on-aws-concepts-benefits-and-real-world-examples/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Serverless Computing on AWS: Concepts, Benefits, and Real-World Examples"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

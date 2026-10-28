@@ -1,0 +1,337 @@
+{
+  "url": "https://www.3ritechnologies.com/tosca-vs-selenium/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Tosca vs Selenium: Which Automation Testing Tool is Right for You? | 3RI Technologies",
+    "meta_description": "Discover the key differences between Tosca and Selenium in automation testing. Compare Tosca automation vs Selenium, and prepare for selenium interview questions with expert insights from 3RI Technologies.",
+    "h1": [
+      "Tosca vs Selenium: A Comparative Guide to Automation Testing Tools"
+    ],
+    "content": "Skip to content Home > Tosca vs Selenium: A Comparative Guide to Automation Testing Tools Tosca vs Selenium: A Comparative Guide to Automation Testing Tools For many software-related undertakings, test automation has come up as one of the most evolving and agile processes that many organizations are utilizing. With test automation, software tools have to be done against the testing applications with the run of repeatable tests. Table of Contents PriyankaS3ri June 24, 2021 8:15 pm For many software-related undertakings, test automation has come up as one of the most evolving and agile processes that many organizations are utilizing. With test automation, software tools have to be done against the testing applications with the run of repeatable tests. From a test automation tool, organizations wish for excellent customer support, videos, multiple languages support, screenshots, user ratings, features, plans, pricing, and integration to achieve all the desired and undesired organization goals. Are you confused or struggling to find out an effective and better software tool for your organization? Keep reading this blog to find out. Choosing the right tool for automation testing is critical for software quality and efficiency. This guide compares Tosca vs Selenium to help you make an informed decision. While Tosca offers a model-based testing approach with easy test automation, Selenium remains the most popular open-source tool widely used for web testing. Explore the strengths and limitations of both tools to understand when to use each. Additionally, prepare for selenium interview questions with practical insights and tips. For hands-on experience, consider our specialized Automation testing | selenium training at 3RI Technologies to boost your career. This blog will discuss the two most used and popular test automation methodologies, Tosca and selenium. Both are not similar, even though some features or plans may be similar. Finding out better, Tosca vs. selenium will make you choose the appropriate test automation software for your organization. As Tosca was launched some years back, it is used by comparatively fewer organizations than that of selenium. Selenium is used by many big companies and enterprises in the US, UK, Australia, Canada, and more countries. Want to become a successful Software Tester? Check out Software Testing Course in Pune Understanding Tosca Automation vs Selenium for Better Testing Decisions Based on definition According to the definition, Tricentis Tosca and selenium can be defined from the data given below. Tricentis Tosca Tosca can be defined as the tool which performs both functional and regression testing for software products. It includes the GUI and command-line interface, application programming interface, and integrated test management. Tosca has the power to support programming languages such as visual basics, JavaJava, C#, etc. Selenium For web applications like selenium IDE, RC, Grid, web driver, selenium, the popular testing automation tool has been used. It offers testing features and advanced functionalities for working with various testing scenarios of web-based applications. Selenium uses programming languages like JavaJava, pearl, python, ruby, and C#. Based on reasons of choosing When choosing one out of Tosca and selenium, most organizations choose it based on the reasons. It can be defined as Tosca Tosca is a wonderful enterprise software testing tool used to optimize different phases in test cases and provide a strong test analysis for the application. Tosca is primarily based on LinearQ(sm) technique. Tosca is chosen over other test automation tools because it is the model technique where the model AUT (application under test) is created and not the test automation script. It accelerated the testing model for keeping pace with DevOps and Agile. Become an expert in TOSCA with the help of Tosca Training . Selenium Selenium offers excellent flexibility and provides high options for all user interface elements based on the expected application behavior. Selenium can perform its testing on countless numbers of browsers. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send Based on the benefits and drawbacks of both the software As everything comes with own advantages and disadvantages, Tosca and selenium also comes with several set of benefits and disadvantages which are discussed under this section Advantages of Selenium 1- Support on iPhone and Android – If you are looking to perform selenium testing and its test cases on your smartphone, you will feel good because selenium can consent to iPhone and Android. 2- Result-oriented and better features – With selenium, AJAX testing can be performed because it holds the features of AJAX to provide the result-oriented approach. 3- Easy to use – People can easily use selenium by connecting with the front and back buttons of the device browser. 4- Establishing the server is not a need – While using selenium, you don’t need to establish a server in the web driver. 5- Mouse stimulation – If you are looking for more effortless mouse movement from your device, always go for selenium testing and test cases. Because it provides the smoother stimulation of the mouse. 6- Object coordination – With selenium, any object coordinated can be found with a web driver. 7- A multi automation tool – Selenium automation tool can be a functional, regressive, and compressive testing tool at the same time. 8- Script conversion – If you are looking to transfer your scripts to the programming languages, go for selenium because it makes this task possible. 9- Recording and playback features – Selenium has great recording and playback facilities supporting various organizational functions and projects. 10- Multi testing – Selenium testing can be performed on various browsers regardless of the device. Enroll our Selenium Classes in Pune and become an expert in Software Testing. Limitations of selenium 1- High investment – For using selenium in your organization, you need strong training and investment. 2- High manpower requirement – For test case preparation, a lot of manpower is required. 3- Test areas uncovered – Also, various test areas of selenium remain uncovered. 4- Intensive uses of resources – There is a lot of risk in keeping data with selenium, and also, it’s resource-intensive. 5- Weathering problems – The selenium tools provide a lot of difficulty for capturing weathering and revealing the pavement surfaces. Benefits of Tosca 1- Scriptless automation testing – Using Tosca will give you a great benefit in scriptless automation testing. With Tosca, scriptless automation for any devices and organizations can be performed. 2- Easy to start – Anyone can get their hands on this amazing Tosca testing software in just some time. Any professional can learn this testing software with utmost ease. 3- Less writing of framework – Tosca offers a model-based process of automation which reduces the writing of frameworks. Because you get it anyhow. 4- No copy-paste features and reliability – Tosca supports the reusability of assets and copy-paste features for test cases and modules. 5- Testing and manual system – Under Tosca, testing management systems and manual testing are available. 6- Integration with selenium scripts – It can integrate with HP, ALM, and multiple selenium scripts can be run with Tosca. 7- Query language solution – It offers a set of query languages such as SQL and TSQL. Drawbacks of Tosca 1- Lacks of operation – Tosca doesn’t operate on MAC and Linux devices. Thus, users who want to run the software on Mac and Linux devices should not go for Tosca. 2- Harder modules – Elements under Tosca are stored in modules that are the same as objects. But modules are more difficult to use than objects. 3- Hugh problem of maintenance – The proprietor or model-based test runner approach will give rise to maintenance problems. 4- Highly needed clicking – When writing test cases, Tosca requires a lot of clicking. 5- Integration problems – It cannot be integrated with Git for controlling testing assets. 6- Made for commercial purposes – Tosca can only smoothly perform commercial tasks. Based on pricing Pricing always comes first irrespective of what features and advantages it offers; the main concern is pricing. Both the tools provide effective pricing given as Selenium As the selenium automation tool is open source, it’s free to use in any organization. Its free usage made it perfect to be used by various middle and small enterprises. Instead of being free of cost, selenium competes with other testing software because of its amazing performance. Check out Online Selenium Training . Enroll now! What is Selenium mainly used for? The software development environment of today requires automated testing. The growing quantity and breadth of software programmes means that manual testing is no longer adequate to ensure product quality and efficiency. These issues are resolved by automating laborious and repetitive testing procedures using certain tools and frameworks. Many qualities of Selenium make the usual life of testers, developers, QA, and DevOps engineers easier. In the section that follows, we’ll examine some of Selenium’s best qualities. Interoperability Across Browsers You can check web apps using Selenium on a plethora of browsers, consisting Internet Explorer, Firefox, Chrome, and Safari. This makes sure that your application will funstion properly and have a consistent look in different browser contexts. Multiple Programming Language Support Number programming languages, consisting Java, C#, Python, Ruby, and JavaScript, are supported. Because of this flexibility, makers and testers may write test scripts in the medium that best suits them. Interaction of Web Elements It offers a wide range of ways to communicate with web components on a page. Comprehensive and precise testing is made possible by the ability to execute activities such as clicking buttons, completing forms, choosing dropdown menus, and confirming element properties. Cooperation Amongst Browsers Selenium permits you to test web programmes across a numberof browsers, such as Firefox, Chrome, Safari, and Internet Explorer. This makes sure that your application will work correctly and look the similar across various browser settings. Support for Several Programming Languages There is support for various programming languages, consisting Java, C#, Python, Ruby, and JavaScript. This flexibility permits developers and testers to persue test scripts in the most convenient medium for them. Interaction of Web Components It provides a multitude of methods for interacting with web elements on a page. The ability to perform actions like selecting dropdown menus, filling out forms, pressing buttons, and verifying element characteristics allows for more thorough and accurate testing. Tricentis Tosca As selenium is free, the prices of Tosca had not been published yet. It offers the cloud licensing function, which helps in providing the testing environment hosted through Tricentis and on-premise license. It also suggests that cloud licensing helps reduce the cost of Tosca because it holds the allowance of a partner in testing for using testing infrastructure without additional server resources. Final words or conclusion If you are not choosing the above two software tools for your organization, many other things need to be considered. Because other than selenium and Tosca, many automation software tools are very expensive and require a lot of knowledge to operate them well. So that’s why this guide of selenium vs. Tosca will help you choose the cost-effective automation tool your employees love to work on. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes But as everyone knows, selenium is an ancient automation tool and very popular; while Tosca was launched in recent years, selenium holds all respect in fulfilling organizational goals. Moreover, Tosca needs high maintenance, which needs to be done timely, and selenium requires less maintenance. Selenium depends all on coding, and Tosca doesn’t require any coding. Before choosing any of the software automation tools for your organization, it’s essential to know all factors about Tricentis vs. selenium . Check out our Selenium With Python Course and Selenium with Python Online Training Course today! With any of the software discussed above, you can develop the test cases from Microsoft test, D unit, java unit, or N unit. But you need to choose the best automation tool out of Tricentis Tosca vs. selenium according to your business demands and needs. These tools can be adapted by any organization irrespective of the type and size. The blog has covered all about Tricentis Tosca vs. selenium and helps any organization to achieve its goals. Adapt the wonderful methodology of automation tools and do wonders for your organization. So get your hands on anyone software that gives the desired goals and results and make your organization counted in the top lists. To master software testing skills visit 3RI Technologies Prev Previous Python vs Tableau: Best Choice for Data Visualization Next Python vs PySpark: A Practical Comparison for Big Data Enthusiasts Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/Tosca-vs-Selenium.jpg",
+        "alt": "Tosca vs Selenium",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/03/become-software-testing-certified-professional-1.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Selenium-Certified-Professional.png",
+        "alt": "Selenium Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/05/Become-A-TOSCA-Certified-Professional.jpg",
+        "alt": "Tosca Certification Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/TOSCA-VS-SELENIUM-3.jpg",
+        "alt": "TOSCA VS SELENIUM",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Testing&cd%5Bpage_title%5D=Tosca+vs+Selenium%3A+A+Comparative+Guide+to+Automation+Testing+Tools&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=54337&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Ftosca-vs-selenium%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2021/06/24/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-online-training/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-with-python-training/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-vs-pyspark/",
+      "https://www.3ritechnologies.com/python-vs-tableau/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/tosca-vs-selenium/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/tosca-vs-selenium/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Tosca vs Selenium: Which Automation Testing Tool is Right for You? | 3RI Technologies",
+    "og_description": "Discover the key differences between Tosca and Selenium in automation testing. Compare Tosca automation vs Selenium, and prepare for selenium interview questions with expert insights from 3RI Technologies.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/tosca-vs-selenium/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/tosca-vs-selenium/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Tosca vs Selenium: A Comparative Guide to Automation Testing Tools",
+            "datePublished": "2021-06-24T14:45:58+00:00",
+            "dateModified": "2025-05-22T05:37:19+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/tosca-vs-selenium/"
+            },
+            "wordCount": 2075,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/tosca-vs-selenium/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/Tosca-vs-Selenium.jpg",
+            "keywords": [
+              "Software Testing Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Testing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/tosca-vs-selenium/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/tosca-vs-selenium/",
+            "url": "https://www.3ritechnologies.com/tosca-vs-selenium/",
+            "name": "Tosca vs Selenium: Which Automation Testing Tool is Right for You? | 3RI Technologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/tosca-vs-selenium/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/tosca-vs-selenium/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/Tosca-vs-Selenium.jpg",
+            "datePublished": "2021-06-24T14:45:58+00:00",
+            "dateModified": "2025-05-22T05:37:19+00:00",
+            "description": "Discover the key differences between Tosca and Selenium in automation testing. Compare Tosca automation vs Selenium, and prepare for selenium interview questions with expert insights from 3RI Technologies.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/tosca-vs-selenium/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/tosca-vs-selenium/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/tosca-vs-selenium/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/Tosca-vs-Selenium.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/06/Tosca-vs-Selenium.jpg",
+            "width": 1000,
+            "height": 667,
+            "caption": "Tosca vs Selenium"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/tosca-vs-selenium/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Tosca vs Selenium: A Comparative Guide to Automation Testing Tools"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

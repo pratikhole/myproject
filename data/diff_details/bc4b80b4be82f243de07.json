@@ -1,0 +1,321 @@
+{
+  "url": "https://www.3ritechnologies.com/what-is-natural-language-processing/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "What is NLP? [NLP in Data Science in 2024] | 3RI Technologies",
+    "meta_description": "In this blog we will explore the world of NLP and its concepts, methodologies, and real-world applications.",
+    "h1": [
+      "Guide to Natural Language Processing: Closing Gap between Machines and Humans"
+    ],
+    "content": "Skip to content Home > Guide to Natural Language Processing: Closing Gap between Machines and Humans Guide to Natural Language Processing: Closing Gap between Machines and Humans Wondering what is natural language processing in AI? NLP combines AI, computer science, and linguistics to help machines comprehend and give response to natural language. It helps apps like machine translation, sentiment analysis, voice assistants, and chatbots. Here we will explore the world of NLP and have a look at its core concepts, methodologies, and real-world applications. Table of Contents PriyankaS3ri July 14, 2023 4:13 pm In today’s world of artificial intelligence, Natural Language Processing plays an essential role in enhancing human-computer interaction. It is dedicated to assisting computers in comprehending, deciphering, and synthesizing human language, overcoming the gap between technology and humans. Wondering what is natural language processing in AI ? NLP combines AI, computer science, and linguistics to help machines comprehend and give response to natural language. It helps apps like machine translation, sentiment analysis, voice assistants, and chatbots. Here we will explore the world of NLP and have a look at its core concepts, methodologies, and real-world applications. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send What is NLP? Are you wondering what is NLP ? Well! Natural Language Processing (NLP) is a discipline of artificial intelligence (AI) that concentrates on human language and computer communication. NLP develops algorithms and models to help computers understand, interpret, and generate natural language like spoken or written text. It helps bridge the gap between computer understanding and human language. This language processes and analyzes textual data to derive insights, extract meaningful information and perform other language-related tasks. NLP models have become quite advanced in recent years with deep learning and large-scale language models. These models like GPT and BERT offer state-of-the-art performance in various tasks by learning from large amounts of textual data. It facilitates communication and interaction between humans and computers naturally and intuitively. Looking forward to becoming an expert in Data Science? Then get certified with Data Science And Machine Learning Course . Understanding Natural Language Processing: So, what is natural language processing ? NLP makes use of computational algorithms at the core to process and analyze human language data. This procedure is divided into the following steps: Tokenization: It breaks the text into individual units like words or phrases called tokens. Tokenization is the basis of successive analysis. Morphological Analysis: This examines the internal structure of words to understand the grammar form and produce root words, suffixes, and prefixes. Part-of-Speech Tagging: grammatical tags are assigned to each word in a sentence like verbs, nouns, pronouns, and adjectives. POS tagging aids in comprehending sentence grammatical structure. Parsing: It analyzes the grammatical structure of the sentence to find its hierarchical relationships. It is important for extracting the meaning of complex sentences. Named Entity Recognition: It identifies and categorizes named entities in text like organizations, names of people, locations, and dates. Sentiment Analysis: It determines the sentiment expressed in the given text whether it is negative, positive, or neutral. It is used mostly in the fields of social media monitoring, research on markets, and feedback from customer analysis. Machine Translation: It interprets text from a particular language to a different one using algorithms that evaluate sentence meanings and syntax. Real-World Application of Natural Language Processing: NLP impacts our daily lives in different ways and has brought about a revolution in numerous industries. Here are some real-world applications of NLP: Virtual assistants: NLP is used by voice-controlled assistants like Siri, Google Assistant, and Alexa to understand and respond to spoken commands and users are provided with reminders, recommendations, and personalized information. Chatbots: These chatbots make customer service interactions automatic with the use of NLP and they provide immediate response to inquiries, resolve issues, and offer human-like conversations. Retrieval of information: Search Engines use NLP techniques to understand user queries and offer relevant search results. NLP also helps search engines analyze the intent behind the search and return helpful and accurate results. Summarization of text: These algorithms automatically generate the summary of a vast amount of text and help users grasp the main ideas of large documents, stories, and articles. Sentiment analysis in social media: NLP helps businesses monitor social media platforms, gather insights about public opinions, and analyze customer sentiment about products, services, and brands. Language Translation: NLP has better machine translation systems and allows people to communicate through various language barriers. Google Translate uses sophisticated NLP algorithms to provide precise translations. Challenges and future: There are still challenges remaining in NLP despite progress made in the field. Significant hurdles are posed by context sensitivity, ambiguity, and language diversity. It is also difficult to understand irony, sarcasm, and subtle nuances in language. Ongoing research can help develop advanced NLP techniques. Deep learning models like RNN, BERT, and GPT have improved NLP systems. NLP capabilities are expanding with more efforts in annotation, data collection, and model training. NLP future directions include improvement in multilingual understanding, enhancing ethical considerations, and advancing understanding like bias mitigation and fairness in the processing of language. Check out the Data Science online training and get certified today. NLP approaches and tools: Python and NLP toolkit: there are numerous tools and libraries in Python programming language for specific NLP tasks. These resources may be discovered in the Natural Language Toolkit, a crowd-sourced collection that includes NLP programs, archives, and educational resources. They have libraries for several tasks along with libraries for subtasks like word segmentation, sentence parsing, lemmatization, tokenization, and stemming. They also have libraries to implement various capabilities like semantic reasoning along with deriving logical conclusions. Statistical NLP: Previously, NLP applications were hand-coded, and rules-based, so they could perform some tasks, but could not handle increasing text and voice data. Statistical NLP combines machine learning with computer algorithms and deep learning models to voice data to assign meaning to every element. Why is NLP important? Companies have a large amount of unstructured and text-heavy data that needs to be processed. A large amount of information about natural human language is created and stored in databases and businesses could not analyze this data, which is why NLP is needed. There are numerous vague elements that appear in human language frequently and they are interpreted by machine learning algorithms. Nowadays deep learning and machine learning algorithms are evolving so they expand the data to be analyzed deeply. NLP is important for numerous reasons as it is used widely in apps and affects numerous aspects of our lives. It enables natural and intuitive human-computer interactions with voice assistants and chatbots for customer support. It aids in the retrieval and extraction of crucial data from enormous volumes of textual material. It helps search engines understand user queries and retrieve relevant search results. It helps machines analyze and comprehend text content and is crucial for applications in deriving sentiment analysis, topic modeling, and content summarization. It facilitates translation and multilingual communication for better business expansion and to enable global communication. It is widely used in the healthcare industry to extract insights from medical literature, electronic health records, and patient reports. It is widely used in the financial sector for sentiment analysis and risk assessment as it can process large volumes of text data. If you wish to pursue a Data Science Course in Pune , then you can always drop by 3RI Technologies. Benefits of NLP: The chief benefit of NLP is it enhances the communication between computers and humans. A computer is manipulated through a code and NLP helps computers in understanding human language making the interaction more intuitive for people. It provides enhanced accuracy and orderliness in documentation. NLP bridges the gap between computers and human communication and manipulates a computer using code. It helps computers understand human language and interacts with computers in a more intuitive manner. There are numerous other benefits: Better accuracy and efficiency of documentation It automatically summarizes large and complex text It is useful for virtual assistants like Siri and Alexa to help them understand words It helps organizations in customer support through chatbots Offers advanced insights from unreachable analytics with more data volume Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes In what way does NLP function? Natural Language Processing is an area of artificial intelligence that assists robots in interpreting spoken language, they comprehend and produce human language written as well as spoken words. Numerous tasks and techniques are used in NLP that work together to analyze and process the text data. These methods assist systems in interpreting spoken language in the manner of audio text or information in order to grasp the implications in relation to the mood or purpose of what is being said or written. NLP is a combination of computational linguistics and deep learning models. Computer programs that translate languages are also based on NLP and it also summarizes large amounts of text instantly. NLP interacts with people in the form of GPS systems that are voice-operated. Customer service chatbots, digital assistants, and transcribing software. NLP assists in streamlining of business operations with enterprise solutions and simplifies mission-critical processes. Here are the fundamental steps required for working on NLP: Tokenization and Cleaning: NLP in the initial step requires breaking down raw data into small units named tokens. Tokenization splits the data into words, sentences, and characters so that it is easy to analyze. Text is also cleaned by removal of special characters and punctuation. Removal of Stop Words: Common words like the, and, and in do not have meaningful information so NLP removes these stop words and enhances the efficiency of processing. Stemming and Lemmatization : Stemming and lemmatization are strategies for reducing phrases to their fundamental form in order to improve evaluation and uniformity. Feature extraction: The text needs to be converted to numerical data to analyze it and techniques like Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF) are used commonly to represent text in the form of numerical vectors. Word frequency and importance are captured with these methods. Text Classification: This is one of the core tasks of NLP and it trains machine learning models to classify text into predefined labels or classes. Conclusion: Are you now thinking what is natural language processing in machine learning ? NLP plays a great role in helping machines understand, interpret and generate human language and bridges the gap in communication between humans and machines. There are myriad applications of NLP. NLP is constantly evolving and there is better language understanding, better communication with machines, and augmented user experiences. The power of NLP can help unlock new possibilities and machines can comprehend human language easily. To learn from masters check 3RI Technologies . Prev Previous What is a Neural Network? Understanding the Core of AIWhat is A Neural Network? Next What is AWS CLI? A Comprehensive Guide to the AWS Command Line Interface Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/NLP.jpg",
+        "alt": "What is NLP(Natural Language Processing)?",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-a-Data-Science-Certified-Professional.png",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=Guide+to+Natural+Language+Processing%3A+Closing+Gap+between+Machines+and+Humans&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=81276&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-natural-language-processing%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2023/07/14/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-online-training/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-a-neural-network/",
+      "https://www.3ritechnologies.com/what-is-aws-cli/",
+      "https://www.3ritechnologies.com/what-is-natural-language-processing/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/what-is-natural-language-processing/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "What is NLP? [NLP in Data Science in 2024] | 3RI Technologies",
+    "og_description": "In this blog we will explore the world of NLP and its concepts, methodologies, and real-world applications.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/what-is-natural-language-processing/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/what-is-natural-language-processing/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Guide to Natural Language Processing: Closing Gap between Machines and Humans",
+            "datePublished": "2023-07-14T10:43:30+00:00",
+            "dateModified": "2023-12-07T11:01:21+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-natural-language-processing/"
+            },
+            "wordCount": 1683,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-natural-language-processing/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/NLP.jpg",
+            "keywords": [
+              "Data Science Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Data Analytics"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-natural-language-processing/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/what-is-natural-language-processing/",
+            "url": "https://www.3ritechnologies.com/what-is-natural-language-processing/",
+            "name": "What is NLP? [NLP in Data Science in 2024] | 3RI Technologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-natural-language-processing/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-natural-language-processing/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/NLP.jpg",
+            "datePublished": "2023-07-14T10:43:30+00:00",
+            "dateModified": "2023-12-07T11:01:21+00:00",
+            "description": "In this blog we will explore the world of NLP and its concepts, methodologies, and real-world applications.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/what-is-natural-language-processing/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-natural-language-processing/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/what-is-natural-language-processing/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/NLP.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/07/NLP.jpg",
+            "width": 1000,
+            "height": 667,
+            "caption": "What is NLP(Natural Language Processing)?"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/what-is-natural-language-processing/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guide to Natural Language Processing: Closing Gap between Machines and Humans"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

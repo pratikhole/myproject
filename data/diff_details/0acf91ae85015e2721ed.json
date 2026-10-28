@@ -1,0 +1,358 @@
+{
+  "url": "https://www.3ritechnologies.com/python-range-function-and-its-methods/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "What is range() in Python? Function, Methods & Real Use Cases",
+    "meta_description": "Learn all about the range function in Python, including how to use for in range, in range Python loops, and variations of the range() method. Enroll in our Python Training in Pune to master Python from basics to advanced.",
+    "h1": [
+      "Understanding range() in Python with Practical Examples"
+    ],
+    "content": "Skip to content Home > Understanding range() in Python with Practical Examples Understanding range() in Python with Practical Examples Table of Contents PriyankaS3ri May 30, 2024 10:23 am Python’s range function returns a series of values that begin at the input value (default: 0), increase at the designated step size (default: 1), and end before the input value. This post will go over range functions in Python and how to use them. The range() function in Python is a fundamental tool used for generating a sequence of numbers, especially within loops like for in range or in range Python statements. Whether you’re writing basic iterations or advanced logic, understanding what is range in Python and its various forms—like python for range, python inrange, or even ranges in Python—is crucial for writing clean, efficient code. This guide breaks it down simply with examples. Want to become a Python expert? Join our hands-on Python Training in Pune at 3RI Technologies and turn coding into your career. How to Use range() Function in Python Effectively 1. Fundamentals of Python Range The Python function range() is a frequently used and well-liked tool, especially when working with for and while loops. It returns a series of numbers and is immutable, meaning that its value cannot be changed. 2. Python range Syntax range(start, stop, step) 3. Python range() function The range() method in Python yields a series of values inside a specified range.It is most typically used with Python loops to repeat sequences over a sequence of numbers. Check out the Python Training in Pune. . Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send 4. Parameters of Range Python Because the range() function simply keeps the start, stop, and step values, it uses less memory than tuples or lists. The range() function requires three range parameters. range(stop_value) This defines the range() function, which returns a sequence of numbers and terminates at the specified stop_value. By default, it considers the starting value to be 0. range(start_value, stop_value) This definition of the range() function yields a sequence of numbers that begins at the supplied start value, increases by 1, and ends at the supplied stop_value. range(start_value, stop_value, step_value) This definition of the range() function yields a series of numbers from the supplied start value to the stop value; the step value is equal to the difference between the numbers. 5. Syntax of Python range() function Syntax: range(start, stop, step) Parameter : start: [optional] The sequence’s start value stop: the value that follows the sequence’s final value step: [optional] integer value that represents the variation between any two numbers in the series Return: Provides an object representing a series of numbers in return. 5. Why is the range function in Python used? When it comes to building mathematical sequences, Python’s range function is a very useful tool. It is sometimes used in loops, for example, to loop over these chains and do particular tasks. By selecting the start, stop, and step values, you can quickly generate a range of whole integers that satisfy your particular needs. The most common usage of Python’s range() function is to create circling lists. You can easily access the components of a succession by file while repeating them using the range() method with the len() function. Looping indexes are another application for the range function. By combining the range function with a loop, you may retrieve a sequence’s elements quickly. The range function could come in handy when you wish to make a series of requests with increasing numbers. By giving the step value, you can alter the augmentation or decrease between each number in the series. Explore further with our Python Web Development Course to deepen your knowledge and skills. 6. Python range (stop) Python’s range(stop) function provides a range of numbers from 0 to the specified stop value, but not higher. This proves that the range can recall any integer between zero and stop-1. The following is an illustration of the range(stop) capability capabilities: for I in range(5): print(i) Output: 0 1 2 3 4 In the example above, the range(5) function progresses entire numbers from 0 to 4. The ‘for’ loop then highlights this list by assigning the variable “I” to each entire number. After each iteration of the loop, the print command outputs the value of “I.” 7. Python range (start, stop) With the Python range(start, stop) approach, you may create a sequence of whole numbers starting from the given start value and ending with the predefined stop value. For any integer between start and stop-1, the range will remember it. This shows the (start to stop) range of function: for I in range(2, 8): print(i) Output: 2 3 4 5 6 7 The range (2, 8) function in this paradigm advances the integers from 2 to 7. The ‘for’ loop then starts iterating through this list, assigning each integer to the variable “I” at that point. Every iteration of the loop produces the value “I,” according to the print statement. 8. Python range (start, stop, step) You can use Python’s range(start, stop, step) method to produce a sequence of numbers that starts with the specified start value and ends with the predefined completion value. The border between steps determines the addition factor for each integer in the series. This is an example of how range(start, stop, step) feature works: for I in range(1, 10, 2): print(i) Output 1 3 5 7 9 In this instance, the range(1, 10, 2) function produces a series of values that start at 1 and go up by 2 until they are less than 10. As a result, the numbers are 1, 3, 5, 7, and 9. The for loop then uses the print command to output each integer one at a time on a separate line. Looking forward to becoming a Python Developer? Then get certified with Python Online Training Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes 9. Incrementing the Range Using A Positive Step One must have steps that are a positive number in order to increase. # incremented by 4 for i in range(0, 30, 4): print(i, end=” “) print() Output : 0 4 8 12 16 20 24 28 10. Python range() with Float Values The range() method in Python does not accept floating-point numbers. i.e., the user’s parameters cannot contain floating-point or non-integer numbers. A user can only enter whole numbers. # using a float number for i in range(3.3): print(i) Output : for i in range(3.3): TypeError: ‘ It is impossible to interpret a float object as an integer . Learn more at Full Stack Online Course Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send 11. Python range() with More Examples ● Concatenation two range() methods with the itertools chain() method You can use the itertools module’s chain() method to concatenate the results of two range() methods. Using its arguments, the chain() method prints each value in the iterable targets one after the other. from itertools import chain # Using chain method print(“Concatenating the result”) res = chain(range(5), range(10, 20, 2)) for i in res: print(i, end=” “) Output : Concatenating the result 0 1 2 3 4 10 12 14 16 18 ● Accessing range() using an index value The range() function returns a list of numbers as its object, which is accessible by its index value. Its target is compatible with both negative and positive indexing. ele = range(10)[0] print(“First element:”, ele) ele = range(10)[-1] print(“\\nLast element:”, ele) ele = range(10)[4] print(“\\nFifth element:”, ele) Output : First element: 0 Last element: 9 Fifth element: 4 ● Use the range() function with a List in Python Here, we show you how to make a list and print its elements using Python’s range() function. fruits = [“apple”, “banana”, “cherry”, “date”] for i in range(len(fruits)): print(fruits[i]) Output : apple banana cherry date Enroll in the Data Analyst course in Pune to master Data Analytics. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send 12. Important Reminders Regarding the range() Function in Python The flexible Python range() method may help you create a numerical sequence based on the start, stop, and step values you provide. You should take into consideration the following important range() function guidelines: A sequence of numbers is provided by the range() function, beginning at the beginning value and ending at the stop value. Naturally, the step value starts at 1. This illustrates that the grouping will increase by 1 with each repetition. You can use any number of floating-point numbers for the start, stop, and step values. The range() function returns an iterable item; you may transform it into a list or any other type of data using the list() function. To iterate through a list of numbers, loops often employ the range() method. Using the list value as information enclosed in square sections [] after the range() function, you can access particular elements inside a range. To master the skills from industry experts at 3RI Technologies . The Bottom Line In conclusion, organizing whole numbers is a strong suit for the Python range() function. Characterizing the beginning and end values allows for the quick creation of a progression of whole numbers within a specified range. Whether you actually want to generate a sequence of integers for various uses or simply want to repeat something over and over, the range() function is a vital tool to have in your toolbox of programming tools. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send Prev Previous Web Scraping Tutorial Using Selenium and Python – 2025 Guide Next Clean Code in Python – Good vs. Bad Practices Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Python-Range-Function-and-Its-Methods-1.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Python-Certified-Professional.jpg",
+        "alt": "Python Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Job-Oriented-IT-Courses.jpg",
+        "alt": "Job Oriented Courses",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Python&cd%5Bpage_title%5D=Understanding+range%28%29+in+Python+with+Practical+Examples&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=94893&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fpython-range-function-and-its-methods%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2024/05/30/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/clean-code-in-python-good-vs-bad-practices/",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/full-stack-python-web-developer-online-training/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/online-python-certification-course/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-range-function-and-its-methods/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/web-scraping-tutorial-using-selenium-python-in-2024/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/python-range-function-and-its-methods/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "What is range() in Python? Function, Methods & Real Use Cases",
+    "og_description": "Learn all about the range function in Python, including how to use for in range, in range Python loops, and variations of the range() method. Enroll in our Python Training in Pune to master Python from basics to advanced.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/python-range-function-and-its-methods/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/python-range-function-and-its-methods/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Understanding range() in Python with Practical Examples",
+            "datePublished": "2024-05-30T04:53:50+00:00",
+            "dateModified": "2025-05-20T05:02:30+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/python-range-function-and-its-methods/"
+            },
+            "wordCount": 1495,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/python-range-function-and-its-methods/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Python-Range-Function-and-Its-Methods-1.jpg",
+            "keywords": [
+              "Python Blog Design"
+            ],
+            "articleSection": [
+              "Python"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/python-range-function-and-its-methods/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/python-range-function-and-its-methods/",
+            "url": "https://www.3ritechnologies.com/python-range-function-and-its-methods/",
+            "name": "What is range() in Python? Function, Methods & Real Use Cases",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/python-range-function-and-its-methods/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/python-range-function-and-its-methods/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Python-Range-Function-and-Its-Methods-1.jpg",
+            "datePublished": "2024-05-30T04:53:50+00:00",
+            "dateModified": "2025-05-20T05:02:30+00:00",
+            "description": "Learn all about the range function in Python, including how to use for in range, in range Python loops, and variations of the range() method. Enroll in our Python Training in Pune to master Python from basics to advanced.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/python-range-function-and-its-methods/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/python-range-function-and-its-methods/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/python-range-function-and-its-methods/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Python-Range-Function-and-Its-Methods-1.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/Python-Range-Function-and-Its-Methods-1.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/python-range-function-and-its-methods/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Understanding range() in Python with Practical Examples"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

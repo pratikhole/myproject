@@ -1,0 +1,302 @@
+{
+  "url": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Top ITIL Interview Questions and Answers to Crack Your Next IT Job",
+    "meta_description": "Master your ITIL interview with this expert list of frequently asked ITIL interview questions and answers. Learn how Job Oriented Courses from 3RI Technologies can boost your chances.",
+    "h1": [
+      "Most Asked ITIL Interview Questions and Answers in 2025"
+    ],
+    "content": "Skip to content Home > Most Asked ITIL Interview Questions and Answers in 2025 Most Asked ITIL Interview Questions and Answers in 2025 Table of Contents PriyankaS3ri March 1, 2021 2:48 pm Preparing for an IT role that demands ITIL expertise? This guide covers essential ITIL interview questions and answers to help you confidently tackle your next interview. From foundational ITIL questions and answers to advanced interview questions on ITIL, we’ve curated content to match current hiring trends. To further improve your employability, consider enrolling in 3RI Technologies’ Job-Oriented Courses . These industry-focused programs equip you with real-world skills, preparing you for interviews and career advancement. Don’t just prepare—position yourself to succeed in today’s competitive tech job market. Crack ITIL Interviews with These Key Questions & Expert Answers ITIL stands for the Library of IT Infrastructure CCTA now the OGC has launched ITIL by the UK Government CCTA – Central Agency for Computers and Technology Government Trade Office – OGC Key contributors Inputs from different organizations to develop ITIL are taken from the private sector. International Non-profit Service Management Forum ITIL is a system for best practices in IT service delivery. ITIL’s systemic approach to managing IT services will help organizations mitigate risk, improve client partnerships, develop reasonable practices, and develop a secure IT ecosystem that facilitates growth, scale, and transformation. It equips a service provider with an exact capacity that aligns it with the strategy and client requirements. The framework for best practice of ITIL provides a common language and tools for enabling IT team collaboration to deliver value throughout a company. ITIL’s biggest asset is its polyvalence. Practices are versatile and customizable, meaning that organizations can take them as far as they choose. Like COBIT, Six Sigma and TOGAF can also be modified for use by ITIL along with other practices. One point that is important to note is that ITIL is not based on a particular business model. Instead, it is focused on IT practitioners’ common knowledge. It has been introduced in many sectors, primarily because nearly every industry worldwide is now based on IT in one way or another. ITIL Interview Questions And Answers Define ITIL? The highest quality IT services in a very efficient way are delivered with the help of the Information Technology Infrastructure Library(ITIL). It also helps with enterprise risk management, enhances relationships with customers, sets economic practices, and establishes a safe IT environment. It became apparent that data is the most fundamental commodity to be supervised by any association. The nature of IT services provided to the company is key to collecting, examining, generating, and appropriating data in an association. We must see IT services as relevant, important, and authoritative tools. Therefore, the association must devote sufficient amounts of assets to assisting, conveying, and maintaining these essential IT services and promoting IT structures. However, with individual partnerships, these aspects of IT are always ignored, or only publicly. Millions of practitioners worldwide use ITIL. ITIL is the base of companies. ITIL promotes IT and digital services that have maximum value for companies and individuals. It helps identify the service provider’s path using a consistent capacity model and adapts it to the market plan and consumer requirements. A professionally recognized certification scheme for enterprises using IT-enabled systems, ITIL offers detailed, realistic, and proven advice to implement a service management framework. 2. Explain ITSM? ITSM or IT Service Management is responsible for delivering IT services and serving internal customers with staff, procedures, and technical assistance. 3. Explain the ITIL Lifecycle? Various stages of the ITIL life cycle are as follows: ● Service Strategy ● Service Design ● Service Transition ● Service Operation ● Continuous Service Improvement Service Strategy provides the overall life cycle of the project with a plan/strategy. It ensures that the plan is in line with the organization’s priorities to ensure that consumers will gain value from customers. Service Design is the design of facilities, and new components that need to be integrated into the living environment are part of this level. The Service Transition is the next step. IT services are developed and deployed in this process. It also ensures that adjustments occur in a structured manner in the service and service management process. Service Operations concentrate on ensuring that users’ end-needs are met, ensuring that costs and future problems are handled. To learn from past mistakes and successes, continuous service enhancement requires quality control. With this, it is possible to enhance the quality and effectiveness of IT processes and services. 4. Can you explain the 4 Ps of ITIL? The 4 Ps of ITIL are as follows ● People ● Processes ● Products ● Partners People represent the people involved with the procedures and processes. The process is an emphasis on the company’s ability to execute processes. Products, along with their underlying technologies, concentrate on the service itself. Partners who collaborate with the IT company to ensure the correct operation of the service. 5. What is a service value system? The value system identifies the various components and activities that synergistically generate value. This involves knowledge that is applicable to service management, elements, outputs, and other components. These are guiding principles that can sustain an organization, irrespective of intention, mission, policy, job style, managerial or structure, in any scenario. Governance provides a framework that helps the company grow and manage its leadership. It aims at building value and ensuring that any investment made by the company meets business goals. Service Chain Value is a model used for service development, distribution, and quality improvement. It consists of six tasks which can all be combined in various ways to create many value streams. Practices are a set of organizational tools aimed at executing certain activities or achieving a goal. Continual improvement always focuses on improving service quality by reducing the prices of services, personnel, and other IT management activities. Continuous improvement. Opportunities/Demand: The possibility refers to the company’s choices to have value and maximize its stakeholders. Demand refers to the need/want of internal and external consumers for goods. 6. What are ITIL’s advantages? Efficient coordination of IT and the organization Establish a customer relationship and focus on customer satisfaction by offering services Cost-effective by using resources better Better risk control and interruption of operation Supports continuous and unexpected shift in market 7. What are Incident Management’s objectives? Incident management’s primary priorities are to ensure that all processes involved, such as efficient response, reporting, research, and ongoing management, are using accepted and controlled methodologies. When accidents arise, notify and solve in the IT services—focusing on apps and clients’ happiness. Effectively harmonize incident management operations. 8. Explain the Incident Management system? The incident is first recorded and then categorized based on its impact and emergency. The next is incident authorization, and then the recovery after the incident occurs. Control of events includes an unplanned occurrence that triggers a process interruption. Let us address an example for increased awareness, presuming that hardware has been removed in a company during operating hours, contributing to service disturbances. This is considered an incident, but in the event of a hardware malfunction that does not mean any operation interruption within operating hours, this does not mean an adventure. 9. What is the primary objective of ITIL® problem management? Problem management helps the following functions be performed to identify and mitigate repeat incidents, determine the root cause of these events, and prevent repeated events. 10. Can you identify the key steps in managing problems? ● Problem detection ● Categorizing and prioritizing the problem ● Root causes investigation ● Work to resolve the problem. ● Start a record of known errors. ● Problem Resolution ● Fix the issue ● Check the issue 11. What is SLA? A service level agreement refers to a service provider’s obligation to the end-user 12. Can you identify the various SLA forms? There are three types of service level contracts: The agreement on the quality of service between the client and the external customer exists. Internal service level arrangement between you and an internal client who could be a department or an entity. Sale Level of Service Agreement between you and the Vendor. 13. Describe a Known error? Known error refers to a problem that is defined with a recognized root cause and solution. The following is included are as follows Status, Error Description, Root Cause, and Workaround. 14. Enlist the Continuity Management IT Service goals? Continuity Management of IT Services aims: Assess the associated hazards Test circumstances of assistance Finalize the reverse arrangements 15. What is the Service Value system guiding principles? Our guiding principles are established to direct the company’s decisions and activities to ensure they can optimize ITIL. These concepts operate irrespective of the situation, goal, objective, policy, job type, management, or structure. The seven principles are as follows: Concentrating on value Begin where you are Implementing input iteratively Collaboration and visibility promotion Think and work in an integrated way Maintain it realistic and easy Customize and automate 16. Explain the purpose of the Service Value chain ‘Design and Transition.’ There are six activities in the service value chain that allow value development. The design and transformation aspect will improve the quality, cost, and other stakeholders’ requirements of products and services in the organizations. 17. Explain the role of ITIL service operation? We calculate the value of IT services at this level. You are also helping: To provide IT services for everyone involved in the process and support them at a satisfactory level. Identify events within the service catalog that must be completed. SkyRocket Your Career with 3RI Technologies 18. What IT Service Improvement steps are there? ITSM assists in the management and control of results and has four measures in conjunction with service operations. Progress: This layer covers the current service operations progress. Compliance: The current industrial processes and market standards are focused on this layer. Effectiveness: this layer ensures that the efficiency of the service is maintained. Efficiency: this layer focuses on the maintenance and maintenance of workflows. 19. What is the portfolio of services, service catalog, and service pipeline? All information relevant to the IT facilities of the firm can be found in the business portfolio. In its business design kit, the service catalog provides interfaces to active networks. The pipeline incorporates references to utilities that are not yet live. These plans may be suggested or produced. 20. Explain Service Request A service request is an IT service control request, a modification to the standard, information, or guidance. The service application typically contains items accepted under the business policies and does not require further approvals. 21. What types of service providers are there? Internal service providers: They form a business unit’s committed services and deal internally with the enterprise’s management. External Service Providers: These vendors supply external clients with services. They manage complex and specific market-based situations. Shared Services: Special units that act as internal service providers are autonomous. 22. Explain if the end-user varies from the customer. End-user: The end-user is a person who is getting the product directly or using it. Customer: a customer is a person who determines service conditions and can choose between goods or service providers or can not choose between them. 23. So, what is a standard change? Standard change refers to a modification made in the context of a service order. 24. So what is a warranty? Warranty provides the customer/stakeholder with the promise that the service provider meets its products/services’ agreed specifications. It reflects on “how the service works” and whether facilities are “fit for use.” It generally focuses on service access, protection, capability, and ongoing Job Assistance. 25. What are the Service Desk’s responsibilities? Ensure that in the case of disruption, it resumes regular activities. Determine acts to increase the understanding and use of IT programs, components, and tools by consumers about IT issues. Help other systems and roles in IT resources management with growing demands. 26. What’s an information technology asset? An IT asset is a financially valuable component that facilitates the supply of an IT product or service. 27. In ITIL, what are the outcomes? Outcomes are achieved during an operation, after an activity, service provision, and more. The expected and real effects are similar—qualitative as well as quantitative results. We calculate performance based on the opinions of those who use the service. 28. Explain what utility is? A tool refers to the functionality of a product/service to satisfy given business demand. A service provider depends on the type of service being performed and decides if it is suited.’ 29. Explain the difference between incidents, issues, and known errors. Incidents: This is a process part that was not expected to be part of the standard operation during the planning phase. Problem: This is still unknown because of conflicts or incidents. Known errors: A known blunder is a diagnosed problem, and a workaround or permanent solution has already been identified. 30. Explain the workaround? A workaround solution is a temporary solution that temporarily solves problems. The reason for the problem was not identified in this case. The workaround time frame is usually not defined and can vary from a few seconds to a few years. 31. What are some options for workaround or recovery? Options for recovery are broken down into three categories: Quick recovery: This recovery occurs within 24 hours (hot standby). Moderate recovery: the recovery process takes three days to complete (warm standby). Gradual recovery: the recovery takes place within 24 hours but within a matter of days and weeks. 32. Explain Management 7Rs of change? Change Management in ITIL allows organizations to implement changes without incident or other interference. The seven Rs are: ● Who raised the change? ● What’s the change REASON? ● What RETURN is going to bring about the change? ● If there isn’t a change, what RISKS are there? ● What are the necessary RESOURCES to make the change? ● Who’s this change RESPONSIBLE? ● What is the RELATIONSHIP between the two? 33. What’s the contrast between proactive problem management and reactive problem management? The key distinction between proactive and reactive problem management is that proactive problem management avoids accidents by detecting possible IT infrastructure issues and errors. In contrast, reactive problem management detects and removes the root cause of incidents. 34. Distinguish between a problem and an event? An event that leads to disruptions and perturbations in an IT service and the underlying cause of these incidents is a problem. 35. Objective of ITIL® Change Management? Main objective of Change Management is to effectively and agilely manage change requests to minimize risk and interruption by establishing standardized procedures. 36. What’s the post-implementation review? The Post Implementation Review (PIR) refers to assessing and analyzing the entire work and solution process. It is usually done after the request for change has been implemented to determine whether the change has been successful and implemented. 37. Explain the main goal and mention its subprocesses of Capacity Management. Capacity Management’s main objective is to ensure that the IT services are measured correctly to achieve cost-effective service level objectives. It includes three sub-processes that are Business Capacity Management, Service Capacity Management, and Component Capacity Management. 38. Describe the operational level agreement (OLA). The Operational Level Agreement (OLA) is a contract that underlines how various IT groups in an undertaking design their SLAs services. 39. What is the CAB? The Change Advisory Board refers to a group of authoritative individuals who assist with authorization, assessment, priority setting, and scheduling the requested amendments in carrying out the change management process. 40. What is an ITIL® freeze period? ITIL freeze period refers to a specific period for the process of development after which the rules required for changes to the source code comply with strictness and severity. 41. By service transition, what do you understand? Transition to service is the third step of the lifecycle of the ITIL service. IT services for different organizations are designed and implemented at this stage. This stage also ensures that changes are coordinated in service and service management processes. The processes are as follows: ● Change Management ● Change Evaluation ● Project Management ● Application Development ● Release and Deployment Management ● Service Validation and Testing ● Service Asset and Configuration Management ● Knowledge Management 42. What do you mean by CSI CSI stands for Continuous Enhancement of Operation in ITIL. It is the last step in the life cycle of the ITIL operation. In this process, the service is reviewed for all areas of change and modernization in the IT service provider. Looking for Job-Oriented Courses? Check out Job Oriented Courses 43. Explain Financial Management? In IT Services, Financial Management is one of the essential service planning mechanisms. The following criteria are primarily addressed: Budgeting: it offers adequate funds to manage company expenses and to forecast sales Accounting: it offers cost accounting information through cost estimation and reporting Charging: It offers funds by charging the consumer 44. Why is ITIL essential? Reasons here for ITIL are necessary: ● Enhance the success of project implementation. ● Continuous business and IT change management. ● Provide consumers with optimum value. ● Improve skills and services. ● Offer accessible and reliable facilities. ● Plan systems that consider clear priorities. ● Defines the functions explicitly for any mission. ● Provide value by services for customers ● Company and service plans combine. ● Enhance client connections. ● Acceptable practices and service administration. ● Better services administration and incorporation. ● IT works company services. 45. What are ITIL’s main characteristics? ITIL’s main characteristics are: ● One language/finishing. ● The method and activities involved (roles). ● Concentrate on IT. It’s not only suitable for IT, though. ● ITIL is a way of ensuring consistent consistency. ● Current practices and how they should be optimized 46. Enlist the various knowledge management system The following are the different systems of knowledge management: ● Definitive Media Library (DML) ● Configuration Management Database (CMDB) ● Capacity Management Information System (CMIS) ● Availability Management Information System (AMIS) ● Known Error Database (KEDB) ● Service Knowledge Management System (SKMS) 47. Explain the RACI model? The meaning of RACI is: Responsible: Duties delegated to a person to carry out a specific mission. Accountable: The individual is responsible for the particular mission. Consulted: organizations or individuals approached for the mission. I was informed: people aware of the ongoing mission process. 48. Describes baseline configuration The ITIL baseline is a baseline for setup. It is handled by the method of change management. 49. Why is the service transition employed? Service Transition is used to: Ensure the administration, maintenance, and support of a specific service. Provide consistent reports on updates, launches, and implementation. Plan and execute a release to achieve the tools and capabilities, and specifications. 50. Describe five attributes of IT compliance protection intelligence assets? In IT security control, five characteristics of intelligence properties are: Confidentiality: It assures that only a single individual has access to the asset. Integrity: Guarantees an unauthorized entity does not alter property Disposal: guarantees most of the asset if necessary Authenticity: guarantees the party’s authenticity. Non-repudiation: means that contracts are not reversed without consent until they have concluded. Prev Previous Top 50 Java Interview Questions and Answers You Must Prepare Next Java vs PHP: Which Programming Language Should You Learn? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/03/ITIL-Interview-Questions-and-Answers..png",
+        "alt": "ITIL Interview Questions and Answers.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Job-Oriented-IT-Courses.jpg",
+        "alt": "Job Oriented Courses",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Interview+Questions+And+Answers%2C+ITIL+%28IT+Infrastructure+Library%29&cd%5Bpage_title%5D=Most+Asked+ITIL+Interview+Questions+and+Answers+in+2025&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=43207&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fitil-interview-questions-and-answers%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2021/03/01/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/itil-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/java-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/java-vs-php/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Top ITIL Interview Questions and Answers to Crack Your Next IT Job",
+    "og_description": "Master your ITIL interview with this expert list of frequently asked ITIL interview questions and answers. Learn how Job Oriented Courses from 3RI Technologies can boost your chances.",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Most Asked ITIL Interview Questions and Answers in 2025",
+            "datePublished": "2021-03-01T09:18:35+00:00",
+            "dateModified": "2025-05-19T03:39:45+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/"
+            },
+            "wordCount": 3127,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/03/ITIL-Interview-Questions-and-Answers..png",
+            "keywords": [
+              "ITIL Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Interview Questions And Answers",
+              "ITIL (IT Infrastructure Library)"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/itil-interview-questions-and-answers/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/",
+            "url": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/",
+            "name": "Top ITIL Interview Questions and Answers to Crack Your Next IT Job",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/03/ITIL-Interview-Questions-and-Answers..png",
+            "datePublished": "2021-03-01T09:18:35+00:00",
+            "dateModified": "2025-05-19T03:39:45+00:00",
+            "description": "Master your ITIL interview with this expert list of frequently asked ITIL interview questions and answers. Learn how Job Oriented Courses from 3RI Technologies can boost your chances.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/itil-interview-questions-and-answers/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2021/03/ITIL-Interview-Questions-and-Answers..png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/03/ITIL-Interview-Questions-and-Answers..png",
+            "width": 1000,
+            "height": 667,
+            "caption": "ITIL Interview Questions and Answers."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/itil-interview-questions-and-answers/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Most Asked ITIL Interview Questions and Answers in 2025"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}

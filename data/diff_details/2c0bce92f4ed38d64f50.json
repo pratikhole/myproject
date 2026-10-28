@@ -1,0 +1,333 @@
+{
+  "url": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/",
+  "type": "new",
+  "changed_fields": [
+    "title",
+    "meta_description",
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "canonical",
+    "robots",
+    "og_title",
+    "og_description",
+    "schema",
+    "status_code"
+  ],
+  "old": {},
+  "new": {
+    "title": "Scaling DevOps: Mastering People, Processes & Platforms | 3ritechnologies",
+    "meta_description": "Learn effective strategies for scaling DevOps across your organization. Understand how to achieve DevOps at scale by focusing on people, processes, and platforms. Master DevOps scaling with 3ritechnologies",
+    "h1": [
+      "Scaling DevOps Successfully: Integrating People, Processes, and Platforms",
+      "The 3 Ps of Scaling DevOps"
+    ],
+    "content": "Skip to content Home > Scaling DevOps Successfully: Integrating People, Processes, and Platforms Scaling DevOps Successfully: Integrating People, Processes, and Platforms Scaling DevOps requires a strategic focus on three core pillars: people, processes, and platforms. Empower your teams with the right skills, streamline workflows for efficiency, and leverage robust platforms to support growth. These elements, when harmonized, drive successful DevOps scalability and innovation. Discover strategies to scale your DevOps. Table of Contents PriyankaS3ri July 9, 2024 3:58 pm Everyone agrees that growth is beneficial for businesses. Put in longer hours, earn more money, and reach a wider audience with your goods and services. However, you must ensure your IT systems and procedures are up to date. Scaling DevOps is one of the most crucial things to consider in order to maintain growth in changing organizations. Many organizations embrace DevOps principles for individual teams, but true transformation comes from scaling DevOps across the entire enterprise. Achieving DevOps at scale requires a holistic approach that addresses not just technology, but also the crucial elements of people and processes. This journey of DevOps scaling involves fostering a collaborative culture, standardizing workflows, and strategically implementing platforms that support widespread adoption and efficiency. For those in Pune looking to gain a deep understanding of these principles and lead successful DevOps transformations, our comprehensive DevOps course in Pune offers expert guidance and practical skills. This article will delve into the key considerations for effectively scaling your DevOps initiatives. In this article, We’ll review some of the most critical standards, scenarios, and factors to consider when scaling the DevOps platform inside your company. The Human Element: Cultivating a Culture for DevOps at Scale Within the framework of DevOps, the term “scaling” refers to extending and contracting your operational procedures and systems by the requirements you have stipulated. Scaling in DevOps requires both the utilization of automation technology and the maintenance of a forward-thinking DevOps mindset. DevOps Scaling: Instances and Elements to Take into Account Since different teams approach DevOps differently, the factors most important for scaling may also vary. However, a few indicators indicate a successful DevOps scaling project. When scaling up or down, you should take the following aspects of your DevOps practices into account: A more efficient deployment procedure. Your process will become your framework for driving scalability once you’ve streamlined it. Tests that are automated. Writing automated unit/integration tests is a task that most operations personnel dislike. Some firms have too much bureaucracy to conduct development environment tests. The ideal situation is to test, integrate, and deploy without worrying about stomping on other developers’ toes. A streamlined CI/CD process that does not require waiting for manual approvals. Adoption in culture: For teams, change can be difficult. It is imperative to disseminate DevOps ideas and exchange expertise to scale a DevOps endeavour over a larger team with a greater variety of stakeholders. Interested to begin a career in DevOps? Enroll now for DevOps Training in Pune . The 3 Ps of Scaling DevOps Three key aspects are necessary for a practical DevOps scale: people, procedures, and platforms. Let’s examine the roles that they each play. People Aligning the participants is the first step towards scaling DevOps. This entails encouraging cooperation, candid communication, and an openness to embracing novel approaches. It can be hard to get support and shift people’s perspectives, particularly in societies where people are risk cautious. 21% of businesses with mid-level DevOps maturity report facing cultural opposition, while 54% of less mature businesses perceive little progress. On the other hand, 92% of really advanced DevOps companies receive excellent help. It’s critical to establish a culture of support where everyone recognizes and embraces the advantages of the DevOps process . Complex configurations with disparate objectives among several groups may impede advancement. Scaling DevOps initiatives requires strong leadership, a clear vision, and cross-functional teamwork to coordinate efforts and accomplish shared goals. Processes Scaling DevOps requires fine-tuning the delivery process. The key elements are smooth operations and efficiency. Several elements go into this refinement: Automation: Teams can concentrate on improving their products by automating repetitive operations like testing and deployment, which also speeds up procedures and minimizes manual labour. Explicit, thorough documentation guarantees that all parties follow the same procedures, which lowers the likelihood of misunderstandings, errors, and support requests. Faster Decision-Making: Development is accelerated by streamlining approval procedures so fewer persons are required to approve changes. Alerts and Monitoring : In order to minimize user impact and increase system reliability, real-time incident management and system monitoring allow for prompt issue detection and resolution. Measurement and Feedback: Monitoring recovery speed, change lead time, and deployment frequency regularly identifies areas for development and monitors advancement in these areas. Good Governance: Creating rules for software development, testing, and distribution preserves quality without impeding progress and offers the required audit trail. Vulnerabilities are addressed early thanks to DevSecOps, the technique of integrating security into DevOps. Information Sharing: Open and honest communication enables groups to grow continuously by learning from both achievements and setbacks. These procedures improve workflow effectiveness, lessen manual labour, and guarantee safe, secure software delivery. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Platforms and Tools Evolving your infrastructure to enable expansion as your organization grows is critical. To save expenses, maximize resource utilization, and effectively handle demand fluctuations, this frequently necessitates investing in cutting-edge DevOps tools and platforms, such as cloud-based solutions and container technologies. Necessary instruments consist of: Platforms for Continuous Integration and Delivery (CI/CD): Automate deployment and testing to release software faster and reliably. Version Control Systems: Coordinate developer cooperation and code modifications. Software for Monitoring and Alerting: Offers instantaneous insights and timely problem identification. Automate software deployment and server setup with configuration management tools. You can avoid mistakes, speed up deployment, and reduce delays by streamlining your toolkit and ensuring everything integrates appropriately. However, utilizing the newest technology isn’t the only aspect of implementing new tools. Numerous sectors, like healthcare and banking, rely on expensive antiquated systems to modernize and maintain. It is imperative to integrate contemporary DevOps methodologies with legacy systems. For instance, a bank may rely on an older database for core transactions and employ microservices to handle new functionalities. This method bridges the gap between outdated and modern technologies while modernizing services without requiring a total IT overhaul. The Difficulties of Growing DevOps Naturally, scaling a project as intricate, unclear, and comprehensive as a DevOps program is difficult. The following are some growing pains associated with a DevOps scaling strategy: Increasing test coverage: Bugs can be found before they are released into production using a combination of unit and integration tests. In declarative code, the operations team will require test coverage of greater than 90%. As your code expands, maintaining that test coverage will get more complex. Eliminating manual tasks: As everything expands and grows, it’s likely that manual tasks—such as email correspondence and Excel sheets used for infrastructure requests—will also inevitably increase. Examples include manual approvals for several pipeline stages, change management, and code freeze stages. Keeping people informed: If you don’t have a champion who can explain the advantages and requirements to the teams impacted by the DevOps scaling, you will probably encounter resistance from internal users and management. Reducing Deployment Issues: Expanding DevOps brings issues like rollbacks, conflicts, and testing. Multiple teams, simultaneous pushes, and various goals require optimizing current processes. It is essential to make sure that there is adequate access, thorough monitoring, and dispute resolution. Smooth CI/CD workflow scaling requires early detection and resolution of bottlenecks. How Can You Tell If You Need to Scale Your DevOps? Here are several indicators that it’s time to expand your DevOps best practices: If you’re having trouble making adjustments without interfering with other systems. When the mistake rates in the production code rise, If more work is keeping you from releasing on time. When many manual steps in your continuous integration processes and pipelines are causing release delays. When the cognitive burden causes your teams to lag, you should start expanding your DevOps effort if your team has to work harder just to maintain platforms and technologies. When everything is moving nicely for your DevOps, scaling up and implementing DevOps in other engineering teams is frequently an excellent idea once you’ve demonstrated its effectiveness in your department or area. DevOps Scaling: Initial Steps Analyze your current situation. Think about the signals above. How would greater scale assist each team or department? Determine your pain points. Consider what would happen if you increased your workload without addressing issues with cognitive strain, sluggish releases, and error rates. Set up a priority list. Consider the most important things to your company, such as quality assurance, new features, regular deployments, and delivery speed. In what ways may increasing your DevOps help you accomplish each of those goals? Decide on success metrics. Are you in favour of pull requests going into production at a specific time? Will there be a weekly cap on the amount of code deployments? Make changes one at a time. Eat only as much as you can chew or slightly less. You’ll be able to find out what’s genuinely preventing your internal users from moving forward by getting their input. As your DevOps grows, you can utilize that data to prioritize enhancements. Select DevOps tools that are scalable to your organization. Selecting Tools for DevOps Scalability When it comes to scaling, your choice of DevOps tools is just as crucial as your mentality. Consider this: Before you ever run into an issue, would you prefer to use a tool that can manage everything or search for solutions while you’re handling the problem? Naturally, you cannot look into the future, but when it comes time to expand your DevOps project, the correct technologies can make your job much easier. To help you scale, a DevOps solution should include the following features: Availability and parallelism: The last thing you want is to wait twenty hours for the CI pipeline to complete—integrated teamwork in DevOps. Authority: Even at high volumes, a scalable DevOps solution needs to enable you to monitor the effects of your activities within the tool. Adaptability: Integrating scalable DevOps solutions with other tools in your toolchain is essential. Want to Upskill to get ahead in your career? Check out the DevOps Online Training Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Using Automation to Expand DevOps Automating tasks is essential to DevOps. Automation does more than only make work faster by automatically doing monotonous activities. Automation in DevOps is valuable commercially since it frees up your team to concentrate on critical tasks, such as developing innovative software and infrastructure. Here’s how automation reduces the effort required to scale DevOps: Automated unit and integration tests are the first step. Next, automate CI/CD pipeline tasks to minimize labor. Turn in reports automatically. Automate communications with change management, especially for larger organizations. Scaling DevOps: Questions to Ask The following questions should be on your mind when you think about extending DevOps throughout your company: 1. What level of DevOps maturity does our organization have? Are you just starting, or do you already have established procedures and resources? It is helpful to know where your company is in its DevOps journey to determine the necessary steps for an efficient scale. 2. What areas need improvement, and where are the bottlenecks? Seek out recurring problems that slow down or interfere with your workflow. Finding these might help identify areas that want development. 3. Is the composition of our DevOps team ideal? Think about whether the way your team is currently organized supports DevOps methods. It may be necessary to rearrange teams to promote improved cooperation among developers, operations personnel, and other positions. Here, Skelton and Pais delve more into various DevOps team structures. 4. What tools are in our stack, and what might we replace or add? Analyze the development, testing, deployment, and monitoring of your DevOps tools. Check to see if they satisfy your demands or if you need to phase out unnecessary tools and add new ones. 5. What’s our time frame, and how much money do we need to spend on organization-wide DevOps scaling? Consider the resources required for possible reorganization initiatives, tool procurement, and DevOps training. Plan by establishing a reasonable timeframe for DevOps scaling and being aware of the financial and human resources needed. Your present situation and the actions required to scale DevOps inside your firm can be better understood once you answer these questions. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Training’s Function in Scaling DevOps A team aware of and proficient in the most recent DevOps Tools and techniques will work more effectively and with fewer errors, producing better results and accelerating software delivery. Small groups of highly competent specialists may quickly become overburdened, but a more extensive, less experienced team may make more mistakes, incur more expenses and delay development. An appropriately sized, highly competent crew with automation handling monotonous work is the optimal setup. It might be challenging to present a strong business case for team training, but it is essential to the long-term success of your DevOps projects. Making your case by emphasizing the training’s return on investment can help. In addition to increasing productivity and the calibre of output, training is essential for maintaining employee retention. Additionally, giving staff members a chance to advance their careers fosters a sense of worth and aids in retaining top talent—both of which are critical for maintaining your DevOps initiatives. Establishing defined career paths and mentorship programs inside your organization might help to encourage this progress. Less seasoned team members can learn from more seasoned ones through mentoring programs, which will expedite their development and make them more productive in their positions. To help DevOps professionals enhance their skills, 3RI Technologies provides a variety of courses that cover everything from fundamental ideas to sophisticated methods. KEY TAKEAWAYS Combining cultural concepts, practices, and tools, the DevOps technique improves an organization’s capacity to quickly provide excellent applications and services. Elements of the DevOps methodology fall into three categories: people, processes, and technology. DevOps approach can only be efficient when the entire team works toward the same process and objective. Using a DevOps approach also improves workplace productivity, which expedites release schedules. Prev Previous Salesforce releases new generative AI tools at NRF 2024 Next Shaping Tomorrow: The Top Trends Defining the Future of Predictive Analytics Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/DevOps-and-Segregation-of-Duties-16-1.png",
+        "alt": "3 Ps of Scaling DevOps",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-10-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/DevOps-Certified-Professional.jpg",
+        "alt": "DevOps Online Training",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-4-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+DevOps&cd%5Bpage_title%5D=Scaling+DevOps+Successfully%3A+Integrating+People%2C+Processes%2C+and+Platforms&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=96298&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fscale-devops-people-processes-and-platforms%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2024/07/09/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/priyankas3ri/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/list-of-devops-tools/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/salesforce-releases-new-generative-ai-tools-at-nrf-2024/",
+      "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/trends-shaping-the-future-of-predictive-analytics/"
+    ],
+    "canonical": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og_title": "Scaling DevOps: Mastering People, Processes & Platforms | 3ritechnologies",
+    "og_description": "Learn effective strategies for scaling DevOps across your organization. Understand how to achieve DevOps at scale by focusing on people, processes, and platforms. Master DevOps scaling with 3ritechnologies",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/"
+            },
+            "author": {
+              "name": "PriyankaS3ri",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
+            },
+            "headline": "Scaling DevOps Successfully: Integrating People, Processes, and Platforms",
+            "datePublished": "2024-07-09T10:28:40+00:00",
+            "dateModified": "2025-06-05T05:34:14+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/"
+            },
+            "wordCount": 2301,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/DevOps-and-Segregation-of-Duties-16-1.png",
+            "keywords": [
+              "DevOps Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "DevOps"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/",
+            "url": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/",
+            "name": "Scaling DevOps: Mastering People, Processes & Platforms | 3ritechnologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/DevOps-and-Segregation-of-Duties-16-1.png",
+            "datePublished": "2024-07-09T10:28:40+00:00",
+            "dateModified": "2025-06-05T05:34:14+00:00",
+            "description": "Learn effective strategies for scaling DevOps across your organization. Understand how to achieve DevOps at scale by focusing on people, processes, and platforms. Master DevOps scaling with 3ritechnologies",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/DevOps-and-Segregation-of-Duties-16-1.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/DevOps-and-Segregation-of-Duties-16-1.png",
+            "width": 1000,
+            "height": 667,
+            "caption": "3 Ps of Scaling DevOps"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/scale-devops-people-processes-and-platforms/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Scaling DevOps Successfully: Integrating People, Processes, and Platforms"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
+            "name": "PriyankaS3ri",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
+              "caption": "PriyankaS3ri"
+            },
+            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
+          }
+        ]
+      }
+    ],
+    "status_code": 200
+  },
+  "priority": "MEDIUM"
+}
