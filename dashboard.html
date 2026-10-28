@@ -1,0 +1,843 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Website</title>
+
+    <style>
+        :root {
+            --bg: #f4f6fa;
+            --card: #ffffff;
+            --text: #172033;
+            --muted: #687386;
+            --border: #e3e8f0;
+            --primary: #3157d5;
+            --green: #16845b;
+            --red: #c43b45;
+            --orange: #b96a12;
+            --shadow: 0 4px 18px rgba(20, 35, 70, 0.05);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+        }
+
+        .container {
+            max-width: 1500px;
+            margin: auto;
+            padding: 28px;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 25px;
+        }
+
+        h1 {
+            margin: 0 0 8px;
+            font-size: 27px;
+        }
+
+        .subtitle {
+            color: var(--muted);
+            font-size: 14px;
+        }
+
+        .site-link {
+            color: var(--primary);
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 16px;
+            margin-bottom: 25px;
+        }
+
+        .card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 13px;
+            padding: 21px;
+            box-shadow: var(--shadow);
+        }
+
+        .card-label {
+            font-size: 13px;
+            color: var(--muted);
+            margin-bottom: 12px;
+        }
+
+        .card-value {
+            font-size: 30px;
+            font-weight: 700;
+        }
+
+        .card-note {
+            margin-top: 8px;
+            font-size: 12px;
+            color: var(--muted);
+        }
+
+        .section {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 13px;
+            box-shadow: var(--shadow);
+            margin-bottom: 25px;
+            overflow: hidden;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 15px;
+            padding: 20px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        h2 {
+            margin: 0;
+            font-size: 18px;
+        }
+
+        .controls {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        input,
+        select {
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 10px 12px;
+            background: white;
+            color: var(--text);
+            font-size: 13px;
+            outline: none;
+        }
+
+        input:focus,
+        select:focus {
+            border-color: var(--primary);
+        }
+
+        input {
+            min-width: 230px;
+        }
+
+        .table-wrap {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 900px;
+        }
+
+        th,
+        td {
+            text-align: left;
+            padding: 14px 16px;
+            border-bottom: 1px solid var(--border);
+            font-size: 13px;
+            vertical-align: top;
+        }
+
+        th {
+            background: #f9fafc;
+            color: var(--muted);
+            font-weight: 600;
+            white-space: nowrap;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        .url-cell {
+            max-width: 340px;
+            overflow-wrap: anywhere;
+        }
+
+        .url-cell a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        .url-cell a:hover {
+            text-decoration: underline;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 5px 9px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 700;
+            white-space: nowrap;
+        }
+
+        .badge-new {
+            color: var(--green);
+            background: #e8f7ef;
+        }
+
+        .badge-changed {
+            color: var(--orange);
+            background: #fff4e5;
+        }
+
+        .badge-removed {
+            color: var(--red);
+            background: #fdecee;
+        }
+
+        .badge-unchanged {
+            color: #536176;
+            background: #edf0f5;
+        }
+
+        .badge-failed {
+            color: var(--red);
+            background: #fdecee;
+        }
+
+        .empty {
+            padding: 35px;
+            text-align: center;
+            color: var(--muted);
+            font-size: 14px;
+        }
+
+        .pagination {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
+            padding: 16px 20px;
+            border-top: 1px solid var(--border);
+            color: var(--muted);
+            font-size: 13px;
+        }
+
+        .pagination button {
+            border: 1px solid var(--border);
+            background: white;
+            padding: 8px 12px;
+            border-radius: 7px;
+            cursor: pointer;
+        }
+
+        .pagination button:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .history-list {
+            padding: 20px;
+        }
+
+        .history-item {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+            padding: 13px 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 13px;
+        }
+
+        .history-item:last-child {
+            border-bottom: none;
+        }
+
+        .history-date {
+            color: var(--muted);
+        }
+
+        .error-message {
+            display: none;
+            padding: 15px;
+            margin-bottom: 20px;
+            background: #fff0f0;
+            color: #9c2424;
+            border: 1px solid #f3cccc;
+            border-radius: 9px;
+            font-size: 13px;
+        }
+
+        footer {
+            text-align: center;
+            color: var(--muted);
+            font-size: 12px;
+            padding: 15px 0;
+        }
+
+        @media (max-width: 900px) {
+            .cards {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+
+            .container {
+                padding: 18px;
+            }
+        }
+
+        @media (max-width: 550px) {
+            .cards {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 22px;
+            }
+
+            input {
+                min-width: 100%;
+            }
+
+            .controls {
+                width: 100%;
+            }
+
+            select {
+                flex: 1;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+
+    <header>
+        <div>
+            <h1> Website</h1>
+            <div class="subtitle">
+                Website
+            </div>
+        </div>
+
+        <a class="site-link"
+           href="https://www.3ritechnologies.com/"
+           target="_blank"
+           rel="noopener">
+            Visit Website ↗
+        </a>
+    </header>
+
+    <div id="errorMessage" class="error-message"></div>
+
+    <section class="cards">
+        <div class="card">
+            <div class="card-label">Total URLs</div>
+            <div class="card-value" id="totalUrls">—</div>
+            <div class="card-note">URLs discovered in sitemap</div>
+        </div>
+
+        <div class="card">
+            <div class="card-label">Successful Pages</div>
+            <div class="card-value" id="successfulPages">—</div>
+            <div class="card-note">Pages fetched successfully</div>
+        </div>
+
+        <div class="card">
+            <div class="card-label">Failed Pages</div>
+            <div class="card-value" id="failedPages">—</div>
+            <div class="card-note">Pages with request errors</div>
+        </div>
+
+        <div class="card">
+            <div class="card-label">Latest Changes</div>
+            <div class="card-value" id="totalChanges">—</div>
+            <div class="card-note">Changes versus previous run</div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="section-header">
+            <h2>Website Pages</h2>
+
+            <div class="controls">
+                <input
+                    type="search"
+                    id="searchInput"
+                    placeholder="Search URL, title or description..."
+                >
+
+                <select id="filterSelect">
+                    <option value="all">All Pages</option>
+                    <option value="new">New Pages</option>
+                    <option value="changed">Changed Pages</option>
+                    <option value="removed">Removed Pages</option>
+                    <option value="unchanged">Unchanged Pages</option>
+                    <option value="failed">Failed Pages</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="table-wrap">
+            <table>
+                <thead>
+                    <tr>
+                        <th>URL</th>
+                        <th>Title</th>
+                        <th>Meta Description</th>
+                        <th>H1</th>
+                        <th>Status</th>
+                        <th>Change</th>
+                    </tr>
+                </thead>
+
+                <tbody id="pagesTable">
+                    <tr>
+                        <td colspan="6" class="empty">
+                            Loading website data...
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="pagination">
+            <span id="pageInfo">Loading...</span>
+
+            <div>
+                <button id="prevButton" disabled>Previous</button>
+                <button id="nextButton" disabled>Next</button>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="section-header">
+            <h2>Monitoring History</h2>
+            <span class="subtitle" id="lastChecked">Last checked: —</span>
+        </div>
+
+        <div class="history-list" id="historyList">
+            <div class="empty">Loading monitoring history...</div>
+        </div>
+    </section>
+
+    <footer>
+         Website
+    </footer>
+
+</div>
+
+<script>
+    const SNAPSHOT_URL = "data/snapshot.json";
+    const HISTORY_URL = "data/history.json";
+    const DIFFS_URL = "data/latest_diffs.json";
+
+    const PAGE_SIZE = 25;
+
+    let snapshot = {};
+    let history = [];
+    let latestDiffs = {};
+
+    let allRows = [];
+    let filteredRows = [];
+    let currentPage = 1;
+
+    const pagesTable = document.getElementById("pagesTable");
+    const searchInput = document.getElementById("searchInput");
+    const filterSelect = document.getElementById("filterSelect");
+
+    function safeText(value) {
+        if (value === null || value === undefined) {
+            return "";
+        }
+
+        if (Array.isArray(value)) {
+            return value.join(", ");
+        }
+
+        return String(value);
+    }
+
+    function escapeHtml(value) {
+        return safeText(value)
+            .replaceAll("&", "&amp;")
+            .replaceAll("<", "&lt;")
+            .replaceAll(">", "&gt;")
+            .replaceAll('"', "&quot;")
+            .replaceAll("'", "&#039;");
+    }
+
+    function formatNumber(value) {
+        return Number(value || 0).toLocaleString();
+    }
+
+    function formatDate(value) {
+        if (!value) {
+            return "—";
+        }
+
+        const date = new Date(value);
+
+        if (Number.isNaN(date.getTime())) {
+            return value;
+        }
+
+        return date.toLocaleString();
+    }
+
+    function showError(message) {
+        const element = document.getElementById("errorMessage");
+
+        element.style.display = "block";
+        element.textContent = message;
+    }
+
+    async function fetchJson(path) {
+        const response = await fetch(path, {
+            cache: "no-store"
+        });
+
+        if (!response.ok) {
+            throw new Error(
+                "Unable to load " + path +
+                " (HTTP " + response.status + ")"
+            );
+        }
+
+        return await response.json();
+    }
+
+    function buildChangeMap() {
+        const map = {};
+
+        const changes = latestDiffs.changes || [];
+
+        changes.forEach(change => {
+            map[change.url] = change;
+        });
+
+        return map;
+    }
+
+    function buildRows() {
+        const pages = snapshot.pages || {};
+        const changeMap = buildChangeMap();
+
+        allRows = Object.entries(pages).map(([url, page]) => {
+            const change = changeMap[url];
+
+            let changeType = "unchanged";
+
+            if (change) {
+                changeType = change.type || "changed";
+            }
+
+            if (!page.success) {
+                changeType = "failed";
+            }
+
+            return {
+                url,
+                page,
+                changeType,
+                changedFields: change
+                    ? (change.changed_fields || [])
+                    : []
+            };
+        });
+
+        // Include removed pages, which may not exist in the
+        // latest snapshot anymore.
+        Object.entries(changeMap).forEach(([url, change]) => {
+            if (
+                change.type === "removed" &&
+                !pages[url]
+            ) {
+                allRows.push({
+                    url,
+                    page: {},
+                    changeType: "removed",
+                    changedFields: change.changed_fields || []
+                });
+            }
+        });
+
+        applyFilters();
+    }
+
+    function applyFilters() {
+        const searchTerm = searchInput.value
+            .trim()
+            .toLowerCase();
+
+        const selectedFilter = filterSelect.value;
+
+        filteredRows = allRows.filter(row => {
+            const page = row.page || {};
+
+            const searchableText = [
+                row.url,
+                page.title,
+                page.meta_description,
+                page.h1
+            ].map(safeText).join(" ").toLowerCase();
+
+            const matchesSearch =
+                !searchTerm ||
+                searchableText.includes(searchTerm);
+
+            const matchesFilter =
+                selectedFilter === "all" ||
+                row.changeType === selectedFilter;
+
+            return matchesSearch && matchesFilter;
+        });
+
+        currentPage = 1;
+
+        renderTable();
+    }
+
+    function getBadge(type) {
+        const labels = {
+            new: "New",
+            changed: "Changed",
+            removed: "Removed",
+            unchanged: "Unchanged",
+            failed: "Failed"
+        };
+
+        const label = labels[type] || "Unknown";
+
+        return `
+            <span class="badge badge-${escapeHtml(type)}">
+                ${escapeHtml(label)}
+            </span>
+        `;
+    }
+
+    function renderTable() {
+        const total = filteredRows.length;
+
+        const totalPages = Math.max(
+            1,
+            Math.ceil(total / PAGE_SIZE)
+        );
+
+        if (currentPage > totalPages) {
+            currentPage = totalPages;
+        }
+
+        const startIndex = (currentPage - 1) * PAGE_SIZE;
+
+        const pageRows = filteredRows.slice(
+            startIndex,
+            startIndex + PAGE_SIZE
+        );
+
+        if (pageRows.length === 0) {
+            pagesTable.innerHTML = `
+                <tr>
+                    <td colspan="6" class="empty">
+                        No matching pages found.
+                    </td>
+                </tr>
+            `;
+        } else {
+            pagesTable.innerHTML = pageRows.map(row => {
+                const page = row.page || {};
+
+                const title = page.title || "—";
+                const description = page.meta_description || "—";
+
+                const h1 = Array.isArray(page.h1)
+                    ? page.h1.join(", ")
+                    : safeText(page.h1 || "—");
+
+                const status = page.status_code || "—";
+
+                return `
+                    <tr>
+                        <td class="url-cell">
+                            <a
+                                href="${escapeHtml(row.url)}"
+                                target="_blank"
+                                rel="noopener"
+                            >
+                                ${escapeHtml(row.url)}
+                            </a>
+                        </td>
+
+                        <td>${escapeHtml(title)}</td>
+
+                        <td>${escapeHtml(description)}</td>
+
+                        <td>${escapeHtml(h1)}</td>
+
+                        <td>${escapeHtml(status)}</td>
+
+                        <td>
+                            ${getBadge(row.changeType)}
+                        </td>
+                    </tr>
+                `;
+            }).join("");
+        }
+
+        document.getElementById("pageInfo").textContent =
+            total === 0
+                ? "0 results"
+                : `Showing ${startIndex + 1}–${Math.min(
+                    startIndex + PAGE_SIZE,
+                    total
+                )} of ${formatNumber(total)} pages`;
+
+        document.getElementById("prevButton").disabled =
+            currentPage <= 1;
+
+        document.getElementById("nextButton").disabled =
+            currentPage >= totalPages;
+    }
+
+    function renderSummary() {
+        document.getElementById("totalUrls").textContent =
+            formatNumber(snapshot.total_urls);
+
+        document.getElementById("successfulPages").textContent =
+            formatNumber(snapshot.successful_pages);
+
+        document.getElementById("failedPages").textContent =
+            formatNumber(snapshot.failed_pages);
+
+        document.getElementById("totalChanges").textContent =
+            formatNumber(latestDiffs.total_changes);
+
+        document.getElementById("lastChecked").textContent =
+            "Last checked: " + formatDate(snapshot.checked_at);
+    }
+
+    function renderHistory() {
+        const historyList = document.getElementById("historyList");
+
+        if (!Array.isArray(history) || history.length === 0) {
+            historyList.innerHTML = `
+                <div class="empty">
+                    No monitoring history available yet.
+                </div>
+            `;
+
+            return;
+        }
+
+        const recentHistory = [...history]
+            .reverse()
+            .slice(0, 10);
+
+        historyList.innerHTML = recentHistory.map(item => {
+            return `
+                <div class="history-item">
+                    <div>
+                        <strong>
+                            ${escapeHtml(formatDate(item.checked_at))}
+                        </strong>
+
+                        <div class="history-date">
+                            ${formatNumber(item.total_urls)} URLs checked
+                        </div>
+                    </div>
+
+                    <div>
+                        <strong>
+                            ${formatNumber(item.total_changes)}
+                        </strong>
+                        changes
+                    </div>
+                </div>
+            `;
+        }).join("");
+    }
+
+    async function initDashboard() {
+        try {
+            const results = await Promise.all([
+                fetchJson(SNAPSHOT_URL),
+                fetchJson(HISTORY_URL),
+                fetchJson(DIFFS_URL)
+            ]);
+
+            snapshot = results[0] || {};
+            history = results[1] || [];
+            latestDiffs = results[2] || {};
+
+            renderSummary();
+            renderHistory();
+            buildRows();
+
+        } catch (error) {
+            console.error(error);
+
+            showError(
+                "Dashboard data could not be loaded. " +
+                "Make sure the monitor has completed at least one run " +
+                "and the data files are available."
+            );
+
+            pagesTable.innerHTML = `
+                <tr>
+                    <td colspan="6" class="empty">
+                        Dashboard data is not available yet.
+                    </td>
+                </tr>
+            `;
+        }
+    }
+
+    searchInput.addEventListener("input", applyFilters);
+
+    filterSelect.addEventListener("change", applyFilters);
+
+    document.getElementById("prevButton")
+        .addEventListener("click", () => {
+            if (currentPage > 1) {
+                currentPage--;
+                renderTable();
+            }
+        });
+
+    document.getElementById("nextButton")
+        .addEventListener("click", () => {
+            const totalPages = Math.max(
+                1,
+                Math.ceil(filteredRows.length / PAGE_SIZE)
+            );
+
+            if (currentPage < totalPages) {
+                currentPage++;
+                renderTable();
+            }
+        });
+
+    initDashboard();
+</script>
+</body>
+</html>
