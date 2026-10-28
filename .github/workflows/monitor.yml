@@ -1,0 +1,47 @@
+
+name: 3RI Website Monitor
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Install Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: Run 3RI Monitor
+        run: python -u monitor.py
+
+      - name: Save monitoring results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add dashboard.html \
+            data/snapshot.json \
+            data/history.json \
+            data/latest_diffs.json \
+            data/content.json.gz \
+            data/details.json.gz \
+            data/diff_details
+
+          git diff --cached --quiet || git commit -m "Update 3RI monitoring data"
+
+          git push
