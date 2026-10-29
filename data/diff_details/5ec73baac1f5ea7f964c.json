@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "Top AWS Interview Questions and Answers for Freshers | 3ritechnologies",
-    "meta_description": "Preparing for your first AWS role? Our guide covers essential AWS interview questions and answers, from basic concepts to common scenarios for freshers. Get ready to ace your interview!",
-    "h1": [
-      "AWS Interview Questions for Freshers and Beginners"
-    ],
-    "content": "Skip to content Home > AWS Interview Questions for Freshers and Beginners AWS Interview Questions for Freshers and Beginners AWS Technical Questions and Answers These questions will be beneficial to both; fresher’s as well as for experienced AWS professionals at any certain level. These questions can turn out to be a midway to nearly advanced AWS Table of Contents PriyankaS3ri October 24, 2019 4:42 pm Getting ready for your first technical interview is a critical step in launching your cloud career. To help you succeed, we have compiled a comprehensive list of aws interview questions, specifically designed for newcomers. This guide features essential aws fresher interview questions and the most common aws basic interview questions you’re likely to encounter. By reviewing these detailed aws interview questions and answers, you’ll be well-prepared to demonstrate your knowledge. While this list is an invaluable tool, the best way to master the cloud is through structured learning. Our expert-led AWS Training in Pune provides the deep, hands-on experience needed to confidently answer any question that comes your way. AWS Interview Questions for Freshers and Beginners Below given is one of the top lists for the most common questions and answers asked during the technical AWS interviews. AWS Technical Questions and Answers These questions will be beneficial to both; fresher’s as well as for experienced AWS professionals at any certain level. These questions can turn out to be midway to nearly advanced AWS professionals; however, whether you are a novice or a fresher, you will be able to comprehend the detailed explanations of the answers which we have provided below. So let us check some of the top AWS Training in Pune which will take your career to the next level. AWS Certification in India- AWS Certified Solutions Architect – Associate AWS Certified Cloud Practitioner AWS Certified DevOps Engineer – Professional AWS Certified SysOps Administrator – Associate AWS Certified Big Data – Specialty AWS Certified Developer – Associate AWS Certified Solutions Architect – Professional We also have AWS Online Training Q1. What are all the components required to build the Amazon VPC? Ans: NAT Gateway, Peering Connection, Virtual Private Gateway, Egress-only Internet Gateway, Subnet, HW VPN Connection, VPC Endpoint for S3, Customer Gateway, Internet Gateway, Router. Q2. How can one safeguard the EC2 instances while running in a VPC? Ans: In a VPC, the security of groups is used for the better protection of EC2 instances. INBOUND, as well as OUTBOUND traffic, both can be configured from the group of security, which further allows secured access to the instances of EC2? The group of security robotically refuses any kind of unauthorized access done on your EC2 instances. Q3. In the case of VPC, how many EC2 instances can be used at a time? Ans: At the initial stage, there is a limitation for launching the 20 EC2 instances in a one-time procedure. While the maximum size of VPC is nearly, approx 65,536 instances. Q4. In VPC, can one establish a connection that is peering in a particular REGION? Ans: Unfortunately, this is not possible in VPC for different regions. While the connection of peering is only possible between the VPC that belongs to a similar region. Q5. Is it possible to connect one VPC to another VPC having another AWS account? Ans: Yes, this is, fortunately, possible to do. Provided the user of another AWS account allows your connection request. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Q6. When was E2 officially launched? Ans: E2 officially launched in the year 2006. Q7. When was S3 officially launched among these, 2003 2006 2010 Ans: S3 was officially launched in the year 2006. Q8. Who is the AWS CEO and Chief among these, Jeff Bezos, Lisa Su, Denise Morrison? Ans: Jeff Bezos is the CEO and Chief of Amazon. Check out AWS Cloud Practitioner Training and get certified today. Q9. What do you mean by elastic computing among these, Automatically VMs will be added and remove Data will be replicated to different AZs You can spin up and spin down VMs Ans: You can spin up and spin down VMs Q10. What is the procedure for encryption in AWS S3? Ans: In Transit: SSL/TLS At Rest Server-Side in Encryption S3 Managed Keys – SSE-S3 AWS Key Management Service, Managed of Keys – SSE-KMS 6.Server-Side Encryption with Customer Provided Keys – SSE-C Client-Side Encryptions Q11: What are some of the major platforms of storage in amazon? Ans: Low-cost Achieve Storage in the cloud AWS Storage Gateway Amazon EBS Block Storage for EC2 Amazon S3 Scalable Storage in Cloud AWS Elastic File System Managed File Storage for EC2 On-Demand Compute AWS Snowmobile Exabyte-scale Data to Transport Amazon Glacier Hybrid Storage Integration Amazon Snowball Petabyte-Scale Data Transport AWS Snowball Edge Petabyte-scale Data to Transport with Get certified in Cloud Computing with Amazon Web Services Course at 3RI Technologies. Q12. In Linux, what is the procedure for updating the AMI tool during the BOOT time? Ans: # Update to Amazon EC2 AMI tools echo ” + Updating EC2 AMI tools” yum update -y AWS-AMI tools-ec2 echo ” + Updated EC2 AMI tools” Q13. Which are the top then advantages of using cloud computing? Ans: High Productivity. Environment-Friendly. Pay as you Go Model. Increased Mobility. Easy to Manage. Less Deployment Time. Dynamic Scaling. Shared Resources Less or No CAPEX. High Availability. Q14. What are some of the best benefits of AWS cloud computing? Ans: Easy & Agile Deployment. Reliability, Scalability & Sustainability. Low Capital Expenditure. Lower TCO. Device & Location Independent. Pay As You Use. Frees from Internal Resources. Utility-Based. 24 * 7 Support. Secure Store Management. Q15. Tell us some of the merits of cloud computing? Ans: Device Independence and the “always on! Anywhere and any of place” A very Lower Cost of Computing. Much Reduced Cost of Software. Entirely free from the maintenance routine. It means that you need not worry about maintaining or administrating the infrastructure in AWS Cloud Computing. Increased Data Reliability. Highly Improved Performance. Unlimited and a vast storage capacity feature enabled in AWS, where the space for storage will never run out of the capacity, as it is very much infinite. Instantaneous Software Updates with AWS. Q16. What are some of the features of S3 Bucket? Ans: Encryption Static web hosting Object lifecycle management Versioning Unlimited storage Q17. In RDS services, name and mention some of the database engines available? Ans: MYSQL Maria DB MSSQL server Amazon AURORA Postgres DB Oracle DB Q18. Which are some of the cloud service providers for the private cloud? IBM Private Cloud. Rackspace Redhat-Openstack VMware Q19. Which are some of the cloud service providers for the public cloud? Amazon web services Alibaba Cloud. Google Cloud Microsoft Azure Oracle Cloud Q20. What are the types of AMI which are provided by AWS? A) Instance Store backed B) EBS Backed C)None its volume type and not AMI types D) Both A and B Ans: Both A and B Q21. Which of the following Amazon AWS service used while hosting a static website? Amazon CloudFront Amazon CloudWatch Amazon Simple Storage Service(S3) Amazon Route53 Ans: Amazon Simple Storage Service(S3) Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Q22. Among the following, what is the maximum size of a bucket in S3? 10 Terabytes 3 Terabytes 7 Terabytes 5 Terabytes Ans: 5 Terabytes Q23. In S3, among the following options, how many buckets can be created at a time? 250 150 100 500 Ans: 100 Q24. Out of the following options given, which one of these is an availability zone? Denotes an Entire Region A Container where all your S3 buckets are stored Collection of Regions A location inside a Region that is protected from failures Ans: A location inside a Region that is protected from failures Q25: For what is Lambda used for in AWS? Lambda is used for running serverless applications It is a database service from AWS It is a testing tool from AWS It is an Anti Virus software from AWS Ans: Lambda is used for running serverless applications Q 26: What do you mean by a DDoS attack? How can it minimize? DDoS is a cyber-attack wherein a perpetrator accesses a site and establishes a multitude of sessions, thereby the other legitimate users can’t able to access the service. The tools which are designed to deny the DDoS attacks on the AWS services are; ELB VPC AWS WAF Amazon Route53 AWS Shield Amazon CloudFront Q 27: How can a user establish up a system to monitor site metrics in real-time in AWS? With the help of Amazon CloudWatch, it is feasible to monitor the application status of different AWS services along with custom events. It assists you in monitoring the following; Console sign-in events Auto-scaling lifecycle events AWS API calls Scheduled events State changes in Amazon EC2 Q 28: Tell about some AWS services that are not region-specific: Route 53 CloudFront IAM Web Application Firewall Q 29: What do you mean by AWS? AWS means Amazon Web Services. It is a collection of remote computing services. AWS has a comprehensive and evolving cloud computing platform ensured by Amazon. It has a mixture of the platform as a service (PaaS), packaged software as a service (SaaS), and infrastructure as a service (laaS). AWS services offer organization tools like database storage, compute power, and content delivery services. Sign up for the best AWS and DevOps Course ! Q 29: How can a request be sent to Amazon S3? Amazon S3 is a REST service that is used to send a request with the help of REST API. Besides, AWS SDK wrapper libraries are also taking into consideration to wrap the underlying Amazon S3 REST API. Q 30: Name the key components of AWS? Route 53: It is a DNS web service Simple Storage Device or S3: It is also a storage device that is mostly and comprehensively used in AWS service. Simple E-mail Service: It is used to send an e-mail with the assistance of either with RESTFUL API call or a regular call. Elastic Compute Cloud or EC2: It is used to offer on-demand computing resources in favor of hosting applications. Elastic Block Store or EBS: It provides persistent storage volumes that are connected to EC2 to endow the users to persist data that past the lifespan of a single Amazon EC2 instance. Cloud_Watch: It endows the administration to look at and assemble keys. It also offers a notification alarm if any trouble arises. Identity and Access Management: It provides improved security and also finds out management for your AWS account Q 31: What do you mean by Snowball? It is a data transport option used to source appliances to a massive amount of data in and out of AWS. It is possible to send a large amount of data from one location to another with a snowball. It also assists in declining networking costs. Q 32: What do you mean by a redshift? It is a big data warehouse product that is highly robust and fast. Besides, it is an entirely manageable data warehouse service in the cloud. If you want to know more about Cloud computing, check the 3RI Technologies website for courses. Q 33: Does it possible to vertically scale an Amazon instance? If so, then how? Yup! It is merely possible to scale an Amazon instance vertically. For this, the users need to; Spin up a more prominent example instead of that currently executing. Then halt that instance and separate the root webs volume that is attached to a server and finally discard it. Now, stop your live instance and separate its root volume. The users must note the unique device ID and also needs to attach that root volume to a new server. Finally, start it again to get the results. Q 34: What do you mean by T2 instances? It is designed to ensure moderate baseline performance and the competencies to burst the higher performance as needed by the workload. Q 35: Which are the best security practices for Amazon EC2? Use of AWS identities and access management to control access in the AWS resources Restrict access with the assistance of permitting only trusted networks to access ports. Also, review the rules daily in your security group. It is only allowed to access the permissions that are needed. Finally, discontinued the password-based login. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Q 36: Name key-pairs in AWS? Key-pairs are of two types- Private-key and Public-key and secure login information. They are also used in virtual machines. Q 37: How is it possible to create AWS with Elastic IPs? With the assistance of 5 VPC Elastic IP addresses, it is possible to create AWS with Elastic IPs. Q 38: What are the roles? When there is a need to take permission from entities that can trust within an AWS account, the roles are used. The fact, functions are like users. But, with features, the users don’t need to establish any password and username to work with the resources. Q 39: What are the edge locations? The area wherein the contents will be cached, known as Edge Location. Therefore, when a user tries to access any material, the content will itself be searched in the edge location. Q 40: Does it possible to create a peering connection to a VPC in case of a different region? Nope! It is not feasible to peer connection to a VPC in a different region. It is only possible in the same area. Q 41: What are the benefits of auto-scaling? It offers better availability It assists in fault tolerance It provides better cost management Q 42: What is a subnet? Subnet means a large section of IP addresses split into chunks. Q 43: What is SimpleDB? It is a data repository of a structured record. It influences data doubts and indexing. Update your skills with DevOps With AWS Training Q 44: What do you mean by Amazon ElasticCache? It is a web service wherein it becomes easy to develop, store, and scale data in the cloud. Q 45: What is the role of AWS CloudTrail? AWS CloudTrail is a tool that is uniquely designed for logging and tracking API calls. It is also used to audit all S3 bucket accesses. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Q 46: What is SQL? SQL means Simple Queues Services that is distributed queuing service, which works as a mediator between two controllers. Q 47: What do you mean by Geo Restriction in CloudFront? With Geo Restriction, it is possible to prevent users of particular geographic locations to access content that is distributing via a CloudFront web distribution. Q 48: How can the buffer use in Amazon web services? The butter aims to make the system more reliable to manage load or traffic by synchronizing different components. Parts are used to receiving and processing requests in an unbalanced manner. Thus, with a buffer, it is possible to balance the elements and make the process faster. Q 49: In AWS, how many buckets can create by default? It is possible to make up to 100 buckets only in AWS by default. Q 50: What is the primary difference between EC2 and Amazon S3? EC2 is a cloud web service, while Amazon S3 is a data storage system. EC2 is used to host an application, while Amazon S3 is used to store any amount of data. EC2 is like a big computer machine where users can either run Linus or Window and can also handle applications like Python, PHP, and more, while Amazon S3 has a REST interface. It has secure HMAC-SHA 1 authentication keys. 51. List out all the featured services of AWS. Ans: AWS provides loads of amazing services that help businesses as well as developers. Developers effectively create, launch, and handle apps, along with all the essential services in the cloud. Some of these services are listed below: Amazon EC2 : It facilitates the AWS user with resizable compute capacity. It creates and efficiently handles the virtual servers. Amazon S3 (Simple Storage Service): It is built in such a manner that data gets easily stored and retrieved from the web. Amazon RDS (Relational Database Service): Amazon RDS handles relational databases and provides multiple options for MySQL, PostgreSQL, SQLServer,r etc. AWS Lambda is a serverless computing service, through which developers efficiently runs their code in response to events and handles compute resources. Amazon DynamoDB is a NoSQL database service that provides the user with fast and predictable performance with exceptional scalability. Amazon Redshif t is a fast, and scalable data warehousing service designed to analyze large datasets. Amazon ECS (Elastic Container Service ) is a highly scalable, high-performance container that supports Docker containers. AWS Sage Maker: Through the AWS sage makers, the concerned developers or respective data scientists gets able to create and launch models. AWSGlue: AWSGlue converts and loads the services. This makes it pretty handy for the end user to prepare and convert the information for evaluation. Amazon VPC (Virtual Private Cloud): Amazon VPC helps to build an isolated Network space within the AWS cloud. Amazon VPC provides complete control over the virtual networking space. 52. List out all the top product categories of Amazon Web Services (AWS). Ans: Amazon Web Services (AWS) facilitates the end uses with loads of amazing services across various product categories. As per the latest news, some of the best product categories offered by AWS are enlisted below: Computing Storing Networking Content Delivery and CDN Machine Learning and AI Analytics IoT (Internet of Things) Development Tools Identity Compliance 53. define a data lake. Ans: A data lake is nothing but a container that stores structured and unstructured data of any quantity. Being a repository, Data Lake is mainly used in big data and data science, as data can be kept in its real form without structuring it. 54. Define Amazon EC2. Ans: Amazon EC2 (Elastic Compute Cloud) can be defined as a web service that provides users with a robust computing platform. Through Amazon EC2, end users or developers can efficiently manage any kind of load related to storage, processors, or operating systems. This web service also minimizes the duration through quick scaling. 55. Explain Amazon S3. Ans: The acronym for Amazon S3 is Amazon Simple Storage Service. It is a service that is highly scalable and offers web-based cloud storage services. The main purpose of the Amazon Simple Storage Service is to store and fetch ample amounts of data or information from the Web. 56. Define Amazon VPC and its features. Ans: First of all, Amazon VPC is Amazon Virtual Private Cloud (VPC), a virtual network infrastructure in cloud computing through which developers or end users can effectively create network environments within public cloud providers. Some of the top quality property of a VPC are shared below: Isolation and segmentation Subnetting Custom IP address ranges Security Controls Internet and intranet connectivity VPN and Direct Connect Give a brief on Amazon SQS?. 57. Give a brief on Amazon SQS?. Ans: Amazon SQS, i.e., Amazon Simple Queue Service, was launched by Amazon in 2004. Through the message queuing service, end users can easily transmit, receive, and store a huge volume of messages. Also, in the SQS, messages are temporarily kept until the end user wills to send them on the other end. 58. What do you understand by Amazon DynamoDB? Ans: Amazon DynamoDB is a NoSQL database provided by Amazon. DynamoDB is completely managed and scalable, designed to manage large volumes of data. DynamoDB is mostly used for all the applications that require smooth and high performance, like e-commerce, gaming, etc. As a database, NoSQL stores and retrieves data in non-relational formats. 59. What is AWS Elastic Beanstalk? Ans: AWS Elastic Beanstalk is one of the significant services offered by Amazon. It is basically web infrastructure management that handles the deployment of Web apps. Also, AWS Elastic Beanstalk is a PaaS, i.e., Platform as a Service, that takes the code, deploys it, and also helps to figure out the essentials required to run the code. 60. What is Amazon CloudWatch? Ans: Amazon CloudWatch, as the name implies, is something like a watch that monitors all the cloud services and applications that primarily run on AWS. In simple words, Amazon CloudWatch is a tool that keeps track of the performance of all the AWS services. 61. Provide complete important features of a Classic Load Balancer in EC2. Ans: Here are complete important features of a Classic Load Balancer in Amazon Elastic Compute Cloud (EC2): Protocol and Port Configuration Backend Server Groups Health Checks Session Persistence Cross-Zone Load Balancing Connection Draining Idle Timeout SSL/TLS Offloading Access Logs 62. What are the consequences after rebooting an Amazon EC2 instance? Ans: Rebooting an Amazon EC2 (Elastic Compute Cloud) instance has several consequences, depending on the configuration. Here are the key consequences: Temporary Downtime Reinitialization of Instance Preservation of Instance Data and Configuration Restoring System Stability Network Reinitialization Application and Service Restart 63. What are Recovery Time Objective and Recovery Point Objective in AWS? Ans: RTO (Recovery Time Objective) and RPO (Recovery Point Objective) are two critical parameters in Disaster Recovery and BCP. RTO can be defined as the highest possible downtime for a system in the event of an accident. To understand this definition, let’s check out this example. If an app has a recovery time objective of 3 hours, this simply explains that in the event of any accident, the application should begin working properly within 3 hours to meet the organization’s recovery goals. RPO can be defined as the highest possible data loss in the event of any failure, disaster, or accident. To understand this definition, let’s check out this example. If an app has an RPO of 6 hours, this simply means that in the event of failure, the company can tolerate losing 6 hours’ worth of information. 64. How can you automate EC2 backups by using EBS? Ans: EC2 backup can be automated with EBS by setting up an Amazon Data Lifecycle Manager so that regular EBS snapshots can be created according to the defined backup policies and retention periods for automated backup management. Later, the copies of the snapshots are shared with another AWS region to store sensitive data in a much more secure manner. 65. Can an existing instance be added to Auto Scaling group? How? Ans: An existing instance can be associated or added to a new Auto Scaling group through the following steps: Open the EC2 console. Now, choose the instance to get added. Search for Actions , Now look for Instance Setting, Here, Add to Auto Scaling Group Now, select a new Auto Scaling group and connect it to the Instance. 66. Explain the Terraform provider. Ans: Terraform: An open-source infrastructure as a code tool It helps end users brief the infrastructure through a configuration language. Through the platform, resources like computer systems, virtual machines, etc. can be managed. Also, it is a plugin that interacts with specific APIs to handle resources. 67. How does the AWS Glue Data Catalog work? Ans: AWS Glue Data : It is a metadata container that contains and manages metadata for data sources. Through the data catalog, it becomes much easier to discover and handle data for analysis and processing. The metadata includes schema information, data formats, and other essential metadata that supports data discovery and management. 68. Can it be real to use Jenkins and AWS Code Build together with AWS DevOps? If yes, then How? Yes, it is real to integrate Jenkins and AWS CodeBuild within an AWS DevOps workflow to automate build and deployment processes efficiently. The integration can be done by integrating Jenkins with AWS CodeBuild through plugins and webhooks. 69. How can one transfer or send a request to Amazon S3. Ans: To send/transfer a request to Amazon S3, use an HTTP client (e.g., cURL or SDK) by particularizing the required operation like GET, or PUT. Steps to send a request to Amazon S3, are: Select a suitable software development kit (SDK) or HTTP client. Now, Set up authentication credentials. Build an HTTP request with specified operation. Include any necessary headers and payload for the request. Execute the request through SDK or HTTP client. Now, process the response returned by Amazon S3 (to know Success or failure of request). 70. Define security group mean and its features. Ans: A security group is a set of rules and settings that control inbound and outbound traffic for a collection of network resources, often used in cloud computing environments for enhanced security. Also, some best features of Security Group Mean is shared below: The Security groups helps find out which systems can access specific resources. Utilizes rules to permit or deny traffic depending on the type of protocols, or IP addresses. Handles both inbound and outbound network connections. It gets applied to individual instances or resources, that boosts the security for particular asset. 71. What is the importance of buffers in AWS? Ans: Buffer in AWS is mainly in lines with several different components. It gets the requests and executes the processes in an unsynchronized manner. Furthermore, the buffer acts as the prime element and brings a balance among the devices, so that the devices can function more efficiently and are able to provide faster services. 72. What are the key pairs? Ans: Key pairs, as the name suggests, have two key. One is a public cryptographic key, and the other is a private cryptographic key. These keys are generally used in asymmetric encryption. The public key encrypts the data, whereas the private key is for decryption, so that safe and secure communication can take place. 73. What is an AMI? Ans: An Amazon Machine Image (AMI) is nothing but a pre-configured virtual machine image that is utilized to develop and launch instances. It has several components like Operating System, Apps, authentic Information’s etc. 74. What are the types of AMI? Ans: Amazon Machine Image has three types: Public (shared by the community) Private (created and used by a specific user) Shared (accessible to specific AWS accounts). 75. What is multi-AZ RDS? Ans: Multi-Availability Zone RDS can be defined as a property in Amazon RDS. This property replicates the database instance into a standby instance. This replication is done in a different availability zone, that boosts the availability and fault tolerance. 76. Provide the complete list of key protocols for the security in Amazon EC2. Ans: The complete list of key protocols for the security in Amazon EC2 are listed below: Least Privilege : Provides the least required agreement to the end-users and apps. Regular Updates: Keep software, applications, and operating systems up to date with all the security updates. Data Encryption: It is used to encrypt information during the transfer as well as rest state. Secure Access Control: It enforces a strong & robust authentication system to control access and permissions adequately. Network Segmentation: Utilize Virtual Private Cloud (VPC) and security groups to isolate and secure network traffic effectively. Monitoring and Logging: It enables and analyzes the logs to detect and respond to any safety related incidents quickly. Backups and Disaster Recovery: Under backup and recovery, backups are made at regular intervals, and recovery plans are made to ensure data integrity in case of failure. 77. What is the difference between Vertical and Horizontal Scaling in AWS. Ans: Vertical scaling increases the capacity of an individual instance by enhancing its resources (e.g., CPU, RAM), while horizontal scaling involves adding more instances to distribute the workload, promoting flexibility and better performance in AWS environments. 78. Can data be accessed on EBS in AWS? Explain how? Ans: To access data on the Elastic Block Store (EBS) in AWS, attach the EBS volume to an EC2 instance, which appears as a block device. Format the volume, mount it to a directory, and interact with it like a regular disk to read, write, and manage data. 79. What is Scalability and Elasticity? Provide their difference. Ans: Scalability is a system’s ability to handle increased load by adding resources, while elasticity additionally allows automatic scaling based on demand, efficiently adapting resources up or down, providing cost-effectiveness and flexibility in cloud environments. 80. Explain the DB engines utilized in AWS RDS. Ans: AWS RDS supports various database engines, including Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server, providing a range of options to meet different application needs and performance requirements. 81. What is an auto-scaling group? Ans: An auto-scaling group in AWS dynamically adjusts the number of EC2 instances based on defined policies or scaling triggers, optimizing performance, availability, and cost-efficiency for applications. 82. List out all the similarities between the Availability Zones and Regions. Ans: Availability Zones (AZs) and Regions are core components of AWS infrastructure. A region is a geographically isolated area comprising multiple availability zones, each with its own infrastructure. Both AZs and regions offer redundancy, enabling high availability and fault tolerance, crucial for reliable and resilient cloud services. AZs within a region are interconnected with low-latency links for robust and distributed operations. 83. List the steps involved in a CloudFormation Solution. Ans: Template Creation: Develop a CloudFormation template in JSON or YAML, defining the AWS resources and their configurations. Template Upload: Upload the template to an S3 bucket or provide it directly to AWS CloudFormation. Stack Creation: Use the CloudFormation template to create a stack, specifying parameters and configurations. Stack Management: Manage the stack lifecycle, including updates, deletions, and modifications to the defined resources. Resource Provisioning: AWS provisions and configures the specified resources according to the template, creating the desired infrastructure. 84. Give four AWS services that are not region-specific. Ans: IAM (Identity and Access Management): Manages users, permissions, and access policies globally across all AWS regions. Route 53 (Domain Name System): Provides domain registration and DNS services with a global reach, enabling domain management from any location. CloudFront (Content Delivery Network): Distributes content worldwide with edge locations, serving data efficiently and reducing latency globally. AWS WAF (Web Application Firewall): Offers protection against web-based threats and attacks on applications, deployable across AWS regions for enhanced security. 85. Define an elastic transcoder. Ans: Elastic Transcoder is an AWS service for scalable video and audio file transcoding. It converts media files into various formats, resolutions, and bitrates, enabling efficient delivery and playback across multiple devices and platforms. 86. How can you monitor Amazon VPC?| Ans: Amazon VPC can be monitored using Amazon CloudWatch. Set up CloudWatch alarms to track metrics like network traffic, instance status, and more. Utilize VPC Flow Logs to capture and analyze network traffic for security and troubleshooting. 87. Provide the complete distinction between these three: Amazon RDS and Redshift, and Dynamodb. Ans: Amazon RDS is a relational database service, Redshift is a data warehousing service, and DynamoDB is a NoSQL database service. RDS supports various relational databases, Redshift is optimized for analytics, and DynamoDB is designed for fast and scalable NoSQL data storage and retrieval. 88. What are advantages of AWS’s disaster recovery plan. Ans: AWS Disaster Recovery provides quick and cost-effective recovery solutions. It ensures business continuity by allowing automatic failover and data replication to a secondary region, minimizing downtime and data loss in the event of a disaster, and maintaining critical operations and services. 89. How is data transfer done using Snowball? Ans: Snowball is a physical device provided by AWS. Users load their data onto the Snowball device, and AWS physically ships it to an AWS data center for direct data transfer, bypassing the need for a high-speed internet connection and ensuring secure and efficient data transfer. 90. Describe one difference between EBS and the instance store. Ans: Amazon EBS is persistent storage that survives instance termination, while Instance Store is temporary, local storage associated with the EC2 instance and is lost if the instance is stopped or terminated, providing high performance but not durability. 91. Can backup of EFS be taken as same as EBS? Ans: AWS EFS (Elastic File System) does not have a built-in snapshot or backup mechanism like EBS (Elastic Block Store). Backups for EFS can be effectively handled manually or even via any third entity. For updates, check the latest AWS documentation on the official website. 92. List all the other different kinds of load balancers available in AWS. Ans: AWS offers three types of load balancers: application load balancers (ALB) for HTTP/HTTPS, network load balancers (NLB) for TCP/UDP, and classic load balancers (CLB) for both. ALB operates at Layer 7, NLB at Layer 4, and CLB provides legacy support for both Layer 4 and 7 load balancing. 93. How can businesses gain profits via AWS IAM? AWS IAM enhances business security by managing user access and permissions. It ensures only authorized personnel can access resources, minimizing the risk of unauthorized actions or data breaches. IAM enables effective control, auditability, and centralized management of AWS services, bolstering the overall security posture. 94. Differentiate between latency-based routing and geo-DNS. Ans: Latency-based routing directs users to the server with the lowest network latency, optimizing performance. Geo DNS routes based on the user’s geographical location, directing them to a server closest to their region. Latency-Based Routing focuses on speed, while Geo DNS emphasizes geographic proximity for efficient routing. 95. Explain SQS. Ans: Simple Queue Service (SQS): A message service in AWS, that supports in sending and receiving messages. By permitting dependable, scalable, and asynchronous communication between diverse components and services, it facilitates the decoupling of distributed systems. 96. How do you ensure security in AWS? Ans: To ensure security in AWS, implement strong IAM policies, use encryption for data at rest and in transit, regularly update and patch systems, monitor and audit activities, employ DDoS protection, follow the principle of least privilege, and adopt secure architecture and configurations. 97. How do you monitor AWS resources? Ans: Monitor AWS resources using Amazon CloudWatch, a centralized service. Set alarms, collect metrics, and visualize data to track performance, health, and utilization of various AWS services. Utilize CloudTrail for auditing, AWS Config for resource configuration history, and additional tools for comprehensive monitoring. 98. What is Amazon Neptune, and how is it used? Ans: Amazon Neptune is a managed graph and RDF (Resource Description Framework) database service by AWS. Amazon Neptune can be effectively utilized for developing such applications that require highly interconnected data models. This appears helpful in social networking, fraud recognition, etc. This provides the best performance and scalability. 99. What is Amazon DocumentDB, and how is it used? Ans: Amazon DocumentDB is a managed NoSQL document database service by AWS, compatible with MongoDB. It’s used for scalable and high-performance applications, allowing developers to store, query, and index JSON-like, semi-structured data without the administrative overhead of self-managed databases. 100. List the difference between Amazon CloudWatch and CloudTrail? Ans: Amazon CloudWatch monitors and collects metrics, providing insights into system performance. In contrast, CloudTrail records API interactions and events, offering an audit trail for compliance and security analysis. CloudWatch focuses on real-time monitoring, while CloudTrail emphasizes historical tracking and visibility into AWS API usage. 101. How do you configure Amazon CloudHSM? Ans: To configure Amazon CloudHSM, create a CloudHSM cluster, download HSM client software, initialize HSMs, and manage security policies. Integrate CloudHSM with applications using the provided SDKs for secure key storage and cryptographic operations. 102. How do you configure Amazon Cognito? Ans: To configure Amazon Cognito, create a user pool, define attributes and policies, set up an identity pool for federated access, configure app integration, and customize the UI. Integrate the Cognito SDK into the app for secure authentication, user management, and synchronization of user data. 103. Explain the Amazon SageMaker? How it can be utilized? Amazon offers a machine learning service popularly known as SageMaker. It simplifies the ML lifecycle by enabling data labeling, model training, deployment, and monitoring on a unified platform. Users can build, train, and deploy ML models efficiently, accelerating the development of AI-powered applications and solutions. 104. How do you configure Amazon Work Mail? Ans: To configure Amazon Work Mail, set up a Work Mail organization, create users and groups, configure email domains, and integrate with existing IT infrastructure. Manage user mailboxes, permissions, and policies through the Work Mail console, ensuring secure and efficient email communication within your organization. 105. What is Amazon Textract? Define it’s working. Ans: Amazon Textract is a fully managed AI service that extracts text, forms, and tables from scanned documents or images. It uses machine learning algorithms to analyze and extract data accurately, providing structured information for various applications, such as content indexing, data analysis, and document digitization. 106. How Amazon FSX can be configured efficiently? Ans: To configure Amazon FSx for Windows File Server, create a file system specifying settings like throughput and storage capacity. Configure security settings, access permissions, and optional features. Access the file system via mount targets using standard Windows file sharing protocols. 107. What are reserved instances? Ans: Reserved Instances (RIs) are a purchasing option for Amazon EC2 and other AWS services, offering an important discount in exchange for a promise to utilize a particular instance type in special regions. RIs help optimize costs and ensure capacity availability. 108. Explain the difference between block storage and file storage? Ans: Block storage manages data in fixed-sized blocks, providing high-speed access and being ideal for databases. File storage organizes data into files and folders, allowing shared access, and is suitable for storing and managing unstructured data like documents, images, and videos in a networked environment. 109. Explain the Amazon S3 lifecycle rules. Ans: Amazon S3 lifecycle rules automate the transition and deletion of objects over their lifecycle. Configure rules to transition objects to different storage classes or expire them after a specified time, enhancing the storage expenses. It ensures that the efficient data management is based on retention needs. 110. What is the definition of Amazon Simple Notification Service? Ans: The fill form of SNS is Simple Notification Service. It is a messaging service provided by Amazon that proficiently enables the sending of messages, notifications, or alerts to a distributed set of recipients via various protocols (SMS, email, etc.). SNS helps build event-driven systems and applications by simplifying message delivery across diverse endpoints. AWS Training Offered In Other Locations Are: Pune Bangalore Mumbai Delhi Noida Hyderabad Chennai Ahmedabad Kochi Kolkata Prev Previous Top 10 ETL Testing Interview Questions And Answers Next The Ultimate Guide to Data Science Interview Questions and Answers Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -89,265 +71,76 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2019/10/24/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/aws-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
-      "https://www.3ritechnologies.com/course/aws-online-training/",
-      "https://www.3ritechnologies.com/course/aws-training-in-ahmedabad/",
-      "https://www.3ritechnologies.com/course/aws-training-in-bangalore/",
-      "https://www.3ritechnologies.com/course/aws-training-in-chennai/",
-      "https://www.3ritechnologies.com/course/aws-training-in-delhi/",
-      "https://www.3ritechnologies.com/course/aws-training-in-hyderabad/",
-      "https://www.3ritechnologies.com/course/aws-training-in-kochi/",
-      "https://www.3ritechnologies.com/course/aws-training-in-kolkata/",
-      "https://www.3ritechnologies.com/course/aws-training-in-mumbai/",
-      "https://www.3ritechnologies.com/course/aws-training-in-noida/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/devops-with-aws-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/data-science-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/top-10-etl-testing-interview-questions-and-answers/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Top AWS Interview Questions and Answers for Freshers | 3ritechnologies",
-    "og_description": "Preparing for your first AWS role? Our guide covers essential AWS interview questions and answers, from basic concepts to common scenarios for freshers. Get ready to ace your interview!",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "AWS Interview Questions for Freshers and Beginners",
-            "datePublished": "2019-10-24T11:12:43+00:00",
-            "dateModified": "2025-06-10T05:02:28+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/"
-            },
-            "wordCount": 6208,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2019/10/AWS-Interview-Questions-Answers-for-Freshers-and-experts.jpg",
-            "keywords": [
-              "AWS Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "Cloud Computing",
-              "Interview Questions And Answers"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/aws-interview-questions-and-answers/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/",
-            "url": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/",
-            "name": "Top AWS Interview Questions and Answers for Freshers | 3ritechnologies",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2019/10/AWS-Interview-Questions-Answers-for-Freshers-and-experts.jpg",
-            "datePublished": "2019-10-24T11:12:43+00:00",
-            "dateModified": "2025-06-10T05:02:28+00:00",
-            "description": "Preparing for your first AWS role? Our guide covers essential AWS interview questions and answers, from basic concepts to common scenarios for freshers. Get ready to ace your interview!",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/aws-interview-questions-and-answers/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2019/10/AWS-Interview-Questions-Answers-for-Freshers-and-experts.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2019/10/AWS-Interview-Questions-Answers-for-Freshers-and-experts.jpg",
-            "width": 1000,
-            "height": 667,
-            "caption": "AWS Interview Questions & Answers for Freshers and experts"
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/aws-interview-questions-and-answers/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "AWS Interview Questions for Freshers and Beginners"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "AWS Interview Questions & Answers for Freshers and experts",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Become An AWS Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODEiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODEiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Cloud+Computing%2C+Interview+Questions+And+Answers&cd%5Bpage_title%5D=AWS+Interview+Questions+for+Freshers+and+Beginners&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=3634&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Faws-interview-questions-and-answers%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

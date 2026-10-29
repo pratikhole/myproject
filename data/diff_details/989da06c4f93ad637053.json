@@ -1,31 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/data-abstraction-in-python/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "What is Data Abstraction in Python? Explained with Examples | 3RI Technologies",
-    "meta_description": "Learn what data abstraction in Python is, how it simplifies coding, and see practical examples. Master Python data abstraction with our expert-led Python Training in Pune at 3RI Technologies.",
-    "h1": [
-      "Understanding Data Abstraction in Python with Real-Life Examples",
-      "Abstract class",
-      "Child class",
-      "Using the classes"
-    ],
-    "content": "Skip to content Home > Understanding Data Abstraction in Python with Real-Life Examples Understanding Data Abstraction in Python with Real-Life Examples Explore Data Abstraction in Python, its types, and real-world examples. Learn about abstract data types (ADTs) and their role in data structures to simplify complex systems and enhance code readability. Table of Contents PriyankaS3ri October 14, 2024 4:38 pm Data abstraction in Python is a key idea in the programming world that helps programmers manage complexity and create reliable, maintainable software systems. Python programming in Pune offers strong techniques for achieving data abstraction in Python because of its focus on readability and simplicity. What is data abstraction in Python, and why is it so important? In simple terms, abstraction in Python helps hide complex implementation details and shows only the necessary features, making code easier to manage and scale. Through data abstraction, Python developers create more secure and modular applications. Whether you’re exploring abstract data type definition, or looking for an example of data abstraction, this guide breaks it down for you. To master these concepts with hands-on experience, check out our expert-led Python Training in Pune at 3RI Technologies. Importance of Data Abstraction in Python Large data sets can be broken down into smaller, easier-to-manage bits using a process called data abstraction. It’s crucial because it frees consumers from complexity-related distractions so they may concentrate on the most crucial aspects of the material. It may be easier to make updates and changes to the code. What is Data Abstraction in Python and Why is it Important? An abstract data type is a data structure abstraction that only specifies the interface it must obey. The interface doesn’t offer any specific guidance on what Python programming language is or how something should be implemented. Stated differently, abstract data types are entities that include definitions of data and actions but do not include details about how they are implemented. In this case, we are aware of the information we are retaining and the potential actions that could be performed on it, but we are not aware of the particulars of how it will be implemented. Implementation specifics are scarce because each programming language has its own implementation strategy. For example, classes and objects are used to implement a C++ data structure in an object-orientated programming, while structures are used to construct a C data structure. For instance, dynamic arrays and linked lists are used to implement the abstract data type of lists. Abstract data type model We should be familiar with abstraction and encapsulation before learning about the abstract data type paradigm. Abstraction : Abstraction is a strategy that keeps the user from seeing internal details and only displays the information that is absolutely necessary. Encapsulation : Encapsulation is the process of merging the member function and the data into a single entity. The ADT model is depicted in the above figure. The ADT model includes two sorts of models: public and private functions. Additionally, the data structures we use in programs are contained in the ADT model. The first step in this architecture is encapsulation, which involves wrapping all of the data into an ADT. Next, the abstraction is carried out, which entails displaying the actions that are possible for the data structure and the types of data structures that are utilized in programs. Understand the abstract data type example in Python. Abstract data types (ADTs) in computer science are mathematical models that describe data objects and actions. From the user’s point of view, an ADT’s behaviour is determined by its available values, operations, and the behaviour of those operations. Fundamentally, data abstraction is about concealing intricate implementation details behind a more straightforward user interface. It enables developers to focus on object-orientated programming rather than implementation. In software design, this division of responsibilities promotes modularity, encapsulation, and adaptability. Developers can work at higher levels of abstraction and create codebases that are easier to manage and comprehend by abstracting away superfluous elements. Data Abstraction in Python means hiding internal implementation details and showing only the necessary features to the user. It is usually implemented using Abstract Classes and the abc (Abstract Base Class) module . Example of data abstraction in python from abc import ABC, abstractmethod Abstract class class Vehicle(ABC): @abstractmethod def start(self): pass Child class class Car(Vehicle): def start(self): print(\"Car starts with a key\") class Bike(Vehicle): def start(self): print(\"Bike starts with a self-start button\") Using the classes c = Car() c.start() b = Bike() b.start() Output Car starts with a key Bike starts with a self-start button Explanation Vehicle is an abstract class . start() is an abstract method (declared but not implemented). Car and Bike implement the abstract method . The user only calls start() without knowing the internal implementation. If we take into account smartphones. We examine the smartphone’s high specifications, which include: 4 GB RAM, 2.2 GHz Snapdragon processor, 5-inch LCD screen, Dual camera, and Android 8.0 What is an abstract data type in data structures? ADTs are essential in large-scale programming because they bundle data structures and actions on them while hiding internal information. For example, an ADT table allows users to insert and lookup data while concealing the underlying structure from view. ADTs differ from data structures, which are actual representations of data. Data structures are strategies for effectively organizing data on a computer. The abstract data type (ADT) or class is a collection of variables and actions that define an object’s behavior. The tasks that need to be accomplished are the only things mentioned in the ADT definition; it says nothing about how they will be executed. The algorithms that will be used to perform the operations and the memory organization of the data are not yet known. The term “abstract” refers to a perspective that is not specific to implementation. There are situations in which users of data types do not need to know how those kinds are implemented. We’ve been using data types such as char, float, and int, for example, without really understanding how they’re built, just that they can be utilized and acted upon. The ADTs for List, Stack, and Queue will now be defined. ADT List To store data in a key sequence, a list with a head structure (count, pointers, and comparison function address) is typically used. Each data node includes a pointer to a data structure and a self-referential pointer to the next node in the list. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send ADT Stack In the Stack ADT Implementation, a pointer to data is stored in each node rather to actual data. The software allocates memory for the data, and the stack ADT receives its address. The ADT includes both the head node and the data nodes. The only thing visible to the caller function is the stack pointer. The stack head structure additionally contains a count of the current number of entries in the stack and a pointer to the top. Queue ADT The queue abstract data type (ADT) follows the design of the stack abstract data type. Each node has a void pointer to its data and a link reference to the next item in the queue. The memory allocation for data storage is the program’s job. Conclusion In software engineering, data abstraction is essential because it helps programmers control complexity and create systems that are easy to maintain. Python’s ability to allow polymorphism, abstract base classes, and encapsulation makes it easier to implement data abstraction, enabling programmers to create clear, modular, and reusable code. Gaining an understanding of and utilizing these ideas is necessary to become proficient in Python, Create scalable, reliable programs, and IIT-oriented courses Is Python Easy to Learn? Prev Previous Python Built-in Functions: Types, List, and Practical Examples Next 10 Fascinating Python Applications in the Real World Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -67,253 +46,51 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2024/10/14/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/job-oriented-courses/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-abstraction-in-python/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/is-python-easy-to-learn/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/top-10-fascinating-python-applications-in-the-real-world/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/data-abstraction-in-python/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "What is Data Abstraction in Python? Explained with Examples | 3RI Technologies",
-    "og_description": "Learn what data abstraction in Python is, how it simplifies coding, and see practical examples. Master Python data abstraction with our expert-led Python Training in Pune at 3RI Technologies.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/data-abstraction-in-python/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/data-abstraction-in-python/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "Understanding Data Abstraction in Python with Real-Life Examples",
-            "datePublished": "2024-10-14T11:08:59+00:00",
-            "dateModified": "2026-03-16T07:00:14+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/data-abstraction-in-python/"
-            },
-            "wordCount": 1206,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/data-abstraction-in-python/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-14.jpg",
-            "keywords": [
-              "Python Blog Design"
-            ],
-            "articleSection": [
-              "Python"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/data-abstraction-in-python/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/data-abstraction-in-python/",
-            "url": "https://www.3ritechnologies.com/data-abstraction-in-python/",
-            "name": "What is Data Abstraction in Python? Explained with Examples | 3RI Technologies",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/data-abstraction-in-python/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/data-abstraction-in-python/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-14.jpg",
-            "datePublished": "2024-10-14T11:08:59+00:00",
-            "dateModified": "2026-03-16T07:00:14+00:00",
-            "description": "Learn what data abstraction in Python is, how it simplifies coding, and see practical examples. Master Python data abstraction with our expert-led Python Training in Pune at 3RI Technologies.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/data-abstraction-in-python/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/data-abstraction-in-python/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/data-abstraction-in-python/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-14.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business.-14.jpg",
-            "width": 1000,
-            "height": 667
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/data-abstraction-in-python/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Understanding Data Abstraction in Python with Real-Life Examples"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Python Online Training",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Job Oriented Courses",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Python&cd%5Bpage_title%5D=Understanding+Data+Abstraction+in+Python+with+Real-Life+Examples&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101086&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fdata-abstraction-in-python%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

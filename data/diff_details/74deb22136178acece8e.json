@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "MERN Stack Interview Questions And Answers | 3RI Technologies Pvt Ltd",
-    "meta_description": "Are you looking for the preparation for MERN Stack Interview? Here is everything about MERN Stack Interview Questions And Answers, Read more.",
-    "h1": [
-      "MERN Stack Interview Questions and Answers You Must Know"
-    ],
-    "content": "Skip to content Home > MERN Stack Interview Questions and Answers You Must Know MERN Stack Interview Questions and Answers You Must Know As the world of digitization progresses with the transition in the modern-day industry, companies and brands are looking forward to attaining a fast, dynamic and adequate investment in websites and applications. But the presence of a high number of development technologies has created a challenge for companies to choose the best, appropriate and proper technology for enhancing web application development. Table of Contents PriyankaS3ri May 24, 2021 6:01 pm As the world of digitization progresses with the transition in the modern-day industry, companies and brands are looking forward to attaining a fast, dynamic and adequate investment in websites and applications. But the presence of a high number of development technologies has created a challenge for companies to choose the best, appropriate and proper technology for enhancing web application development. Although complete stack front-end and back-end development are rising and running at the incredible speed of web development, new technology has made its path, the MERN stack. Cracking a MERN stack interview requires strong fundamentals and clarity on common MERN stack interview questions. This guide from 3RI Technologies covers essential MERN interview questions, including real-time MERN stack developer interview questions asked by top companies. Whether you’re prepping as a fresher or an experienced developer, these curated MERN stack questions will help you stand out. To build hands-on skills and boost your hiring potential, explore our practical, project-based MERN Stack Training. Master MongoDB, Express, React, and Node.js under expert mentorship and elevate your career. It is used to define open-source technology, including 4 JavaScript-based technologies like MongoDB, ExpressJS, AngularJS, and NodeJS. Any candidate who has learned about the MERN stack effectively can enjoy the perks of domain hosting to develop website pages and dynamic websites. And as the demand for this job post is rising and various companies hire MERN stack developers, this blog is framed for those candidates. If you Want to make a career as a Web Developer, Visit MERN Stack Classes in Pune Here we will discuss the interview question for MERN stack developers for supporting the candidate who is preparing for the interview of MERN stack. These MERN stack interview questions will help the candidates to represent their confident side in front of the interviewer. So let’s get started with it! Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Essential MERN Interview Questions for Developer Job Roles 1- Mention the purpose of MongoDB MongoDB is defined as the document acquainted database executive which is designed for storing the data. MongoDB stores the data under the format of binary JSON, which implements the theory of anthology and documentation. MongoDB has a NoSQL database equipped with high performance, high scalability, and seamless query and indexing flexibility. 2- Mention the purpose of ExpressJS ExpressJS can be explained as the web application framework designed to support and host NodeJS projects. ExpressJS is the open-source framework that is available under MIT. It manages the workflow between the front end and the database, facilitating the smooth and secure transfer of the data. In addition, ExpressJS is filled with excellent error-handling web design functionality for optimizing web development procedures. 3- What is the purpose of AngularJS? It is an open-source and front-end web application managed by Google. AngularJS allows web developers to use HTML for the template language and extend the syntax of HTML to represent the components of web applications clearly and precisely. 4- List the function of NodeJS NodeJS is an open-source cross-platform, which has a single-threaded JavaScript framework for developing server-side and networking applications. NodeJS is called the backbone of the MERN stack. C and C++ are the programming languages used by NodeJS apart from JavaScript. It is equipped with a web server that facilitates the smooth deployment of MongoDB and cloud applications. 5- State the IDE’s which are used in the development of NodeJS For the NodeJS development, the IDE’s which are used are discussed below ● Atom ● Cloud9 ● Eclipse ● Komodo IDE ● JetBrainWebStorm ● JetBrains IntelliJ IDEA 6- Explain Mongoose A mongoose is the object document mapper used for defining objects through a strongly typed schema that can be mapped to the MongoDB document. Thus, Mongoose offers a schema-based solution for modeling the application data. In addition, Mongoose had built-in typecasting, validation, query building, business logic hooks, and other features. 7- What is data modeling? This term is being used in the context of Mongoose and MongoDB. Data modeling is the procedure of creating the data model for data at hand and after which it can be stored in a database. The data model represents the data object, its relation, and rules which define the connections. With data modeling, data visualization can be represented while enforcing the data’s business rules, compliance, and policy. Data modeling is executed to ensure consistency on convention, values, semantics, security, and data quality. 8- Define REPL under NodeJS REPL is Read Eval Print Loop, the program for accepting commands, evaluating them, and printing results. Thus, REPL does the same that Unix or Linux used to create an environment for entering commands and systems that will respond to the output. 9- Explain scope in JavaScript Every JavaScript function represents the scope: collecting variables and rules that define the unique name access to the variable. A scope function can be operated through the code in the function. The variables are contained under a particular scope that has unique names. 10- List the difference between linear search and binary search Linear search Binary search Under linear search, the items will be considered one at a time without performing a jumping function. Linear search classified as O(n) within the time limit for searching of the list. On the other hand, the binary search starts searching under the middle of the item list. A binary search has been performed to identify the values greater or lesser than the desired value. Binary search is classified as O(logn). 11- Point the difference between NodeJS, AJAX, and jQuery NodeJS, AJAX, and jQuery are the implementation of JavaScript. But are slightly different from one another. The implement NodeJS is the server-side platform that is used for the development of the client-server application. On the other hand, AJAX is the client scripting technique used to render the content without refreshing the page. jQuery is the JavaScript that complements AJAX, DOM, traversal, and looping. This is loaded with a function for promoting JavaScript development. Looking forward to becoming a ReactJS Developer? Then get certified with ReactJS Online Course 12- Explain Dependency Injection This software allows injecting the service in ways that are independent of client consumption. With this, the client can be prevented from modifying dependencies underlying service changes. Dependency injection is operated for separating the client creation dependencies from the behavior, which lets you design a loosely coupled program. This function also allows the modification or tweaking of the behavior of the application through the components. 13- What is containerization? This is the alternative to traditional hypervisor machine virtualization, which involves encapsulating the application in the container within the operating environment. Under containerization, sharing of different containers is done instead of cloning the operating system for virtual machines. 14- What is the Test pyramid, and how do you actualize the test pyramid when examining HTTP APIs? The full-stack web applications are large and complex. They are being designed for expanding the functionalities for serving numerous requirements of the users. If the size of the full-stack code base and several users grows, the cost will also escalate. The test pyramid approach implies the radical way of thinking to estimate the numerous tests that should be created to balance the portfolio. For actualizing the test pyramid, follow the steps given ● Incorporation of the low-level unit tests for the model. ● Inclusion of joining test, which is used for determining the working of the model. ● Conclusion of acknowledgment tests which are used for testing HTTP endpoints. 15- What is the purpose of indexing in MongoDB? Indexes are being used for supporting and facilitating the execution of queries in MongoDB. MongoDB needs to scan every document if the index is not there and then select the appropriate form that matches the query statement. Or, if the query has an index assigned to it, MongoDB can use the index to limit the number of documents. 16- Share the difference between classes and interface in TypeScript They both are the structures that are responsible for promoting object-oriented programming and also checking type in TypeScript. But under the class, a blueprint is there, which allows the creation of objects collection which shares the same configuration. At the same time, the interface is the collection of properties and methods which describe the thing. It doesn’t provide implementation or initialization of the objects. 17- Explain decorators in typescript A decorator is a declaration attached to the class declaration, method, accessor, property, or parameter. They are functions that take their target as the argument. Decorators will allow you to run the arbitrary code in the target execution or replace the target with a new one. 18- Define callback in NodeJS The callback is asynchronous, which is equivalent to the function. NodeJS depends on the callbacks which are called at the culmination of the task given. After the exception of the file I/O is done, the call back function will come to the action for passing the content file. With callback, it is ensured that there will be no blocking or waiting of the file I/O. 19- Explain cross-site scripting The XSS or cross-site scripting is the client-side code within the malicious scripts executed in the web browser through including malicious codes in the most legitimate web page or application. Cross-site scripting can also occur when people click on the untrusted link, passing cookies and information to the hackers or attackers. 20- What is AOT? The angular application has HTML templates along with the components. The browser cannot understand the components and HTML template directly; hence angular application needs to be compiled before running to the browsers. AOT can convert angular HTML and TypeScript code to JavaScript code during the building phase before browsers download and run the code. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send 21- Define grid system in CSS The CSS system is used for stacking the content vertically and horizontally in a consistent and manageable manner. It has two components: rows and columns. The most used grid systems are Simple, Pure, Flexbox, Bootstrap, and Foundation. Interested to begin a career in ReactJS? Enroll now for React JS Classes in Pune 22- Name the various functions performed by REPL REPL performs the following functions ● Reading ● Evaluating ● Printing ● Looping 23- Mention the benefits of AOT Various benefits of AOT (ahead of time) are ● With AOT, the browser can download a pre-compiled version of the application. The browser will download the executable code for rending the application immediately. ● AOT compilers inline the HTML templates and CSS style sheets within the application JavaScript externally. It eliminates separate AJAX, which requests for source files. ● AOT compiler helps detect the reports through template binding errors. 24- Define MERN stack The term MERN stack can be defined as the collection of advancements that are based on JavaScript. MERN stack is used for creating web applications and pages. 25- State the abbreviation of MERN The abbreviated form of MERN is MongoDB ExpressJS ReactJS NodeJS 26- Describe the features of NodeJS Different components of NodeJS are ● Fast in code execution ● Single thread ascendible ● Usage of Library JavaScript ● No buffering 27- Explain event emitter under NodeJS The module named event emitter in NodeJS allows creating and damaging the custom events. Under this event, the module comprises the game class emitter, which can handle and raise custom events. Also, when the emitter comes across any error, the event will have some errors. On the other hand, the event emitter will send the demonstration with the new user’s name when any new user gets added. And when the user gets removed, the demonstration is named as a remote ad user. 28- State the meaning of NPM in NodeJS NPM can be said as a Node package manager. The main functionalities of NPM are given below. ● NPM works like the command-line utility for installing the packages. NPM carries out the management and dependency version of NodeJS packages. ● NPM can also work as an online repository in the NodeJS packages. It can be present in the .org file. 29- Describe non-obstructing feature under NodeJS The feature of non-obstruction or non-blocking implies that IO is non-blocking. This hub utilizes libuv for dealing with IO in a stage nationalist manner. Under windows, non obstructing operates finish ports for Unix, which uses poll or queue and more. Also, it makes the non-obstructing demand and on-demand. Finally, it lines the inside of the occasion circle, which calls the JavaScript callback in the fundamentals of JavaScript string. 30- State the feature which is utilized under the NodeJS for importing outside libraries The summon require is being utilized for bringing in the external libraries. Example “var HTTP=require (“HTTP”)”. It will stack up the HTTP library from which the single sent out for protesting through HTTP available. 31- Define occasion circle in NodeJS For processing and handling is an outside occasion, and for changing over them for callback summons, the occasion circle is optimized. With the lines I/O calls, NodeJS can start with demand onto next. 32- Give the advantages of utilizing NodeJS Different benefits of NodeJS are ● Using NodeJS will construct the simple method of adaptable system programs. ● Quick generally ● Simultaneously great ● Everything is asynchronous ● Never pieces Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes 33- State the kind of API work in NodeJS Mainly the two variants of API work under NodeJS ● Synchronous, which has to block capacities. ● Asynchronous, which have non-blocking capacities. 34- State the challenges with NodeJS The challenge of NodeJS is that it accentuates the technical side with the touch of the test under NodeJS for one process with the string for scaling up on the multi-center server. Enroll for MERN Stack Online Course and get in-depth knowledge of MERN Stack. 35- Describe non-hindering in NodeJS Non-hindering is just like non-obstruction. It implies non-blocking in IO. The hub present there will utilize with IO in a stage septic way. Under windows, the fulfillment of ports of Unix will use epoll or kqueue and more. 36- Define the term I/O It is the shorthand for information and yield, which will get to anything outside of the application. I/O will be stacked to the machine memory for running the program after the application begins. 37- Define occasion driven programming Of PC programming, occasion-driven writing computer programs is the programming worldview for which the program stream is being controlled to the occasions like messages from other projects and strings. Occasion driven programming is the application engineering system partitioned into two cases event selection and event handling. 38- Where to utilize NodeJS? NodeJS can be utilized under the following ● Web applications ● Network applications ● Distributed applications ● General reason application 39- State the contrast of AngularJS and NodeJS The web application improvement structure is AngularJS, and the runtime framework is NodeJS. 40- Define control stream work It is the non-specific code that keeps running in the middle of few non-concurrent work calls. 41- Describe the advantages of React JS The benefits of React JS are given under ● It increases the application performance through virtual DOM. ● The JSX of react JS can be easily read and write. ● Works effectively well on both client and server-side. ● React JS can be integrated with different frameworks. ● It made it easier to write UI test cases and integration with tools like JEST. 42- List the features of MongoDB Given the features of MongoDB are ● The data model is flexible in the documents. ● It has highly scalable and agile databases. ● It is faster than traditional databases. ● It expresses query language. 43- Discuss the significance of Replication in MongoDB The process of replication is defined as the synchronization of data across various servers. It provides redundancy which increases data availability. With the multiple data present on the different database servers, replication can protect the database from the single server loss. This process also all to recover from hardware failure and service interruptions. 44- List the limitations of the react function The limits are stated under ● ReactJS is just a library view and not a full-blown framework. ● For those candidates who are new to web development, React offers them the learning curve. ● Integrating ReactJS with the traditional MVC framework requires additional configurations. ● The complexity of code increases with inline templating and JSX. ● Many smaller components will lead to an over-engineering boilerplate. 45- Define asynchronous API Every API of Node is asynchronous, which means that it is non-blocking. Asynchronous API means that the server of NodeJS will never wait for API to return data. Instead, the server will move to the following API after calling it from a notification mechanism of events of NodeJS. Thus, it helps in getting the response from previous API calls. 46- When to embed one document with another in MongoDB Consider these before embedding the documents ● Containing the relationship between entitles. ● One too many connections. ● Reasons for the performance. 47- Mention the advantages of BSON in MongoDB Some advantage is discussed under ● BSON has been designed to become efficient in space, but it’s not more effective than JSON in some cases. BSON uses more space because of the designer goals and traversability. ● BSON can easily encode and decode but uses more space than JSON for small integers. ● BSON adds up the additional data types unavailable in JSON. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send 48- State the solution of avoiding callback hell under NodeJS The methods for preventing callback hell are ● Making the programming modular. ● By using the async/await mechanism. ● Through the use of the promise mechanism. ● Through the use of generators. 49- Define pure components Pure components are the same as components ex forceps handling shouldComponentUpdate. When the props or the states are changed, the pure element will make a shallow comparison on both props and states. But component doesn’t use current props and state to the next box. 50- State the meaning of reacting hooks Hooks are the newly updated feature of React 16.8. With this, you can use state and different React features without the class. With hooks, extracting the stateful logic from the component is more accessible and can be tested independently and reused. Moreover, it allows using of stateful logic without changing component hierarchy. With this, one can easily share the hooks amongst many components or with the community. With this, the list of MERN interview questions ends here. We hope that this list or guide will help the candidates to crack the MERN interview of any company. You can also learn various full-stack languages to become the master of the MERN stack. So start your preparation today and stay tuned with 3RI Technologies for more blogs like this. Prev Previous Top Tosca Interview Questions and Answers You Must Know Next What is Tosca? Learn tool details, uses, and benefits. Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -89,257 +71,76 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2021/05/24/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-online-training/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/reactjs-training-in-pune/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/tosca-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/what-is-tosca/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "MERN Stack Interview Questions And Answers | 3RI Technologies Pvt Ltd",
-    "og_description": "Are you looking for the preparation for MERN Stack Interview? Here is everything about MERN Stack Interview Questions And Answers, Read more.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "MERN Stack Interview Questions and Answers You Must Know",
-            "datePublished": "2021-05-24T12:31:24+00:00",
-            "dateModified": "2025-05-20T05:17:00+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/"
-            },
-            "wordCount": 3210,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/05/MERN-Stack-Interview-Questions-and-Answers-1.jpg",
-            "keywords": [
-              "Angular Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "Interview Questions And Answers",
-              "Programming",
-              "Web Technologies",
-              "Website Development"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/",
-            "url": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/",
-            "name": "MERN Stack Interview Questions And Answers | 3RI Technologies Pvt Ltd",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/05/MERN-Stack-Interview-Questions-and-Answers-1.jpg",
-            "datePublished": "2021-05-24T12:31:24+00:00",
-            "dateModified": "2025-05-20T05:17:00+00:00",
-            "description": "Are you looking for the preparation for MERN Stack Interview? Here is everything about MERN Stack Interview Questions And Answers, Read more.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2021/05/MERN-Stack-Interview-Questions-and-Answers-1.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/05/MERN-Stack-Interview-Questions-and-Answers-1.jpg",
-            "width": 1000,
-            "height": 667,
-            "caption": "MERN Stack Interview Questions and Answers"
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/mern-stack-interview-questions-and-answers/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "MERN Stack Interview Questions and Answers You Must Know"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "MERN Stack Interview Questions and Answers",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Mern Stack Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Interview+Questions+And+Answers%2C+Programming%2C+Web+Technologies%2C+Website+Development&cd%5Bpage_title%5D=MERN+Stack+Interview+Questions+and+Answers+You+Must+Know&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=52181&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fmern-stack-interview-questions-and-answers%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

@@ -1,28 +1,11 @@
 {
   "url": "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
     "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "schema"
   ],
-  "old": {},
-  "new": {
-    "title": "Data Science Course in Pune | Training with Placement – 3RI",
-    "meta_description": "Data science training in Pune: Python, SQL, machine learning, GenAI and Power BI. Classroom, online or hybrid batches, real projects, placement assistance.",
-    "h1": [
-      "Data Science Course in Pune"
-    ],
-    "content": "Skip to content Classroom in Pune Live online Hybrid Data Science Course in Pune Learn Python, SQL, machine learning, Power BI and Generative AI in 5 months. Build 21 real projects, get your portfolio reviewed, and practise interviews with our placement team until you are ready to apply. Taught by Aswathi Sasidharan Data Science & AI Consultant · 8+ years in analytics Book a free demo class Get the syllabus PDF ★ 4.8/5 from 4,000+ Google reviews 700+ placements a year Training in Pune since 2010 Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . 10 modules Statistics to Generative AI 5 months Weekday, weekend and fast-track batches 21 projects Including 2 capstone projects Beginner friendly No coding background needed 2 certificates Course completion and internship About Syllabus Projects Trainer Batches & fees Careers Reviews Locations FAQs Enroll now About this data science course This course is for people in Pune who want a job in data, not just another certificate. You start with the basics that every analyst needs (statistics, Excel and SQL), move on to Python and machine learning, and finish with deep learning, Generative AI and Power BI dashboards. Every module ends with hands-on work on real datasets. By the last month you will have a GitHub portfolio of projects you can open in an interview and explain line by line. You can take the same course in a classroom at one of our three Pune branches, live online from anywhere in India, or as a hybrid where you learn online and do project work on campus. You don’t need a coding or maths background. A typical batch mixes fresh graduates, working professionals switching careers, and people restarting after a break. The trainer starts from the fundamentals and reviews your code as you go, so nobody gets left behind. What you’ll learn Clean, explore and analyse real datasets with Python, Pandas, NumPy and SQL Build, test and tune machine learning models, from linear regression to random forests and XGBoost Train neural networks for images, text and time-series data Turn raw data into Power BI dashboards a manager can actually use Use ChatGPT, Claude and prompt engineering to speed up everyday data work Explain your projects with confidence in interviews and case-study rounds Certificates Course completion and internship certificate Ways to learn Classroom, live online or hybrid Support 24x7 doubt support and lifetime access to study material Payment EMI available at 0% interest Skills you’ll gain Python SQL and MySQL Statistics Probability MS Excel Pandas NumPy Matplotlib Seaborn SciPy Exploratory data analysis Feature engineering Machine learning Scikit-learn XGBoost Deep learning NLP Time-series forecasting Generative AI Prompt engineering Power BI Power Query Tableau Git and GitHub Who this course is for Anyone who is a graduate, a postgraduate, a college student or a working professional can join. Knowing some Python, SQL or statistics helps, but it is not required, because we teach all of it from the start. Fresh graduates You want your first job as a data analyst or data scientist and need real projects to talk about in interviews. Working professionals You work in IT, finance, sales or operations and want to move into a data role without quitting your job. Evening and weekend batches fit around work. Non-IT backgrounds You come from commerce, arts, mechanical or another field. We start with Excel and basic statistics before any code. Career restarters You have a career gap and want an up-to-date, practical skill set and help getting back into interviews. Final-year students You want to graduate with a portfolio and an internship certificate, not just a degree. Not sure yet? Read our guide to data science course eligibility after 12th and graduation , or book a free demo class. How you’ll learn Theory is kept short. Each concept is explained, practised in a lab, and then used in a project before you move on. Stage What the trainer does What you get Concept building Explains statistics, ML basics and data science ideas with examples from real businesses A solid analytical foundation Hands-on labs Walks you through Python notebooks, SQL queries, EDA and model building, step by step Practical, tool-based skills Assignments and projects Reviews your code, points out mistakes, and runs business case studies in ML, analytics and dashboards Project experience employers ask about Interview preparation Runs ML questions, case studies and mock interviews Confidence for data science hiring rounds Syllabus 2026 Data science course syllabus: 10 modules The syllabus works for complete beginners and for working professionals. Each module builds on the one before it. Select a module to see what it covers. Module 1: Statistics and data science fundamentals The maths you actually need, explained with examples before formulas. Data science basics What data science is and why companies need it, big data, how data science relates to machine learning, the data science life cycle, platforms, real use cases and the skills a data scientist needs. Mathematics for data science Linear algebra and matrices: zero, one, identity, diagonal, column and row matrices, and matrix operations. Statistics Structured and unstructured data, measures of central tendency and dispersion, the empirical rule, confidence intervals and the central limit theorem. Probability and distributions Probability theory, conditional probability, data distributions, and normal and binomial distributions. Hypothesis testing Large vs small sample tests, one-sample z-test, one- and two-sample t-tests, testing population means, and the chi-square test. Module 2: MS Excel for analysis Still the quickest way to check data in most offices, so we make sure you are fluent. Working with spreadsheets Ranges and selection, fill and sequences, adding and moving cells, formulas, and relative vs absolute references. Everyday functions SUM, AVERAGE, COUNT, MAX, MIN, RANDBETWEEN, TRIM, LEN, CONCATENATE, TODAY and NOW. Logical functions IF, IF with calculations, COUNTIF and COUNTIFS. Charts Visualising data with charts, chart elements and styles, data labels and quick layouts. Module 3: SQL and relational databases Querying, joining and summarising data, the skill almost every data job in Pune asks for. RDBMS and data retrieval Introduction to RDBMS and SQL, retrieving data, wildcard pattern matching and sorting with ORDER BY. Aggregation and joins Aggregate functions, GROUP BY, HAVING, nested queries, and inner, multi and outer joins. Changing tables Adding and deleting columns, renaming columns and changing data types, creating tables from existing tables, and foreign key constraints. Module 4: Python for data science From your first line of Python to analysing data with NumPy, Pandas and Matplotlib. Python basics Why Python, setting up the environment, identifiers and keywords. Control flow and files Data types and variables, conditions and loops, decorators, and working with files and directories. Core objects and functions Strings, lists, dictionaries and tuples, built-in functions and writing your own functions. NumPy Array operations and functions, mean, standard deviation, max and min, reshaping and resizing, random functions and transpose. Pandas Series and DataFrames, selecting and retrieving data, describe and info, pivoting, and combining data with merge and concatenation. Matplotlib Basic plots and containers, components and properties, scatter plots, histograms, bar and pie charts, and box plots. SciPy Hypothesis testing with SciPy: Shapiro, Spearman, independent t-test and chi-square. Want more Python first? See our Python training in Pune . Module 5: Machine learning Preparing data, building models, and knowing whether a model is actually any good. Exploratory data analysis Exploring data, handling missing values and outliers, feature engineering, train-test split, standard and min-max scaling, pre-processing, and up- and down-sampling. Supervised learning Linear regression, R² and adjusted R², MSE and RMSE, gradient descent and logistic regression. Model evaluation and more algorithms Accuracy, precision, recall, F1 score, confusion matrix, classification report, k-fold cross-validation, ROC and AUC, k-nearest neighbours, decision trees, random forest, support vector machines and hyperparameter tuning. Unsupervised learning Similarity measures, k-means clustering and the elbow method. Ensembles and dimensionality reduction Bagging, boosting and principal component analysis. Module 6: Artificial intelligence and deep learning Neural networks for text, images and time-series data. AI foundations What AI is, its history, and where the market is heading. Natural language processing Tokenisation, part-of-speech tagging, named entity recognition, semantic analysis and sentiment analysis. Artificial neural networks How ANNs work, ReLU and softmax activations, and building and evaluating an ANN. Convolutional neural networks Convolution and filtering, padding, max pooling, dense layers, and building and evaluating a CNN. Recurrent neural networks How RNNs work, building and evaluating an RNN, and LSTM. Time-series data Cleaning and pre-processing time-series data, and forecasting with LSTM and ARIMA. Module 7: Generative AI How large language models work and how to use them well in real data work. Foundations of AI How AI evolved from the 1950s to today, including the Turing Test and Deep Blue; ML, deep learning, neural networks, perceptrons and transformers such as BERT and GPT; narrow, general and superintelligent AI; and real applications in customer service, marketing and finance. Introduction to Generative AI What Generative AI is, how it differs from traditional AI, large language models, and how GPT, Gemini and Claude compare. Prompt engineering and task automation Prompt structure (context, task, output), zero-shot, few-shot, chain-of-thought, ReAct and role-based prompting, common mistakes and how to fix them, reusable prompt templates, and hands-on task automation with ChatGPT and Claude. Related course: Generative AI course in Pune . Module 8: Git and GitHub Version control, so your projects live in a portfolio recruiters can see. Introduction to Git and distributed version control, the Git life cycle, clone and commit, push and update, and stash, move, rename and delete operations. Module 9: Data visualisation with Power BI From connecting to data to publishing a dashboard people can use. Getting started with Power BI Why businesses need BI, Power BI Desktop, Service and Mobile, Report Builder vs paginated reports, installation, the interface, and data sources such as Excel, CSV, SQL Server, web APIs, Azure, SharePoint, OneDrive and folders. Loading and transforming data with Power Query Import vs DirectQuery; splitting, merging and renaming columns; changing data types; column from examples; filtering, sorting and grouping rows; handling missing values; removing duplicates; pivot and unpivot; and conditional columns. Visuals and dashboards Bar, line, pie and donut charts, matrix and table visuals, cards, maps, slicers and filters, synced slicers, drill-down and drill-through, tooltips, formatting and custom themes. Related course: Power BI course in Pune . Module 10: Projects and case studies Machine learning, deep learning and Power BI projects, two capstones, and industry case studies. This is where everything comes together. See the full list of projects you’ll build . Syllabus updated October 2026. Module content is reviewed as tools and hiring needs change, so your batch may include newer topics. Projects you’ll build You will work on 21 real-time projects during the course. Every project goes on your GitHub, and the trainer reviews your code before it does. Here is a selection. Machine learning Profit prediction for startups with multiple linear regression Diabetes, pre-diabetes and non-diabetes classification with multiclass logistic regression Spam mail detection with gradient boosting, XGBoost and random forest Drug classification with k-nearest neighbours Loan defaulter classification with SVM Customer grouping with k-means and agglomerative clustering Product associations with association rule mining Deep learning and AI Power plant energy prediction with an ANN CIFAR-10 image classification with a CNN Handwritten digit classification with a CNN IMDB movie review sentiment analysis with an RNN Air passenger forecasting with ARIMA Next-word generator with NLP and LSTM Power BI dashboards Retail sales dashboard: sales vs target KPIs, category and region breakdown HR analytics dashboard: attrition, hiring trends, department analysis Financial performance report: P&L view, trends and year-on-year comparison Supply chain and inventory dashboard: stock levels and supplier performance Capstone projects Delivery duration prediction Predict how long an order will take to arrive, from raw data to a tested model. Machine failure prediction Predict equipment failure early, so parts can be replaced before a breakdown. Industry case studies These case studies follow a real project from data collection to cloud deployment, including how to choose features and models, how much data is enough, and how CI/CD works in a data project. Domain The business problem What you practise Insurance Decide a client’s premium from their profile, to keep existing clients and win new ones Feature selection, model choice, CI/CD and cloud deployment Healthcare imaging Help a hospital detect pneumonia in chest X-rays automatically Image pre-processing and augmentation, transfer learning, incremental learning HR and NLP Assess a job applicant’s level of English communication Text representation and pre-processing, transfer learning for text Manufacturing Predictive maintenance of engine parts, so they are replaced before a machine fails Time-series pre-processing and ML/DL models for time-series data Sales Forecast product demand so the company can plan stock and staff Time-series forecasting and deployment Tools you’ll use You practise every tool on real datasets, in the same environments data teams use: Jupyter Notebook, Google Colab and GitHub. MySQL NumPy Power BI Tableau MS Excel ChatGPT Also covered: Python, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, XGBoost, TensorFlow and Keras, Power Query, Git and Claude. Meet your trainer Aswathi Sasidharan Data Science & AI Consultant, 3RI Technologies 8+ years in analytics Python, SQL, ML, Power BI Mentors career switchers Our data science mentors are working data scientists and analysts who have worked across retail, banking, healthcare, telecom and SaaS. They teach the way data work is actually done in companies: how a project goes from data collection to deployment, how data scientists work with engineering and business teams, and which skills matter most for entry and mid-level roles. They have guided hundreds of learners from non-tech backgrounds, and they are good at explaining hard ideas simply. They don’t just prepare you for a certificate. They prepare you for your first day in a data job. View Aswathi’s LinkedIn profile Why learn data science with 3RI Technologies 3RI Technologies has trained IT professionals in Pune since 2010. We run classroom training from three Pune branches and live online batches for learners across India. 15+ years Training in Pune since 2010 4.8/5 From 4,000+ Google reviews 700+ Placements a year 50+ Hiring partners Live, instructor-led classes, in class or online, with time to ask questions Projects in every module, a certified capstone project and an internship certificate Dedicated mentors for doubts, 24x7 support and lifetime access to study material ISO certified, with Pearson VUE and GASQ partnerships Upcoming data science batches in Pune Pick a batch that fits your day. If none of these timings work for you, ask us about the next one. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 Data Science 27-Oct-26 Mon- Thu 12:30 PM Enroll Now 2 Python 24-Oct-26 Sat - Sun 02:00 PM Enroll Now 3 Data Analytics 24-Oct-26 Sat - Sun 12:15 PM Enroll Now 4 GenAI 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 5 Machine Learning & Deep Learning 28-Oct-26 Mon- Fri 04:00 PM Enroll Now 6 PowerBI 24-Oct-26 Sat - Sun 12:00 PM Enroll Now 7 MySQL 27-Oct-26 Tue - Fri 05:30 PM Enroll Now 8 MySQL 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 9 Soft Skills 25-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 26-Oct-26 Mon - Fri 04:00 PM Enroll Now Batch options Batch When Best for Weekday morning Monday to Friday, 7:00 AM to 9:00 AM Students and job seekers with free mornings Weekday evening Monday to Friday, 7:00 PM to 9:00 PM Working professionals, after office hours Weekend Saturday and Sunday, 9:00 AM to 1:00 PM Working professionals (our most popular batch) Fast track Daily intensive sessions, 2 to 3 months Anyone who wants to finish quickly Live online As per batch schedule Learners anywhere in India: same syllabus, trainers and placement support Regular batches take 4 to 5 months to complete. Data science course fees in Pune Your fee depends on the batch type, the mode (classroom, online or hybrid) and any offer running that month, so we don’t print a number that could be out of date. Call or WhatsApp us and a counsellor will share the exact fee, current discount and EMI breakdown in about 5 minutes. There is no pressure to enrol on the call. 0% interest EMI When you pay Share of fee On registration 10% 1st instalment, first month of joining 70% 2nd instalment, second month 20% No hidden charges. Discounts are available. What other courses cost Across Pune, intermediate data science programs of 4 to 6 months usually cost ₹35,000 to ₹70,000, and advanced industry programs cost ₹80,000 to ₹1.5 lakh. For a full breakdown, read our guide to data science course fees and duration in Pune . Ask for today’s fee on WhatsApp Data science jobs and salaries in Pune Pune has become one of India’s busiest markets for data jobs. Companies in Hinjewadi, Kharadi, Baner and Magarpatta are building analytics teams across IT services, product companies, manufacturing, banking and healthcare, and many still struggle to find trained people. Roles you can apply for Data analyst Analyse business data, build dashboards and reports. The most common entry-level role, hiring in every industry. Data scientist Build predictive models and use machine learning to solve business problems. Machine learning engineer Develop, test and deploy ML models into production systems. Business intelligence analyst Use Power BI and Tableau to turn raw data into business decisions. Data engineer Build and maintain data pipelines. One of the best-paid entry paths. AI and GenAI analyst A newer role that combines data skills with generative AI tools. Few trained candidates exist yet. Typical data science salaries in Pune Experience Typical salary Fresher (0 to 1 year) ₹4 to 7 LPA Early career (1 to 3 years) ₹7 to 12 LPA Mid level (3 to 5 years) ₹12 to 18 LPA Senior data scientist (5+ years) ₹18 to 30 LPA and above Salaries vary by company, role and skills. For more detail, see job opportunities after a data science course in Pune and our career roadmap after a data science course . Industries hiring in Pune IT and software Banking, financial services and insurance Manufacturing and automotive (Tata Motors, Cummins, KPIT) E-commerce and retail Healthcare and pharma Edtech and startups Placement support Placement support starts before the course ends and doesn’t stop on the last day of class. If you have finished your projects and are actively interviewing but haven’t got an offer yet, our placement team keeps sharing openings, helps you fix your resume based on interview feedback, and keeps you in the interview loop until you are placed. We trained you, and we want to see you hired. How placement support works Eligibility check. Complete your projects and assessments. Interview questions and answers. Practise the questions data science interviewers ask most. Resume and LinkedIn. Build a resume and LinkedIn profile around your projects. Aptitude and soft skills. Prepare for aptitude tests and HR rounds. SuperOver mock interviews. A 5-day program of mock interviews with feedback. Interview scheduling. We line up interviews with our hiring partners. Job placement. We stay with you until you get an offer. Where our data science students work Our students have been hired by TCS, Cognizant, Infosys, IBM, Accenture, Capgemini, Persistent Systems, Zensar Technologies, KPIT Technologies, Mphasis, ZS Associates, Siemens, Citibank, PubMatic, Thoughtworks, R Systems, BMC Software, Markets and Markets, Synerzip and Veritas, along with many Pune-based startups and analytics firms. Your certificate When you finish the course and your projects, you receive a 3RI Technologies course completion certificate and an internship certificate. Add both to your resume and LinkedIn profile, along with the GitHub projects that back them up. Want to add a global certification as well? Ask our counsellors about certification exam support. How to join Talk to a counsellor or join a free demo. Tell us about your background and goals, and see a live class before you decide. Submit your application. A short form about you and why you want to learn data science. Get confirmed and pick your batch. Our admissions team reviews your application and confirms your seat. Then choose classroom, online or hybrid and a timing that fits. Book a free demo class Call +91 830 810 3366 Student Reviews What Our Students Say About Us! Where to attend data science classes in Pune Join a classroom batch at whichever of our three Pune branches is closest to you, or attend the same course live online. Pimple Saudagar 405, 4th Floor, Rainbow Plaza, Pimple Saudagar, Pune 411017 Handy for Wakad, Hinjewadi, Pimple Gurav, Rahatani, Aundh and Pimpri-Chinchwad. Get directions to Pimple Saudagar Call or WhatsApp: +91 830 810 3366 · Email: [email protected] Inside our classes Data science course in Pune: FAQs How long is the data science course in Pune? The regular course takes about 5 months (4 to 5 months depending on your batch). The fast-track batch takes 2 to 3 months with daily sessions. Online batches follow the batch schedule. What are the data science course fees in Pune at 3RI Technologies? The fee depends on the batch type, the mode (classroom, online or hybrid) and current offers, so call or WhatsApp us on +91 830 810 3366 for the exact figure. You can pay through 0% interest EMI: 10% on registration, 70% in the first month and 20% in the second. For comparison, most 4 to 6 month data science programs in Pune cost ₹35,000 to ₹70,000. See our data science course fees and duration guide . Can I join without a coding or IT background? Yes. The course starts with Excel, basic statistics and Python from scratch, and many of our students come from commerce, arts, mechanical and other non-IT fields. Read who is eligible for a data science course . Who is eligible for data science training in Pune? Graduates, postgraduates, college students and working professionals from any stream can join. Knowing some Python, SQL or statistics helps but is not required. Do you offer data science classes on weekends? Yes. The weekend batch runs on Saturday and Sunday from 9:00 AM to 1:00 PM and is our most popular batch with working professionals. We also run weekday morning and evening batches. Can I take the course online instead of in a classroom? Yes. Live online batches use the same syllabus, the same trainers and the same placement support as our Pune classroom batches. You can also choose hybrid: learn online and do project work on campus. We also have a dedicated online data science course page. Which programming languages and tools will I learn? You will mainly use Python and SQL, along with Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, XGBoost, TensorFlow and Keras, Power BI, Excel, Git and GitHub, and Generative AI tools like ChatGPT and Claude. Do you provide placement assistance after the course? Yes. Placement support covers interview questions, resume and LinkedIn building, aptitude and soft skills, a 5-day mock interview program, and interview scheduling with our hiring partners. If you are interviewing but not yet placed after the course, we keep supporting you until you are. What salary can I expect after a data science course? In Pune, freshers in data roles typically earn ₹4 to 7 LPA. With 1 to 3 years of experience this usually rises to ₹7 to 12 LPA, and senior data scientists can earn ₹18 to 30 LPA or more. Your salary depends on the company, the role and your skills. Will I work on real projects? Yes. You build 21 real-time projects, including two capstones (delivery duration prediction and machine failure prediction), plus Power BI dashboards and industry case studies in insurance, healthcare, HR, manufacturing and sales. What certificate will I get? You receive a 3RI Technologies course completion certificate and an internship certificate once you finish the course and projects. Can I attend a demo class before joining? Yes. You can join a free demo class online or on campus. Use the Book a free demo class button on this page, or call +91 830 810 3366. Where are your data science classes in Pune? We have three branches: Pimple Saudagar (Rainbow Plaza), Deccan (DurgaShankar, near Sambhaji Park) and Nal Stop (Mantri Vertex, Law College Road). You can also join live online from anywhere. What happens if I have doubts after the course ends? You keep lifetime access to the study material, and you can reach our mentors for doubt clearing after the course. Not sure if data science is right for you? Talk to a counsellor for free. We’ll look at your background and tell you honestly which path fits. Book a free demo class Chat on WhatsApp Further reading What is data science? (with examples) Data science course fees and duration in Pune Getting into data science from a non-technical background Can a non-IT person build a machine learning career? AI, machine learning or data science: which should you choose? Data science vs machine learning Data science vs artificial intelligence What is a data engineer? Skills, career and salary Top companies hiring data scientists Industries hiring data science experts Most in-demand data science certifications How to write a data scientist resume 5 soft skills to put on a data science resume 5 habits of successful data scientists Top 10 machine learning algorithms to learn Lambda functions in Python for data science 12 advanced Excel features worth knowing What is ChatGPT used for? Is AI going to replace you? Real-life applications of data science Related courses Data analytics course in Pune Python training in Pune Power BI course in Pune Generative AI course in Pune 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -130,100 +113,6 @@
         "title": ""
       }
     ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/ai-going-to-replace-you/",
-      "https://www.3ritechnologies.com/ai-vs-ml-vs-data-science-what-should-you-learn-in-2024/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/career-roadmap-after-data-science-course-in-pune/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-online-training/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-course-in-pune/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/data-science-course-eligibility-after-12th-graduation/",
-      "https://www.3ritechnologies.com/data-science-course-fees-duration-pune/",
-      "https://www.3ritechnologies.com/data-science-for-non-technical-background/",
-      "https://www.3ritechnologies.com/data-science-soft-skill-resume/",
-      "https://www.3ritechnologies.com/data-science-vs-artificial-intelligence/",
-      "https://www.3ritechnologies.com/data-science-vs-machine-learning/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/habits-of-a-successful-data-scientist/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/job-opportunities-after-data-science-course-in-pune/",
-      "https://www.3ritechnologies.com/lambda-functions-in-python-for-data-science-and-data-analytics/",
-      "https://www.3ritechnologies.com/most-in-demand-data-science-certifications/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/resume-of-a-data-scientist/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/top-10-machine-learning-algorithms-and-models/",
-      "https://www.3ritechnologies.com/top-12-advanced-features-of-ms-excel-in-2025/",
-      "https://www.3ritechnologies.com/top-20-companies-hiring-for-data-scientists-in-2024/",
-      "https://www.3ritechnologies.com/top-applications-of-data-science-in-real-life/",
-      "https://www.3ritechnologies.com/what-is-a-data-engineer-skills-career-job-salary/",
-      "https://www.3ritechnologies.com/what-is-chatgpt-used-for/",
-      "https://www.3ritechnologies.com/what-is-data-science-with-example/",
-      "https://www.3ritechnologies.com/which-industries-professions-use-data-science/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Data Science Course in Pune | Training with Placement – 3RI",
-    "og_description": "Data science training in Pune: Python, SQL, machine learning, GenAI and Power BI. Classroom, online or hybrid batches, real projects, placement assistance.",
     "schema": [
       {
         "@context": "https://schema.org",
@@ -637,8 +526,530 @@
           }
         ]
       }
+    ]
+  },
+  "new": {
+    "images": [
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDE0MCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIxNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Master Data analytics with 3RI Technologies By using powerful tools i.e MySQL.",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTEwIDQ1IiB3aWR0aD0iMTEwIiBoZWlnaHQ9IjQ1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "NumPy logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTMxIDQwIiB3aWR0aD0iMTMxIiBoZWlnaHQ9IjQwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "Excel Power BI at 3RI Technologies to Build a successful career in Data Science.",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTk0IDQwIiB3aWR0aD0iMTk0IiBoZWlnaHQ9IjQwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "Tableau logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAgNDAiIHdpZHRoPSI4MCIgaGVpZ2h0PSI0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Master MS Excel Tool with 3RI Technologies to streamline data analysis and improve efficiency",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDg4IiB3aWR0aD0iMzAwIiBoZWlnaHQ9Ijg4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "ChatGPT Tool to excel in AI and machine learning with 3RI technologies",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDIzMSIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyMzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDEyOCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDEyOCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDEyOCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDEyOCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDEyOCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA3NjgiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9Ijc2OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Sample 3RI Technologies course completion certificate",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Data science students working on laptops during a classroom session at 3RI Technologies",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Live online data science class with students joining on video",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Students practising data science exercises on laptops in class",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "A full data science batch in a 3RI Technologies classroom in Pune",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=Data+Science+Training+in+Pune&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=682&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcourse%2Fdata-science-training-in-pune%2F",
+        "alt": "",
+        "title": ""
+      }
     ],
-    "status_code": 200
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+            "url": "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+            "name": "Data Science Course in Pune | Training with Placement – 3RI",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/course/data-science-training-in-pune/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/course/data-science-training-in-pune/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/aswathi-one-150x150.webp",
+            "datePublished": "2019-07-05T11:56:29+00:00",
+            "dateModified": "2026-10-29T10:04:07+00:00",
+            "description": "Data science training in Pune: Python, SQL, machine learning, GenAI and Power BI. Classroom, online or hybrid batches, real projects, placement assistance.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/course/data-science-training-in-pune/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/course/data-science-training-in-pune/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/course/data-science-training-in-pune/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/aswathi-one.webp",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/aswathi-one.webp",
+            "width": 1000,
+            "height": 769
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/course/data-science-training-in-pune/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Courses",
+                "item": "https://www.3ritechnologies.com/course/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Data Science Training in Pune"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": [
+              "EducationalOrganization",
+              "LocalBusiness"
+            ],
+            "@id": "https://www.3ritechnologies.com/#branch-pimple-saudagar",
+            "name": "3RI Technologies - Pimple Saudagar",
+            "url": "https://www.3ritechnologies.com/contact-us/",
+            "telephone": "+91-8308103366",
+            "email": "enquiry@3ritechnologies.com",
+            "image": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/gl1.webp",
+            "parentOrganization": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "405, 4th Floor, Rainbow Plaza, Pimple Saudagar",
+              "addressLocality": "Pune",
+              "addressRegion": "Maharashtra",
+              "postalCode": "411017",
+              "addressCountry": "IN"
+            },
+            "hasMap": "https://www.google.com/maps/search/?api=1&query=3RI%20Technologies%2C%20405%2C%204th%20Floor%2C%20Rainbow%20Plaza%2C%20Pimple%20Saudagar%2C%20Pune%20411017",
+            "areaServed": {
+              "@type": "City",
+              "name": "Pune"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 18.5960156,
+              "longitude": 73.7884298
+            }
+          },
+          {
+            "@type": [
+              "EducationalOrganization",
+              "LocalBusiness"
+            ],
+            "@id": "https://www.3ritechnologies.com/#branch-deccan",
+            "name": "3RI Technologies - Deccan",
+            "url": "https://www.3ritechnologies.com/contact-us/",
+            "telephone": "+91-8308103366",
+            "email": "enquiry@3ritechnologies.com",
+            "image": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/gl1.webp",
+            "parentOrganization": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "301, 3rd Floor, DurgaShankar, Shubham Hotel Lane, Opp. Sambhaji Park, Deccan",
+              "addressLocality": "Pune",
+              "addressRegion": "Maharashtra",
+              "postalCode": "411004",
+              "addressCountry": "IN"
+            },
+            "hasMap": "https://www.google.com/maps/search/?api=1&query=3RI%20Technologies%2C%20301%2C%203rd%20Floor%2C%20DurgaShankar%2C%20Shubham%20Hotel%20Lane%2C%20Opp.%20Sambhaji%20Park%2C%20Deccan%2C%20Pune%20411004",
+            "areaServed": {
+              "@type": "City",
+              "name": "Pune"
+            }
+          },
+          {
+            "@type": [
+              "EducationalOrganization",
+              "LocalBusiness"
+            ],
+            "@id": "https://www.3ritechnologies.com/#branch-nal-stop",
+            "name": "3RI Technologies - Nal Stop",
+            "url": "https://www.3ritechnologies.com/contact-us/",
+            "telephone": "+91-8308103366",
+            "email": "enquiry@3ritechnologies.com",
+            "image": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/gl1.webp",
+            "parentOrganization": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4th Floor, Mantri Vertex, Above Kaya Clinic, Law College Road",
+              "addressLocality": "Pune",
+              "addressRegion": "Maharashtra",
+              "postalCode": "411004",
+              "addressCountry": "IN"
+            },
+            "hasMap": "https://www.google.com/maps/search/?api=1&query=3RI%20Technologies%2C%204th%20Floor%2C%20Mantri%20Vertex%2C%20Above%20Kaya%20Clinic%2C%20Law%20College%20Road%2C%20Pune%20411004",
+            "areaServed": {
+              "@type": "City",
+              "name": "Pune"
+            }
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#person-aswathi-sasidharan",
+            "name": "Aswathi Sasidharan",
+            "jobTitle": "Data Science & AI Consultant",
+            "worksFor": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": "https://www.3ritechnologies.com/wp-content/uploads/2026/07/aswathi-one.webp",
+            "sameAs": [
+              "https://www.linkedin.com/in/aswathi-sasidharan7574"
+            ]
+          },
+          {
+            "@type": "Course",
+            "@id": "https://www.3ritechnologies.com/course/data-science-training-in-pune/#course",
+            "name": "Data Science Course in Pune",
+            "url": "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+            "description": "Data science training in Pune covering statistics, MS Excel, SQL, Python, machine learning, AI and deep learning, Generative AI, Git and Power BI, with 21 real-time projects and placement assistance. Available in classroom, live online and hybrid batches.",
+            "provider": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "inLanguage": "en",
+            "isAccessibleForFree": false,
+            "timeRequired": "P5M",
+            "coursePrerequisites": "No prior coding or data background required.",
+            "educationalCredentialAwarded": "Course completion certificate and internship certificate",
+            "teaches": [
+              "Statistics for Data Science",
+              "MS Excel",
+              "SQL",
+              "Python",
+              "Machine Learning",
+              "Deep Learning",
+              "Generative AI",
+              "Git",
+              "Power BI"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/course/data-science-training-in-pune/"
+            },
+            "hasCourseInstance": [
+              {
+                "@type": "CourseInstance",
+                "courseMode": "Onsite",
+                "location": [
+                  {
+                    "@id": "https://www.3ritechnologies.com/#branch-pimple-saudagar"
+                  },
+                  {
+                    "@id": "https://www.3ritechnologies.com/#branch-deccan"
+                  },
+                  {
+                    "@id": "https://www.3ritechnologies.com/#branch-nal-stop"
+                  }
+                ],
+                "instructor": {
+                  "@id": "https://www.3ritechnologies.com/#person-aswathi-sasidharan"
+                }
+              },
+              {
+                "@type": "CourseInstance",
+                "courseMode": "Online",
+                "instructor": {
+                  "@id": "https://www.3ritechnologies.com/#person-aswathi-sasidharan"
+                }
+              },
+              {
+                "@type": "CourseInstance",
+                "courseMode": "Blended",
+                "location": [
+                  {
+                    "@id": "https://www.3ritechnologies.com/#branch-pimple-saudagar"
+                  },
+                  {
+                    "@id": "https://www.3ritechnologies.com/#branch-deccan"
+                  },
+                  {
+                    "@id": "https://www.3ritechnologies.com/#branch-nal-stop"
+                  }
+                ],
+                "instructor": {
+                  "@id": "https://www.3ritechnologies.com/#person-aswathi-sasidharan"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How long is the data science course in Pune?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>The regular course takes about 5 months (4 to 5 months depending on your batch). The fast-track batch takes 2 to 3 months with daily sessions. Online batches follow the batch schedule.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the data science course fees in Pune at 3RI Technologies?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>The fee depends on the batch type, the mode (classroom, online or hybrid) and current offers, so call or WhatsApp us on +91 830 810 3366 for the exact figure. You can pay through 0% interest EMI: 10% on registration, 70% in the first month and 20% in the second. For comparison, most 4 to 6 month data science programs in Pune cost ₹35,000 to ₹70,000. See our <a href=\"https://www.3ritechnologies.com/data-science-course-fees-duration-pune/\">data science course fees and duration guide</a>.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I join without a coding or IT background?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>Yes. The course starts with Excel, basic statistics and Python from scratch, and many of our students come from commerce, arts, mechanical and other non-IT fields. Read <a href=\"https://www.3ritechnologies.com/data-science-course-eligibility-after-12th-graduation/\">who is eligible for a data science course</a>.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who is eligible for data science training in Pune?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>Graduates, postgraduates, college students and working professionals from any stream can join. Knowing some Python, SQL or statistics helps but is not required.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you offer data science classes on weekends?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>Yes. The weekend batch runs on Saturday and Sunday from 9:00 AM to 1:00 PM and is our most popular batch with working professionals. We also run weekday morning and evening batches.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I take the course online instead of in a classroom?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>Yes. Live online batches use the same syllabus, the same trainers and the same placement support as our Pune classroom batches. You can also choose hybrid: learn online and do project work on campus. We also have a dedicated <a href=\"https://www.3ritechnologies.com/course/data-science-online-training/\">online data science course</a> page.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Which programming languages and tools will I learn?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>You will mainly use Python and SQL, along with Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, XGBoost, TensorFlow and Keras, Power BI, Excel, Git and GitHub, and Generative AI tools like ChatGPT and Claude.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you provide placement assistance after the course?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>Yes. Placement support covers interview questions, resume and LinkedIn building, aptitude and soft skills, a 5-day mock interview program, and interview scheduling with our hiring partners. If you are interviewing but not yet placed after the course, we keep supporting you until you are.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What salary can I expect after a data science course?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>In Pune, freshers in data roles typically earn ₹4 to 7 LPA. With 1 to 3 years of experience this usually rises to ₹7 to 12 LPA, and senior data scientists can earn ₹18 to 30 LPA or more. Your salary depends on the company, the role and your skills.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will I work on real projects?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>Yes. You build 21 real-time projects, including two capstones (delivery duration prediction and machine failure prediction), plus Power BI dashboards and industry case studies in insurance, healthcare, HR, manufacturing and sales.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What certificate will I get?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>You receive a 3RI Technologies course completion certificate and an internship certificate once you finish the course and projects.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I attend a demo class before joining?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>Yes. You can join a free demo class online or on campus. Use the Book a free demo class button on this page, or call +91 830 810 3366.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where are your data science classes in Pune?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>We have three branches: Pimple Saudagar (Rainbow Plaza), Deccan (DurgaShankar, near Sambhaji Park) and Nal Stop (Mantri Vertex, Law College Road). You can also join live online from anywhere.</p>"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What happens if I have doubts after the course ends?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>You keep lifetime access to the study material, and you can reach our mentors for doubt clearing after the course.</p>"
+            }
+          }
+        ]
+      }
+    ]
   },
   "priority": "MEDIUM"
 }

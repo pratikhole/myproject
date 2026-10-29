@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "Best ETL Testing Training in Pune with Placement| 3RI Technologies",
-    "meta_description": "3RI Technologies is offering Best ETL Testing Training in Pune, ETL Testing ensures that the data loaded from a source to the destination after the business",
-    "h1": [
-      "ETL Testing course"
-    ],
-    "content": "Home > Courses > etl-testing-training-in-pune ETL Testing course Testing classes in Pune Our ETL Testing course in Pune offers comprehensive training that helps you master the processes involved in Extract, Transform, and Load (ETL). This course includes ETL testing training and hands-on experience, preparing you for the real-world challenges of data testing. Whether you’re looking for ETL courses or testing training with placement assistance, our program provides the knowledge and skills to advance your career. Learn from experienced professionals and secure your future with our ETL testing courses designed to meet industry needs. For more information, visit 3RI Technologies. ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.1 out of 5 ★ ★ ★ ★ ★ Rated 5 out of 5 Course Duration 6 weeks Live Project 2 Project Certification Guaranteed Training Format Live Online /Self-Paced/Classroom Enroll Now Download Brochure Chat Now Download Brochure & attend Free Online/Classroom Demo Session! Training Mode Online Classroom Select Branch Online Pimple Saudagar Deccan Nal Stop Send Achievement Trainings Conducted 2500 + Batches Completed 3000 + Companies Tie-ups 400 + Students Placed 3500 + Corporate Trainings 400 + Nothing stops you from learning We provide EMI facility for you Apply Now EMI Plan Registration Percent EMI With 0% Interest On Registration 10% 1st installment – 1st month of joining 70% 2nd installment – 2nd month 20% Key Features Course Duration : 2 Months Real-Time Projects : 2 Project Based Learning EMI Option Available Certification & Job Assistance 24 x 7 Support Syllabus Overview Batch Schedule FAQ's Reviews Enroll Now - Payment ETL Testing Syllabus The detailed syllabus is designed for freshers as well as working professionals Download Brochure Download Brochure Course Content 1. Database/SQL RDBMS Concepts Data Models Entity Relationship Model Normalization DBMS, RDBMS, ORDBMS SQL Overview Introduction to SQL Data types SELECT Statement Operators Pseduo Column SQL Statements Data Definition Language (DDL) Data Manipulation Language (DML) Transaction Control Language (TCL) Data Control language (DCL) Join Inner/Equi Join Non-Equi/Cross Join Self Join Outer Join Constraints Primary Key Constraint Foreign Key Constraint Unique Key Constraint Not Null Constraint Check Constraint Set Operator Union Union All Intersection Minus Sub Query Sub/Inner Query Correlated Sub Query Object Index Synonym View Built-in Functions Aggregate Functions Character Function String Functions Case Manipulation Functions Date Functions Analytical Functions 2. Datawarehouse/ETL Datawarehouse Fundamental Datawarehouse Overview DWH Characteristics Types of Datawarehouse Data Mart Database vs Data Warehouse Data Mart vs Data Warehouse Data Warehouse benefits DWH Architecture Datawarehouse Terminologies Data Cleansing, Partitioning Staging area, Metadata OLTP, OLAP, ROLAP, MOLAP Surrogate Key Snapshot, View and Materialized View Meta Data, Data Mining & Data Cube Dimension Modeling Facts and Dimensions Hierarchies and Levels Measures & DWH Schema Star, Snow-flake and Galaxy Schema Additive, Semi Additive, Non Additive Fact/Measure ETL Overview Process Flow of ETL Types of Sources and Target ETL Data Load types Active vs Passive transformation Extraction Methods in ETL Tracing Level Types of Data used for ETL Process Slowly Changing Dimension What is Slowly Changing Dimension? CD Types : Type-1, Type-2, Type-3 ETL Testing Process Categories of ETL Testing Types of ETL Testing How to create ETL Test Case ETL Test Scenarios and Test Cases Types of ETL Bugs/Defects Responsibly of ETL Tester OBIEE/BI Overview Introduction to OBIEE Business Intelligence Basics Overview of Reports Slice and Dice Roll-up and Drill-down & Pivot 3. Informatica Power Center Tool Informatica Tool Overview Introduction to Informatica How developers work on Power Center Different components of Power Center and uses Tasks performed in different Components Mapping, Session, Worklet, Workflow, Mapplet Naming Conventions Designer Component Working with Sources Working with Flat Files Working with Targets Data Transformation Source and Target Mapping Parameters and Variables Uses of Mapping Wizards Workflow Manager Component Workflow Manager Overview Workflow Designer Task Developer Worklet Designer Using Workflow Wizard Creating a Task Configuring Task Workflow links Validating Tasks,Workflows Scheduling and Running Workflows Workflow Monitor Component Workflow Monitor Overview Using Workflow Monitor Working with Tasks and Workflows Workflow and Task Status Using Gantt Chart and Task Views Session and Workflow Logs Transformation How to use Transformations Aggregator Transformation Expression Transformation Filter Transformation Router Transformation Union Transformation Rank Transformation Sorter Transformation Joiner Transformation 4. UNIX/LINUX Basics of Unix/Linux Overview of UNIX Operating System Useful Commands Command Manuals Regular Expressions Filter File Attributes Job Scheduling Archive/Compress File Editor : vi, sed Processes File copy/transfer in UNIX Server ETL Testing Classes in Pune The ETL Testing course at 3RI Technologies in Pune is tailored for individuals seeking a career in data testing. With an in-depth curriculum covering ETL testing processes, students will learn the essentials of validating, transforming, and extracting data. Our ETL testing training is ideal for both beginners and experienced professionals who want to gain expertise in working with ETL tools. This ETL course provides hands-on experience, offering a comprehensive understanding of testing methodologies used in real-world data environments. We offer several ETL courses, including an advanced program designed to develop in-depth knowledge of data migration, data integrity, and system integration testing. Whether you’re looking for a standard ETL testing course or an extensive ETL testing training, 3RI Technologies ensures you receive top-notch education and training that aligns with industry standards. Located in Pune, our training is designed to prepare you for a successful career in data testing. We provide testing classes in Pune, where you’ll learn from industry experts. Additionally, our testing training and placement program ensures that you get practical exposure and placement support, helping you secure opportunities in the competitive job market. ADVANTAGES OF ETL TESTING TRAINING IN PUNE Visual Flow and Self-documentation The most significant advantage of an ETL tool is that it provides a visual flow of system logic. Each ETL tool differentiates these operations, but even the least responsive user interfaces can be compared to custom systems consisting of stored procedures, SQL and operating system scripts, and a handful of other technologies. Ironically, some ETL tools are not a practical way to print out the otherwise attractive self-documentation. Structured system design ETL tools developed for the specific problem of populating a data warehouse. Although they are just tools, they provide the development team with a metadata-driven structure. It is especially useful for teams building their first ETL system. Operational Resilience Many of the self-developed ETL systems I’ve evaluated are fragile: they have too many operational issues. ETL tools provide functions and procedures for operating and monitoring the ETL system in production. You can certainly design and build a well-instrumented hand-coded ETL application, and the operational capabilities of the ETL tool are not yet mature. Nevertheless, it becomes easier for a data warehouse/business intelligence team to build on ETL. Data-lineage and Data-dependency functionality We want you to be able to right-click on a number in a report and see exactly how it was calculated, where the data was stored in the data warehouse, how it was transformed when the data was last updated, and from which source System or systems underlying the numbers. Because there are no ETL standards that hand-coded systems could match, we need to rely on ETL tool vendors to provide this functionality. Unfortunately, only a few have done so far. WHY ETL TESTING TRAINING IS NEEDED? Most companies estimate that they only analyze up to 15% of the data – Forrester Research. According to research and markets, the global Big Data Analytics Market Reaches around $ 41 Billion in nearly four years. An ETL developer in the US can earn more than $ 100,000 a year. Businesses today need to work with data in multiple formats extracted from multiple sources. All this makes ETL testing even more important. The extraction, transformation, and loading of data must be checked, and any deviations remedied. Therefore, there is a need for testers in ETL and data warehousing domains. This training can help you learn ETL tests, and gives you the skills and confidence to take on good jobs in some of the largest companies in the world. SCOPE OF ETL TESTING TRAINING IN FUTURE The future of ETL testing is very promising. ETL tools such as IBM Infosphere Information Server, Informatica PowerCenter, Oracle Data Integrator, Microsoft SQL Server Integrated Service, SAS, etc. are in high demand in the industry and popularity. Its scope will increase in the future. VACANCIES FOR AN ETL TESTER Studies show that employers are looking more for proper and efficient ETL testers than for other job profiles. According to LinkedIn and Naukri, there are more than 14,000 ETL testers in India. The salary of an ETL tester varies from organization to organization and also depends on many years of experience. At present, the average salary that the ETL tester in India has is between 2.5 L / A and 10 L / A. There is also no salary limit for the right candidate. There are many job title choices, and many multinational companies are looking for the best candidate with knowledge of ETL testing. Her professional career includes various roles, depending on her years of experience. Manual Tester / QA Analyst automation tester performance tester ETL / DWH / DB developers project Manager Business analyst 3RI Technologies is one of the Best ETL Testing Classes Providers in Pune. Job Oriented Courses STEP in Cloud Computing STEP in DevOps Mastering Data Science STEP in Python Full Stack STEP in JAVA Full Stack STEP in Software Testing STEP in MEAN Stack Angular STEP in MERN Stack ReactJS STEP in Salesforce STEP in PHP Python Programming Python Programming Web Development in Python Cloud Computing AWS – Amazon Web Services AWS Cloud Practitioner DevOps with AWS DevOps – Dockers And Kubernetes Salesforce Microsoft Azure Data Analytics Data Science Artificial Intelligence Hadoop 2.X BigData Analytics Apache Spark & Scala Hadoop Admin Business Intelligence Tableau – Data Visualization Informatica Development – datawarehosuing Qlikview QlikSense Software Testing Selenium with Java Selenium With Python Tosca Training API Testing JMeter Testing LoadRunner Testing ETL Testing QTP / UFT RPA - Robotic Process Automation RPA- Ui Path Automation Anywhere Java Technology Core Java Advanced Java Spring Hibernate Spring Framework Web Designing & Development UI Development Angular ReactJS MEAN Stack MERN Stack Web Development in Python Database Technology DBMS: Oracle SQL Oracle : PL/SQL Oracle : DBA I/II RAC with Oracle MS SQL SERVER Development MS SQL SERVER DBA MONGO DB Scripting Languages UNIX Shell Scripting Python Programming Perl scripting .Net Technology Diploma in .Net ASP.NET MVC C# Programming WPF Programming WCF Programming Internet Marketing Digital Marketing SEO Training Classes Mobile App Development Android App Development iOS App Development Soft Skills & Aptitude Soft Skills Training Aptitude Training Basic Programming Languages Fundamentals of Computer C Programming C++ Programming Data Structure Industrial Training Industrial Training Blockchain Blockchain Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Batch Schedule Schedule Your Batch at your convenient time. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 TOSCA 24-Oct-26 Sat - Sun 10:00 AM Enroll Now 2 Selenium 25-Oct-26 Sat - Sun 12:30 PM Enroll Now 3 Playwright 24-Oct-26 Sat - Sun 08:00 AM Enroll Now 4 Manual Testing 25-Oct-26 Sat - Sun 08:00 AM Enroll Now 7 MySQL 27-Oct-26 Tue - Fri 05:30 PM Enroll Now 8 MySQL 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 9 Soft Skills 25-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 26-Oct-26 Mon - Fri 04:00 PM Enroll Now FAQs Most frequent questions and answers 1. Will I get any certificate after this course? After the course completion, an exam will be conducted to judge your knowledge along with the live project work completion check and you will be awarded a certificate from 3RI Technologies. 2. Will I get any placement assistance after the course completion? Yes, we provide placement assistance to our students. We have a dedicated team for Placement and tie ups with 300+ MNC’s and SME companies. 3. Do you provide any demo classes for this course? Yes we conduct demo classes every weekend. Please contact us for more details. I'm Interested in This Program Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Our Clients Students Reviews Best Training institute in Pune to learn ETL Testing. The staff is really supportive, frank, and good at teaching. One to one, personal teaching is done here, and they have flexible timings according to your comfort. And most importantly, projects are given to be practiced under the supervision of teachers. They have the best trainers to teach you. I am grateful to everyone. Thanks to 3RI Technologies. PRIYA ***** Rahul sir is very good at teaching, testing. He taught me the entire concept from basic to advanced. With the help of such talented teachers, you can get a good job for a bright career. Good to be a part of 3RI Technologies. Milind ***** This is a very good institute for software; all types are Technologies are available related to the IT sector. I had joined here for the testing course.. the teachers are very helpful and supportive. Good Experience in 3RI ... Tejas Patel ***** ETL Testing Information Python Interview Questions and Answers",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -269,249 +251,256 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/",
-      "https://www.3ritechnologies.com/course/Mongo-DB-NoSQLDatabase/",
-      "https://www.3ritechnologies.com/course/Perl-Scripting/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/android-training-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
-      "https://www.3ritechnologies.com/course/aptitude/",
-      "https://www.3ritechnologies.com/course/asp-net-mvc-training-in-pune/",
-      "https://www.3ritechnologies.com/course/asp-net-wpf-training-course/",
-      "https://www.3ritechnologies.com/course/automation-anywhere-training-in-pune/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
-      "https://www.3ritechnologies.com/course/big-data-hadoop-training-in-pune/",
-      "https://www.3ritechnologies.com/course/blockchain-training-in-pune/",
-      "https://www.3ritechnologies.com/course/c-programming-classes-pune/",
-      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/cpp-programming-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/csharp-training-institute-pune/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/data-structure-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
-      "https://www.3ritechnologies.com/course/digital-marketing-training-in-pune/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
-      "https://www.3ritechnologies.com/course/etl-informatica-training-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
-      "https://www.3ritechnologies.com/course/fundamentals-of-computer/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/hadoop-admin-training-in-pune/",
-      "https://www.3ritechnologies.com/course/industrial-training-company-for-bca-mca-students-pune/",
-      "https://www.3ritechnologies.com/course/ios-app-training-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-j2ee-training-in-pune/",
-      "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/ms-sql-server-dba-training/",
-      "https://www.3ritechnologies.com/course/oracle-dba-certification-course-in-pune/",
-      "https://www.3ritechnologies.com/course/oracle-pl-sql-training-in-pune/",
-      "https://www.3ritechnologies.com/course/oracle-rac-training-in-pune/",
-      "https://www.3ritechnologies.com/course/php-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
-      "https://www.3ritechnologies.com/course/qliksense-business-intelligence/",
-      "https://www.3ritechnologies.com/course/qlikview-business-intelligence/",
-      "https://www.3ritechnologies.com/course/qtp-training-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/reactjs-training-in-pune/",
-      "https://www.3ritechnologies.com/course/rpa-training-in-pune/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/seo-training-in-pune/",
-      "https://www.3ritechnologies.com/course/softskill-training-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/spring-framework-training-in-pune/",
-      "https://www.3ritechnologies.com/course/sqlserver-dba-training-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tableau-training-in-pune/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/unix-shell-scripting-training/",
-      "https://www.3ritechnologies.com/course/wcf-training-course/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/course/web-development-dot-net-training-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
-      "https://www.3ritechnologies.com/course/webservices-with-soapui-testing-training/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/payment/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/python-interview-questions-answers/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Best ETL Testing Training in Pune with Placement| 3RI Technologies",
-    "og_description": "3RI Technologies is offering Best ETL Testing Training in Pune, ETL Testing ensures that the data loaded from a source to the destination after the business",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
-            "url": "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
-            "name": "Best ETL Testing Training in Pune with Placement| 3RI Technologies",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
-            "datePublished": "2019-07-05T12:10:38+00:00",
-            "dateModified": "2025-06-13T10:56:25+00:00",
-            "description": "3RI Technologies is offering Best ETL Testing Training in Pune, ETL Testing ensures that the data loaded from a source to the destination after the business",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
-            "width": 192,
-            "height": 192
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Courses",
-                "item": "https://www.3ritechnologies.com/course/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "etl-testing-training-in-pune"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTEgOTIiIHdpZHRoPSI5MSIgaGVpZ2h0PSI5MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjI1IDIyNSIgd2lkdGg9IjIyNSIgaGVpZ2h0PSIyMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2IDczIiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjczIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE3OSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxNzkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Eduvanz EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjI1IDYyNSIgd2lkdGg9IjYyNSIgaGVpZ2h0PSI2MjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Enquire about the 3RI Technologies training program",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjIwIDIyMCIgd2lkdGg9IjIyMCIgaGVpZ2h0PSIyMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "ZS",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDE2IDQxNiIgd2lkdGg9IjQxNiIgaGVpZ2h0PSI0MTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Zensar",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDE2IDQxNiIgd2lkdGg9IjQxNiIgaGVpZ2h0PSI0MTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "bmc",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "thoughtworks",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDI2MSIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSIyNjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "tata consultancy",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjEzIDIxMyIgd2lkdGg9IjIxMyIgaGVpZ2h0PSIyMTMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "synerzip",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjE5IDEyNSIgd2lkdGg9IjIxOSIgaGVpZ2h0PSIxMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "survik",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDIwMCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "siemens",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDE2IDQxNiIgd2lkdGg9IjQxNiIgaGVpZ2h0PSI0MTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "R systems",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "pubmatic",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "citi",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUyIDIwMCIgd2lkdGg9IjI1MiIgaGVpZ2h0PSIyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "persistance",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTUwIDM0NCIgd2lkdGg9IjU1MCIgaGVpZ2h0PSIzNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Mphasis",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Market Reports Center",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQ5IDIwMiIgd2lkdGg9IjI0OSIgaGVpZ2h0PSIyMDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "market and market",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "accenture",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "sungard",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "kpit",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon20",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon18",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon17",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon14",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDYyIiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjYyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "comp-icon13",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon12",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon11",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDEzNiIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIxMzYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon10",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon9",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjI1IDIyNSIgd2lkdGg9IjIyNSIgaGVpZ2h0PSIyMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon8",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon7",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjg5IDE3NCIgd2lkdGg9IjI4OSIgaGVpZ2h0PSIxNzQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon6",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon5",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon4",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon3",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon2",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon1",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTM4IDQ2IiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjQ2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3d lpm logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTM4IDQ2IiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjQ2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "veritas logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTM4IDQ2IiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjQ2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "synecron logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTM4IDQ2IiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjQ2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "calsoft logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=etl-testing-training-in-pune&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=704&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcourse%2Fetl-testing-training-in-pune%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

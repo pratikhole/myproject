@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "Python Built-in Functions List | String, List, Tuple & File Functions",
-    "meta_description": "Understand python built in functions, what is built in function in Python, and explore a categorized python built in functions list with clear explanations and examples.",
-    "h1": [
-      "Python Built-in Functions: Types, List, and Practical Examples"
-    ],
-    "content": "Skip to content Home > Python Built-in Functions: Types, List, and Practical Examples Python Built-in Functions: Types, List, and Practical Examples Python built-in functions are predefined tools that simplify everyday programming tasks. This blog explains what are built-in functions in Python and provides a structured python built in functions list. It covers string built-in functions in Python, built-in functions of list, tuple, and file handling functions. With clear explanations and examples, this guide helps beginners understand and use Python functions effectively. Table of Contents PriyankaS3ri June 13, 2024 12:45 pm Blog Summary This blog provides a complete explanation of python built in functions , covering what are built in functions in Python and how they simplify everyday programming tasks. It includes a structured python built in functions list along with clear explanations of string built in functions in Python , built in functions of list in Python , tuple built in functions in Python , and file built in functions in Python . Readers will also understand what is built in function in Python , explore built in functions in Python with examples , and learn how built-in and user-defined functions work together in real Python programs. The best Python classes in Pune emphasize concept clarity, real-time coding practice, and problem-solving skills using Python built-in functions. This helps learners gain confidence and industry-relevant skills. This guide is ideal for beginners and learners looking to strengthen their foundation through practical, easy-to-understand explanations. Python is known for its simplicity and powerful standard library, which makes development faster and more efficient. One of the biggest reasons behind Python’s popularity is its wide range of python built in functions that help developers perform common tasks without writing extra code. These features make Python accessible to beginners while maintaining its value for more complex applications. Whether you are learning Python on your own or through professional Python courses in Pune , understanding built-in functions is essential. In this guide, we’ll explain what are built in functions in Python , explore their types, and look at practical examples so you can use them confidently in real-world programs. Mastering built-in functions in Python is crucial for efficient coding and problem-solving. These predefined functions in Python come ready to use, simplifying complex tasks and improving your programming flow. Whether you’re wondering what are built-in functions or looking for a comprehensive Python built-in functions list, this guide highlights the 11 most frequently used ones every developer should know. Enhance your skills with practical insights and real-world examples. For deeper learning, enroll in our Python Training in Pune at 3RI Technologies, where expert instructors help you become proficient in Python programming. Key Features of Python Programming Language Python is perfect for beginners as well as professionals because it is made to be simple to learn and write. Because of its simple syntax, developers may focus more on logic rather than complex structure, increasing output and lowering errors. Python’s large standard library, which contains hundreds of built-in functions, is a further important factor. These built-in capabilities reduce development time and make Python suitable for fields like web development, data science, automation, and artificial intelligence. Understanding Python Built-in Functions: A Complete List of Predefined Functions Built-in functions are pre-defined functions included in the Python programming language. Their intended functions include processing files, executing mathematical computations, and manipulating strings. Unlike user-defined functions, built-in functions don’t need explicit definitions or import declarations. The programmer can always access them. You can use Python’s built-in functions for a variety of purposes. We’ll examine some of the most often utilized built-in Python functions in this tutorial and offer usage examples. Elevate Your Career with Python Training in Pune. How Many Functions Exist in Python? So, what is built in function in Python? Python comes with built-in functions, which are predefined functions.They are constantly available and require no installation or import. These functions handle common operations such as input, output, calculations, string handling, and data processing. The main benefit of using built-in functions in Python is that they eliminate the need to create repetitive code and save time. Python has three different functions. These are the following: Built-in functions: The Python programming language has 68 built-in functions. User-defined functions: A user-defined function is defined by using the def keyword. Anonymous functions: Lambda functions are another name for anonymous functions. Examples of Built-in Functions There are many examples of functions in Python , ranging from simple output functions to complex data-processing logic. Built-in functions handle standard tasks, while user-defined functions solve specific problems. Understanding how these functions work together helps learners move from basic scripts to real-world Python applications. ● Mathematical Functions Python comes with various built-in mathematical functions to carry out simple arithmetic operations. The following are a few of the most often utilized Python mathematical functions: abs () – yields a number’s absolute value. pow() – The function pow() raises an integer to a specific power round () rounds a number to the number of decimal places that you provide. max () yields the most significant value in a list or tuple. min () – The function min() yields the lowest value within a list or tuple. Here are some further instances of Python’s built-in mathematical functions: divmod()- divides an integer by another and returns the residual and quotient. sum()- The function sum() yields the total of each element in a list or tuple. round() – this function rounds a value to the next integer floor() – find the largest integer that equals or is less than a specified number. ceil() – yields the lowest integer equal to or larger than a specified number. Enhance your skills with our Python Web Development Course. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send ● String Functions Additionally, Python comes with several built-in string manipulation routines. Programming uses strings frequently, as they are a core data type in Python. The following are a few of the most often utilized Python string functions: len() – yields a string’s length capitalize()- capitalizes a string’s initial letter replace()- swaps out a given substring for another substring. split() – divides a string using a given delimiter into a list of substrings. join() – use a designated delimiter to merge a bunch of strings into a single string. Here are some further instances of string built-in functions in Python: Lower() returns a string with entirely lowercase letters. Upper() yields a string containing just capital letters. strip() removes the leading and trailing whitespace from a string. startswith() – returns True if a string begins with the provided substring. endswith() – returns True if a string terminates with the provided substring. ● List Functions Python comes with several built-in routines for handling lists. Programming makes significant use of lists, another essential data structure in Python. Among the list functions in Python that are most frequently used are: append()- appends an element to a list’s end. remove() -eliminates a specified entry from a list at its first instance. sort() – arranges a list of items reverse()-This function flips a list’s element order. The count() -function calculates a given element’s frequency of occurrence in a list. Here are some further instances of Python’s built-in list functions: extend() appends a list’s entries to the end of another list. index() – yields the index of a given element’s first instance in a list insert() and appends a new element at the specified index to a list. pop() takes an element from a list and returns it at a given index. clear() eliminates every element from a list. Want to become a Python Developer? Get certified with Python Online Training. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send What Are Built-in Functions in Python? So, what is built in function in Python? Python comes with built-in functions, which are predefined functions.They are constantly available and require no installation or import. These functions handle common operations such as input, output, calculations, string handling, and data processing. The main benefit of using built-in functions in Python is that they eliminate the need to create repetitive code and save time. Python Built-in Functions List (Category-Wise) Rather than memorizing every function, it’s easier to understand the python built in functions list by grouping them into categories. This approach helps learners know which functions to use in different scenarios. Common categories include string functions, list functions, tuple functions, file handling functions, and general utility functions. This structured way of learning helps you apply the list built in functions in Python more effectively in real projects. String Built-in Functions in Python String built in functions in Python are used to manipulate and process text data. These functions help perform tasks like converting text to lowercase, removing spaces, or splitting strings into parts. The most commonly used built in string functions in Python include operations for formatting, searching, and modifying strings. These functions are widely used in form validation, data cleaning, and user input handling. Built-in Functions of List in Python One of Python’s most popular data structures is lists, and the language’s built-in list methods simplify data management. You can effectively add, remove, sort, and count elements with these functions. Using built-in list functions reduces the need for manual loops and complex logic. This makes programs shorter, faster, and easier to debug, especially when working with large datasets. Tuple Built-in Functions in Python Tuples are immutable data structures, and tuple built in functions in Python are mainly used for accessing and analyzing data rather than modifying it. They are useful when data should remain constant throughout the program. Built-in functions for tuples help with tasks like finding length, maximum values, and minimum values. In situations when data integrity is crucial, these functions are frequently used. File Built-in Functions in Python Additionally, Python has built-in functions for handling file operations like reading, writing, and closing files. These functions are essential for working with data stored outside the program. Using file built-in functions allows developers to manage files efficiently while ensuring proper resource handling. They are widely used in automation scripts, data processing, and backend development. If you’re looking for structured learning, enrolling in python training in Pune helps you gain hands-on experience with core concepts like built-in functions and real-world programming use cases. Such training programs bridge the gap between theory and practical implementation. Python Programs Using Functions Functions play a key role in writing structured Python programs. Function-based Python scripts are simpler to test, debug, and scale as the application expands. Programs can be made modular by combining user-defined and built-in functions.This approach is widely followed in professional development environments and Python training programs. Build Function in Python (User-Defined Functions) Apart from built-in functions, Python allows developers to build function in Python using the def keyword. These user-defined functions help handle custom logic that built-in functions cannot cover. By combining user-defined functions with built-in ones, developers can create powerful and flexible applications while keeping the code clean and reusable. Types of Functions in Python Python functions are reusable code sections that perform out particular tasks.Particularly when working on large projects, they help in making programs more understandable, structured, and manageable. Built-in functions and user-defined functions are the two primary categories of functions in Python. Built-in functions are already available in Python, while user-defined functions are created by programmers based on their application needs. Python Built-in Functions List 1. print() – Display Output on Screen The print() function is one of the most commonly used python built in functions . It is used to display messages, variables, or results on the screen. Built in function example: It can print text, numbers, or even multiple values at once, making it essential for debugging and learning. 2. len() – Find Length of an Object The len() function returns the number of elements in a string, list, tuple, or dictionary. This is a very practical in built function in Python when working with data collections.It helps developers validate input size or loop through data efficiently. 3. type() – Identify Data Type type() is a predefined function in Python that tells you the data type of a variable. This function is especially useful when handling user input or debugging complex programs. 4. input() – Take User Input The input() function allows Python programs to interact with users by accepting input at runtime. By default, it reads input as a string.This built in function in Python with example usage is essential for creating interactive applications. 5. int() – Convert to Integer The int() function converts numbers or numeric strings into integers. It is widely used while processing user input or performing calculations.Python provides many such python inbuilt functions for type conversion. 6. float() – Convert to Decimal Value The float() function converts integers or strings into floating-point numbers. It’s commonly used in financial, scientific, and data-related calculations. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes 7. str() – Convert to String str() convert any kind of data into a string. This built in function is frequently used when displaying output or concatenating text. 8. max() – Find Maximum Value The max()function returns the highest value from a list, tuple, or multiple arguments. It simplifies comparison logic and reduces code length. 9. min() – Find Minimum Value Opposite to max(), the min() The smallest value is returned by the method. Both are powerful python built in functions used in data analysis and decision-making logic. 10. sum() – Add Elements of an Iterable The sum() function calculates the sum of all the numerical components. in a list or tuple. It eliminates the need for manual loops, making code cleaner and faster. 11. sorted() – Sort Data Easily sorted() generates a new sorted list from any iterable. This in built function in Python is widely used in ranking, reporting, and organizing data without modifying the original structure. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send The Bottom Line Python’s success comes from its simplicity and powerful set of predefined functions . By mastering python built in functions , developers can write cleaner, faster, and more reliable code. Choosing python training near me helps learners quickly start their Python journey with structured lessons, practical exercises, and expert support for mastering programming fundamentals. If you are learning Python through self-study or structured job-orientated courses in Pune , a strong understanding of built-in functions will give you a solid foundation for advanced programming concepts and career growth. Every beginner should be familiar with these 11 built-in functions, which we addressed in this article. Your applications will be more efficient, readable, and concise if you use these functions in your code. Gaining proficiency in these routines will help you become a much better Python coder.. Master skills with industry experts at 3RI Technologies. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send Prev Previous Python List Function or List Comprehension: Which is Better? Next Understanding Data Abstraction in Python with Real-Life Examples Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -99,253 +81,86 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2024/06/13/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/online-python-certification-course/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
-      "https://www.3ritechnologies.com/data-abstraction-in-python/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/python-list-function-or-list-comprehension/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Python Built-in Functions List | String, List, Tuple & File Functions",
-    "og_description": "Understand python built in functions, what is built in function in Python, and explore a categorized python built in functions list with clear explanations and examples.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "Python Built-in Functions: Types, List, and Practical Examples",
-            "datePublished": "2024-06-13T07:15:48+00:00",
-            "dateModified": "2026-01-07T13:08:00+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/"
-            },
-            "wordCount": 2338,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/11-Most-Frequently-Used-Built-in-Functions-In-Python.jpg",
-            "keywords": [
-              "Python Blog Design"
-            ],
-            "articleSection": [
-              "Python"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/",
-            "url": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/",
-            "name": "Python Built-in Functions List | String, List, Tuple & File Functions",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/11-Most-Frequently-Used-Built-in-Functions-In-Python.jpg",
-            "datePublished": "2024-06-13T07:15:48+00:00",
-            "dateModified": "2026-01-07T13:08:00+00:00",
-            "description": "Understand python built in functions, what is built in function in Python, and explore a categorized python built in functions list with clear explanations and examples.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/11-Most-Frequently-Used-Built-in-Functions-In-Python.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/11-Most-Frequently-Used-Built-in-Functions-In-Python.jpg",
-            "width": 1000,
-            "height": 667
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/built-in-functions-in-python-with-examples/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Python Built-in Functions: Types, List, and Practical Examples"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Python Online Training",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Python&cd%5Bpage_title%5D=Python+Built-in+Functions%3A+Types%2C+List%2C+and+Practical+Examples&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=95357&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fbuilt-in-functions-in-python-with-examples%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

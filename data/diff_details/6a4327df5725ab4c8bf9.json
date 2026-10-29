@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/category/blog/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "Blog - 3RI Technologies",
-    "meta_description": "",
-    "h1": [
-      "Blog"
-    ],
-    "content": "Skip to content 98 articles Data Analytics Guides, tutorials and career tips on Data Analytics from the 3RI Technologies trainers. Explore articles » 59 articles Cloud Computing Guides, tutorials and career tips on Cloud Computing from the 3RI Technologies trainers. Explore articles » 48 articles Trending Articles Guides, tutorials and career tips on Trending Articles from the 3RI Technologies trainers. Explore articles » 47 articles Python Guides, tutorials and career tips on Python from the 3RI Technologies trainers. Explore articles » 41 articles Java Guides, tutorials and career tips on Java from the 3RI Technologies trainers. Explore articles » 40 articles DevOps Guides, tutorials and career tips on DevOps from the 3RI Technologies trainers. Explore articles » 40 articles Programming Guides, tutorials and career tips on Programming from the 3RI Technologies trainers. Explore articles » 34 articles Testing Guides, tutorials and career tips on Testing from the 3RI Technologies trainers. Explore articles » 33 articles Web Technologies Guides, tutorials and career tips on Web Technologies from the 3RI Technologies trainers. Explore articles » 32 articles Interview Questions And Answers Guides, tutorials and career tips on Interview Questions And Answers from the 3RI Technologies trainers. Explore articles » 27 articles Latest Trends Guides, tutorials and career tips on Latest Trends from the 3RI Technologies trainers. Explore articles » 26 articles Careeer Guidance Guides, tutorials and career tips on Careeer Guidance from the 3RI Technologies trainers. Explore articles » 23 articles Website Development Guides, tutorials and career tips on Website Development from the 3RI Technologies trainers. Explore articles » 19 articles Case Study Guides, tutorials and career tips on Case Study from the 3RI Technologies trainers. Explore articles » 14 articles Salesforce Guides, tutorials and career tips on Salesforce from the 3RI Technologies trainers. Explore articles » 12 articles Business Intelligence Guides, tutorials and career tips on Business Intelligence from the 3RI Technologies trainers. Explore articles » 10 articles Generative AI Guides, tutorials and career tips on Generative AI from the 3RI Technologies trainers. Explore articles » 10 articles Cyber Security Guides, tutorials and career tips on Cyber Security from the 3RI Technologies trainers. Explore articles » 5 articles ITIL (IT Infrastructure Library) Guides, tutorials and career tips on ITIL (IT Infrastructure Library) from the 3RI Technologies trainers. Explore articles » 5 articles Big Data Guides, tutorials and career tips on Big Data from the 3RI Technologies trainers. Explore articles » 5 articles Power BI Guides, tutorials and career tips on Power BI from the 3RI Technologies trainers. Explore articles » Get Free Career Counselling from Experts Not sure which course fits your goals? Talk to a 3RI counsellor and get a personalised learning and placement roadmap. Chat on WhatsApp Call +91 830 810 3366 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -144,201 +126,131 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/category/blog/",
-      "https://www.3ritechnologies.com/category/blog/big-data/",
-      "https://www.3ritechnologies.com/category/blog/business-intelligence/",
-      "https://www.3ritechnologies.com/category/blog/careeer-guidance/",
-      "https://www.3ritechnologies.com/category/blog/case-study/",
-      "https://www.3ritechnologies.com/category/blog/cloud-computing/",
-      "https://www.3ritechnologies.com/category/blog/cyber-security/",
-      "https://www.3ritechnologies.com/category/blog/data-analytics/",
-      "https://www.3ritechnologies.com/category/blog/devops/",
-      "https://www.3ritechnologies.com/category/blog/geneartive-ai/",
-      "https://www.3ritechnologies.com/category/blog/interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/category/blog/itil-it-infrastructure-library/",
-      "https://www.3ritechnologies.com/category/blog/java/",
-      "https://www.3ritechnologies.com/category/blog/latest-trends/",
-      "https://www.3ritechnologies.com/category/blog/power-bi/",
-      "https://www.3ritechnologies.com/category/blog/programming/",
-      "https://www.3ritechnologies.com/category/blog/python/",
-      "https://www.3ritechnologies.com/category/blog/salesforce/",
-      "https://www.3ritechnologies.com/category/blog/testing/",
-      "https://www.3ritechnologies.com/category/blog/trending-articles/",
-      "https://www.3ritechnologies.com/category/blog/web-technologies/",
-      "https://www.3ritechnologies.com/category/blog/website-development/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/category/blog/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Blog - 3RI Technologies",
-    "og_description": "",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "CollectionPage",
-            "@id": "https://www.3ritechnologies.com/category/blog/",
-            "url": "https://www.3ritechnologies.com/category/blog/",
-            "name": "Blog - 3RI Technologies",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/category/blog/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/category/blog/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/10/Khushi-Santosh-Patil-From-STEP-in-Python-Full-Stack-to-an-Associate-Software-Engineer-at-Truly-Capital.jpg",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/category/blog/#breadcrumb"
-            },
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/category/blog/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2026/10/Khushi-Santosh-Patil-From-STEP-in-Python-Full-Stack-to-an-Associate-Software-Engineer-at-Truly-Capital.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2026/10/Khushi-Santosh-Patil-From-STEP-in-Python-Full-Stack-to-an-Associate-Software-Engineer-at-Truly-Capital.jpg",
-            "width": 1280,
-            "height": 720,
-            "caption": "Khushi Santosh Patil’s journey from Python Full Stack training at 3RI Technologies to her role as an Associate Software Engineer at Truly Capital."
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/category/blog/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Blog"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxNCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxNCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDQwMyIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI0MDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDU3NiIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1NzYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxNCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxNCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxNCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxNCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxMiIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxMiIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxNCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDQzMiIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI0MzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxMiIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDQzMiIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI0MzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxNCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxMiIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxNCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxNCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAwIDQ2NiIgd2lkdGg9IjcwMCIgaGVpZ2h0PSI0NjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDQzMiIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI0MzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxMiIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=Blog&cd%5Bpost_type%5D=category&cd%5Bpost_id%5D=1&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcategory%2Fblog%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

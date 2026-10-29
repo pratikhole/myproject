@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "Top Docker Project Ideas for Beginners in 2026 | DevOps Training in Pune",
-    "meta_description": "Explore the top Docker project ideas for beginners in 2026 with real-world use cases. Perfect for learners enrolled in DevOps training in Pune to build hands-on containerization skills.",
-    "h1": [
-      "Top Docker Project Ideas for Beginners in 2026 (Updated)"
-    ],
-    "content": "Skip to content Home > Top Docker Project Ideas for Beginners in 2026 (Updated) Top Docker Project Ideas for Beginners in 2026 (Updated) \"Need Docker project inspiration? These beginner-friendly Docker project ideas for 2025 will enhance your skills and boost your confidence.\" Table of Contents PriyankaS3ri January 27, 2025 11:28 am Docker has become a core technology in modern DevOps practices, making hands-on project experience essential for beginners in 2026. As companies increasingly adopt containerized applications for faster deployment and scalability, learning Docker through real-world projects helps bridge the gap between theory and industry expectations. Whether you are a student, fresher, or IT professional enrolling in DevOps training in Pune , working on practical Docker projects will strengthen your understanding of containerization, microservices, CI/CD pipelines, and cloud-native development. In this blog, we explore the top Docker project ideas for beginners in 202 6 that will help you build job-ready skills and stand out in DevOps interviews. Top Docker Project Ideas for Beginners in 2026 (Upadted) Project Name Skill Level Key Docker Concepts What You Will Learn Career Benefit Dockerized Web Application Beginner Dockerfile, Images, Containers Containerizing a simple web app Strong foundation for DevOps roles Multi-Container App using Docker Compose Beginner–Intermediate Docker Compose, Networking Managing multiple services together Real-world microservices exposure Dockerized CI/CD Pipeline Intermediate Docker, Jenkins, CI/CD Automated builds & deployments Highly valued DevOps skill Microservices Deployment with Docker Intermediate Containers, Volumes, Networks Scalable application design Industry-aligned DevOps experience Monitoring Docker Containers Intermediate Docker Stats, Logs Container performance monitoring Improves production readiness Docker on Cloud (AWS/Azure) Intermediate Cloud + Docker Running containers on cloud VMs Boosts cloud DevOps profile DevOps Tool Stack with Docker Advanced Beginner Docker + Git + Jenkins End-to-end DevOps workflow Perfect for DevOps training in Pune Learn to Dockerize Real Projects and Build In-Demand Skills Docker is a technology that is open source that makes it easier to deploy applications by automating the process inside of portable, lightweight containers. It ensures consistency across all stages of software development, from coding to production, by providing a unified environment. This method improves scalability, dependability, and efficiency, which makes Docker an effective tool for contemporary software development processes. Benefits of Docker Portability : Docker containers remove the “it works on my machine” issue by ensuring that apps execute reliably across different environments. This portability guarantees that the program will function consistently whether it is running locally, on a staging server, or in production. Docker bridges the gap between development and operations by abstracting the underlying technology. This uniformity simplifies deployment, reduces errors, and boosts reliability. It is an essential feature for optimizing processes and ensuring uniformity across various phases of development and production. Efficiency : Docker containers are smaller and use fewer system resources than traditional virtual machines. Their smaller size allows for faster startup times, enabling rapid iteration and testing of applications. Containers are highly efficient, improving both application performance and resource utilization. The architecture supports scaling applications easily, both horizontally and vertically, without adding significant overhead. This makes Docker an ideal solution for both resource-constrained environments and large-scale deployments where efficiency is key. Version Control : Docker enhances version control by allowing developers to define and manage application dependencies through Dockerfiles. It is possible to log configuration changes and, if needed, developers may quickly revert to earlier iterations. Docker images themselves can be versioned, enabling updates or rollbacks to entire application setups. This level of control ensures that environments are reproducible and consistent, helping maintain stability. Docker version control makes troubleshooting and teamwork easier by offering a clear history of setups and modifications. Collaborative Development : Docker improves team collaboration by enabling developers to share pre-built images and configurations. By ensuring that everyone on the team uses the same configurations, this shared environment helps to eliminate inconsistencies during development. By using Docker, dependency conflicts are minimized, making integration of code from multiple developers smoother. Teams can deploy and test applications on identical environments, which improves the CI/CD process. This streamlined collaboration accelerates development cycles and enhances overall project efficiency, leading to faster and more reliable application delivery. Getting Started with Docker Projects Before jumping into Docker projects, ensure you have a basic understanding of Docker’s core concepts, such as images, containers, and Dockerfiles. To get acquainted with the features of the platform, start with small-scale projects. Set up Docker: Install either Docker Engine or Docker Desktop on your system. Explore Docker Hub: Get familiar with public Docker images. Learn Docker Commands: Acquire knowledge of Docker commands by practicing key commands such as docker-compose, docker-build, and docker-run. Docker Projects for Beginners Project 1: To-Do List Application This project involves creating a simple to-do list application using Node.js or Python and deploying it with Docker. Difficulty level: Beginner Technologies used: Docker, Node.js/Python, MySQL, Docker Compose Step-by-Step Instructions Develop the To-Do List Application: Create a basic to-do list app using Node.js or Python. Implement CRUD (Create, Read, Update, Delete) activities are used to manage tasks. Set Up the MySQL Database: Create a database with a simple table to arrange task details and use MySQL to store to-do items. The task title, priority level, and deadline should all have columns in the table. Create the Dockerfile for the Application: Write a Dockerfile to containerize the to-do list app. This will include setting up the base image (Node.js or Python) and adding dependencies. Create the docker-compose.yml File: Use Docker Compose to link the to-do app container with the MySQL database container. version: ‘3’ services: mysql: image: mysql:5.7 environment: MYSQL_ROOT_PASSWORD: example MYSQL_DATABASE: todo_db ports: – “3306:3306” todo-app: build: ./todo-app ports: – “4000:4000” depends_on: – mysql Run the Containers: Start the services with Docker Compose: docker-compose up –build Test the Application: Access the to-do list app in a browser and verify that the tasks are being stored in the MySQL database and you can perform CRUD operations. This beginner project is a great way to get started with Docker , database integration, and simple web application development. Project 2 : Static Website Deployment This project introduces you to Docker by deploying a static website using Nginx. You’ll create a simple website, package it into a Docker container, and learn how to push and pull images from Docker Hub for deployment on different systems. Difficulty level: Beginner Technologies used: Docker, Nginx, Docker Hub Step-by-Step Instructions Build the Static Website: Create a basic static website with an index.html file, CSS styles, and JavaScript scripts. Save all files in a project folder. Example index.html: <!DOCTYPE html> <html lang=”en”> <head> <meta charset=”UTF-8″> <meta name=”viewport” content=”width=device-width, initial-scale=1.0″> <title>Docker Static Website</title> </head> <body> <h1>Welcome to My Dockerized Website!</h1> <p>This is a static site deployed using Docker and Nginx.</p> </body> </html> 2. Write the Dockerfile: Create a Dockerfile to package the site and serve it using Nginx. FROM nginx:alpine COPY ./ /usr/share/nginx/html EXPOSE 80 3. Build the Docker Image: Go to the project directory and create the Docker image: docker build -t static-website . 4. Push the Image to Docker Hub: Tag the image and push it to Docker Hub: docker tag static-website <your-dockerhub-username>/static-website docker push <your-dockerhub-username>/static-website 5. Deploy on Another System: On a different system, pull the image from Docker Hub and run it: docker pull <your-dockerhub-username>/static-website docker run -d -p 8080:80 <your-dockerhub-username>/static-website 6. Test the Deployment: Open a browser and visit http://localhost:8080 to view your static website. Project 3: Weather App with APIs This project teaches you how to containerize an API-based application and optimize the Docker image size using multi-stage builds. Difficulty level: Beginner Technologies used: Docker, Public APIs, Multi-Stage Builds Step-by-Step Instructions 1. Develop the Weather App: Create a weather app in Python that fetches data from a public API, such as OpenWeatherMap. import requests from flask import Flask, jsonify app = Flask(__name__) @app.route(‘/weather/<city>’) def get_weather(city): api_key = “your_openweathermap_api_key” url = f”http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}” response = requests.get(url) data = response.json() return jsonify(data) if __name__ == “__main__”: app.run(host=”0.0.0.0″, port=5000) 2. Write the Dockerfile: Implement multi-stage builds to produce a compact and optimized Docker image. # Stage 1: Build Stage FROM python:3.9-slim as builder WORKDIR /app COPY requirements.txt . RUN pip install –no-cache-dir -r requirements.txt # Stage 2: Runtime Stage FROM python:3.9-slim WORKDIR /app COPY –from=builder /app /app COPY . . EXPOSE 5000 CMD [“python”, “app.py”] 3. Build and Run the App: Create the Docker image and start the container: docker build -t weather-app . docker run -d -p 5000:5000 weather-app 4. Test the App: Access the app via http://localhost:5000/weather/<city>. Intermediate-Level Docker Projects Project 1: Multi-Container Web Application This project helps you learn Docker Compose by building a web application with separate frontend, backend, and database containers. Difficulty level: Intermediate Technologies used: Docker, Docker Compose, React/Angular, Node.js/Python, MySQL Step-by-Step Instructions 1. Develop the Web Application: Create a simple React/Angular frontend and a Node.js or Python backend. Use MySQL as the database. 2. Create the docker-compose.yml File: Use Docker Compose to provide the multi-container configuration. version: ‘3’ services: db: image: mysql:5.7 environment: MYSQL_ROOT_PASSWORD: example MYSQL_DATABASE: app_db volumes: – db_data:/var/lib/mysql backend: build: ./backend ports: – “5000:5000” depends_on: – db frontend: build: ./frontend ports: – “3000:3000” depends_on: – backend volumes: db_data: 3. Build and Start the Containers: Launch all services using Docker Compose: docker-compose up –build 4. Test the Application: Access the frontend via http://localhost:3000 and ensure the backend communicates with the database. Project 2: CI/CD Pipeline with Jenkins This project demonstrates how to set up a CI/CD pipeline with Jenkins in Docker. Difficulty level: Intermediate Technologies used: Docker, Jenkins, Git Step-by-Step Instructions 1. Run Jenkins in a Docker Container: Start a Jenkins container with proper volume mapping: docker run -d -p 8080:8080 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts 2. Configure Jenkins: Access Jenkins at http://localhost:8080, complete the initial setup, and install necessary plugins. 3. Integrate Git: Connect Jenkins to a Git repository and configure a pipeline job for automated builds. 4. Test the CI/CD Pipeline : Push code changes to the Git repository and verify that Jenkins triggers builds automatically. Project 3: Chat Application with WebSocket This project involves creating a real-time chat app using WebSocket and Docker Compose. Difficulty level: Intermediate Technologies used: Docker, Redis, Node.js/Python, WebSocket Step-by-Step Instructions 1. Develop the Chat App: Build a WebSocket-based chat app using Node.js or Python. Use Redis for message storage. 2. Create the docker-compose.yml File: Link the chat app container with Redis using Docker Compose. version: ‘3’ services: redis: image: redis:alpine ports: – “6379:6379” chat-app: build: ./chat-app ports: – “4000:4000” depends_on: – redis 3. Run the Containers: Start the services using Docker Compose: docker-compose up –build 4. Test the App: Access the chat app and verify real-time message functionality. Advanced-Level Docker Projects Project 1: Real-Time Stock Price Tracker with Docker and WebSocket This project involves building a real-time stock price tracker that fetches live data using WebSocket and is containerized with Docker for easy deployment. Difficulty level: Intermediate Technologies used: Docker, WebSocket, Node.js, API Integration (e.g., Alpha Vantage), Redis Step-by-Step Instructions Develop the Stock Price Tracker App: Create a real-time stock price tracking app using Node.js. Use WebSocket to fetch live stock data from an API (e.g., Alpha Vantage). Set Up Redis for Caching: Use Redis to cache frequently requested stock data to improve performance and reduce API calls. Create the Dockerfile: Containerize the stock price tracker app by creating a Dockerfile that sets up the necessary environment (Node.js, Redis client libraries). Create docker-compose.yml: Set up a docker-compose.yml file to link the stock price tracker app and Redis services. yaml version: ‘3’ services: redis: image: redis:alpine ports: – “6379:6379” stock-app: build: ./stock-app ports: – “3000:3000” depends_on: – redis Run the Containers : Start the services using Docker Compose with the command: docker-compose up –build Test the Application : Open the application in a browser and verify that stock prices are updated in real-time via WebSocket and the Redis cache is being utilized. This project offers practical experience with WebSocket integration, Redis caching, and Docker containerization for a real-time application. Project 2: Data Science Workspace in Docker This project involves creating a Docker image preloaded with data science tools like Jupyter Notebook, Python, and R for seamless data analysis. Difficulty level: Intermediate Technologies used: Docker, Jupyter Notebook, Python, R, Volume Mapping Step-by-Step Instructions Create a Dockerfile for Data Science Environment: Use a base image like jupyter/base-notebook or python:3.8 and install essential data science libraries such as numpy, pandas, scikit-learn, and matplotlib. Set Up Volume Mapping: Map local datasets into the container using Docker volumes to ensure easy access to the data for analysis. Build the Docker Image: Build the Docker image by running docker build -t data-science-workspace . in the project directory. Run the Docker Container: Launch the container using the command: docker run -p 8888:8888 -v /path/to/local/data:/data data-science-workspace. Share the Image: The Docker image is shared with your team and deployed to a container registry (like Docker Hub) so that teams may set up their environments consistently. Project 3: Distributed Caching System This project involves setting up a distributed caching system using Redis or Memcached, containerized with Docker. Difficulty level: Intermediate Technologies used: Docker, Redis/Memcached, Load Balancer, Web Application Step-by-Step Instructions Implement the Caching System: Choose either Redis or Memcached to implement a distributed caching layer for fast access to frequently requested data. Containerize the Caching System: Write a Dockerfile to containerize Redis or Memcached and build the Docker image. Set Up Load Balancing: Deploy multiple instances of the Redis/Memcached container for high availability and set up a load balancing mechanism using Docker Swarm or Kubernetes. Integrate with a Web Application: Connect the caching system to a web application (e.g., Node.js, Python), and configure the application to use the cache for frequently accessed data. Test the Caching Mechanism: Test the caching mechanism by measuring the application’s response times before and after integrating the cache to validate performance improvements. These projects follow the same format as requested and should guide you through advanced Docker concepts in different areas. Tips for Working on Docker Projects Start with official Docker images : Using official images ensures stability and saves time, as they are optimized and maintained by the Docker community. Use .dockerignore files : Using a.dockerignore file to exclude unnecessary files, you may minimize image size and stop undesirable files from being added to the container. Follow best practices for writing Dockerfiles : Use small base images like alpine to reduce the overall size of your Docker images and improve performance. Leverage Docker Compose : Docker Compose simplifies the management of multi-container applications by defining the services and their dependencies in a single directory. Test containers thoroughly in local environments : Always test containers locally to ensure everything works as expected before deploying to production. Regularly update images : Keep images current to guarantee they have the most recent security updates and enhancements to performance. Conclusion Docker projects offer endless opportunities to explore containerization and its benefits. By starting with simple projects and gradually tackling advanced challenges, you will gain the skills to work efficiently in modern software development environments. Whether you are a beginner or an experienced developer, Docker can elevate your career in 2026 and beyond. Prev Previous How to Sort a List in Python Without Using the Sort Function Next Master Python Conversions: Binary to Decimal and Decimal to Binary Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -44,253 +26,31 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2025/01/27/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/how-to-convert-binary-to-decimal-in-python/",
-      "https://www.3ritechnologies.com/how-to-sort-a-list-in-python-without-using-sort-function/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Top Docker Project Ideas for Beginners in 2026 | DevOps Training in Pune",
-    "og_description": "Explore the top Docker project ideas for beginners in 2026 with real-world use cases. Perfect for learners enrolled in DevOps training in Pune to build hands-on containerization skills.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "Top Docker Project Ideas for Beginners in 2026 (Updated)",
-            "datePublished": "2025-01-27T05:58:03+00:00",
-            "dateModified": "2026-01-24T07:50:39+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/"
-            },
-            "wordCount": 2762,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Docker-1.png",
-            "keywords": [
-              "DevOps Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "DevOps"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/",
-            "url": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/",
-            "name": "Top Docker Project Ideas for Beginners in 2026 | DevOps Training in Pune",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Docker-1.png",
-            "datePublished": "2025-01-27T05:58:03+00:00",
-            "dateModified": "2026-01-24T07:50:39+00:00",
-            "description": "Explore the top Docker project ideas for beginners in 2026 with real-world use cases. Perfect for learners enrolled in DevOps training in Pune to build hands-on containerization skills.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Docker-1.png",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/Docker-1.png",
-            "width": 1000,
-            "height": 667,
-            "caption": "Master Docker in 2025 with easy-to-follow project ideas for beginners. Learn containerization through hands-on experience and real projects."
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/docker-project-ideas-for-beginners-in-2026/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Top Docker Project Ideas for Beginners in 2026 (Updated)"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Master Docker in 2025 with easy-to-follow project ideas for beginners. Learn containerization through hands-on experience and real projects.",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+DevOps&cd%5Bpage_title%5D=Top+Docker+Project+Ideas+for+Beginners+in+2026+%28Updated%29&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=107373&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fdocker-project-ideas-for-beginners-in-2026%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

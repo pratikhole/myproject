@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/angular-vs-react/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "Angular vs React JS: Key Differences Developers Should Know in 2024",
-    "meta_description": "Confused between Angular and React JS? Discover the key differences, use cases, and which is right for your project. Master both with our AngularJS Course.",
-    "h1": [
-      "Angular JS vs React JS: A Detailed Comparison for Developers"
-    ],
-    "content": "Skip to content Home > Angular JS vs React JS: A Detailed Comparison for Developers Angular JS vs React JS: A Detailed Comparison for Developers What is AngularJS? Angular is an open-source JS framework under MIT license. It was founded in 2009 by Misko Hevery and Adam Abrons and was originally called AngularJS. It was rewritten in 2016 and Table of Contents PriyankaS3ri July 13, 2020 5:56 pm Difference between AngularJS and ReactJS What is AngularJS? Angular is an open-source JS framework under MIT license. It was founded in 2009 by Misko Hevery and Adam Abrons and was originally called AngularJS. It was rewritten in 2016 and republished as the only Angular. When comparing Angular JS vs React JS, it’s essential to understand their core differences in architecture, performance, and use cases. This guide dives deep into Angular vs React JS, demystifying terms like AngularJS vs React, Angular.js vs React.js, and the difference between Angular and ReactJS. Whether you’re a beginner exploring frameworks or a developer upgrading skills, understanding the Angular and React difference will shape your tech stack decisions. Also, get clarity on the difference between AngularJS and Angular for better role-based project applications. Ready to build real-time apps? Enroll in our hands-on AngularJS Course today. Angular is managed primarily by Google with a community of individual developers. Angular is written in TypeScript and has an MVVM architecture (Model, View, ViewModel) and an MVC architecture (Model, View, Controller) that control how the data in the database is separated from the interaction and user interface. It’s perfect for highly interactive web apps, so it’s used in Google’s popular ad system. Whenever you see a Google ad, you’ll see an implementation of Angular. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Advantages of Angular Let’s examine a few advantages of Angular. Robust encapsulation and a user-friendly application structure Clean code development Simplicity in constructing, preserving, testing, and upgrading Integrated functionalities such as AngularCLI and Rxjs Integrated support for HTTP, AJAX, and Observables Faster server-side rendering; Support for views without browser-side rendering; Less lines of code needed because of components operating in parallel; Enhanced developer productivity; Improved functionality of the program; Dependency injection and clean code development are offered by Angular. Numerous Angular libraries are available for use, assisting you in developing strong template solutions. With order to run a unit test with Angular, you must first inject fictitious data into the controller and examine the outcome and behavior. You may also create each page separately and then put it together with the other elements to view the entire result. There’s just one routing choice available. It also features data-binding interactive user interfaces. HTML syntax is extended by Angular. Angular allows you to design reusable components with directives. Data from the component and the model view need to be synced. Advantages of React Developers and users can benefit from a multitude of wonderful front-end advantages using React JS. These are some of the principal advantages of using React JS. Let’s examine a few advantages of React: Code that is more predictable and reusable; Simpler debugging with declarative views; Quicker development times; Increased developer productivity; Effortless version migration; Assistance with developing mobile apps with React Native Faster updates thanks to front-end and server-side support; enhanced performance and load times through well-designed user interfaces; Communication with third-party library systems React debugging is a straightforward procedure. You can use the application one more. Its clean design makes it easy to grasp; It makes transferring a React application for developers a cinch. It works with gadgets running both iOS and Android. Views are ReactJS’s main objective. Supporting both front-end and server-side programming, it allows for quicker updates. Angular vs. React: A quick comparison Popular JavaScript frameworks for creating intricate and dynamic online applications are React and Angular. Despite their many similarities, they differ significantly in a few key ways. Facebook produced ReactJS, an open-source package that lets you create UI components, while Google developed AngularJS, an open-source structural framework used to create dynamic web apps. In terms of web application frameworks, Angular is developed using TypeScript, whereas React JS is constructed using JSX. React JS is a JavaScript-based library, and Angular is a TypeScript-based website development framework. js is mostly used to generate interactive UI components with often variable data, whereas Angular.js is used to create advanced enterprise apps like single-page apps and modern web applications. Remember that Angular JS creates single-page applications using TypeScript and HTML when comparing it to React JS. Segregated components in React JS are extensively used to develop user interfaces for single-page apps. Angular is a TypeScript-based JavaScript framework created by Google, whereas React is a JavaScript library created and maintained by Facebook. Angular works well with many different code editors and is a component of the MEAN stack. Web app and dynamic website development is also taken into consideration. However, React is a popular tool for creating reusable HTML elements in front-end development. React JS vs Angular: When to Choose What? It’s time to talk about some advantageous criteria for deciding between Angular and React. Unlike Angular, the primary purpose of JavaScript is to construct interactive user interface components, typically with variable data. Complex enterprise apps, such as single-page apps and progressive web apps, are created with JavaScript. It should be mentioned that Angular JS creates single-page applications using TypeScript and HTML, in contrast to React JS. Angular is mostly used for creating sophisticated enterprise-level applications, such as progressive web apps and single-page apps. Is React inferior to Angular? If you’re building an enterprise-grade application and need to integrate sophisticated features like progressive, single-page, and native web apps, Angular is a better option than React. Angular or React – Which is Better? The most widely used front-end technologies among developers are Angular and React. Although they both have many wonderful advantages, React functions better than Angular. Furthermore, React JS has a sizable development community behind it. In the comparison, React runs better than Angular because to its rendering optimizations and virtual DOM. Additionally, it makes it easier for developers to switch between different React versions. In contrast to Angular, it is really simple to install. React outperforms Angular because of its rendering optimizations and virtual DOM methodology. React versions can also be switched between with ease; unlike Angular, updates don’t have to be installed one at a time. Lastly, developers can choose from a variety of pre-built solutions by utilizing React. Because React.js apps use a virtual DOM, developers can make changes without needing to completely redo the HTML content. It ensures speedier performance by rendering changes faster. To put it briefly, React provides developers with a plethora of benefits and strong solutions that speed up development and reduce errors. Therefore, you should take your project’s needs, functions, and usages into account when deciding between React and Angular for front end technology. You can definitely get in touch with us if you’re searching for expert JavaScript programming services. Career Opportunities ReactJS is a prerequisite for almost 80% of advertised positions related to executives. AngularJS occupies just over 20% of the market. However, these two continue to dominate the market compared to other web frameworks. If your project needs a solid structure that can be shared with several team members immediately, Angular can be your choice. If you need freedom in your project with powerful and fast tools, React is your first choice. The knowledge of both has fantastic job opportunities and both continue to grow rapidly. Join Our AngularJS Online Course Related blogs ReactJS Interview Questions And Answers Difference between Angular and AngularJS AngularJS Interview Questions and Answers MEAN Stack Interview Questions and Answers Salesforce Interview Questions and Answers Career in Salesforce Why Learn Python in 2020 What is Python used for in Programming Python Best Practices: 5 Tips For Better Coding For Best Quality Python Programming Classes in Pune, Join 3ri Technologies! Best Technologies To Learn In IT Industry 2020 Python vs Java DevOps Career in 2020 Prev Previous Why Salesforce Remains One of the Smartest Career Choices You Can Make Next AngularJS vs NodeJS: Understanding the Differences and Synergies Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -54,266 +36,41 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2020/07/13/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/angular-vs-angularjs/",
-      "https://www.3ritechnologies.com/angular-vs-react/",
-      "https://www.3ritechnologies.com/angularjs-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/angularjs-vs-nodejs/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/best-technologies-to-learn/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/career-in-devops/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/for-best-quality-python-programming-classes-in-pune-join-3ri-technologies/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/mean-stack-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/python-best-practices-5-tips-for-better-coding/",
-      "https://www.3ritechnologies.com/python-vs-java/",
-      "https://www.3ritechnologies.com/react-js-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/salesforce-career/",
-      "https://www.3ritechnologies.com/salesforce-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/what-is-python-used-for-in-programming/",
-      "https://www.3ritechnologies.com/why-learn-python-in-2020/",
-      "https://www.3ritechnologies.com/why-salesforce-in-2020/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/angular-vs-react/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Angular vs React JS: Key Differences Developers Should Know in 2024",
-    "og_description": "Confused between Angular and React JS? Discover the key differences, use cases, and which is right for your project. Master both with our AngularJS Course.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/angular-vs-react/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/angular-vs-react/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "Angular JS vs React JS: A Detailed Comparison for Developers",
-            "datePublished": "2020-07-13T12:26:42+00:00",
-            "dateModified": "2025-06-02T07:00:33+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/angular-vs-react/"
-            },
-            "wordCount": 2473,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/angular-vs-react/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/07/AngularJS-vs-ReactJS.jpg",
-            "keywords": [
-              "Angular Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "Web Technologies"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/angular-vs-react/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/angular-vs-react/",
-            "url": "https://www.3ritechnologies.com/angular-vs-react/",
-            "name": "Angular vs React JS: Key Differences Developers Should Know in 2024",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/angular-vs-react/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/angular-vs-react/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/07/AngularJS-vs-ReactJS.jpg",
-            "datePublished": "2020-07-13T12:26:42+00:00",
-            "dateModified": "2025-06-02T07:00:33+00:00",
-            "description": "Confused between Angular and React JS? Discover the key differences, use cases, and which is right for your project. Master both with our AngularJS Course.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/angular-vs-react/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/angular-vs-react/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/angular-vs-react/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2020/07/AngularJS-vs-ReactJS.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/07/AngularJS-vs-ReactJS.jpg",
-            "width": 1000,
-            "height": 667,
-            "caption": "Difference between AngularJS and ReactJS"
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/angular-vs-react/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Angular JS vs React JS: A Detailed Comparison for Developers"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Difference between AngularJS and ReactJS",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Web+Technologies&cd%5Bpage_title%5D=Angular+JS+vs+React+JS%3A+A+Detailed+Comparison+for+Developers&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=18678&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fangular-vs-react%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

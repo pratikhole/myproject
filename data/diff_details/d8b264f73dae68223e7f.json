@@ -1,29 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/what-is-sns-in-aws/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "What is SNS in AWS? | Simple Notification Service Explained",
-    "meta_description": "Discover what AWS SNS is, how Amazon SNS works, and how to use SNS in AWS for real-time notifications and seamless communication. Enroll in our AWS Course in Pune to master AWS services at 3RI Technologies.",
-    "h1": [
-      "What is SNS in AWS?",
-      "Understanding Amazon SNS: Features, Use Cases & Benefits"
-    ],
-    "content": "Skip to content Home > What is SNS in AWS? What is SNS in AWS? Amazon SNS, short for \"Simple Notification Service,\" is a managed service that Amazon Web Services (AWS) broadcasts messages to subscribers, be they people or machines. Amazon SNS is a managed service broadcasting notifications to end users (producers and consumers). Publishers update a central hub, or \"topic,\" which readers can access and follow to receive information asynchronously. Table of Contents PriyankaS3ri January 23, 2023 2:45 pm Amazon SNS, short for “Simple Notification Service,” is a managed service that Amazon Web Services (AWS) broadcasts messages to subscribers, be they people or machines. Amazon SNS is a managed service broadcasting notifications to end users (producers and consumers). Publishers update a central hub, or “topic,” which readers can access and follow to receive information asynchronously. Clients can subscribe to an SNS topic and receive published messages via any supported endpoint, such as Amazon Kinesis Data Firehose, Amazon SQS, AWS Lambda, HTTP, email, mobile push notifications, and mobile text messaging (SMS).This blog will go over everything you need to know about Amazon SNS, including what is SNS in AWS, what is AWS SNS used for, how SNS works and so on. Amazon SNS (Simple Notification Service) is a fully managed messaging service designed to send real-time alerts and notifications across distributed systems. Whether you’re managing mobile push notifications, SMS, or email alerts, AWS SNS ensures instant delivery with high scalability. But what is SNS in AWS, and why is it essential for cloud communication? This article simplifies what AWS SNS is, how it works, and its benefits. If you’re aiming to build expertise in AWS services, check out our AWS Course in Pune at 3RI Technologies—crafted to help you become cloud-ready with hands-on learning. Understanding Amazon SNS: Features, Use Cases & Benefits Amazon Web Services (AWS) Simple Notification Service is your best option if you need to send and receive messages in the cloud (SNS). Push notifications are sent to devices registered to receive them through the AWS SNS service, which manages and controls the process. There is no need for servers when using AWS SNS to create and deliver a messaging service for both centralised and distributed systems. With AWS SNS, developers can quickly and easily build, deploy, and share cloud-based applications with other programmes. Following this introduction, we’ll explore Amazon SNS’s features and configuration options in greater detail. As a push-based messaging service, AWS Simple Notification Service (SNS) relays notifications from a group of message senders to a group of receivers or subscribers. How do push-based messages operate? Instead of storing messages, publishers in this model immediately relay them to subscribers. Who is a publisher? A publisher is a person or group that posts messages on topics they have created or been permitted to publish. Who is the subscriber? A subscriber is someone who has chosen to receive updates about specific topics. In addition, iOS, Android, or Windows devices can receive push notifications from your SNS service. How Do AWS SNS Services Work? As previously stated, AWS SNS uses the Publisher-Subscriber model to send messages to its endpoints.You can filter the messages using Amazon SNS to send them to more subscribers or endpoints via email, SMS, and mobile messages. Publishers, also called producers, make messages and send them to the AWS SNS. On the other hand, users of the SNS service receive published messages via supported network protocols like HTTP/HTTPS, AWS Lambda, and Amazon SQS. Interested to begin a career in AWS? Enroll now for AWS Training in Pune . Here is a list of the exact steps that AWS SNS uses in its workflow: 1) Initially, the publisher sends the necessary notifications to subscribers. 2) Messages that have been published are sent to the SNS service, which consists of the following components: SNS Topic – This is done so that the messages sent to different subscribers can be kept separate. You must create an SNS topic subscribers can use to connect as an AWS developer. By using the topic, subscribers can receive message alerts about the topic of their choice. Filtering Messages – Once the SNS messages have been sorted according to their topics, they are sent to the message filter, which is further sorted according to the subscriber’s chosen policy. After permissions and policy checks have been completed, messages are finally sent to the appropriate recipients. 3) Through microservices or subscriber queues, the message is sent to the subscriber. To receive the message, subscribers must enter useful information such as a URL, email address, or phone number. Enroll in our AWS Online Training today! Here are some of the most typical SNS message formats: Alerts for applications and systems , these alerts to specified users via SMS or email are triggered automatically when certain conditions are met. Text messaging or push email, Which of these two methods of communicating with individuals or groups should you use? (For instance, newspaper subscribers receive notifications of new articles). Push notifications for smartphones, Mobile applications receive direct messages (for instance, notifications about any app update available for installation). Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send How To Use SNS Switch to the SNS service, which is available in the application services. On the left side of the Console, Look for the Topics Link. To establish a fresh topic, please select the “Create Topic” link In a Text Field, type the topic name. The topic has been successfully created, as seen on the screen below. Click the Create subscription button to start a subscription. Select the type of endpoint and input the endpoint address, which is the location where you wish to send the notification. The page below indicates that the subscription status is pending. The screen below shows that the subscriber has received mail. Clicking the “Confirm Subscription” button is required of all subscribers. Click the Publish message after selecting the topic name, such as hello. When sending it to the endpoint, provide the message body, time to live, and subject. Every single one of the subscribers listed in the ID has received the message. 2. Difference between SQS and SNS SNS and SQS are abbreviations for “Simple Notification Service” and “Simple Queue Service,” respectively.” With SQS, messages are not pushed to users; they are delivered when ready. The texts have to be taken out of the Queue by the users. Push-based delivery means that messages are sent to many users at once. In the SNS service, multiple receivers get messages at the same time. In the SQS service, however, multiple receivers do not get messages at the same time. Message delivery is slower with SNS polling than SQS pushing, which sends messages to users immediately. 3. How does message filtering on Amazon SNS operate? Let’s now look at how Amazon SNS uses message filtering to deliver some SNS topic messages to subscribed endpoints. For example, allow’s utilize a commercial website, which forwards user requests to various backend servers for simplicity. Included in this server network are: One server will handle “type 1” user requests. One server will handle “type 2” user requests. One data analytics server that can handle both “type 1” and “type 2” user requests The following six steps outline how to use the Amazon SNS service for message filtering: 1. Make A Topic on Amazon SNS Creating the Amazon SNS subject is the first step in publishing messages anytime a user requests something on the website. Type in your login and password to get to the AWS Management Console. Access the Amazon SNS service interface using the “AWS Services” search box. The landing page of the SNS console has a “Start with an overview” option; select “Topics” from the left-hand menu. After that, select “Create topic” and enter your topic’s name (“Topic_1”) in the dialogue box’s “Topic name” box. You can add new topics on the “Topic” details page by clicking “Create topic” in the dialogue box. 2. Establish Amazon SQS Queues Then, after creating the SNS topic, you must configure the Amazon SQS lists to subscribe to it. The website’s backend computers check each SQS message queue for user requests. This is an example: Queue_1 responds to “type 1” user requests. Queue_2 responds to “type 2” user requests. Queue 3 handles both “type 1” and “type 2” user requests. To access the Amazon SQS Console, enter your username and password. Now, go to the “Create New Queue” page and type “Queue_1” into the “Queue Name” box. Select “Standard Queue” and then click “Quick-Create Queue.” Step b again to make two more queues, calling them “Queue_2” and “Queue_3.” The SQS dashboard page shows all three of these SQS queues after creation. 3. Join the Queues to the Topic You need to do this step to subscribe to the newly created SQS queues for the Amazon SNS topic. This will cause appropriate SNS messages to be sent out. Consider the case of “Topic_1” and subscribe to each of the three queues (Queue_1, Queue_2, and Queue_3). Choose the three queues from the queue list in the AWS SQS console. Then, go to Queue Actions and click “Subscribe Queues to SNS Topic.” From the “Subs” “Choose a Topic” list When you see the “Connect to a Topic” box, choose the SNS topic you made (Topic_1). Use the “Topic ARN” field to connect your queues to SQS queues that someone outside your company made. When you click “Subscribe,” the chosen lists will be added to the topic. 4. Filter Rules for SNS Subscriptions You should now configure the filter rules for your SNS subscriptions after you have established your SNS topics and SQS queues. A filter policy, which is made as a JSON file, tells the user what kind of message alerts they want. If you don’t set any filtering rules for your subscriptions, they will get all messages posted to the SNS topic (in this case, Queue_3 since it handles all requests). In Amazon SNS, click Topics and then choose “Topic_1” from the list of topics. Now, on the “Topic_1” information page, you can see a list of all the SQS queues. Take a look at this picture. Just pick out a queue and click “Edit.”This will bring up the “Edit subscription” panel, where you can change the queue’s filter policy. In the JSON editor, type in the code, like “request_type”:[“type 1”] for Queue_1. Save your changes when you’re done. Do the steps above again for the other two lines. Because Queue 3 processes all event messages received to the topic, a filter strategy is unnecessary. 5. Publish Messages to the Topic The next stage is testing the message filtering system to determine whether it distributes the appropriate messages to subscribers. a. Click “Publish a message” from the Amazon SNS console’s “Topic_1” information page. b. Fill out the “Publish message to topic” page with the following message information. This is an example of a screen: Optional: Subject: includes the message subject (e.g., “Message#1”). Ensure you have the option “Identical payload for all delivery protocols” set. Message body: consists of the message that has to be sent to the destination. The message attributes include the parameters that were used to send the message. We have “String” for Type, “request_type” for Name, and “type 1” for Value in our example. c. Send out your initial message. d.Messages #2 and #3 can be added using the same parameters as the first two by repeating the previous processes. Give “type 2” as the Value property for both messages. 6. Check for Message Delivery After that, check if the message filter strategy sends the new messages to the right SQS queue. From the Amazon SQS dashboard, choose Queue Actions > after selecting your queue. See and Remove Messages. To begin receiving the messages, click “Start Polling for Messages.” For the other queues, follow the same procedures as before. You’ll notice that while Queue_2 receives Messages #2 and #3, Queue_1 will only receive Message #1. Since Queue_3 lacks a set filter policy, all three messages will be sent to it simultaneously. What is AWS SNS Used For? Here are some of the most common ways that Serverless applications use SNS. Push notifications are used to notify mobile clients of upcoming events.You can use mobile push notifications to send your users to secure updates that need to be sent at a certain time. The push notification service is responsible for communicating with each subscribed mobile device and disseminating relevant app notifications to the end users. Amazon doesn’t have a service that sends app notifications for you, but you can connect the following push notification services to SNS to do that for you: For Amazon devices, use Amazon Device Messaging (ADM). Apple Push Notification Service (APNS) for devices running macOS, iOS, iPad OS, tv OS, and watch OS Multi-platform Baidu Cloud Push (Baidu) service Android, iOS, web, and desktop versions of Firebase Cloud Messaging For Windows Phones, use Microsoft Push Notification Service (MPNS) Applications running on the Universal Windows Platform (UWP): Windows Push Notification Services You can add any of these services as a subscriber to a topic in SNS if you use them. Check out AWS Cloud Practitioner Training and get certified today. For distributing work in units that must be completed exactly once, Amazon SQS, a related AWS service, is a good option for sending events between system components that don’t need to be processed exactly once. On the other hand, SNS is a better choice for sending information between systems when it’s not as important that the information be sent exactly once. Notifications from one recipient to multiple recipients When utilising multiple queueing systems, sending the same message to multiple read-once queues may be necessary. For example, if you run an online store, you could use Amazon SNS to have each order send a message to the system for tracking orders and the system for analysing sales. Imagine that you also want to ensure that each of these downstream systems doesn’t do the same work more than once. For example, you might not like the same order counted twice on two analytics servers. Using SNS with two SQS queues as subscribers is a common way to solve this problem. SQS ensures that each message is only handled once, while SNS lets you send the same message to more than one client. This type of solution ensures that data is sent to all relevant systems and that work is only done once in each system further down the chain. Sending transactional emails or text messages Many businesses must let their customers know what’s going on with their accounts, orders, posts, and other things. A “transaction message” is often the name for a message sent by a company’s system when an action is finished. SNS is suitable for sending this type of message because it can send an email, push notifications, and SMS. Pros of Amazon SNS Amazon SNS provides four key advantages, including: 1. Strong Dependability The Amazon SNS service stores messages in cross-availability zones across multiple AWS regions. Consequently, each message is now simultaneously accessible in various locations. This indicates that the dependability is extremely high. Thanks to AWS’s extensive global data centre network, publishers can send messages whenever they want. Amazon SNS is compatible with all AWS endpoints, including Amazon SQS and AWS Lambda, for sending and receiving messages.The SNS service will resend messages and file them under “dead letter queries” if the subscriber endpoint is unreachable (or DLQ). 2. Automatically Scalable The Amazon Simple Notification Service allows you to easily and dynamically increase or decrease the number of message requests from any application. Amazon SNS utilises the scalability features of the AWS cloud platform to achieve this advantage. The Amazon SNS platform is designed for high throughput and varying traffic patterns in addition to automatic scaling. Using capacity planning and provisioning, you can utilize Amazon SNS to organize your workload. Furthermore, there are no installation fees or upfront costs. Check out Amazon Web Services Course offered at 3RI Technologies which has 30% Theory class and 70% practical hands-on training. 3. Message Filtration Using Amazon’s Simple Notification Service (SNS), you can streamline your messaging infrastructure by doing away with complex mechanisms like message filtering and routing at the subscriber level (from the publisher). The SNS service filters your messages, so subscribers only get the ones that interest them and not all the messages posted on the SNS topic. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes 4. Security As the owner of an SNS topic, you can establish topic-specific policies that specify network protocols. It is also possible to choose which users can publish content or subscribe to a particular topic. Additional security measures for “one-time password” (OTP) transactions include the daily message limit, message confidentiality, and message security. You can make your Amazon SNS messages even more private by encrypting them. Send private messages to SNS topics using the Amazon PrivateLink service from any VPC network in the Amazon cloud. Final Thoughts This blog explains using Amazon’s Simple Notification Service to notify users or devices (SNS). Amazon Simple Notification Service (SNS) is a reliable, scalable, and fault-tolerant service for broadcasting messages to various endpoints, including microservices, serverless applications, and other distributed systems using the publisher-subscriber model. Do you want to learn more about the features and applications of AWS SNS ? Participate in the 3RI Technologies AWS SNS course today to gain profound knowledge. AWS Training Offered In Other Locations Are: Pune Bangalore Mumbai Delhi Noida Hyderabad Chennai Ahmedabad Kochi Kolkata Prev Previous Ansible vs Chef vs Puppet: A Comprehensive Guide for DevOps Automation Next What is AWS Elastic Beanstalk? A Beginner-Friendly Overview Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -135,263 +116,121 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2023/01/23/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/ansible-vs-chef-vs-puppet/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
-      "https://www.3ritechnologies.com/course/aws-online-training/",
-      "https://www.3ritechnologies.com/course/aws-training-in-ahmedabad/",
-      "https://www.3ritechnologies.com/course/aws-training-in-bangalore/",
-      "https://www.3ritechnologies.com/course/aws-training-in-chennai/",
-      "https://www.3ritechnologies.com/course/aws-training-in-delhi/",
-      "https://www.3ritechnologies.com/course/aws-training-in-hyderabad/",
-      "https://www.3ritechnologies.com/course/aws-training-in-kochi/",
-      "https://www.3ritechnologies.com/course/aws-training-in-kolkata/",
-      "https://www.3ritechnologies.com/course/aws-training-in-mumbai/",
-      "https://www.3ritechnologies.com/course/aws-training-in-noida/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/devops-with-aws-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/what-is-aws-elastic-beanstalk/",
-      "https://www.3ritechnologies.com/what-is-sns-in-aws/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/what-is-sns-in-aws/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "What is SNS in AWS? | Simple Notification Service Explained",
-    "og_description": "Discover what AWS SNS is, how Amazon SNS works, and how to use SNS in AWS for real-time notifications and seamless communication. Enroll in our AWS Course in Pune to master AWS services at 3RI Technologies.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/what-is-sns-in-aws/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/what-is-sns-in-aws/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "What is SNS in AWS?",
-            "datePublished": "2023-01-23T09:15:46+00:00",
-            "dateModified": "2025-05-20T05:02:45+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/what-is-sns-in-aws/"
-            },
-            "wordCount": 2834,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/what-is-sns-in-aws/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/01/sns-in-aws-2-1.jpg",
-            "keywords": [
-              "AWS Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "Cloud Computing"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/what-is-sns-in-aws/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/what-is-sns-in-aws/",
-            "url": "https://www.3ritechnologies.com/what-is-sns-in-aws/",
-            "name": "What is SNS in AWS? | Simple Notification Service Explained",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/what-is-sns-in-aws/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/what-is-sns-in-aws/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/01/sns-in-aws-2-1.jpg",
-            "datePublished": "2023-01-23T09:15:46+00:00",
-            "dateModified": "2025-05-20T05:02:45+00:00",
-            "description": "Discover what AWS SNS is, how Amazon SNS works, and how to use SNS in AWS for real-time notifications and seamless communication. Enroll in our AWS Course in Pune to master AWS services at 3RI Technologies.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/what-is-sns-in-aws/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/what-is-sns-in-aws/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/what-is-sns-in-aws/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/01/sns-in-aws-2-1.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/01/sns-in-aws-2-1.jpg",
-            "width": 1000,
-            "height": 667
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/what-is-sns-in-aws/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "What is SNS in AWS?"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Become An AWS Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDgxMyIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSI4MTMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDQ0MiIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSI0NDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDM0OCIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSIzNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDQyMSIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSI0MjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDQxNSIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSI0MTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDQ2NSIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSI0NjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDQwNCIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSI0MDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDQxMyIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSI0MTMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODY5IDQ2MyIgd2lkdGg9Ijg2OSIgaGVpZ2h0PSI0NjMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDM5NiIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSIzOTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDM4MSIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSIzODEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDQ1MCIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSI0NTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTc1IDMxOSIgd2lkdGg9Ijk3NSIgaGVpZ2h0PSIzMTkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Cloud+Computing&cd%5Bpage_title%5D=What+is+SNS+in+AWS%3F&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=75867&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-sns-in-aws%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

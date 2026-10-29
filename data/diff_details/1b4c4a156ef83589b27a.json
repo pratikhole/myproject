@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/history-and-versions-of-itil/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "History and Versions of ITIL: Know the Evolution and Current ITIL Version",
-    "meta_description": "Discover the evolution of ITIL, its processes, and the current ITIL version in use. Learn how mastering ITIL can boost your career through ITIL Certification Training.",
-    "h1": [
-      "A Complete Guide to the History and Versions of ITIL"
-    ],
-    "content": "Skip to content Home > A Complete Guide to the History and Versions of ITIL A Complete Guide to the History and Versions of ITIL Table of Contents PriyankaS3ri March 8, 2021 6:26 pm ITIL is the Information Technology Infrastructure Library, is a globally recognized International Service Standard Management (ITSM) services. These essential resources help IT companies define, design, and improve their IT services. It is beneficial for IT service support as it allows service providers to reduce risks, enhance customer service and consistently improve market competition. The standard protocols of ITIL are explained in five support services detailing the ITIL framework’s basic concepts, which are addressed in the various fields of service management methods. The ISO 20000 Foundation also implements ITIL policies and procedures, the ITSM for IT certification and the related requirements. The ITIL process has transformed how organizations manage IT services over the decades. From its origins in the 1980s to the latest update, ITIL continues to evolve. Wondering which is the current version of ITIL in use? It’s ITIL 4—designed for agile, modern business environments. Understanding the current ITIL version is essential for professionals aiming to streamline service delivery and boost efficiency. At 3RI Technologies, our ITIL Certification Training equips you with practical knowledge to implement ITIL principles effectively and advance your career in IT service management. While several practitioners would also contend that strict compliance with the essential criteria of ITIL lacks the flexibility to lead to an ineffective ITSM stage of development, it is vital to determine the negative effect of ITIL on the workplace environment. Many IT companies use ITIL as a standard model for designing their own IT processes and have developed a wide variety of service management processes. We use the current version ITIL V4 that was released in 2019. It is time to look back, and I wrote this article to briefly summaries how ITIL has begun, how it has developed tremendously over the years, and how ITIL systems could influence IT service management (ITSM). History of ITIL The late 1980s: Origin of ITIL Version 1 The early 1990s: The Adoption of the ITIL The early 2000s-ITIL Version 2 2007: ITIL Version 3 2011: No New Concepts Introduced 2016: Introduction of Guiding Principles 2019: ITIL Version 4 Future Understanding the ITIL Process and Its Current Version ITIL Version 1 First, let us look at how ITIL began in the late 1980s when IBM started research on Information Systems Management Architecture (ISMA). During that decade, Edward A. Van Schaik and IBM released large-scale data they had gathered during their first ISMA development. On its part, ISMA was the first system-based approach to the definition and management of services. The ITIL framework emerged in the late 1980s when the United Kingdom Government found that their IT service efficiency standard was inadequate. In developing IT services, the UK Government has directed the Central Computer & Telecommunications Agency (CCTA), now officially known as the Office of Government Commerce (OGC), to set up IT services-based processes. The first edition of ITIL developed at the end of the 1980s, GITIM (Government Information Technology Infrastructure Management) differed from the current ITIL version. Still, the approach was very closely related, both in terms of IT services and the delivery of products and services. Government institutions and multinationals quickly implemented the new framework in Europe under the direction of the British Government. As IT has continued to spread, the ITIL framework has become widely shared in the United Kingdom, the United States, and the international community. Government institutions and multinationals quickly adopted the new ITIL framework in Europe under the British Government’s control. As IT developed, the ITIL framework became popular in the 1990s with the United Kingdom, the United States, and the international community. IT companies started adopting the ITIL version 1 framework in the early 1990s. This framework consisted of thirty volumes, developed, and published, that incorporated the best practices for IT companies in ITSM as soon as they were adopted internationally. These included works focused on configuration efficiency and cost control for services management. ITIL Version 2 In the early 2000s, CCTA and some other agencies agreed to join the Office of Government Trade (OGC), formally known as the Cabinet Office. The ITIL version 2 framework was the first significant upgrade of the IT service system in 2001. This usually leads to the general approval of the CCTA by the OGC. The main objective of ITIL version 2 was to make ITSM and reliable sources more accessible to IT service providers on an ongoing basis. This involved a significant reduction of the original thirty volumes to a more concise set of seven services, which were much more logically prepared to be delivered by IT service providers. Service Delivery Books and Service Management have been redesigned and modified to include more accessible and reliable volumes. It was perhaps the most often adopted version to address IT services and has been the international community’s highest standard. Want to Upskill to get ahead in your career? Check out Job Oriented Courses ITIL Version 3 ITIL version 3 was introduced worldwide in 2007. The ‘ITIL Refresh Project’ was a functional five-volume module that followed a life-cycle approach to service management and focused more on IT business integration. Five primary services expressed the improvement in the ITSM: Service Strategy Service Design Service Transition Service Operation Continual Service Improvement ITIL version 3 has introduced a range of improvements to the standard ITSM, including a more diverse volume set, a service-based life-cycle approach and a much stronger emphasis on globalization. ITIL 2011 Version 3 In 2011, AXELOS reviewed a further update to the ITIL version 3 framework. ITIL was modified to include feedback from users and the professional development community. Also, performance improvements and service packages generate updates to OGC version 2 of ITIL.No new methods have been developed;however, they are intended to address the performance discrepancies and contradictions.It comprises five modules, with a significant change in the module defining the underlying principles designed to make data and more available for professionals looking to bring into their IT projects. ITIL intellectual property owner, AXELOS, announced the release of the ITIL guideline in 2016. Reference evidence indicates that the ITIL system has always been an integral part of the strategic ITSM approach. This organization provides certification to companies and is responsible for monitoring all ITIL regular updates. ITIL Version 4 In 2019, Axelos released ITIL version 4 with a significant emphasis on iterative, continuous, and dynamic IT services delivery. This version maintains consistency and reflects on the client requirements of IT and other service providers. This edition also helps businesses obtain the opportunity to consider the future advantages of their IT services. It also enables companies to mitigate risks efficiently and strengthen their IT processes. This version reflects on new ITIL practices that best reflect today’s digital enterprise and its applications. It is also flexible to ensure that it complements other technologies such as Information Technology (IT), Artificial Intelligence (AI), Cloud Computing and DevOps.It defines an extraordinarily successful and challenging IT business environment, applying ITIL practices to a broader range of digital-era practitioners.This version includes a customized set of guidelines that are important for addressing challenges at IT’s operational level.ITIL version 4 integrates all guiding principles and techniques and introduces two different approaches, and they are: 1) Four-DimensionalModel 2) The Service Value System (SVS) architecture. The Four-Dimensional Model of ITIL version 4 includes: Organizations and people Information and technology Partners and suppliers Value streams and processes Service Value System (SVS) is the architecture of ITIL,and this includes: Guiding principles Governance Service value chain Continual improvement Management practices ITIL 4 explains how the individual elements responsible for delivering services will drive high-quality services to customers. It will contribute to a better view of integrating diverse practices and collaborating to provide benefits, rather than working across departments and enhancing individually. Main changes continue to be made in the current version of ITIL. With a view to the quality of services, a new increase in the value of the services delivered is required.ITIL version 4 proposes to improve the productivity of the organization’s continuous development of ITIL services. SkyRocket Your Career with 3RI Technologies Conclusion ITIL has been the standard for ITSM services for decades. As many potential IT experts agree that it is best suited to better functionality for IT projects and a more robust framework, it effectively delivers many benefits.If effective teamwork is essential for business development, the relationship between IT service management, business operations, and production needs improvement. The ITSM service has always been adapted to the digital environment of today. Besides, ITSM is a critical component of the IT management team. It controls the way the IT team operates and helps service providers meet their corporate objectives. The integration of the best ITSM solution into the IT business environment has always been important. Until implementing the ITIL framework, the service provider must consider that ITIL is merely a practical guidance device. It offers prescriptive guidance on how to execute procedures in a competitive IT environment. This perspective, along with the need to respond to today’s consumers’ demands, has led IT practitioners to look for new approaches. Service providers attempting to enforce ITIL standards can obtain guidance from highly trained IT service providers and consultants. The service provider must work more effectively than ever before to satisfy today’s clients’ constant demands. Adaptability, reliability, teamwork, and customer care must be the service provider’s primary responsibility to fulfill these requirements. Prev Previous What is ITIL? A Complete Guide to the Framework, Process & Certification Next What is React JS? Understanding the Core of Modern Web Development Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -49,254 +31,36 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2021/03/08/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/benefits-of-itil-certification-training/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/job-oriented-courses/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/history-and-versions-of-itil/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/what-is-itil/",
-      "https://www.3ritechnologies.com/what-is-react-js/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/history-and-versions-of-itil/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "History and Versions of ITIL: Know the Evolution and Current ITIL Version",
-    "og_description": "Discover the evolution of ITIL, its processes, and the current ITIL version in use. Learn how mastering ITIL can boost your career through ITIL Certification Training.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/history-and-versions-of-itil/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/history-and-versions-of-itil/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "A Complete Guide to the History and Versions of ITIL",
-            "datePublished": "2021-03-08T12:56:19+00:00",
-            "dateModified": "2025-05-16T04:45:58+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/history-and-versions-of-itil/"
-            },
-            "wordCount": 1563,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/history-and-versions-of-itil/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/03/History-of-ITIL.jpg",
-            "keywords": [
-              "ITIL Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "ITIL (IT Infrastructure Library)"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/history-and-versions-of-itil/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/history-and-versions-of-itil/",
-            "url": "https://www.3ritechnologies.com/history-and-versions-of-itil/",
-            "name": "History and Versions of ITIL: Know the Evolution and Current ITIL Version",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/history-and-versions-of-itil/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/history-and-versions-of-itil/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/03/History-of-ITIL.jpg",
-            "datePublished": "2021-03-08T12:56:19+00:00",
-            "dateModified": "2025-05-16T04:45:58+00:00",
-            "description": "Discover the evolution of ITIL, its processes, and the current ITIL version in use. Learn how mastering ITIL can boost your career through ITIL Certification Training.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/history-and-versions-of-itil/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/history-and-versions-of-itil/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/history-and-versions-of-itil/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2021/03/History-of-ITIL.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2021/03/History-of-ITIL.jpg",
-            "width": 700,
-            "height": 466,
-            "caption": "History of ITIL"
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/history-and-versions-of-itil/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "A Complete Guide to the History and Versions of ITIL"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAwIDQ2NiIgd2lkdGg9IjcwMCIgaGVpZ2h0PSI0NjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "History of ITIL",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Job Oriented Courses",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+ITIL+%28IT+Infrastructure+Library%29&cd%5Bpage_title%5D=A+Complete+Guide+to+the+History+and+Versions+of+ITIL&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=44475&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fhistory-and-versions-of-itil%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

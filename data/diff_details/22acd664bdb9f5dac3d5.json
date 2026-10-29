@@ -1,27 +1,11 @@
 {
   "url": "https://www.3ritechnologies.com/data-science-for-non-technical-background/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
     "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "Data Science for Non-Technical Background | 3ritechnologies",
-    "meta_description": "Learn how to start a career in data science from a non-technical background. Explore skills, roadmap, career opportunities, and the best Data Science Training in Pune for beginners.",
-    "h1": [
-      "Data Science For a Non-Technical Background"
-    ],
+  "old": {
     "content": "Skip to content Home > Data Science For a Non-Technical Background Data Science For a Non-Technical Background From non-technical to data scientist: A comprehensive guide to learning data science skills, building a portfolio, and starting your new career with 3RI Technologies Table of Contents PriyankaS3ri May 19, 2025 2:44 pm The demand for data science professionals has grown rapidly across industries such as healthcare, finance, e-commerce, marketing, logistics, and IT services. Businesses today rely heavily on data to make decisions, improve customer experience, and predict future trends. Because of this shift, many students and working professionals from non-technical backgrounds are now exploring – Data science coourse in Pune. One of the most common questions beginners ask is: Can a non-technical person learn data science? The answer is yes. Modern learning platforms, structured mentorship, beginner-friendly tools, and practical training have made data science more accessible than ever before. Whether you come from commerce, arts, management, mechanical engineering, or another non-IT background, you can gradually build the required skills with the right roadmap and guidance. This guide explains everything you need to know about learning data science from a non-technical background, including skills, career paths, learning roadmap, challenges, and training opportunities in Pune. Can a Non-Technical Person Learn Data Science? Many learners assume data science is only for programmers or computer science graduates. In reality, companies today value analytical thinking, business understanding, communication skills, and problem-solving abilities just as much as coding knowledge. A non-technical learner may initially find programming and statistics unfamiliar, but these concepts can be learned step-by-step through proper training and practice. Why Data Science Is No Longer Limited to IT Professionals Earlier, data-related roles were highly technical and mostly handled by software engineers. Today, businesses need professionals who can interpret data and convert it into meaningful business insights. This has opened opportunities for learners from various educational backgrounds. Industries hiring data professionals now include: Banking and finance Healthcare Retail and e-commerce Digital marketing Manufacturing Education Logistics and supply chain Professionals with domain knowledge often have an advantage because they understand industry-specific problems. Common Myths about Data science for Non-Technical Myth 1: “I need advanced coding skills.”Most beginner-level data science courses start with basic programming concepts and gradually move to advanced topics. Myth 2: “Mathematics needs to be extremely strong.” You need foundational statistics and logical thinking, not advanced theoretical mathematics. Myth 3: “Only engineers can become data scientists.” Many successful data professionals come from commerce, economics, business, and science backgrounds. Myth 4: “It is too late to switch careers.” Career transition into analytics and data science is now common among working professionals. Your Roadmap to a Successful Career in Data Science Data science has been one of the most sought after areas for over a decade, and it doesn’t seem to be slowing down. According to US Bureau of Labor Statistics projections, 11.5 million Data science jobs will exist by 2026.As of early 2024, there are only 4 million available data scientists’ specialist. This graphic illustrates the notable disparity between the number of data scientists needed and those that are available. Role Primary Responsibility Beginner Friendly Data Analyst Analyze reports and dashboards Yes Business Analyst Improve business decisions using data Yes Data Scientist Build predictive models and analytics systems Moderate Machine Learning Engineer Develop AI-driven applications Advanced Data Engineer Manage data infrastructure Technical Data literacy and analysis are crucial for survival and growth in the cutthroat economy of today. The importance of data scientists to the success of contemporary businesses is directly related to its high demand. When it comes to making decisions, the most powerful firms in the world of data science career —Google, Apple, Amazon, and Facebook—all rely heavily on data. Skills Required to Learn Data Science From a Non-Technical Background Working as a Data scientist requires both Data science technical and soft skills. To work as a data scientist, one needs to possess the following abilities. Strong fundamental comprehension of mathematical ideas like probability and statistics Solid working knowledge of R or Python. Expertise in database management, including SQL and NoSQL technologies Experience with spreadsheets. Understanding of data visualization technologies like Tableau and Power BI. Solid comprehension of the principles of deep learning and machine learning Familiarity with cloud computing platforms such as GCP, AWS, or Azure A specialist in version control systems like GitHub and Git. Strong communication skills Data Analyst vs Data Scientist: What’s the Difference? S.No. Parameters Data Analyst Data Scientist 1 Definition To find useful insights, a data analyst looks at big data sets. A data scientist, on the other hand, is in charge of gathering, examining, and interpreting complicated data in order to develop prediction models and make judgments based on the data. 2 Career Scope A data analyst’s professional path usually begins with an entry-level job as a research assistant or data entry clerk. . A data scientist, on the other hand, is in charge of gathering, examining, and interpreting complicated data in order to develop prediction models and make judgments based on the data. 3 Eligibility A solid foundation in mathematics, statistics, and computer science, as well as competence with programming languages like Python and SQL, are typically prerequisites for becoming a data analyst. Additionally, data scientists need to be passionate about applying data-driven ways to solve challenging challenges and possess great communication abilities. 4 Course Duration Data analysts typically require a shorter educational path with an emphasis on basic data analysis skills. Data scientists typically require advanced degrees and deeper training in machine learning and complex statistical modeling, which results in longer course duration. 5 Demand Data Analyst has less capacity to solve more challenging issues and generate novel insights through sophisticated modeling. However, data scientists are often seen to be more in demand. 6 Top Company hiring Top organizations hiring for both professions include digital giants like Google, Amazon, and Microsoft, as well as companies in banking, healthcare, and retail sectors, Same as Data analyst, depending on the specific data demands. 7 Salary Making the appropriate decision may depend on your understanding of the income possibilities of a data science or analytics job. A data analyst makes, on average, $65,630 a year. Data scientists can earn up to $123,842 a year, according to Indeed. Step-by-Step RoadMap for Data science for Non-Technical Persons Step 1: Statistics and Probability The majority of recruiters want applicants with strong analytical skills when recruiting data scientists . You must cultivate mathematical intuition in order to acquire these abilities. Learn important statistics concepts including descriptive statistics and the normal distribution. Review the linear algebra ideas and calculus formulas that will subsequently aid in your comprehension of how machine learning algorithms are developed. Step 2: Proficiency in MS Excel Then start learning Excel. Excel is simple to learn and use thanks to its intuitive layout, even for people who are unfamiliar with data science principles. It is a great place to start when exploring and analyzing data, and it has powerful data cleansing, organizing, and manipulation tools, such as filtering, sorting, and removing duplicates. Discover important functions and formulas, such as text functions (LEFT, RIGHT, CONCATENATE), logical functions (IF, AND, OR), statistical functions (AVERAGE, MEDIAN, STANDARD DEVIATION), and lookup functions (VLOOKUP, INDEX MATCH). You should also learn how to handle missing values, eliminate duplicates, format data consistently, and identify trends with conditional formatting. Step 3: Working on Data with Power BI Data scientists have access to numerous sophisticated data visualization choices with Power BI. Among these features include smooth integration with other Microsoft products, such Excel and Azure, which facilitates team collaboration and dashboard sharing. With Power BI, you can create engaging data stories that can be used to reveal hidden trends, find correlations, or share findings with stakeholders. Next, investigate Power BI’s formula language, DAX, which allows you to perform calculations and modify data right within your visualizations. With DAX, you can build trustworthy data models that connect and manage connections between numerous data sources. Get even more inventive with the variety of visualization options available to tailor your findings for certain audiences. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send Step 4: Start with Python Programming It is no coincidence that Python has emerged as the dominant language in data science. It is perfect for revealing hidden meanings in data because of its versatility, strength, and simplicity of usage. A diverse ecosystem of data science libraries, including scikit-learn, Pandas, and NumPy, provides pre-built tools for data manipulation, analysis, and machine learning. Gaining proficiency in Python programming opens up a wide range of career advancement opportunities and makes it simple to enter the data science field. Additionally, Python seamlessly integrates with other well-known data science tools, like Jupyter Notebooks and SQL databases, making the process more efficient. To begin, learn the fundamentals of Python, such as lists, tuples, and dictionaries, which form the basis for increasingly complex tasks. Next, look at Pandas, a helpful framework for data selection, cleaning, aggregation, and filtering. NumPy provides powerful tools for numerical operations and calculations on big datasets, including linear system solution and matrix multiplication. Lastly, try out visualization tools like Matplotlib and Seaborn to produce engaging data stories. Want to Book A Free Expert Guidance Session?​ Book Now Get Free Career Counseling from Experts ! Email Phone Send Step 5: Familiarity with Machine Learning Concepts Understanding machine learning concepts is necessary to build your toolbox because they make clear how algorithms utilize data to learn and create predictions. With this knowledge, you can create accurate forecasts, automate tasks, and glean valuable insights from raw statistics. Start by learning about supervised learning principles like regression and classification, as well as unsupervised learning ideas like clustering and dimensionality reduction. Discover model evaluation concepts like correctness, confusion matrices, and cross-validation. Once you have a solid foundation, move on to more intricate concepts like deep learning, reinforcement learning, and ensemble approaches. Step 6: Solidify your Data Management Skills Next, improve your knowledge of database administration and SQL (Structured Query Language), which will allow you to view, modify, and evaluate data in relational databases. Before analysis, data can be cleaned, modified, and filtered using SQL. Start by going over the foundations of SQL and database administration. Practice frequently on sites like LeetCode and HackerRank at the same time. With this two-pronged approach, you build a strong foundation and get closer to mastery. Step 7: Understanding Cloud Computing Platforms Data scientists are aware of the persistent challenges associated with managing constantly growing amounts of data, computationally demanding tasks, and the requirement for highly scalable resources. Thankfully, cloud computing provides a strong and adaptable substitute that can aid in resolving these issues. Cloud systems remove the limitations of on-premise hardware by enabling smooth resource scaling based on your project’s needs. The pay-as-you-go strategy is more economical since it eliminates the need for any up-front infrastructure expenditures. Start by considering familiarizing yourself with well-known cloud systems like Google Cloud Platform (GCP), Amazon Web Services (AWS), and Microsoft Azure. Your real-world experience will help you manage data sources and carry out essential tasks in cloud environments. Step 8: Experience with Version Control Systems You have to efficiently handle your code, scripts, and data as a data scientist. Working with others, keeping track of changes, and referring back to previous iterations when necessary all depend on version control systems like GitHub and Git. It’s important to maintain a detailed log of every modification you make to your code, data files, and scripts. This strategy encourages productive teamwork, enabling you to collaborate with colleagues in a fluid manner while integrating changes and averting conflicts. Learn the basic Git commands, including add, commit, push, pull, and merge, to get started. Examine further GitHub capabilities such as repositories, pull requests, branches, and version control visualisation. These resources can help you become a better team player and project manager. Step 9: Get to Work on Practical Projects This is your chance to demonstrate your abilities. Search for datasets in any field that piques your interest; the possibilities are nearly limitless, whether it be finance, music, sports, or another topic. Engage in real-world problem-solving initiatives since here is where learning by doing takes place. Finding and collecting the information required for investigation is essential before starting real-world initiatives. For this, a number of internet resources, including FiveThirtyEight, the UCI Machine Learning Repository, and Kaggle, can be helpful. By providing you with access to a range of datasets, these platforms enable you to work on pertinent projects that enhance your skills and expertise. Step 10: Networking and Collaboration There are many notable people in the data science community. Make connections with them both online and off through workshops, seminars, and a variety of online discussion boards. Think about collaborating on projects, exchanging experiences, and learning from others to hone your skills. Make the effort to set up and maintain your profile on well-known employment sites like Naukri and LinkedIn. Make sure you regularly add your relevant skills and accomplishments to your profiles. Participate on these venues by sharing your accomplishments, growth, and industry expertise. You increase your visibility to recruiters and your chances of being interviewed by doing this. Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Data Analyst vs Data Scientist: What Do They Do? S.No. Roles & Responsibilities Data Scientist Data Analyst 1 Data Focus: Data scientists frequently work with unstructured data and complicated challenges, finding novel ways to extract insights, data analysts mostly use structured data to answer particular questions. Analyze data, determine how to apply it to resolve problems, get vital information about a company’s customers, and boost sales. 2 Analysis Techniques: Data scientists use more sophisticated methods like machine learning, deep learning, and statistical modeling, data analysts use more straightforward statistical analysis and data visualization tools. Analytical and statistical techniques are used to analyze, clean, convert, and model data in order to do this. 3 Business Impact: Data scientists concentrate on creating predictive models to identify future opportunities and potential risks. Helps businesses make data-driven decisions that promote efficiency and growth by deciphering complex data and revealing hidden trends. 4 Dealing a data scientist employs advanced techniques like machine learning to develop predictive models and analyze massive, complicated datasets, Finding trends and patterns in current data is the main goal of a data analyst. 5 Tools Utilizing applications such as SQL and Excel to supply pertinent data for company choices You may use the correct data analysis tools to uncover the full picture of your data and then display it in a way that is suitable for stakeholders and members of your diverse professional network. Why Choose Data Science Training in Pune? Pune has become one of India’s major education and IT hubs. The city offers strong opportunities for learners looking to build careers in analytics, AI, and data science.so here the advantages of learning in Data science course near me Advantages of Learning Data Science in Pune Growing IT Ecosystem Pune has a strong presence of: IT companies Startups Analytics firms Product-based organizations This creates increasing demand for skilled data professionals. Industry-Oriented Training Programs Many institutes now provide: Live projects Hybrid learning Weekend batches Internship support Placement assistance These programs help beginners gain practical exposure instead of only theoretical knowledge. Better Networking Opportunities Offline and hybrid learning environments help students: Interact with mentors Collaborate on projects Build professional networks Participate in workshops and hackathons Data Science From a Non-Technical Background: FAQs 1. Can someone with a non-technical background work in data science? It is entirely possible for people with non-technical backgrounds to work in data science . Although it can be helpful, having a technical background is not required. Anyone can pursue a career in data science with commitment, self-education, and the acquisition of the required skills. 2. How will data science develop in the future? Data science has a bright future. The volume of data is growing, necessitating the analysis of knowledgeable people. Given the demand for data-savvy professionals across numerous industries, expect specialization in the field. Even while the phrase “data scientist” may evolve over time, the demand for insights based on data will only increase. 3. Can someone without any prior experience pursue a profession in data science? Without any prior expertise, it is feasible to work in data science. All that is required is a deep comprehension of the technologies and tools that data scientists use to build predictive models or help businesses use their data efficiently for forecasting the future. 4. How can I demonstrate my non-technical abilities to prospective data science employers? When moving into data science, it’s critical to emphasize your non-technical abilities. Highlight assignments or experiences in which you successfully applied abilities such as communication, critical thinking, problem-solving, and domain knowledge. Stress the importance of these qualities for data science projects and how they enhance your technical skills. 5. Does a job in data science require a degree in computer science or mathematics? Having a degree in mathematics or computer science is not necessary, but it can be helpful. When it comes to data science, skills and actual Global experience is highly prized. Prioritize learning the required skills and developing a solid portfolio to demonstrate your ability Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Prev Previous How AI is Changing Education: Finding a Balance Between Innovation and Accountability Next Can a Non-IT Person Advance in a Machine Learning Career? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
     "images": [
       {
@@ -109,254 +93,97 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2025/05/19/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/data-science-for-non-technical-background/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/how-ai-is-changing-education-finding-a-balance-between-innovation-and-accountability/",
-      "https://www.3ritechnologies.com/how-to-learn-ml-without-tech-skills/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/top-20-companies-hiring-for-data-scientists-in-2024/",
-      "https://www.3ritechnologies.com/top-essential-data-engineer-skills/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/data-science-for-non-technical-background/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Data Science for Non-Technical Background | 3ritechnologies",
-    "og_description": "Learn how to start a career in data science from a non-technical background. Explore skills, roadmap, career opportunities, and the best Data Science Training in Pune for beginners.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "content": "Skip to content Home > Data Science For a Non-Technical Background Data Science For a Non-Technical Background From non-technical to data scientist: A comprehensive guide to learning data science skills, building a portfolio, and starting your new career with 3RI Technologies Table of Contents PriyankaS3ri May 19, 2025 2:44 pm The demand for data science professionals has grown rapidly across industries such as healthcare, finance, e-commerce, marketing, logistics, and IT services. Businesses today rely heavily on data to make decisions, improve customer experience, and predict future trends. Because of this shift, many students and working professionals from non-technical backgrounds are now exploring – Data science coourse in Pune. One of the most common questions beginners ask is: Can a non-technical person learn data science? The answer is yes. Modern learning platforms, structured mentorship, beginner-friendly tools, and practical training have made data science more accessible than ever before. Whether you come from commerce, arts, management, mechanical engineering, or another non-IT background, you can gradually build the required skills with the right roadmap and guidance. This guide explains everything you need to know about learning data science from a non-technical background, including skills, career paths, learning roadmap, challenges, and training opportunities in Pune. Can a Non-Technical Person Learn Data Science? Many learners assume data science is only for programmers or computer science graduates. In reality, companies today value analytical thinking, business understanding, communication skills, and problem-solving abilities just as much as coding knowledge. A non-technical learner may initially find programming and statistics unfamiliar, but these concepts can be learned step-by-step through proper training and practice. Why Data Science Is No Longer Limited to IT Professionals Earlier, data-related roles were highly technical and mostly handled by software engineers. Today, businesses need professionals who can interpret data and convert it into meaningful business insights. This has opened opportunities for learners from various educational backgrounds. Industries hiring data professionals now include: Banking and finance Healthcare Retail and e-commerce Digital marketing Manufacturing Education Logistics and supply chain Professionals with domain knowledge often have an advantage because they understand industry-specific problems. Common Myths about Data science for Non-Technical Myth 1: “I need advanced coding skills.”Most beginner-level data science courses start with basic programming concepts and gradually move to advanced topics. Myth 2: “Mathematics needs to be extremely strong.” You need foundational statistics and logical thinking, not advanced theoretical mathematics. Myth 3: “Only engineers can become data scientists.” Many successful data professionals come from commerce, economics, business, and science backgrounds. Myth 4: “It is too late to switch careers.” Career transition into analytics and data science is now common among working professionals. Your Roadmap to a Successful Career in Data Science Data science has been one of the most sought after areas for over a decade, and it doesn’t seem to be slowing down. According to US Bureau of Labor Statistics projections, 11.5 million Data science jobs will exist by 2026.As of early 2024, there are only 4 million available data scientists’ specialist. This graphic illustrates the notable disparity between the number of data scientists needed and those that are available. Role Primary Responsibility Beginner Friendly Data Analyst Analyze reports and dashboards Yes Business Analyst Improve business decisions using data Yes Data Scientist Build predictive models and analytics systems Moderate Machine Learning Engineer Develop AI-driven applications Advanced Data Engineer Manage data infrastructure Technical Data literacy and analysis are crucial for survival and growth in the cutthroat economy of today. The importance of data scientists to the success of contemporary businesses is directly related to its high demand. When it comes to making decisions, the most powerful firms in the world of data science career —Google, Apple, Amazon, and Facebook—all rely heavily on data. Skills Required to Learn Data Science From a Non-Technical Background Working as a Data scientist requires both Data science technical and soft skills. To work as a data scientist, one needs to possess the following abilities. Strong fundamental comprehension of mathematical ideas like probability and statistics Solid working knowledge of R or Python. Expertise in database management, including SQL and NoSQL technologies Experience with spreadsheets. Understanding of data visualization technologies like Tableau and Power BI. Solid comprehension of the principles of deep learning and machine learning Familiarity with cloud computing platforms such as GCP, AWS, or Azure A specialist in version control systems like GitHub and Git. Strong communication skills Data Analyst vs Data Scientist: What’s the Difference? S.No. Parameters Data Analyst Data Scientist 1 Definition To find useful insights, a data analyst looks at big data sets. A data scientist, on the other hand, is in charge of gathering, examining, and interpreting complicated data in order to develop prediction models and make judgments based on the data. 2 Career Scope A data analyst’s professional path usually begins with an entry-level job as a research assistant or data entry clerk. . A data scientist, on the other hand, is in charge of gathering, examining, and interpreting complicated data in order to develop prediction models and make judgments based on the data. 3 Eligibility A solid foundation in mathematics, statistics, and computer science, as well as competence with programming languages like Python and SQL, are typically prerequisites for becoming a data analyst. Additionally, data scientists need to be passionate about applying data-driven ways to solve challenging challenges and possess great communication abilities. 4 Course Duration Data analysts typically require a shorter educational path with an emphasis on basic data analysis skills. Data scientists typically require advanced degrees and deeper training in machine learning and complex statistical modeling, which results in longer course duration. 5 Demand Data Analyst has less capacity to solve more challenging issues and generate novel insights through sophisticated modeling. However, data scientists are often seen to be more in demand. 6 Top Company hiring Top organizations hiring for both professions include digital giants like Google, Amazon, and Microsoft, as well as companies in banking, healthcare, and retail sectors, Same as Data analyst, depending on the specific data demands. 7 Salary Making the appropriate decision may depend on your understanding of the income possibilities of a data science or analytics job. A data analyst makes, on average, $65,630 a year. Data scientists can earn up to $123,842 a year, according to Indeed. Step-by-Step RoadMap for Data science for Non-Technical Persons Step 1: Statistics and Probability The majority of recruiters want applicants with strong analytical skills when recruiting data scientists . You must cultivate mathematical intuition in order to acquire these abilities. Learn important statistics concepts including descriptive statistics and the normal distribution. Review the linear algebra ideas and calculus formulas that will subsequently aid in your comprehension of how machine learning algorithms are developed. Step 2: Proficiency in MS Excel Then start learning Excel. Excel is simple to learn and use thanks to its intuitive layout, even for people who are unfamiliar with data science principles. It is a great place to start when exploring and analyzing data, and it has powerful data cleansing, organizing, and manipulation tools, such as filtering, sorting, and removing duplicates. Discover important functions and formulas, such as text functions (LEFT, RIGHT, CONCATENATE), logical functions (IF, AND, OR), statistical functions (AVERAGE, MEDIAN, STANDARD DEVIATION), and lookup functions (VLOOKUP, INDEX MATCH). You should also learn how to handle missing values, eliminate duplicates, format data consistently, and identify trends with conditional formatting. Step 3: Working on Data with Power BI Data scientists have access to numerous sophisticated data visualization choices with Power BI. Among these features include smooth integration with other Microsoft products, such Excel and Azure, which facilitates team collaboration and dashboard sharing. With Power BI, you can create engaging data stories that can be used to reveal hidden trends, find correlations, or share findings with stakeholders. Next, investigate Power BI’s formula language, DAX, which allows you to perform calculations and modify data right within your visualizations. With DAX, you can build trustworthy data models that connect and manage connections between numerous data sources. Get even more inventive with the variety of visualization options available to tailor your findings for certain audiences. Want to Book A Free Expert Guidance Session? Book Now Get Free Career Counseling from Experts ! Email Phone Send Step 4: Start with Python Programming It is no coincidence that Python has emerged as the dominant language in data science. It is perfect for revealing hidden meanings in data because of its versatility, strength, and simplicity of usage. A diverse ecosystem of data science libraries, including scikit-learn, Pandas, and NumPy, provides pre-built tools for data manipulation, analysis, and machine learning. Gaining proficiency in Python programming opens up a wide range of career advancement opportunities and makes it simple to enter the data science field. Additionally, Python seamlessly integrates with other well-known data science tools, like Jupyter Notebooks and SQL databases, making the process more efficient. To begin, learn the fundamentals of Python, such as lists, tuples, and dictionaries, which form the basis for increasingly complex tasks. Next, look at Pandas, a helpful framework for data selection, cleaning, aggregation, and filtering. NumPy provides powerful tools for numerical operations and calculations on big datasets, including linear system solution and matrix multiplication. Lastly, try out visualization tools like Matplotlib and Seaborn to produce engaging data stories. Want to Book A Free Expert Guidance Session? Book Now Get Free Career Counseling from Experts ! Email Phone Send Step 5: Familiarity with Machine Learning Concepts Understanding machine learning concepts is necessary to build your toolbox because they make clear how algorithms utilize data to learn and create predictions. With this knowledge, you can create accurate forecasts, automate tasks, and glean valuable insights from raw statistics. Start by learning about supervised learning principles like regression and classification, as well as unsupervised learning ideas like clustering and dimensionality reduction. Discover model evaluation concepts like correctness, confusion matrices, and cross-validation. Once you have a solid foundation, move on to more intricate concepts like deep learning, reinforcement learning, and ensemble approaches. Step 6: Solidify your Data Management Skills Next, improve your knowledge of database administration and SQL (Structured Query Language), which will allow you to view, modify, and evaluate data in relational databases. Before analysis, data can be cleaned, modified, and filtered using SQL. Start by going over the foundations of SQL and database administration. Practice frequently on sites like LeetCode and HackerRank at the same time. With this two-pronged approach, you build a strong foundation and get closer to mastery. Step 7: Understanding Cloud Computing Platforms Data scientists are aware of the persistent challenges associated with managing constantly growing amounts of data, computationally demanding tasks, and the requirement for highly scalable resources. Thankfully, cloud computing provides a strong and adaptable substitute that can aid in resolving these issues. Cloud systems remove the limitations of on-premise hardware by enabling smooth resource scaling based on your project’s needs. The pay-as-you-go strategy is more economical since it eliminates the need for any up-front infrastructure expenditures. Start by considering familiarizing yourself with well-known cloud systems like Google Cloud Platform (GCP), Amazon Web Services (AWS), and Microsoft Azure. Your real-world experience will help you manage data sources and carry out essential tasks in cloud environments. Step 8: Experience with Version Control Systems You have to efficiently handle your code, scripts, and data as a data scientist. Working with others, keeping track of changes, and referring back to previous iterations when necessary all depend on version control systems like GitHub and Git. It’s important to maintain a detailed log of every modification you make to your code, data files, and scripts. This strategy encourages productive teamwork, enabling you to collaborate with colleagues in a fluid manner while integrating changes and averting conflicts. Learn the basic Git commands, including add, commit, push, pull, and merge, to get started. Examine further GitHub capabilities such as repositories, pull requests, branches, and version control visualisation. These resources can help you become a better team player and project manager. Step 9: Get to Work on Practical Projects This is your chance to demonstrate your abilities. Search for datasets in any field that piques your interest; the possibilities are nearly limitless, whether it be finance, music, sports, or another topic. Engage in real-world problem-solving initiatives since here is where learning by doing takes place. Finding and collecting the information required for investigation is essential before starting real-world initiatives. For this, a number of internet resources, including FiveThirtyEight, the UCI Machine Learning Repository, and Kaggle, can be helpful. By providing you with access to a range of datasets, these platforms enable you to work on pertinent projects that enhance your skills and expertise. Step 10: Networking and Collaboration There are many notable people in the data science community. Make connections with them both online and off through workshops, seminars, and a variety of online discussion boards. Think about collaborating on projects, exchanging experiences, and learning from others to hone your skills. Make the effort to set up and maintain your profile on well-known employment sites like Naukri and LinkedIn. Make sure you regularly add your relevant skills and accomplishments to your profiles. Participate on these venues by sharing your accomplishments, growth, and industry expertise. You increase your visibility to recruiters and your chances of being interviewed by doing this. Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Data Analyst vs Data Scientist: What Do They Do? S.No. Roles & Responsibilities Data Scientist Data Analyst 1 Data Focus: Data scientists frequently work with unstructured data and complicated challenges, finding novel ways to extract insights, data analysts mostly use structured data to answer particular questions. Analyze data, determine how to apply it to resolve problems, get vital information about a company’s customers, and boost sales. 2 Analysis Techniques: Data scientists use more sophisticated methods like machine learning, deep learning, and statistical modeling, data analysts use more straightforward statistical analysis and data visualization tools. Analytical and statistical techniques are used to analyze, clean, convert, and model data in order to do this. 3 Business Impact: Data scientists concentrate on creating predictive models to identify future opportunities and potential risks. Helps businesses make data-driven decisions that promote efficiency and growth by deciphering complex data and revealing hidden trends. 4 Dealing a data scientist employs advanced techniques like machine learning to develop predictive models and analyze massive, complicated datasets, Finding trends and patterns in current data is the main goal of a data analyst. 5 Tools Utilizing applications such as SQL and Excel to supply pertinent data for company choices You may use the correct data analysis tools to uncover the full picture of your data and then display it in a way that is suitable for stakeholders and members of your diverse professional network. Why Choose Data Science Training in Pune? Pune has become one of India’s major education and IT hubs. The city offers strong opportunities for learners looking to build careers in analytics, AI, and data science.so here the advantages of learning in Data science course near me Advantages of Learning Data Science in Pune Growing IT Ecosystem Pune has a strong presence of: IT companies Startups Analytics firms Product-based organizations This creates increasing demand for skilled data professionals. Industry-Oriented Training Programs Many institutes now provide: Live projects Hybrid learning Weekend batches Internship support Placement assistance These programs help beginners gain practical exposure instead of only theoretical knowledge. Better Networking Opportunities Offline and hybrid learning environments help students: Interact with mentors Collaborate on projects Build professional networks Participate in workshops and hackathons Data Science From a Non-Technical Background: FAQs 1. Can someone with a non-technical background work in data science? It is entirely possible for people with non-technical backgrounds to work in data science . Although it can be helpful, having a technical background is not required. Anyone can pursue a career in data science with commitment, self-education, and the acquisition of the required skills. 2. How will data science develop in the future? Data science has a bright future. The volume of data is growing, necessitating the analysis of knowledgeable people. Given the demand for data-savvy professionals across numerous industries, expect specialization in the field. Even while the phrase “data scientist” may evolve over time, the demand for insights based on data will only increase. 3. Can someone without any prior experience pursue a profession in data science? Without any prior expertise, it is feasible to work in data science. All that is required is a deep comprehension of the technologies and tools that data scientists use to build predictive models or help businesses use their data efficiently for forecasting the future. 4. How can I demonstrate my non-technical abilities to prospective data science employers? When moving into data science, it’s critical to emphasize your non-technical abilities. Highlight assignments or experiences in which you successfully applied abilities such as communication, critical thinking, problem-solving, and domain knowledge. Stress the importance of these qualities for data science projects and how they enhance your technical skills. 5. Does a job in data science require a degree in computer science or mathematics? Having a degree in mathematics or computer science is not necessary, but it can be helpful. When it comes to data science, skills and actual Global experience is highly prized. Prioritize learning the required skills and developing a solid portfolio to demonstrate your ability Unlock the Secrets to a Powerful LinkedIn Profile ! Download Free e-Guide Prev Previous How AI is Changing Education: Finding a Balance Between Innovation and Accountability Next Can a Non-IT Person Advance in a Machine Learning Career? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/data-science-for-non-technical-background/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/data-science-for-non-technical-background/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "Data Science For a Non-Technical Background",
-            "datePublished": "2025-05-19T09:14:00+00:00",
-            "dateModified": "2026-05-17T17:48:10+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/data-science-for-non-technical-background/"
-            },
-            "wordCount": 2804,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/data-science-for-non-technical-background/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/How-to-Get-Into-Data-Science.png",
-            "keywords": [
-              "Data Science Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "Data Analytics"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/data-science-for-non-technical-background/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/data-science-for-non-technical-background/",
-            "url": "https://www.3ritechnologies.com/data-science-for-non-technical-background/",
-            "name": "Data Science for Non-Technical Background | 3ritechnologies",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/data-science-for-non-technical-background/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/data-science-for-non-technical-background/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/How-to-Get-Into-Data-Science.png",
-            "datePublished": "2025-05-19T09:14:00+00:00",
-            "dateModified": "2026-05-17T17:48:10+00:00",
-            "description": "Learn how to start a career in data science from a non-technical background. Explore skills, roadmap, career opportunities, and the best Data Science Training in Pune for beginners.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/data-science-for-non-technical-background/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/data-science-for-non-technical-background/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/data-science-for-non-technical-background/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/How-to-Get-Into-Data-Science.png",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2025/01/How-to-Get-Into-Data-Science.png",
-            "width": 1000,
-            "height": 667,
-            "caption": "Thinking of switching to data science? Learn how to go from a non-technical background to a data science career"
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/data-science-for-non-technical-background/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Data Science For a Non-Technical Background"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Thinking of switching to data science? Learn how to go from a non-technical background to a data science career",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzQ4IDY0NSIgd2lkdGg9Ijc0OCIgaGVpZ2h0PSI2NDUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjU1IDYzNyIgd2lkdGg9IjY1NSIgaGVpZ2h0PSI2MzciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzQ4IDY0NSIgd2lkdGg9Ijc0OCIgaGVpZ2h0PSI2NDUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjU1IDYzNyIgd2lkdGg9IjY1NSIgaGVpZ2h0PSI2MzciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTQzIDU3OCIgd2lkdGg9Ijk0MyIgaGVpZ2h0PSI1NzgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjU1IDU1MyIgd2lkdGg9IjY1NSIgaGVpZ2h0PSI1NTMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTQzIDU3OCIgd2lkdGg9Ijk0MyIgaGVpZ2h0PSI1NzgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjU1IDU1MyIgd2lkdGg9IjY1NSIgaGVpZ2h0PSI1NTMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=Data+Science+For+a+Non-Technical+Background&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=107458&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fdata-science-for-non-technical-background%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }
