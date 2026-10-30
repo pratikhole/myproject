@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/career-guidance-after-graduation/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "Career Guidance after Graduation - 3RI Technologies Pvt Ltd",
-    "meta_description": "",
-    "h1": [
-      "Career Guidance after Graduation"
-    ],
-    "content": "Home > Career Guidance after Graduation Career Guidance after Graduation Choose the best path for your dream job through Career Guidance from India's Leading Career Counselors Career Guidance after Graduation from Industry Expert Counselors Career Guidance after Graduation Overview Professional careers are shaped greatly by one’s graduation. The goal of completing your education after graduation is to possess superior knowledge in a particular field of study. You can also use your graduate degree as a foundation for achieving your dreams. While some students find the perfect way to fulfill their dreams, most struggle to find the right career guidance after graduation . To make your career as easy as possible, you should consult with an experienced counselor. Identify your core interests The first step is to analyze, observe, and determine your core area of interest. As a college student, you must have developed an understanding of what interests you. As a result, write down your interests and passions, along with the skills, talents, and strengths that make you unique. Taking the right career decision will be easier if you can self-judge your potential. You can pursue a variety of careers depending on what you study and where you study. Following is a list of career options for graduates with an Arts, Commerce, or Science degree based on their job prospects and future studies: Prospects for Arts Graduates Graduates in the Arts have plenty of job opportunities. Among the first are jobs in government departments such as banking, agriculture, central secretariat, railways, etc. These departments have their entrance tests, like the one conducted by SSC and IBPS. You can then join a BPO if you have good communication skills and a pleasant personality. Another option for Arts Graduates with an outgoing personality is Public Relations. In addition to high salaries, this field offers excellent job prospects. In case you are a good writer, you can become a Sub-Editor in any media house or become a copywriter in an Ad Agency. Prospects for Commerce Graduates If you have an interest in maintaining the balance sheet of any business you must go to a commerce degree. After completing B. Com, you can get hired in any company for the post of Accountant. As we know every company hires an accountant to maintain their financial business. You must know Basic Principles of Accounting, Cost Accounting, and Management Accounting to find a suitable job in the financial sector. Prospects for Science Graduates Science graduates have abundant job opportunities; B.Sc. graduates can get jobs in educational institutes, research institutes, hospitals, health service providers, chemical industries, testing laboratories, and geological survey institutes, among others right after their graduation. Scientists are capable of working in Marketing, Business, and other Research Fields, in addition to technical fields. Medical Representatives, Consultants, Junior Clinical Research Engineers, Teachers, and many more are just a few of the careers available to Science Graduates. IT Degree/Courses Science graduates are not the only ones who can take IT courses. After completing a professional certificate course or a degree program, anyone can learn programming languages or work in IT. You may need to take a short introductory course to be eligible to apply to MCA if you did your graduation in a non-mathematics stream (BA, etc.). A degree or certificate in IT will prepare you for a career replete with endless opportunities in a technology-driven era. Computer experts, software professionals, web developers, animators, logo designers, software developers, and more may work for you. In the first month of starting a business, you can earn a decent income. Software Testing Training in software testing covers everything from basics to advanced topics. In this course, automation tools such as Selenium are covered as well. As software testing is one of the most sought-after jobs in the IT industry, we make sure to provide ample amounts of calls to qualified candidates and make them employable. Students fresh from college who are interested in making a career in the testing industry should consider our Software Testing Diploma course. Through numerous assignments and live projects, we work closely with candidates. In addition, we offer mock interviews, soft skill sessions, and aptitude sessions by industry experts as part of our testing course. JAVA Full stack With Java, you can write programs that run on multiple operating systems and are reusable. There have been several upgrades to Java over the years, and Java 1.9 — also known as Java 9 — is currently used. Our standard for OOP is to use concepts like object, inheritance, encapsulation, abstraction, polymorphism, and so on. Object-oriented programming allows us to compose reusable and modular software. Objects can be grouped into classes and interacted with. The knowledge of core Java, J2EE, and frameworks will benefit you in both basic and comprehensive levels. It will help you gain Industry based knowledge and improve your Java skills. PHP Web Development The language is widely used for general-purpose scripting that is ideal for web-based development and can easily be embedded in HTML. There is a difference between PHP and HTML in the way that the code is executed on the server and then sent to the client. A PHP script will run on the server and the results will be sent to the client, but they will not know which code was written on the main page. The HTML files can also be processed automatically with PHP so that the users will not be aware of what’s going on. For a fresher, PHP is very simple, but it offers so many advanced features for a Web Developer with experience. It is very simple for a web developer to jump right in and start writing scripts within a short period. 3RI Technologies for Job-oriented courses The courses offered at 3RI are designed to enhance the practical learning capacity of students as career guidance after graduation through an individual classroom setting. Our course and curriculum are continuously being upgraded to keep up with the ever-increasing scope and professional demands. The courses are constantly revised and designed with care to incorporate the new technology. As a result, the takers gain first-hand skills that qualify them for the best job listings in India and around the world.",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -39,173 +21,26 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/career-guidance-after-graduation/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/career-guidance-after-graduation/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Career Guidance after Graduation - 3RI Technologies Pvt Ltd",
-    "og_description": "Career Guidance after Graduation Choose the best path for your dream job through Career Guidance from India’s Leading Career Counselors Career Guidance after Graduation from Industry Expert Counselors Career Guidance after Graduation Overview Professional careers are shaped greatly by one’s graduation. The goal of completing your education after graduation is to possess superior knowledge in […]",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/career-guidance-after-graduation/",
-            "url": "https://www.3ritechnologies.com/career-guidance-after-graduation/",
-            "name": "Career Guidance after Graduation - 3RI Technologies Pvt Ltd",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "datePublished": "2021-11-13T09:33:18+00:00",
-            "dateModified": "2021-11-13T09:47:01+00:00",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/career-guidance-after-graduation/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/career-guidance-after-graduation/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/career-guidance-after-graduation/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Career Guidance after Graduation"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=Career+Guidance+after+Graduation&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=59499&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcareer-guidance-after-graduation%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

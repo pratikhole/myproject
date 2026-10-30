@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/what-is-tableau/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "What Is Tableau? Uses & Career Scope Explained for Beginners",
-    "meta_description": "Discover what Tableau is, what Tableau is used for, and how it simplifies data visualization. Enroll in our hands-on course on Tableau to master real-world data insights.",
-    "h1": [
-      "What Is Tableau & What Is It Used For?"
-    ],
-    "content": "Skip to content Home > What Is Tableau & What Is It Used For? What Is Tableau & What Is It Used For? If we observe the world after the 21st century, we can all say that the amount of data used, converted, created is increasing day-by-day. This is true because of the use of the internet and the availability on the Internet for everything is making this happen even more. IBM says that a minimum 2.5 quintillion bytes of Table of Contents PriyankaS3ri October 7, 2020 2:20 pm Overview of Tableau If we observe the world after the 21 st century, we can all say that the amount of data used, converted, created is increasing day by day. This is true because the use of the internet and the availability of the Internet for everything is making this happen even more. IBM says that a minimum of 2.5 quintillion bytes of data is created each day. Wherein only 0.5% of this data created is explainable and analyzed which can be truly used. And analyzing such a huge amount of data is a monotonous, complex and intricate job. Hence, companies and businesses are influenced by BI tools to help them reveal vital business requirements. If you’ve ever wondered what is Tableau or what is Tableau used for, you’re not alone. Tableau is a powerful data visualization tool widely adopted for transforming raw data into meaningful insights through interactive dashboards. Whether you’re analyzing trends or preparing business reports, Tableau is trusted across industries for making data-driven decisions easier. Many professionals miss out due to confusion around terms like what is tablae or what is tablaeu—but we simplify it for you. Start your journey with our practical course on Tableau at 3RI Technologies and turn data into decisions. Even if today, there are various businesses involved in data visualisation & business intelligence tools – Tableau is proved itself in being the best amongst them from the time it is been invented. So, in this blog, we will walk through everything related to Tableau and help you understand its importance from the career point of view. Before moving ahead with what is Tableau, let us first know the importance of Data visualization in today data science growing world. Data visualization is a tool used by all data scientists which help them communicate with their end-users or clients. The result of all the data interpretation is not immediately coherent to the users who do not directly deal with the data. Data visualization acts like that connectivity point and makes users appreciate the occurrence of the data analysis. And, Tableau is one of the best Data visualization software/tools which is used by every other business now. Understanding Tableau: Purpose, Features, and Real-World Applications Tableau is a visual analytics program modifying the way we use data to solve problems by enabling oneself and businesses to make the most of their data. It can perform tasks like: Tracking budgeting expense Sales data analysis User density monitoring Categorizing and sub-categorizing data Consumer segmenting Looking for more Job-Oriented Courses? Check out 3RI Technologies Why Tableau? Depth of discovery: The characteristics of Tableau give users ways to solve all the problems as they examine data visualizations. And the answer can confer the basic trends as foresight, use ‘what if’ queries to improve and manage data hypothetically and visualize the segments of data dynamically for analysing. Apt visualization: Tableau is a bridge to various data sources which is used to visualize huge data sets. In Tableau, you can directly select the data and switch them between visualizations in one go. It is the easiest task to move between visualizations in Tableau. It indeed visualizes the data from the start by enabling the consequences there itself. Tableau adapts similarities with the use of labels, size, colour, shapes and more – to provide you with the meaning as you dig deeper and explore more. Data source connectors: Tableau is one such software/tool which provides n-number of primary connectors to effectively cleanse, pull & associate data from completely any source without creating any custom code. And some of the advanced features of Tableau are given below: Data Blending Data Collaboration Real-time Analysis Highlight & filtering data Drag-and-drop, toggle view Adding comments to dashboards Dashboard sharing Updating feature Translating queries to visualizations Can work with it without prior technical knowledge about it Tableau: Uses & Applications There are many different engaging options, applications and alternatives of the tableau. The short placement creates the setup in no time as this tool promotes running start benefits. Tableau provides perceptive industry rate with clouds hosted editions and also on-premise paid annually. But, this module price depends on the number of users requirements. Now, let us study the different products of this software & its end-users. Tableau Desktop: Tableau Desktop is specially designed to help you create dashboards and reports on the Tableau Server & works in combination with all the system browsers. Creating charts, reports and more are also done with the Tableau desktop. It enables you to communicate with different data types and convert them into readable Tableau reporting. Even with mobile gadgets, we can access Tableau visualization and Tableau dashboard easily. Also, established on the state to the data resources, Tableau desktop is further categorized into two parts: Personal Tableau Desktop: Personal version access to Tableau is quite limited. It holds the workbook private which cannot be accessed or published online. Also, its advanced opinions are alike to the Tableau desktop. Hence, it is divided either into Tableau offline or Tableau public categories. Want to Upskill to get ahead in your career? Check out the Tableau Online Training Professional Tableau Desktop: This is the best version of all kinds of professional work done on Tableau Servers whose working is very similar to that of Tableau desktop. The only difference is the online publication provided by Tableau desktop. In this version, you can have access to any kind of data, from anywhere. Tableau Online The official Tableau server examines & manages all the access to the servers with permission to all the different data sources. It has a feature named Tableau group which stores the data on the server hosts on the cloud and manages its functions. It also helps in managing data security, implementation of Tableau products and more. Tableau Reader: This is the tool that is free of cost which allows customization, edition of any type of data created using Tableau Desktop or Tableau Public. Using Tableau Readers, you can simply view the workbooks and visualizations as well. The only necessary thing is that the received or the destination user should have a Tableau reader to get access to the documents. Tableau Public: Tableau public is the best version which is specially developed for cost-effective users. The workbooks created are not saved in this public version of Tableau. Anyone can take access, download access without any efforts. Users willing to learn Tableau or like to share their data with the public can use this version. Interested to begin a career in Data Analytics? Enroll now for Data Analytics Courses in Pune . Tableau Server: This version is used to share visualizations created using desktop applications beyond the business. For sharing dashboards on the server, it is required to publish work on the Tableau desktop. This will be accessible only to the licensed users after the data is been uploaded to the server. Tableau Working The primary purpose of Tableau is to find and extract data that is stored in various places. It possibly pulls the data from any platform and this process can get quoted to the Tableau data desktop or engine. Also, these data engines work with the data and develop visualizations and dashboards. And this is how the data is analyzed as well. Static files are used by the users shared after creating the customized worksheets. And these worksheets and dashboards are received by the users who view this file using Tableau reader. This Tableau desktop data can be accessed to all the Tableau servers which allow its end-users to have a more satisfying experience in accessing the files and data from all the locations from any devices, gadgets and more. Interested to begin a career in Tableau? Enroll now for Tableau Course in Pune Tableau Product Suite Tableau Desktop – Tableau Desktop makes it easier to create reports, dashboards, and storytelling using a variety of charts and graphs. Tableau Desktop workbooks and dashboards can be shared either privately or publicly. Tableau Server- Tableau Server is mostly utilized in businesses to allow several teams to share reports and workbooks created with Tableau Desktop apps. Simple language inquiries are accepted, and AI-powered interpretations of your data will be given. Tableau Online- hosted in the cloud With the analytics application Tableau Online, users may share their findings and generate dashboards. Cloud databases that are accessible are Google BigQuery and Amazon Redshift. Refreshing data from web programs like Google Analytics and Salesforce is automatic. Tableau Public- Tableau Public can be used without charge, however the created worksheets cannot be stored locally. They can be stored in Tableau’s public cloud, which is open to all users. There are no privacy settings in the cloud, so anyone can download and access the files. Tableau Reader- Reports created with Tableau Desktop can be opened and interacted with using Tableau Reader, a free desktop program. Tableau Mobile- Tableau Mobile allows customers to see interactive reports and data previews at any time and from any location. The smartphone app allows you to pick, filter, and adjust the data with taps. Installing Tableau Desktop The first step is to understand what tableau is; the installation process comes next. The steps to download Tableau Desktop are as follows: Click the Products Download and Release Notes link, then choose the desired download version. Select the DOWNLOAD TABLEAU DESKTOP version selection and your operating system. Install the file as soon as you’ve downloaded it. When you install Tableau Desktop, the Tableau form for registration will appear. This is where you register and get your product activated. Enter your product key or sign in to Tableau Server or Tableau Online to start utilizing your Tableau license. After activation is complete, Tableau Desktop can be used. File Types Used in Tableau You may export your work in Tableau using a variety of file types that are exclusive to Tableau. The various file formats that Tableau can handle are as follows: Tableau Workbook The most applied file type in Tableau includes data regarding stories, dashboards, and worksheets. Tableau Packaged Workbook Users may circulate their work with people who don’t have knowledge to the original data by using a bundled zip file. Tableau Data Source These files serve as convenient shortcuts to the original data sources that you regularly use. It provides the information needed to link to the real data and any changes you’ve made to it, but it doesn’t include the actual data. Tableau Packaged Data Source The Tableau Packaged Data Source is a compressed file that contains the local file data (text, Excel, Access, and local cube files), extract files (.hyper or.tde), and the data source file. Tableau Bookmark Worksheets can be shared and saved in this way, saving others the trouble of starting from scratch when using them in own workbooks. Tableau Data Extract This includes a local copy of a portion or the full dataset, which can be useful for performance optimization when sharing data with others when working offline. Tableau Vs Excel Tableau & Excel are both known data analysis tools with some unique features especially when it comes to data exploration. Tableau works with the drag and drops feature whereas Excel works with rows and columns, represented using spreadsheets. But Tableau represents everything from images to any kind of data in a simple and readable format. Sr. No TABLEAU EXCEL 1. Tableau is a data visualization tool/software which is used to represent data into a table or in image format Excel is a spreadsheet that is designed using rows and columns 2. Readable, Easy to use Need some coding to represent data with real-time data visualization 3. Can pull multiple data at a time Can access single data at a time 4. Focuses on user interactivity to explore the data Focuses on calculations Advantages of Tableau Interactive Visualizations Concentrating on visualization, Tableau offers prompt perspicacity with easy drag and drop features, helping you to easily analyse the key data and share the critical perspicacity. User Friendly When compared with all the other BI tools and software in the marketplace, Tableau provides the best features which make it easy to create and customize the data visualization in no time. Electronic Gadget Friendly Tableau dashboards can be accessed, operated and viewed on any mobile device, tablets and more. It automatically understands that the device from which you are accessing the data and adjusts its configuration accordingly. Easily Integrated with Scripting Languages With basic calculations, complex calculations can also be done using Tableau. This is the only BI tool that allows you to integrate with Python, R and many other scripting languages which indeed helps in data analysing. Inserting Datasets Whether it is an excel spreadsheet or any database, using Tableau you can easily insert new datasets whenever necessary. These datasets will then blend themselves into Tableau automatically using the necessary fields. Key Takeaway To date and in the coming future, Tableau will be the number one data visualization & business intelligence software or tool present in the marketplace. And it is been used by around 90% of businesses around the world. Also, it allows its users to access a reliable tech support team and then automate data updates to help organizations get fresh data within seconds. With the help of Tableau Training in Pune, you will explore your skill easily. Enroll in SQL And Tableau Certification Course at 3RI Technologies. Prev Previous Tableau Interview Questions and Answers for Freshers and Experts Next What is Jenkins? The Ultimate Guide to the Automation Server Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -49,254 +31,36 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2020/10/07/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tableau-training-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-with-sql-and-dwh-concepts-training/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/tableau-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/what-is-jenkins/",
-      "https://www.3ritechnologies.com/what-is-tableau/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/what-is-tableau/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "What Is Tableau? Uses & Career Scope Explained for Beginners",
-    "og_description": "Discover what Tableau is, what Tableau is used for, and how it simplifies data visualization. Enroll in our hands-on course on Tableau to master real-world data insights.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/what-is-tableau/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/what-is-tableau/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "What Is Tableau &amp; What Is It Used For?",
-            "datePublished": "2020-10-07T08:50:44+00:00",
-            "dateModified": "2025-05-16T05:13:25+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/what-is-tableau/"
-            },
-            "wordCount": 2242,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/what-is-tableau/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/WHAT-IS-TABLEAU_.jpg",
-            "keywords": [
-              "Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "Business Intelligence"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/what-is-tableau/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/what-is-tableau/",
-            "url": "https://www.3ritechnologies.com/what-is-tableau/",
-            "name": "What Is Tableau? Uses & Career Scope Explained for Beginners",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/what-is-tableau/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/what-is-tableau/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/WHAT-IS-TABLEAU_.jpg",
-            "datePublished": "2020-10-07T08:50:44+00:00",
-            "dateModified": "2025-05-16T05:13:25+00:00",
-            "description": "Discover what Tableau is, what Tableau is used for, and how it simplifies data visualization. Enroll in our hands-on course on Tableau to master real-world data insights.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/what-is-tableau/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/what-is-tableau/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/what-is-tableau/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/WHAT-IS-TABLEAU_.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/WHAT-IS-TABLEAU_.jpg",
-            "width": 1000,
-            "height": 667,
-            "caption": "WHAT IS TABLEAU"
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/what-is-tableau/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "What Is Tableau &amp; What Is It Used For?"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "WHAT IS TABLEAU",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Business+Intelligence&cd%5Bpage_title%5D=What+Is+Tableau+%26amp%3B+What+Is+It+Used+For%3F&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=27918&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-tableau%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

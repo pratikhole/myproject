@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "Implementing Stacks in Data Structures|3RI Technologies",
-    "meta_description": "Discover the functions, applications, and various programming language implementations of stack data structures. Identify their benefits, drawbacks, and many more.",
-    "h1": [
-      "Implementing Stacks in Data Structures"
-    ],
-    "content": "Skip to content Home > Implementing Stacks in Data Structures Implementing Stacks in Data Structures Explore stacks in data structures, including operations, implementation, advantages, and applications like backtracking, function calls, and memory management. Table of Contents PriyankaS3ri July 4, 2024 5:15 pm Introduction A stack is a container that supports additions and deletions from the single end that is identified as the top of the stack. It adheres to the Last-In-First-Out (LIFO) principle. The Queue has two ends—the front and the back—while the Stack only has one. It has a single pointer that links to the top element on the stack—the top pointer. Stack in Data Structures: An Overview To assist you in solving any stack-related issues, we will go over all the foundations of stack, operations on stack, implementation, benefits, and drawbacks in this post. Among the several non-primitive, linear, and dynamic data structures is the stack. It functions in accordance with the LIFO Principle. It operates according to the LIFO Principle. In this DSA tutorial, we will go over stack in detail, covering its characteristics, functionality, application, etc. Taking the Data Structures and Algorithms Course could aid in your understanding and application of stack ideas. You’ll discover how to use data structures efficiently to solve problems and manage your time more effectively. Become a PRO Data Analyst with Data Analyst Course in Pune What is a Stack in Data Structures? An item can be added to or removed from a stack by starting at the top and working your way down. Think of a stack as an ordered list, or more precisely as a container. The first piece to be withdrawn and made available is the one that was introduced most recently. For this reason, it is frequently referred to as Last In, First Out (LIFO) or First In, Last Out (FILO). “Top element” refers to the element at the top of a stack.” A new element is stacked on top of the ones that came before it. Stacks don’t have a set size; instead, it depends on how many objects are in them and how dynamic they are. Standard Operations on Stack There are several different stack operations accessible on a stack. Stack operations are usually used to extract data and information from a stack data structure. A couple of the stack operations are listed below. 1. The function isEmpty To determine whether the stack is empty, utilize the isEmpty() method. It returns true if the stack is empty and false otherwise. The stack’s isEmpty() operation method starts if top < 1 and returns true else returns false; this is the end function. 2. isFull () You can use the isFull() function to ascertain whether or not the stack is full. A stack is considered full when there is no more space for items to be added to it once it has reached its maximum capacity. The isFull() function of the stack operates as follows: begin if the stack length and maximum stack size are equal; return true; endIf else, return false; otherwise, terminate the process. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send 3. peek() Without changing the stack, the peek() method gets the value of the topmost element. When you need to verify the top element’s value before choosing whether or not to remove it, this can be helpful. The algorithm for the peek() function of the stack begin return stack[top] end procedure 4. Deletion: pop() pop() Use the pop() method to remove the top element from the stack and return its value. The pop() function modifies the state of the stack by removing the element at the top. When objects are popped, the sequence in which they were pushed is reversed. If the stack is empty, this indicates a problem with an underflow. The pop() action on the stack’s algorithm start if there is nothing in the stack come back final if alternatively save the stack[top] value. decrease at the top return figure otherwise, final step In line with the algorithm, Make sure the stack is empty first. If it’s empty, print Stack Underflow and exit. If the data element pointed at by the top is not empty, access it. Take one off the value of the top. Go ahead and close the application. 5. Insertion: push() Push() is one of the fundamental actions of a stack data structure. Pushing something to the top of the stack is the process of doing so. An overflow event occurs when the stack is full. When the stack is full, the push() action process starts and ends. If not, increase the top stack [top]. assign value, then conclude the process if not. SkyRocket your career with our course Data Engineering Training with Placement Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send The algorithm states that you should first make sure the stack is full. ● When it’s full, leave and produce an error. ● In the event that the stack is not yet full, increase top to indicate the next slot. ● Place the data element where the top of the stack is located. ● Go ahead and close the application. ● Close the application and go. Working of Stack in Data Structures ● The size of the stack is determined by the number of memory blocks available to store the objects. ●The stack is initially empty, as seen in the picture, and we may use the push function to add pieces one at a time until it is filled. ● A pointer with the name TOP keeps track of the top element on the stack. ● In order to compare TOP == -1 and determine whether the stack is empty, we initialize the stack by setting its value to -1. ● When element 150 is pushed, TOP increases in value and the new element is placed where TOP points, i.e., Since TOP=0, stack[0]=150. ● In order to make stack[1]=250 and TOP=1, we push element 250 once more and raise the value of TOP. Upon popping an element, its value is reduced, resulting in TOP=0, and stack[1], the element that TOP was pointing to, is returned. ● We make sure the stack is full before pushing. ● Before popping, we make sure the stack is empty . Looking forward to becoming an expert in Data Science? Then get certified with Data Science And Machine Learning Course . Implementation of Stack in Different Programming Languages One way to implement stacks in data structures is with a single linked list, and the other way is with a one-dimensional array. Let’s look at each one individually. In both implementations, the time complexity of every operation is the same, or O(1). Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Implementation of Stack Using a 1D Array • The steps listed below can be used to add stack to data structures that make use of a 1D array. • For the purpose of tracking the top element in the stack, create a variable called top. • Initialize the stack by setting the top value to -1 to see if it is full or empty. • Make a push() method and provide it an array called stack[]; n is the size of the array; and an is the element that has to be inserted. • Within the position Check to see if the stack is full. Exit the function in that scenario. • The new element should be placed where the top indicates if the stack is not yet full. • To remove the element at the top of the stack, create the pop() method. • In relation to the function: Verify whether the stack is empty. In that case, exit the function. • Whenever the array stack is not empty, decrease top and return the element at the top index in the stack. • Since it makes no difference what is in that memory address once the pointer is shifted to point to the preceding element, we are not destroying the value at the top index in this case during pop(). • Create the function topElement(), which will return the array stack’s top element at index []. • Create a function called size() that yields the array stack’s occupied size. Top + 1 is returned. • To determine whether the top is equal to -1, declare the function isEmpty(). • It returns true if it is the case and false otherwise.Declare the function isFull()[] to find out if the top equals the maximum size of the array stack. If it is, it returns true; if not, it returns false. Check out the Data Science online training and get certified today. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Applications of Stack The top 7 data structure uses for the stack are as follows: Function Call String Reversal Syntax Parsing Expression Evaluation and Conversion Backtracking Parentheses Checking Memory Management Now, you will be able to understand each application on its own. Backtracking Optimization difficulties are resolved using recursive algorithm methods such as backtracking. When tackling the backtracking optimization problem, you have a few options at your disposal; the one you select doesn’t matter. You retain the previously computed problems in the stack and go backward through all possible solutions, using that solution to solve the next problems. Recursive methods like backtracking employ the stack to tackle issues like the N-queen problem. Function Call Every time a function in programming is called from another, the reference of the function being called is kept in the stack. With the aid of references kept on the stack, program control returns to the function call upon program termination. Parentheses Checking Programmers utilize the stack in data structures to check the validity of parenthesis, like (), {}, and if the matching opening and closing brackets are balanced. As a result, it manages the program’s flow and keeps all of these parenthesis in the stack. String Reversal Another interesting application for stack is string reversal. A stack is used to hold the characters in a string. Because the starting character is stored at the bottom of the stack and the last character is kept at the top, the string is reversed following the pop operation. Syntax Parsing Since many computer languages don’t require context, a lot of compilers analyze syntax using the stack. Memory Management Since memory management is a crucial component of the operating system, memory is primarily managed by the stack. Expression Evaluation and Conversion In programming, there are three different expression types that you can use: •Infix Expression: A single letter or operator preceded by one infix string and followed by another single infix string is known as an infix expression. X X + Y (X + Y ) + (A – B) •Prefix Expression : An operator or a single letter come after two prefix strings to form a prefix expression. X + X Y + + X Y – A B •Postfix Expression: A postfix expression is an operator or a single letter that is preceded by two postfix strings. Another name for it is Polish Notation in reverse. X X Y + X Y + C D – + Similar to this, these expressions, such as infix to prefix or infix to postfix, are evaluated and converted using the stack. Interested to begin a career in Data Analytics? Enroll now for Data Analytics Course in Pune . Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Advantages of Stack • Quick execution: A stack is easy to use and understand because of its simple implementation. • Efficient memory management: A contiguous block of memory is set aside for the construction of a stack. As such, its memory usage is efficient. • Accessibility: Reversing a string and parsing expressions are just two examples of the many jobs that benefit from a stack’s ability to swiftly access its elements as they are added to and withdrawn from the top. • Recursive algorithms: By storing function calls and their states in a stack, recursive function calls can be implemented more efficiently. • Compiler Design: Compiler design makes use of stack for syntax analysis and programming language parsing. Disadvantages of Stack • Limited capacity for storage: There is a maximum amount of items that stacks can hold. A stack overflow could result in data loss. • No random access: Stacks, unlike arrays and other data structures, cannot directly access elements located in the middle of a stack. Pieces can only be added or removed beginning at the top of the stack. To get to the middle element, the user must remove every element above it. • Stack overflow and underflow: Too many elements added to or removed from the stack, respectively, can result in stack overflow or underflow, which can crash the program. • Memory management: Because stacks employ contiguous blocks of memory, repeated additions may cause memory fragmentation or leaks. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send Conclusion Thus, we have seen every facet of a data structure stack here. It’s possible that you know a little bit about stack and its uses. I am aware that it’s challenging to comprehend the entire subject at once. As a result, keep coming back to it until you fully understand the data structure stack. Learn more visit 3RI Technologies. Prev Previous Beyond the Code: The Core Habits of a Successful Data Scientist Next What is Predictive Analytics. Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -109,252 +91,96 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2024/07/04/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-engineering-training-with-placement/",
-      "https://www.3ritechnologies.com/course/data-science-online-training/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/habits-of-a-successful-data-scientist/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/what-is-predictive-analytics/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Implementing Stacks in Data Structures|3RI Technologies",
-    "og_description": "Discover the functions, applications, and various programming language implementations of stack data structures. Identify their benefits, drawbacks, and many more.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "Implementing Stacks in Data Structures",
-            "datePublished": "2024-07-04T11:45:51+00:00",
-            "dateModified": "2026-09-14T06:58:57+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/"
-            },
-            "wordCount": 2106,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/Implementing-Stacks-in-Data-Structures1.jpg",
-            "keywords": [
-              "Data Science Blog Design"
-            ],
-            "articleSection": [
-              "Data Analytics"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/",
-            "url": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/",
-            "name": "Implementing Stacks in Data Structures|3RI Technologies",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/Implementing-Stacks-in-Data-Structures1.jpg",
-            "datePublished": "2024-07-04T11:45:51+00:00",
-            "dateModified": "2026-09-14T06:58:57+00:00",
-            "description": "Discover the functions, applications, and various programming language implementations of stack data structures. Identify their benefits, drawbacks, and many more.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/Implementing-Stacks-in-Data-Structures1.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/07/Implementing-Stacks-in-Data-Structures1.jpg",
-            "width": 1000,
-            "height": 667
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/implementing-stacks-in-data-structures/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Implementing Stacks in Data Structures"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODEiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODEiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Data+Analytics&cd%5Bpage_title%5D=Implementing+Stacks+in+Data+Structures&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=96007&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fimplementing-stacks-in-data-structures%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

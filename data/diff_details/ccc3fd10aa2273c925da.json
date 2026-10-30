@@ -1,75 +1,13 @@
 {
   "url": "https://www.3ritechnologies.com/what-is-an-ec2-instance/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
     "content",
-    "images",
     "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "schema"
   ],
-  "old": {},
-  "new": {
-    "title": "What Is an EC2 Instance? A Simple Guide to AWS EC2 & Cloud Instances",
-    "meta_description": "Ever wondered 'what is an EC2 instance?' Learn what Amazon EC2 is, how AWS instances work in cloud computing, and how they power modern applications. Get clear answers and start your cloud journey here.",
-    "h1": [
-      "What Is an EC2 Instance? The Ultimate Beginner’s Guide"
-    ],
+  "old": {
     "content": "Skip to content Home > What Is an EC2 Instance? The Ultimate Beginner’s Guide What Is an EC2 Instance? The Ultimate Beginner’s Guide Amazon Elastic Compute Cloud or Amazon EC2is established as a virtual server used for providing scalable computing in the AWS cloud. Usually, Amazon EC2 has eliminated the requirement of investment in hardware upfront so that developers can deploy and develop different applications. Table of Contents madan September 27, 2022 5:04 pm Amazon Elastic Compute Cloud or Amazon EC2is established as a virtual server used for providing scalable computing in the AWS cloud. Usually, Amazon EC2 has eliminated the requirement of investment in hardware upfront so that developers can deploy and develop different applications. If you’re exploring cloud technology, one of the first questions you’ll have is, “what is EC2?” It’s a cornerstone of Amazon Web Services, and understanding it is non-negotiable for a career in cloud. So, what is AWS EC2? It’s a service providing secure, resizable virtual servers. Each virtual server is known as an instance in cloud computing. Therefore, when we define what is an EC2 instance, we are simply talking about one of these virtual servers running on the AWS platform. To truly master this and other core concepts, hands-on training is essential, and our AWS Training in Pune provides the expert guidance needed for success. People use Amazon EC2 to launch virtual services and configure the security and networking. Thus, it allows you to scale down or up the changes while minimizing the requirement of future traffic. What AWS EC2 stands for is a service offered to businesses for running different application programs. In short, it works as a complete set of virtual machines. There are many instances where the users can witness different configurations associated with storage, memory, CPU, and networking. Interested to begin a career in AWS? Enroll now for AWS Training in Pune . Breaking Down the AWS EC2 Instance: From Virtual Servers to EBS Storage After knowing what an instance is in AWS , the next thing on which we move is its categories. The types of instances are classified into families depending on target application profiles. Such groups include – General purpose This kind is a VM specifically designed to handle workloads of any type. The general purpose is optimized to have on-demand storage, many CPU cores, and memory. Some of the everyday use of this kind is in web server hosting and software development and testing. Compute-optimized It is a category needed for running big data applications. These applications generally require a large amount of memory and processing in AWS Cloud. Compute Optimized is designed specifically for running computational as well as data-intensive applications. Graphic Processing Unit (GPU) It belongs to the category used for running graphics-intensive applications faster than other instances. Most of the gaming and design work requires GPU. For example, Linux is using GPU to improve compression speeds and graphical user interface. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Memory-optimized Memory-optimized instances make use of a solid drive so that it offers fast access to data along with high performance. This class is ideal for applications with lots of memory and minimum CPU power. An open source database, in-memory caches, and real-time big data analytics are the best examples of Memory Optimized. Storage optimized The optimized storage category is meant for applications that demand high I/O performance. However, they also go well with memory-intensive applications like data warehousing, data processing, log processing, and analytics workloads. Micro The category is best suited for applications having low throughput. It usually serves as a small database server that provides a platform to developers for software testing, which doesn’t require high transaction rates. Check out AWS Cloud Practitioner Training and get certified today. What distinguishes EC2 from the remaining Amazon Web Services offerings? Amazon sells a lot of different things. We’ll quickly go over the ways that EC2 is different from AWS items like S3 and ECS. EC2 and S3: S3 is just a storage service for storing big binary files, whereas EC2 functions similarly to a remote Windows or Linux machine. EC2 and ECS: AWS EC2 allows you to start many instances, while ECS is a Docker-like container service. Applications running in containers can be launched via ECS. EC2 and Amazon EBS: Amazon Elastic Block Store, sometimes known as Amazon EBS, is the service that provides block-level storage volumes for an EC2 instance. EC2 with AWS Lambda: AWS Lambda is a framework for EC2 Container Service (ECS) that runs a portion of your application’s code inside containers. EC2 and Amazon RDS: Due to their ability to be divided into multiple families to accommodate varying workloads, Amazon EC2 and Amazon RDS database instances are comparable. RDS automatically handles time-consuming chores like configuration, backups, and updates, and you may construct as many virtual servers as you require using the Amazon EC2 cloud computing platform. EC2 with Amazon CloudWatch: Metrics and logs from on-premises servers and Amazon EC2 instances are gathered by the CloudWatch agent. EC2 and Amazon Linux AMI: A maintained and updated Linux image for Amazon Elastic Compute Cloud (Amazon EC2) is provided by Amazon Web Services with the Amazon Linux AMI. Using and understanding AWS EC2 Can we call EC2 a virtual machine? The EC2 web interface enables developers to effortlessly configure the capacity scaling of models and generate virtual machine instances. Additionally, Amazon EC2 instances would allow users to develop applications that automate scalability in response to fluctuating demand and peak periods. It simplifies storage management and virtual server deployment, reduces hardware requirements, and aids in streamlining development processes. In what manner is EC2 billed? Pricing for EC2 is contingent upon instance capacity and number of hours, region, and operating system. How is AWS EC2 configured? Amazon Machine Image (AMI) creation is required for EC2 configuration. This image comprises an operating system, applications, and configurations. This AMI is deployed on the Amazon Simple Storage Service (S3) and is registered with EC2. Then, as required, users may launch virtual devices. In the AWS Marketplace, Amazon provides various instance categories of EC2 to accommodate diverse needs and financial capacities. Hourly, reserved, and spot rates are all examples of these instances. In each region, how many EC2 instances are possible? There is a 20-instance limit per region on AWS. What is the cost of a stopped EC2 instance? There are no fees associated with stopped EC2 instances. Nevertheless, you will be billed for any used S3 storage, EBS volume, or elastic IP addresses. To reduce further costs, you should stop using these services or remove them entirely. How can the EC2 instance be accessed? Establishing a connection to your AWS EC2 console is quite simple. You ought to: Start by launching the Amazon EC2 console. Select the instance with which to establish a connection. Input “Connect” now. How does one incorporate an EBS volume into an EC2 instance? Four steps are required to incorporate an EBS volume into an EC2 instance. Select Volumes in EC2. Select the type and size that you want. To attach the newly formed volume, select it and use the right-click menu. From the menu, choose the instance of EC2. Which AWS EC2 instance sizes are available? A1: a1.medium| a1.large | a1.xlarge | a1.2xlarge | a1.4xlarge | 1.metal C4: c4.large | c4.xlarge | c4.2xlarge | c4.4xlarge | c4.8xlarge C5: c5.large | c4.xlarge | c4.2xlarge | c5.4xlarge | c5.9xlarge | c5.12xlarge | c5.18xlarge | c5.24xlarge | c5.metal C5a: c5a.large | c5a.xlarge | c5a.2xlarge | c5a.4xlarge | c5a.8xlarge | c5a.12xlarge | c5a.16xlarge | c5a.24xlarge C5d: c5d.large | c5d.xlarge | c5d.2xlarge | c5d.4xlarge | c5d.9xlarge | c5d.12xlarge | c5d.18xlarge | c5d.24xlarge | c5d.metal C5n: c5n.large | c5n.xlarge | c5n.2xlarge | c5n.4xlarge | c5n9xlarge | c5n.18xlarge | c5n.metal C6g: c6g.medium | c6g.large | c6g.xlarge | c6g.2xlarge | c6g.4xlarge | c6g.8xlarge | c6g.12xlarge | c6g.16xlarge | c6g.metal D2: d2.xlarge | d2.2xlarge | d2.4xlarge |d2.8xlarge Can EC2 instances be resized? In Amazon EC2, you can change the size of instances if the new instance types are suitable by: Type of virtualization Hardware virtual machines (HVM) or paravirtual machines (PV) are what Linux AMIs are. If you start an instance as a PV, you can’t change its size to that of an HVM instance. Building Plans When new instance types are launched, they can only use the same processor design. 32-bit AMIs, for example, can only expand to accommodate other 32-bit instances. Link up From a higher instance type, you can’t change the size to an EC2-Classic. In a VPC, more different kinds of instances need to start up. For enhanced networking to work, you need the right drivers, and you can’t expand to an instance that doesn’t have them. NVMe Before you can resize an instance that uses NVMe, you must ensure that your current instance has the NVMe drivers installed. How can an EBS volume be added to an EC2 instance? It’s simple to add an Elastic Block Store (EBS) volume to an Amazon Elastic Compute Cloud (EC2) instance using AWS. EBS volumes give your EC2 instances scalable and reliable block storage, allowing you to increase storage capacity or set up distinct data storage for particular applications. Adding an EBS volume to an EC2 instance is simple with the following instructions: Open the AWS Console and log in: Go into the AWS Management Console by logging into your account. Access the EC2 Dashboard: Go to the “Compute” area of the AWS Console to find the EC2 Dashboard. Find the EC2 instance to which you wish to attach the EBS volume in the EC2 Dashboard and take note of its instance ID. This will allow you to identify your EC2 instance. To generate an EBS volume, go to the EC2 Dashboard’s “Elastic Block Store” section and choose “Volumes.” Click “Create Volume,” then enter the size, availability zone, and volume type (such as gp2, io1, and st1). Attach the EBS Volume: Once the EBS volume has been created, pick it from the “Volumes” area, click “Actions,” and then select “Attach Volume.” Choose your EC2 instance and give the volume a device name (such as /dev/sdX or /dev/xvdf). Connect to Your EC2 Instance: Use RDP for Windows or SSH for Linux to connect to your EC2 instance to interact with the newly added EBS volume. Format and Mount the EBS Volume: Using the relevant file system command (mkfs for Linux, for example), format the EBS volume on your EC2 instance. To mount the volume, create a directory and attach it with the mount command. You can optionally assure automatic mounting on instance restarts by adding an item to the /etc/fstab file. Check and Utilise the EBS Volume: The EBS volume is operational following its successful attachment, formatting, and mounting. You can install programs, store data, and perform other desired actions. Monitor your storage usage and implement any required modifications to optimise effectiveness and reduce costs. Your storage capabilities can be improved, and various use cases, such as database management, application storage, and data backups, can be supported by adding an EBS volume to an EC2 instance. It’s a crucial component of AWS for efficiently expanding and controlling your cloud infrastructure. How does auto scaling on EC2 operate? Amazon Web Services (AWS) offers a feature called auto-scaling group, which is aimed to provide automatic scalability for a number of its services, including EC2. Before beginning to operate a service, you must first identify autoscaling groups in order to guarantee that you have sufficient EC2 instances available to run applications. There may be a maximum or minimum amount of EC2 instances for specific organisations. If one of those instances fails or has an error, the other instances in the group will take over immediately. CPU credits are money that enables T2 instances to increase their CPU performance above and beyond the usual baseline of EC2. CPU credits are earned by T2 instances every hour, with each credit equating to one full minute of the complete CPU core. The performance of your T2 instance will decrease to the constrained baseline once all of its CPU credits have been used up. Managing EC2 clusters with ECS With EC2 instances, the EC2 Container Service (ECS) makes it simple to launch and expand a container cluster. This makes it easy to set up containers as an application’s backbone without the hassle of managing an internal cluster management architecture. Check out the 3RI Technologies, which can collect metrics from your preferred ECS instances and analyze them in real time. The ECS service, like EC2, is highly scalable, meaning it can easily adjust to meet the fluctuating demands of any given application. Through its application programming interface (API), it can be integrated with other AWS products and external applications for scheduling continuous batch operations, services, and applications. Are you curious about AWS’s offerings? Why choose Amazon EC2? Now that you have an idea about what is amazon ec2 instance is, it’s time to move forward and understand the requirement of Amazon EC2 as it provides lots of advantages. Auto Scaling It is an ideal example of why most companies choose AWS EC2. Most of us use Netflix, but most of you don’t know that it also uses Amazon EC2 for a crash-free experience. The benefit of auto-scaling is to offer resources as per the requirements. So, it becomes easy to scale up and scale down the demands. Pay-as-you-go Usually, the users are charged hourly, and they have to pay the amount for what they are using. So, you only have to par the period when using Amazon EC2 instances for a few hours. Improved reliability AWS has helped many businesses till now to expand and improve the load speed of different applications. With this, it is possible to store numerous copies of the application, and these can retrieve if someone loses data. Improve elasticity Despite using different configuration machines, the users can think about using a single high-configuration machine having an OS. Elasticity is one of the features that has introduced Elastic Compute Compound. Enroll in our AWS Online Training today! Highlighted features of Amazon EC2 instance Many EC2 instances feature storage, extra memory, and numerous virtual processors that can easily be customized. Some of the mentioned features of Amazon EC2 are – Operating system Amazon EC2 supports different OSes like Linux, CentOS, Debian, and Microsoft Windows Server. Insistent storage Amazon Elastic Block Storage allows users to increase or decrease the storage amount available on an EC2 instance and simultaneously attach EBS volumes to different instances. Flexible IP addresses Elastic IP services allow many IP addresses to get associated with an instance. Moreover, elastic IP addresses can be changed from instance to instance without a network administrator’s assistance. Hence, this is a perfect way to use failover clusters in loading balancing or many other purposes where different servers run simultaneously. Amazon CloudWatch This web service helps monitor the AWS Cloud services and the applications used for AWS. With its help, you can store, analyze and collect real-time performance data. You can also expect easy monitoring of applications, recover resource use, optimize costs and scale up depth. Automated scaling This feature allows Amazon EC2 to add or remove the capacity from the servers. It means Amazon EC2 will be able to hold more capacity to increase traffic at the time a new product is launched. Pause and resume instances Amazon EC2 instances help resume and pause the same whenever required. The reasons behind choosing AWS EC2 instances and minimizing your cloud costs are mentioned. Get certified in Cloud Computing with Amazon Web Services Course at 3RI Technologies. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes How can you take a backup of your AWS EC2 instances? Amazon EC2 instance has become the most prevalent cloud virtual machine environment, which many use for completing projects. Likewise, it is equally important to take a backup of AWS EC2 instances which several methods can do. Method 1 – ESB Snapshots Every Amazon EC2 instance must have a drive consisting of system information. The mentioned drive is known as Amazon EBS volume. AWS has an embedded mechanism that is useful for creating a backup, which is performed by – Stop the backup of volume or files you don’t want in the future. Select the Snapshot tool available in the AWS web console and follow proper instructions. Method 2 – Generating a new AMI AWS EC2 backup is also featured with Amazon Machine Image, which is used to create system information and configuration backup. This method is a bit complicated as it includes different steps. While creating an AMI image, the users can get the ease of getting the operating system along with configuration data in a single backup image. Method 3 – Creating AWS backup AWS backup is considered to be the formation of EBS and AWS volumes that use the AWS web console. It is essential to check on protected resources and a backup plan to perform the backup. Method 4 – Alternate approach There are some cases in which users want to take the backup present inside the EC2 instance. It is known to be a promising approach for making the EC2 approach while minimizing the storage costs of backups. If you want to restore the instances, this can be done by combining the application data with a stock root file system image. In short, there are numerous methodologies by which the backup approaches become successful. Now the question is, what does amazon ec2 provide? Amazon EC2 instances are a necessity nowadays for many companies because it offers scalable computing capacity in the Amazon web services cloud. What is ec2 used for? By using it, one can eliminate the requirement of investment in hardware upfront. Thus, it is possible to deploy and develop applications quickly. For more Trending and Job-Oriented courses check 3RI Technologies AWS Training Offered In Other Locations Are: Pune Bangalore Mumbai Delhi Noida Hyderabad Chennai Ahmedabad Kochi Kolkata Prev Previous Power BI vs Excel: What’s the Best Tool for Data Analysis? Next What is AWS Redshift and How Does it work? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
-    "images": [
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
-        "alt": "3RI Technologies logo",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/what-is-ec2-instance.jpg",
-        "alt": "what is ec2 instance",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
-        "alt": "",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-18-1024x681.jpg",
-        "alt": "",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
-        "alt": "",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/image-20-1024x683.jpg",
-        "alt": "",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/04/Become-An-AWS-Certified-Professional.png",
-        "alt": "Become An AWS Certified Professional",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
-        "alt": "WhatsApp",
-        "title": ""
-      },
-      {
-        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Cloud+Computing&cd%5Bpage_title%5D=What+Is+an+EC2+Instance%3F+The+Ultimate+Beginner%27s+Guide&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=72918&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-an-ec2-instance%2F",
-        "alt": "",
-        "title": ""
-      }
-    ],
     "internal_links": [
       "https://www.3ritechnologies.com/",
       "https://www.3ritechnologies.com/2022/09/27/",
@@ -149,10 +87,6 @@
       "https://www.3ritechnologies.com/what-is-an-ec2-instance/",
       "https://www.3ritechnologies.com/what-is-aws-redshift/"
     ],
-    "canonical": "https://www.3ritechnologies.com/what-is-an-ec2-instance/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "What Is an EC2 Instance? A Simple Guide to AWS EC2 & Cloud Instances",
-    "og_description": "Ever wondered 'what is an EC2 instance?' Learn what Amazon EC2 is, how AWS instances work in cloud computing, and how they power modern applications. Get clear answers and start your cloud journey here.",
     "schema": [
       {
         "@context": "https://schema.org",
@@ -324,8 +258,252 @@
           }
         ]
       }
+    ]
+  },
+  "new": {
+    "content": "Skip to content Home > What Is an EC2 Instance? The Ultimate Beginner’s Guide What Is an EC2 Instance? The Ultimate Beginner’s Guide Amazon Elastic Compute Cloud or Amazon EC2is established as a virtual server used for providing scalable computing in the AWS cloud. Usually, Amazon EC2 has eliminated the requirement of investment in hardware upfront so that developers can deploy and develop different applications. Table of Contents madan September 27, 2022 5:04 pm Amazon Elastic Compute Cloud or Amazon EC2is established as a virtual server used for providing scalable computing in the AWS cloud. Usually, Amazon EC2 has eliminated the requirement of investment in hardware upfront so that developers can deploy and develop different applications. If you’re exploring cloud technology, one of the first questions you’ll have is, “what is EC2?” It’s a cornerstone of Amazon Web Services, and understanding it is non-negotiable for a career in cloud. So, what is AWS EC2? It’s a service providing secure, resizable virtual servers. Each virtual server is known as an instance in cloud computing. Therefore, when we define what is an EC2 instance, we are simply talking about one of these virtual servers running on the AWS platform. To truly master this and other core concepts, hands-on training is essential, and our AWS Training in Pune provides the expert guidance needed for success. People use Amazon EC2 to launch virtual services and configure the security and networking. Thus, it allows you to scale down or up the changes while minimizing the requirement of future traffic. What AWS EC2 stands for is a service offered to businesses for running different application programs. In short, it works as a complete set of virtual machines. There are many instances where the users can witness different configurations associated with storage, memory, CPU, and networking. Interested to begin a career in AWS? Enroll now for AWS Training in Pune . Breaking Down the AWS EC2 Instance: From Virtual Servers to EBS Storage After knowing what an instance is in AWS , the next thing on which we move is its categories. The types of instances are classified into families depending on target application profiles. Such groups include – General purpose This kind is a VM specifically designed to handle workloads of any type. The general purpose is optimized to have on-demand storage, many CPU cores, and memory. Some of the everyday use of this kind is in web server hosting and software development and testing. Compute-optimized It is a category needed for running big data applications. These applications generally require a large amount of memory and processing in AWS Cloud. Compute Optimized is designed specifically for running computational as well as data-intensive applications. Graphic Processing Unit (GPU) It belongs to the category used for running graphics-intensive applications faster than other instances. Most of the gaming and design work requires GPU. For example, Linux is using GPU to improve compression speeds and graphical user interface. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Memory-optimized Memory-optimized instances make use of a solid drive so that it offers fast access to data along with high performance. This class is ideal for applications with lots of memory and minimum CPU power. An open source database, in-memory caches, and real-time big data analytics are the best examples of Memory Optimized. Storage optimized The optimized storage category is meant for applications that demand high I/O performance. However, they also go well with memory-intensive applications like data warehousing, data processing, log processing, and analytics workloads. Micro The category is best suited for applications having low throughput. It usually serves as a small database server that provides a platform to developers for software testing, which doesn’t require high transaction rates. Check out AWS Cloud Practitioner Training and get certified today. What distinguishes EC2 from the remaining Amazon Web Services offerings? Amazon sells a lot of different things. We’ll quickly go over the ways that EC2 is different from AWS items like S3 and ECS. EC2 and S3: S3 is just a storage service for storing big binary files, whereas EC2 functions similarly to a remote Windows or Linux machine. EC2 and ECS: AWS EC2 allows you to start many instances, while ECS is a Docker-like container service. Applications running in containers can be launched via ECS. EC2 and Amazon EBS: Amazon Elastic Block Store, sometimes known as Amazon EBS, is the service that provides block-level storage volumes for an EC2 instance. EC2 with AWS Lambda: AWS Lambda is a framework for EC2 Container Service (ECS) that runs a portion of your application’s code inside containers. EC2 and Amazon RDS: Due to their ability to be divided into multiple families to accommodate varying workloads, Amazon EC2 and Amazon RDS database instances are comparable. RDS automatically handles time-consuming chores like configuration, backups, and updates, and you may construct as many virtual servers as you require using the Amazon EC2 cloud computing platform. EC2 with Amazon CloudWatch: Metrics and logs from on-premises servers and Amazon EC2 instances are gathered by the CloudWatch agent. EC2 and Amazon Linux AMI: A maintained and updated Linux image for Amazon Elastic Compute Cloud (Amazon EC2) is provided by Amazon Web Services with the Amazon Linux AMI. Using and understanding AWS EC2 Can we call EC2 a virtual machine? The EC2 web interface enables developers to effortlessly configure the capacity scaling of models and generate virtual machine instances. Additionally, Amazon EC2 instances would allow users to develop applications that automate scalability in response to fluctuating demand and peak periods. It simplifies storage management and virtual server deployment, reduces hardware requirements, and aids in streamlining development processes. In what manner is EC2 billed? Pricing for EC2 is contingent upon instance capacity and number of hours, region, and operating system. How is AWS EC2 configured? Amazon Machine Image (AMI) creation is required for EC2 configuration. This image comprises an operating system, applications, and configurations. This AMI is deployed on the Amazon Simple Storage Service (S3) and is registered with EC2. Then, as required, users may launch virtual devices. In the AWS Marketplace, Amazon provides various instance categories of EC2 to accommodate diverse needs and financial capacities. Hourly, reserved, and spot rates are all examples of these instances. In each region, how many EC2 instances are possible? There is a 20-instance limit per region on AWS. What is the cost of a stopped EC2 instance? There are no fees associated with stopped EC2 instances. Nevertheless, you will be billed for any used S3 storage, EBS volume, or elastic IP addresses. To reduce further costs, you should stop using these services or remove them entirely. How can the EC2 instance be accessed? Establishing a connection to your AWS EC2 console is quite simple. You ought to: Start by launching the Amazon EC2 console. Select the instance with which to establish a connection. Input “Connect” now. How does one incorporate an EBS volume into an EC2 instance? Four steps are required to incorporate an EBS volume into an EC2 instance. Select Volumes in EC2. Select the type and size that you want. To attach the newly formed volume, select it and use the right-click menu. From the menu, choose the instance of EC2. Which AWS EC2 instance sizes are available? A1: a1.medium| a1.large | a1.xlarge | a1.2xlarge | a1.4xlarge | 1.metal C4: c4.large | c4.xlarge | c4.2xlarge | c4.4xlarge | c4.8xlarge C5: c5.large | c4.xlarge | c4.2xlarge | c5.4xlarge | c5.9xlarge | c5.12xlarge | c5.18xlarge | c5.24xlarge | c5.metal C5a: c5a.large | c5a.xlarge | c5a.2xlarge | c5a.4xlarge | c5a.8xlarge | c5a.12xlarge | c5a.16xlarge | c5a.24xlarge C5d: c5d.large | c5d.xlarge | c5d.2xlarge | c5d.4xlarge | c5d.9xlarge | c5d.12xlarge | c5d.18xlarge | c5d.24xlarge | c5d.metal C5n: c5n.large | c5n.xlarge | c5n.2xlarge | c5n.4xlarge | c5n9xlarge | c5n.18xlarge | c5n.metal C6g: c6g.medium | c6g.large | c6g.xlarge | c6g.2xlarge | c6g.4xlarge | c6g.8xlarge | c6g.12xlarge | c6g.16xlarge | c6g.metal D2: d2.xlarge | d2.2xlarge | d2.4xlarge |d2.8xlarge Can EC2 instances be resized? In Amazon EC2, you can change the size of instances if the new instance types are suitable by: Type of virtualization Hardware virtual machines (HVM) or paravirtual machines (PV) are what Linux AMIs are. If you start an instance as a PV, you can’t change its size to that of an HVM instance. Building Plans When new instance types are launched, they can only use the same processor design. 32-bit AMIs, for example, can only expand to accommodate other 32-bit instances. Link up From a higher instance type, you can’t change the size to an EC2-Classic. In a VPC, more different kinds of instances need to start up. For enhanced networking to work, you need the right drivers, and you can’t expand to an instance that doesn’t have them. NVMe Before you can resize an instance that uses NVMe, you must ensure that your current instance has the NVMe drivers installed. How can an EBS volume be added to an EC2 instance? It’s simple to add an Elastic Block Store (EBS) volume to an Amazon Elastic Compute Cloud (EC2) instance using AWS. EBS volumes give your EC2 instances scalable and reliable block storage, allowing you to increase storage capacity or set up distinct data storage for particular applications. Adding an EBS volume to an EC2 instance is simple with the following instructions: Open the AWS Console and log in: Go into the AWS Management Console by logging into your account. Access the EC2 Dashboard: Go to the “Compute” area of the AWS Console to find the EC2 Dashboard. Find the EC2 instance to which you wish to attach the EBS volume in the EC2 Dashboard and take note of its instance ID. This will allow you to identify your EC2 instance. To generate an EBS volume, go to the EC2 Dashboard’s “Elastic Block Store” section and choose “Volumes.” Click “Create Volume,” then enter the size, availability zone, and volume type (such as gp2, io1, and st1). Attach the EBS Volume: Once the EBS volume has been created, pick it from the “Volumes” area, click “Actions,” and then select “Attach Volume.” Choose your EC2 instance and give the volume a device name (such as /dev/sdX or /dev/xvdf). Connect to Your EC2 Instance: Use RDP for Windows or SSH for Linux to connect to your EC2 instance to interact with the newly added EBS volume. Format and Mount the EBS Volume: Using the relevant file system command (mkfs for Linux, for example), format the EBS volume on your EC2 instance. To mount the volume, create a directory and attach it with the mount command. You can optionally assure automatic mounting on instance restarts by adding an item to the /etc/fstab file. Check and Utilise the EBS Volume: The EBS volume is operational following its successful attachment, formatting, and mounting. You can install programs, store data, and perform other desired actions. Monitor your storage usage and implement any required modifications to optimise effectiveness and reduce costs. Your storage capabilities can be improved, and various use cases, such as database management, application storage, and data backups, can be supported by adding an EBS volume to an EC2 instance. It’s a crucial component of AWS for efficiently expanding and controlling your cloud infrastructure. How does auto scaling on EC2 operate? Amazon Web Services (AWS) offers a feature called auto-scaling group, which is aimed to provide automatic scalability for a number of its services, including EC2. Before beginning to operate a service, you must first identify autoscaling groups in order to guarantee that you have sufficient EC2 instances available to run applications. There may be a maximum or minimum amount of EC2 instances for specific organisations. If one of those instances fails or has an error, the other instances in the group will take over immediately. CPU credits are money that enables T2 instances to increase their CPU performance above and beyond the usual baseline of EC2. CPU credits are earned by T2 instances every hour, with each credit equating to one full minute of the complete CPU core. The performance of your T2 instance will decrease to the constrained baseline once all of its CPU credits have been used up. Managing EC2 clusters with ECS With EC2 instances, the EC2 Container Service (ECS) makes it simple to launch and expand a container cluster. This makes it easy to set up containers as an application’s backbone without the hassle of managing an internal cluster management architecture. Check out the 3RI Technologies, which can collect metrics from your preferred ECS instances and analyze them in real time. The ECS service, like EC2, is highly scalable, meaning it can easily adjust to meet the fluctuating demands of any given application. Through its application programming interface (API), it can be integrated with other AWS products and external applications for scheduling continuous batch operations, services, and applications. Are you curious about AWS’s offerings? Why choose Amazon EC2? Now that you have an idea about what is amazon ec2 instance is, it’s time to move forward and understand the requirement of Amazon EC2 as it provides lots of advantages. Auto Scaling It is an ideal example of why most companies choose AWS EC2. Most of us use Netflix, but most of you don’t know that it also uses Amazon EC2 for a crash-free experience. The benefit of auto-scaling is to offer resources as per the requirements. So, it becomes easy to scale up and scale down the demands. Pay-as-you-go Usually, the users are charged hourly, and they have to pay the amount for what they are using. So, you only have to par the period when using Amazon EC2 instances for a few hours. Improved reliability AWS has helped many businesses till now to expand and improve the load speed of different applications. With this, it is possible to store numerous copies of the application, and these can retrieve if someone loses data. Improve elasticity Despite using different configuration machines, the users can think about using a single high-configuration machine having an OS. Elasticity is one of the features that has introduced Elastic Compute Compound. Enroll in our AWS Online Training today! Highlighted features of Amazon EC2 instance Many EC2 instances feature storage, extra memory, and numerous virtual processors that can easily be customized. Some of the mentioned features of Amazon EC2 are – Operating system Amazon EC2 supports different OSes like Linux, CentOS, Debian, and Microsoft Windows Server. Insistent storage Amazon Elastic Block Storage allows users to increase or decrease the storage amount available on an EC2 instance and simultaneously attach EBS volumes to different instances. Flexible IP addresses Elastic IP services allow many IP addresses to get associated with an instance. Moreover, elastic IP addresses can be changed from instance to instance without a network administrator’s assistance. Hence, this is a perfect way to use failover clusters in loading balancing or many other purposes where different servers run simultaneously. Amazon CloudWatch This web service helps monitor the AWS Cloud services and the applications used for AWS. With its help, you can store, analyze and collect real-time performance data. You can also expect easy monitoring of applications, recover resource use, optimize costs and scale up depth. Automated scaling This feature allows Amazon EC2 to add or remove the capacity from the servers. It means Amazon EC2 will be able to hold more capacity to increase traffic at the time a new product is launched. Pause and resume instances Amazon EC2 instances help resume and pause the same whenever required. The reasons behind choosing AWS EC2 instances and minimizing your cloud costs are mentioned. Get certified in Cloud Computing with Amazon Web Services Course at 3RI Technologies. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes How can you take a backup of your AWS EC2 instances? Amazon EC2 instance has become the most prevalent cloud virtual machine environment, which many use for completing projects. Likewise, it is equally important to take a backup of AWS EC2 instances which several methods can do. Method 1 – ESB Snapshots Every Amazon EC2 instance must have a drive consisting of system information. The mentioned drive is known as Amazon EBS volume. AWS has an embedded mechanism that is useful for creating a backup, which is performed by – Stop the backup of volume or files you don’t want in the future. Select the Snapshot tool available in the AWS web console and follow proper instructions. Method 2 – Generating a new AMI AWS EC2 backup is also featured with Amazon Machine Image, which is used to create system information and configuration backup. This method is a bit complicated as it includes different steps. While creating an AMI image, the users can get the ease of getting the operating system along with configuration data in a single backup image. Method 3 – Creating AWS backup AWS backup is considered to be the formation of EBS and AWS volumes that use the AWS web console. It is essential to check on protected resources and a backup plan to perform the backup. Method 4 – Alternate approach There are some cases in which users want to take the backup present inside the EC2 instance. It is known to be a promising approach for making the EC2 approach while minimizing the storage costs of backups. If you want to restore the instances, this can be done by combining the application data with a stock root file system image. In short, there are numerous methodologies by which the backup approaches become successful. Now the question is, what does amazon ec2 provide? Amazon EC2 instances are a necessity nowadays for many companies because it offers scalable computing capacity in the Amazon web services cloud. What is ec2 used for? By using it, one can eliminate the requirement of investment in hardware upfront. Thus, it is possible to deploy and develop applications quickly. For more Trending and Job-Oriented courses check 3RI Technologies Prev Previous Power BI vs Excel: What’s the Best Tool for Data Analysis? Next What is AWS Redshift and How Does it work? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/2022/09/27/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/author/madan/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
+      "https://www.3ritechnologies.com/course/aws-online-training/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/power-bi-vs-excel/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/what-is-an-ec2-instance/",
+      "https://www.3ritechnologies.com/what-is-aws-redshift/"
     ],
-    "status_code": 200
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.3ritechnologies.com/what-is-an-ec2-instance/#article",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/what-is-an-ec2-instance/"
+            },
+            "author": {
+              "name": "madan",
+              "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e"
+            },
+            "headline": "What Is an EC2 Instance? The Ultimate Beginner&#8217;s Guide",
+            "datePublished": "2022-09-27T11:34:48+00:00",
+            "dateModified": "2026-10-30T05:17:17+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-an-ec2-instance/"
+            },
+            "wordCount": 2977,
+            "commentCount": 0,
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-an-ec2-instance/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/what-is-ec2-instance.jpg",
+            "keywords": [
+              "AWS Blog Design"
+            ],
+            "articleSection": [
+              "Blog",
+              "Cloud Computing"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-an-ec2-instance/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/what-is-an-ec2-instance/",
+            "url": "https://www.3ritechnologies.com/what-is-an-ec2-instance/",
+            "name": "What Is an EC2 Instance? A Simple Guide to AWS EC2 & Cloud Instances",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/what-is-an-ec2-instance/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/what-is-an-ec2-instance/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/what-is-ec2-instance.jpg",
+            "datePublished": "2022-09-27T11:34:48+00:00",
+            "dateModified": "2026-10-30T05:17:17+00:00",
+            "description": "Ever wondered 'what is an EC2 instance?' Learn what Amazon EC2 is, how AWS instances work in cloud computing, and how they power modern applications. Get clear answers and start your cloud journey here.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/what-is-an-ec2-instance/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/what-is-an-ec2-instance/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/what-is-an-ec2-instance/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/what-is-ec2-instance.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/what-is-ec2-instance.jpg",
+            "width": 700,
+            "height": 466,
+            "caption": "what is ec2 instance"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/what-is-an-ec2-instance/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "What Is an EC2 Instance? The Ultimate Beginner&#8217;s Guide"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e",
+            "name": "madan",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "url": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
+              "caption": "madan"
+            },
+            "url": "https://www.3ritechnologies.com/author/madan/"
+          }
+        ]
+      }
+    ]
   },
   "priority": "MEDIUM"
 }

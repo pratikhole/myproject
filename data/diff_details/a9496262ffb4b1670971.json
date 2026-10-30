@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/what-is-sklearn-in-python/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "What is Scikit-Learn in Python? A Beginner's Guide to the sklearn Library",
-    "meta_description": "Learn what is Scikit-Learn in Python and how the sklearn library empowers machine learning tasks. Explore scikit-learn applications and enroll in Python Training in Pune at 3RI Technologies to boost your career.",
-    "h1": [
-      "What is Scikit-learn in Python?"
-    ],
-    "content": "Skip to content Home > What is Scikit-learn in Python? What is Scikit-learn in Python? Scikit-learn is a free, open-source program for data analysis and the gold standard for Machine Learning (ML) in the world of Python. It provides a range of powerful features for machine learning and statistical modelling, such as clustering, classification, dimensionality reduction and regression, via a Python interface Table of Contents madan October 11, 2023 3:02 pm Scikit-learn is a free, open-source program for data analysis and the gold standard for Machine Learning (ML) in the world of Python. It provides a range of powerful features for machine learning and statistical modeling, such as clustering, classification, dimensionality reduction, and regression, via a Python interface. This package was written primarily in Python and is built on Matplotlib, SciPy, and NumPy. If you’re diving into machine learning, understanding what is Scikit-Learn in Python is essential. Known as sklearn, this powerful Python library simplifies data analysis and model building. Whether you’re working on regression, classification, or clustering, scikit-learn in Python offers a robust framework for all. Also referred to as scikitlearn or scikit learning, it’s the go-to tool for developers and data scientists. At 3RI Technologies, our Python Training in Pune will guide you through mastering sci kit learn and other essential libraries, helping you become industry-ready with practical skills and real-world use cases. In addition, machine learning (ML) is a technology that allows computers to learn from receiving data and construct/train a model. An algorithm for predicting without the need for explicit programming. Machine learning is a subset of artificial intelligence. Techniques for making algorithmic decisions, such as: The process of detecting and categorizing data based on patterns is known as classification. The technique of expecting or predicting data values through the use of the average mean of previously acquired and planned data is known as regression. Clustering: the automatic grouping of comparable data into datasets. Supported libraries include NumPy, pandas, and matplotlib as well as predictive algorithms that vary from basic linear regression to neural network-based pattern recognition. Want to Upskill to get ahead in your career? Check out the Python Training in Pune. Understanding the Power of the sklearn Library in Python Scikit-learn (Sklearn) is Python’s most widely used and trusted machine-learning library. It provides a range of powerful tools for machine learning and statistical modeling, such as clustering, classification, regression, and dimensionality reduction, via a Python interface. This package was written primarily in Python and has an emphasis on NumPy, SciPy, and Matplotlib. Scikits. The Scikit-learn project arose from a Google Summer of Programming effort led by David Cournapeau, a French research scientist. It takes its name from a SciPy modification known as “SciKit” (SciPy Toolkit), which was built and published individually. Later, other programmers changed the fundamental codebase. what is the Sklearn library in Python? Scikit-learn is a and open-source data analysis software and the Python ecosystem’s gold standard for Machine Learning. The following are significant concepts and characteristics: Techniques for producing algorithmic decisions, such as: The process of detecting and categorizing data based on patterns is known as classification. Gael Varoquaux, Alexandre Gramfort, Fabian Pedregosa, and Vincent Michel, of the French Institute for Research in Computer Science and Automation in Rocquencourt, France, directed the effort in 2010. The institution gave the project’s first formal release on February 1st of that year. Scikit-learn and scikit-image were highlighted as examples of “well-maintained and popular” Scikit in November 2012. Python’s Scikit-learn has emerged as one of the most prominent machine-learning libraries on GitHub.Learn more at Python Web Development Course Implementation of Sklearn Scikit-learn is largely written in Python and is dependent on the NumPy module for array and linear algebra functions. Certain core algorithms are developed in Cython to increase the performance of this package. logistic regression, linear SVMs, and Support vector machines are all performed using Cython wrappers for LIBSVM and LIBLINEAR. Extending these functions with Python may not be possible in such instances. what is Sklearn used for? Scikit-learn integrates nicely with other Python tools such as SciPy, Matplotlib, Pandas data frames, NumPy for array vectorization, seaborn, and Plotly for graph charting. Scikit-learn is written in Python principally, with NumPy providing outstanding durability linear algebra and array functions. Furthermore, to boost performance, some key algorithms are written in Cython. A Cython wrapper around LIBSVM is used to create logistic regression and linear support vector machines; a similar wrapper around LIBLINEAR is used to implement support vector machines. Extending these techniques using Python may be impossible in some instances. Many other Python libraries work well with Scikit-learn, including Matplotlib and Plotly for graphing, NumPy for Pandas data frames, array vectorization, SciPy, and many others. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send 4. Key concepts and features Key Concepts • Data mining and data analysis technologies that are simple and efficient. Among the algorithms featured are random forest computing, gradient boosting, and other classification, regression, and clustering techniques. • It is available to everyone and can be utilized in a variety of situations. • It is based on NumPy, Matplotlib, and SciPy • It is open source, BSD licensed, and commercially useable. Features The Scikit-learn toolset focuses on modeling data instead of just importing, modifying, and summarizing it. Sklearn offers the following model groups as some of its most popular: Almost all prominent supervised learning methods, including Linear Regression, Support Vector Machine (SVM), Decision Tree, and so on, are included in Scikit-learn. Unsupervised learning methods, on the other hand, include factor analysis, clustering, Principal Component Analysis, and unsupervised neural networks. Clustering is a method for organizing unlabeled data. Cross-validation is a method for verifying the accuracy of supervised models using previously unknown data. The process of reducing the amount of aspects in data so that they can be summarized, displayed, and applied for feature selection is known as dimensionality reduction. As the name implies, ensemble methods are used to integrate the predictions of multiple supervised models. It is employed in the extraction of data features in order to establish characteristics in picture and text data. It is used to uncover useful characteristics for the creation of supervised models. It is a free and open-source library that is also available to use commercially under the terms of the BSD license. Poisson Regression is used to model count data or events in a specific time period. These tests are chosen based on the unique features of the information being analyzed and the research question under evaluation and have specific presumptions. For reliable and legitimate results, appropriate test decision is key. Looking forward to becoming a Python Developer? Then get certified in Python Online Training The unique characteristics of Scikit-learn Machine learning is gaining popularity, and businesses all around the world are striving to capitalize on the power of data. As a result, numerous tools and software are being researched and developed to simplify and easy analysis. Python is highly regarded among data scientists due to its extensive library and analysis possibilities. The data mining and machine learning technologies included in the package are simple to use and effective for data analysis. Machine learning, support vector machines, gradient boosting, random forests, k-means, and a variety of other algorithms are available for procedures such as classification, regression, and clustering. The program is open source, accessible to use, and may be tailored to a variety of uses. SciPy, Matplotlib, and NumPy were used to create it, According to BSD license. What is Scikit Learn in Machine Learning? Scikit-learn (Sklearn) is Python’s most recognized and widely used machine-learning library. It provides a range of powerful methods for machine learning and statistical modeling via a Python interface, including the following: classification, regression, dimensionality, and clustering reduction. Unlock the power of data with our comprehensive Data Analytics course in Pune. The Advantages of Using Scikit-Learn to Implement Machine Learning Algorithms Scikit-learn is well-documented and easy to use, whether you want an introduction to machine learning, a rapid start, or the most modern ML learning tool. You may easily create a predictive data analysis model as well as apply it to match the acquired data with the aid of these high-level tools. Simply create a predictive data analysis model and apply it to the acquired data. It is adaptable and integrates nicely with other Python utilities . Machine learning models have a consistent interface. • Provides a variety of customization possibilities while maintaining acceptable defaults. • Outstanding documentation • Extensive capabilities for companion chores. • A thriving community for development and assistance. Installation of Sklearn on your System After the discussion about what is Scikit-learn in Python, We must first install a number of different tools and libraries before we can begin installing Scikit-learn. So, to begin, let’s go over how to install all of these libraries step by step because the main purpose of this tutorial is to provide information on Scikit-learn so that you can get started with it. If some or all of these libraries happen to be installed, we can skip straight to installing the required library by choosing it: Sklearn requires the following software to be installed: 1. NumPy 2. SciPy as a dependency. When installing the Scikit-learn library, ensure that the NumPy and SciPy libraries are already installed on the system. Pip is the simplest way to install Scikit-learn once NumPy and SciPy have been properly installed. Using pip, install scikit-learn. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send Essential Machine Learning Elements Before we get into Scikit-learn, let’s go over some basic vocabulary used in machine learning projects. Accuracy Score – The accuracy score is calculated as the ratio of correctly predicted predictions to the total sample size. The accuracy score in a classification problem with many classes is defined as follows: Number of Correctly Predicted Classes / Number of Prediction Samples = Accuracy Score The accuracy score in a problem of categorization with only two classes can be described as follows: Accuracy Score = (True Positive + True Negative Samples) / Total Number of Prediction Samples • Example Data – These are the specific instances (features) of the data. There are two types of data examples to choose from: Labeled Data- Labels or target values are assigned to samples of independent features in this type of data. This is expressed as follows: label, independent characteristics: (X, Y) Unlabeled Data- This data is made up entirely of independent features with no labels or target values. This is defined as (x, Null) distinct characteristics. Feature- These are input parameters, also referred to as independent characteristics. A feature is a detectable property or attribute of an object that is visible. At least one feature is required for any ML project. Clustering- Clustering is a technique for grouping data points that is based on numerous criteria that quantify sample similarity. Each group is known as a Cluster. KMeans Clustering- This is an unsupervised machine learning method that finds the means (centroids) of a given number (k) of clusters generated from input data points and then positions them in the closest cluster. Model- The relationship between the independent attributes and the target label is defined by a model. A model for detecting rumors, for example, associates specific traits with rumors. Regression vs Classification- Both regression and classification models allow you to make predictions about which party will win a certain election. Regression models produce a number or a continuous value. As a forecast, classification models produce a discrete or categorical value. Supervised Learning- Using a labeled dataset, the system “learns” how to recognize correct responses, which it can then transfer to the training dataset. The algorithm’s accuracy can then be checked and improved. Supervised learning is used in a variety of machine learning initiatives. Unsupervised Learning- The program attempts to analyze unlabeled data on its own by “learning” features and trends.3RI Technologies Provides Full Stack Online Course as well as Full Stack Course in Pune Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Sklearn Model Construction Steps Let’s go over the modeling process now. Step 1: Adding Datasets In this context, “feature names” is defined as a list of all the feature names. A dataset usually has two key components: Features: The variables in our dataset are known as features, and they are also known as predictors, data inputs, or attributes. Because there may be a large number of them, a feature matrix, commonly symbolized by the letter “X,” can be employed to represent them. The term “feature names” is used to indicate a list of all the feature names. Response: This variable is the result of the variable’s feature. It is sometimes referred to as the target feature, label, or output. For the majority of the time, we just have one response column, which is characterized by the response column or vector (a response vector is typically denoted by the letter ‘y’). Target names relate to all of the possible values for a response vector. Step 2: Dividing the dataset Every machine-learning model’s precision is crucial. Using the provided dataset, one may now train a model, which can then be used to predict target values for an additional segment of the dataset to validate the model’s validity. In conclusion: o Create a training and a testing dataset from the given dataset. o Run the model through its paces on the practice set. o Evaluate the model’s performance using the testing dataset. Step 3 : Model Training It is now time to build the model that will make predictions using the training dataset. Scikit-learn offers a variety of machine learning algorithms with an intuitive interface for fitting, prediction accuracy, and so on. Our classifier is now required to be tested using the testing dataset. We may do this by calling the model class method.predict(), which returns the predicted values. We can determine the model’s performance using Scikit-learn methods through a comparison of the actual values of the experimental data set to the expected values. The parameterized metrics package’s accuracy_score function serves as a tool for this. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send ML Algorithms Machine Learning algorithms are programs that use their own data to uncover hidden patterns in input, anticipate output, and enhance performance. Diverse machine learning algorithms can be used for diverse tasks, such as basic linear regression for stock market prediction and the KNN algorithm for classification challenges. Algorithms are required for computers to learn without explicit programming. Algorithms are just collections of rules used to accomplish computation. This article will provide an overview of some of the largest and most well-known and extensively utilized machine learning algorithms, with an emphasis on their application scenarios and classifications. Machine Learning Algorithm Types Machine learning algorithms are classified into three types: • Reinforcement Learning Algorithms • Supervised Learning Algorithms • Unsupervised Learning Algorithms ML algorithm Fundamental Ideas Fundamental Concepts Machine Learning is an artificial intelligence application in which a computer or machine learns from previous experiences (input data) and forecasts the future. Such a system’s performance should be at least human-level. Data can be represented in such a way that it can be investigated. Rules, model ensembles, decision trees, graphical models, neural networks, SVM, and other techniques are examples. Evaluation is the process of determining the validity of a hypothesis. The most common examples are accuracy score, prediction, squared error, and recall, margin, probability, cost, and likelihood. Optimization is the process of tweaking an estimator’s hyperparameters to reduce model errors using methods such as combinatorial optimization, grid search, constrained optimization, and so on. Scikit-Learn ML Algorithms Scikit-learn is well-documented and simple to learn/use, whether you’re looking for an introduction to machine learning, a rapid start, or the most up-to-date ML research tool. It makes it possible for you to write a few lines of code to create a predictive data structure and then use it as the highest-level library to fit your data. It’s adaptable and works well with other Python libraries like Matplotlib for charting, pandas for data frames, and Numpy for array vectorization. In decreasing order of difficulty, some common Scikit-learn algorithms and strategies are listed. Scikit-learn includes methods such as logistic regression, gradient boosting regression, linear regression, random forest regression, Support Vector Machine, decision tree models, gradient boosting classification, K-nearest neighbors, neural networks, Naive Bayes, and many more. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Linear Regression Algorithm Linear regression is a supervised machine learning technique that determines the linear relationship between one or more independent features and a dependent variable. Linear Regression is a supervised machine learning procedure that predicts a straight line’s slope. It is used to forecast values that are contained within a specified set of data points. Linear regression is used in many fields, including finance, and economics, psychology, to explain and forecast the behavior of a variable. In finance, linear regression can be utilized to determine the relationship between a company’s stock price and economic viability or to forecast the future value of an asset based on its past performance. The slope-intercept form of a straight line is used in simple linear regression, where: The variables m and b are used by the algorithm to learn or develop the best accurate predictive model. The input data is represented by x, and the prediction is represented by y. Logistic Regression Algorithm Algorithm of Logistic Regression Logistic Regression is the preferred method for binary classification problems. (For instance, is the given input data point turned on or off?) The values can then be evaluated using a formula similar to Linear Regression (for example, how likely is it that a certain data point is On or Off?). Logistic regression is the ideal method for binary classification questions (in the case of the target values being 0 or 1), and logistic regression is the preferred method. The results can then be analyzed using a linear regression-like equation (for example, how likely is it that a certain objective value is 0 or 1?). NumPy and matplotlib are employed in this example to display an array in a logistic regression model. The VotingClassifier averages the class chances predicted by three separate classifiers in an array for a sample dataset. enroll in 3RI Technologies ‘ Python Programming course right now!! Advanced Machine Learning Algorithms Random Forest A Random Forest is a model that combines a large number of Decision Trees and several learning algorithms to produce more predictive predictions than any single machine learning method (ensemble learning technique). Gradient Boosting Boosting gradients is a method for solving regression and classification issues. It creates a predictive model by combining weak prediction models, most often decision trees. Algorithm of Decision Trees A Decision Tree technique creates a tree by connecting root nodes (decision points), leaf nodes (represent variables), and branch nodes (binary yes/no answers to the choice) . It is now capable of segmenting data based on attribute values. The process of repeatedly dividing a tree is known as recursive partitioning. This structure, which looks like a flowchart, assists in decision-making. It is a flowchart-like illustration of how individuals think. As a result, decision trees are straightforward to understand and study. A tool for decision-making that employs a flowchart-like tree structure or is a decision-making model as well as all of its potential outputs, such as input costs, utility, and outcomes. The decision-tree approach is a supervised learning method. It works with both continuous and categorical output variables. The branches/edges represent the node’s result, and the nodes have either: 1. Conditions- [Decision Nodes] 2. Result-[End Nodes] Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send Gradient Boosting Gradient Boosting is a technique for dealing with regression and classification problems. It creates a predictive model by combining a variety of weak prediction models, most often decision trees. The Gradient Boosting Classifier requires a loss function to function.. Gradient boosting classifiers can use both standardized and custom loss functions, however, the loss function must be differentiable. While squared errors are useful in regression, logarithmic loss is more commonly utilized in classification systems. In gradient boosting systems, we do not need to formally derive a loss function for each progressive boosting step; alternatively, we can utilize any differentiable loss function. Prev Previous Should I Learn Java? Benefits, Ease & Best Ways to Start Next Python Tutorial for Beginners: Learn the Basics of Python Programming Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -114,256 +96,101 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2023/10/11/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/madan/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/full-stack-python-web-developer-online-training/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/online-python-certification-course/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/python-tutorial-for-beginners/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/should-i-learn-java/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/what-is-sklearn-in-python/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/what-is-sklearn-in-python/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "What is Scikit-Learn in Python? A Beginner's Guide to the sklearn Library",
-    "og_description": "Learn what is Scikit-Learn in Python and how the sklearn library empowers machine learning tasks. Explore scikit-learn applications and enroll in Python Training in Pune at 3RI Technologies to boost your career.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/what-is-sklearn-in-python/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/what-is-sklearn-in-python/"
-            },
-            "author": {
-              "name": "madan",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e"
-            },
-            "headline": "What is Scikit-learn in Python?",
-            "datePublished": "2023-10-11T09:32:21+00:00",
-            "dateModified": "2025-05-19T04:12:50+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/what-is-sklearn-in-python/"
-            },
-            "wordCount": 3387,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/what-is-sklearn-in-python/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/SKlearn-in-Python-2.png",
-            "keywords": [
-              "Python Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "Python"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/what-is-sklearn-in-python/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/what-is-sklearn-in-python/",
-            "url": "https://www.3ritechnologies.com/what-is-sklearn-in-python/",
-            "name": "What is Scikit-Learn in Python? A Beginner's Guide to the sklearn Library",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/what-is-sklearn-in-python/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/what-is-sklearn-in-python/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/SKlearn-in-Python-2.png",
-            "datePublished": "2023-10-11T09:32:21+00:00",
-            "dateModified": "2025-05-19T04:12:50+00:00",
-            "description": "Learn what is Scikit-Learn in Python and how the sklearn library empowers machine learning tasks. Explore scikit-learn applications and enroll in Python Training in Pune at 3RI Technologies to boost your career.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/what-is-sklearn-in-python/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/what-is-sklearn-in-python/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/what-is-sklearn-in-python/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/SKlearn-in-Python-2.png",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/10/SKlearn-in-Python-2.png",
-            "width": 1600,
-            "height": 540,
-            "caption": "SkLearn in Python"
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/what-is-sklearn-in-python/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "What is Scikit-learn in Python?"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/3bebe8108d6f491cde559cab819cd70e",
-            "name": "madan",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/ca3d501b237d4865befb877ff69ab1d633ca4c38ec4fc8fedf86791024dc1e16?s=96&d=mm&r=g",
-              "caption": "madan"
-            },
-            "url": "https://www.3ritechnologies.com/author/madan/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwMCA1NDAiIHdpZHRoPSIxNjAwIiBoZWlnaHQ9IjU0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "SkLearn in Python",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Python Online Training",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODEiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODEiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Python&cd%5Bpage_title%5D=What+is+Scikit-learn+in+Python%3F&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=83287&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-sklearn-in-python%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

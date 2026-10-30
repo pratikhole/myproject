@@ -2,268 +2,17 @@
   "url": "https://www.3ritechnologies.com/course/php-classes-in-pune/",
   "type": "changed",
   "changed_fields": [
-    "images"
+    "h1",
+    "content",
+    "images",
+    "internal_links",
+    "schema"
   ],
   "old": {
-    "images": [
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
-        "alt": "3RI Technologies logo",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
-        "alt": "",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/urbonpro.png",
-        "alt": "",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/cb18c4_aaa5cc27347d4d1f809e1194612f74f6mv2-1-150x150.png",
-        "alt": "",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/images-3.png",
-        "alt": "",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/2249165.png",
-        "alt": "EMI financing partner logo",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/05/eduvanz.png",
-        "alt": "Eduvanz EMI financing partner logo",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Advantages-and-Benefits-of-Learning-PHP.jpg",
-        "alt": "Advantages and Benefits of Learning PHP",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/02/PHP-Training-Institute-in-Pune-3RI-Technologies.jpg",
-        "alt": "PHP Training in Pune-3RI Technologies",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/01/22.png",
-        "alt": "Enquire about the 3RI Technologies training program",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon41.jpg",
-        "alt": "ZS",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon40.png",
-        "alt": "Zensar",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon39.png",
-        "alt": "bmc",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon38.png",
-        "alt": "thoughtworks",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon36-768x261.png",
-        "alt": "tata consultancy",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon34.gif",
-        "alt": "synerzip",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon33-e1604575181323.png",
-        "alt": "survik",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon32.png",
-        "alt": "siemens",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon31.jpg",
-        "alt": "R systems",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon30.png",
-        "alt": "pubmatic",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon29.png",
-        "alt": "citi",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon28.jpg",
-        "alt": "persistance",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon26.gif",
-        "alt": "Mphasis",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon25.png",
-        "alt": "Market Reports Center",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon24-e1604575512879.png",
-        "alt": "market and market",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon23-e1604575367263.png",
-        "alt": "accenture",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon22.png",
-        "alt": "sungard",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon21.jpg",
-        "alt": "kpit",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon20.png",
-        "alt": "comp-icon20",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon18.jpg",
-        "alt": "comp-icon18",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon17.png",
-        "alt": "comp-icon17",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon14.png",
-        "alt": "comp-icon14",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon13-e1654928115125.jpg",
-        "alt": "comp-icon13",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon12.png",
-        "alt": "comp-icon12",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon11.png",
-        "alt": "comp-icon11",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon10-e1654925790405.png",
-        "alt": "comp-icon10",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon9.png",
-        "alt": "comp-icon9",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon8.jpg",
-        "alt": "comp-icon8",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon7.jpg",
-        "alt": "comp-icon7",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon6.png",
-        "alt": "comp-icon6",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon5.png",
-        "alt": "comp-icon5",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon4.png",
-        "alt": "comp-icon4",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon3.png",
-        "alt": "comp-icon3",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon2.png",
-        "alt": "comp-icon2",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon1-1.png",
-        "alt": "comp-icon1",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/3d-lpm-logo.jpg",
-        "alt": "3d lpm logo",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/veritas-logo.jpg",
-        "alt": "veritas logo",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/synecron-logo.jpg",
-        "alt": "synecron logo",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/calsoft-logo.jpg",
-        "alt": "calsoft logo",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
-        "alt": "WhatsApp",
-        "title": ""
-      },
-      {
-        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=PHP+Classes+in+Pune+with+Placement+Record&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=658&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcourse%2Fphp-classes-in-pune%2F",
-        "alt": "",
-        "title": ""
-      }
-    ]
-  },
-  "new": {
+    "h1": [
+      "PHP Courses"
+    ],
+    "content": "Home > Courses > PHP Classes in Pune with Placement Record PHP Courses PHP Training Institute 3RI Technologies PHP Classes in Pune are ideal for both fresher and experienced professionals interested in a career as a PHP developer. 3RI Technologies offers expert PHP training in Pune for those looking to become proficient PHP developers. Our PHP courses are designed to cover all aspects of PHP programming, from the basics to advanced topics. Whether you’re searching for “PHP classes near you” or a “PHP training institute,” we provide top-tier professional training. Our PHP course in Pune is perfect for beginners and experienced developers alike. Join our PHP developer courses today and enhance your skills with hands-on training, career support, and a clear path to becoming a skilled PHP professional. ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.1 out of 5 ★ ★ ★ ★ ★ Rated 5 out of 5 Course Duration 2 Months Live Project 2 Project Certification Guaranteed Training Format Live Online /Self-Paced/Classroom Enroll Now Download Brochure Chat Now Achievement Trainings Conducted 2500 + Batches Completed 3000 + Companies Tie-ups 400 + Students Placed 3500 + Corporate Trainings 400 + Nothing stops you from learning We provide EMI facility for you Apply Now EMI Plan Registration Percent EMI With 0% Interest On Registration 10% 1st installment – 1st month of joining 70% 2nd installment – 2nd month 20% Key Features Course Duration : 5 months Real-Time Projects : 2 Project Based Learning EMI Option Available Certification & Job Assistance 24 x 7 Support Syllabus Overview Batch Schedule FAQ's Reviews Enroll Now PHP Syllabus The detailed syllabus is designed for freshers as well as working professionals Download Brochure Basic Foundation Course 1. Programming Basics Fundamentals of Computer Understanding Applications Using Windows Explorer & File Structure Number Systems Application Software 2. Operating System & Networking Need for operating system Functions of Operating System Types of operating system TCP/IP fundamentals Networks and computer networks 2 tier, 3 tier and n-tier architecture 3. C Language Introduction to C Keywords, Constants and Variables Data Types in C Operator and Expressions Control Structure Functions Arrays Structure Preprocessor Directives Dynamic Memory Allocation 4. Object-Oriented Concepts using C++ Introduction to OOPs Beginning with C++ Functions in C++ Default arguments inline functions) reference variable Class, Objects Basics Constructor, Data Members Destructors Polymorphism Operator Overloading Overriding Inheritance Dynamic memory allocation 5. Linux Foundations Introduction to UNIX and its flavours UNIX architecture File System User and Group Policies Unix general commands Concept of Files and Directories in Unix File Permission and related commands Filter Commands and their options Vi Editor 6. Introduction to Database Management Systems Introduction to Database DBMS, RDBMS, ORDBMS DDL, DML, DCL, TCL Data types SELECT Statement Restricting and Sorting Data Aggregating Data using Group Functions Manipulating Data Sub queries Important Functions Joins and different types UI Development HTML: Hyper Text Markup Language HTML Basic What is Markup Language Basic Structure of HTML Meta Tags External Link Tags HTML Elements Basics, Elements , Attributes Paragraphs and Formatting HTML Skeleton, Links Creating an HTML Document Basic Content Structure Headings Horizontal Rules Line Breaks Images Optimizing web graphics – JPEG, GIF & NG Getting images from Photoshop Embedding Images in a Web Page Using Graphics as Links Using Background Images Setting image properties via HTML Hyperlinks Href, Name, Title, Target Div & Tables Creating of Div Tag Creating and Modifying Tables Formatting Tables Table Headers and Captions Form Name, Action, Method Text, Hidden, Password Radio Button, Checkbox Select, Textarea Submit, Reset, Button HTML5 HTML5 Structural Elements Section, Article, Aside Header, Hgroup Footer, Nav HTML5 Content Elements Figure, Figcaption, Video Audio, Embed, Canvas HTML5 New Application Focused Elements Meter, Details, Summary Progress, Time HTML5 Input Types Color, date, DateTime email, month, number range, search, tel time, url, week HTML5 Form Attributes autocomplete novalidate form/formaction autofocus multiple pattern(regexp) placeholder required CSS: Cascading Style Sheet 1. Understanding CSS Versions of CSS Types of CSS Rules CSS and Markup Languages CSS Basics Adding Styles to an HTML Tag Adding Styles to a Web Page and Web Site Redefining an HTML Tag Defining Classes to Create Your Own Tags Defining IDs to Identify an Object Defining Styles with the Same Rules Adding Comments to CSS Style Sheet Strategies Font Properties Understanding Typography on the Web Setting the Font Size Making Text Italic and Setting Bold, Bolder,Boldest Creating Small Caps Setting Multiple Font Values Text Properties Adjusting Text Spacing Setting Text Case Aligning Text Horizontally and Vertically Indenting Paragraphs. Setting Text and Foreground Color Decorating Text Setting Text Direction Setting Page Breaks for Printing Color and Background Properties Choosing Color Palettes Setting Text and Foreground Color Setting a Background Color Setting a Background Image Setting Multiple Background Values Box Properties Setting an Element’s Margins Setting an Element’s Border Setting an Element’s Outline Setting an Element’s Padding Setting the Width and Height of an Element CSS Border Border, width, color, style Positioning Static, relative, absolute Fixed, z-index Floating None, left, right Initial, inherits Pseudo – elements and CSS classes CSS List list-style list-style-image list-style-position list-style-type CSS3 Borders CSS3 Backgrounds, CSS3 Gradients CSS3 Shadows, CSS3 Text Effects CSS3 Fonts, CSS3 2D/3D Transforms CSS3 Transitions, CSS3 Animations CSS3 Multiple Columns Create a Layout Using CSS Property JAVASCRIPT Introduction Statements & Comments Variables Data types Operators Conditional Statements and Loops User Defined Functions HTML Events Window Event Attributes -onload –onunload Form Events -onblur -onchange -onfocus -oninput -onselect -onsubmit Keyboard Events -onkeydown -onkeypress -onkeyup JS Validations JQUERY Introduction JQuery Syntax jQuery Selectors jQuery Events jQuery Effects jQuery Hide/Show jQuery Fade jQuery Slide jQuery Animate jQuery Stop() jQuery callback jQuery chaining JQuery HTML jQuery Get jQuery Set jQuery Add jQuery Remove jQuery CSS Classes jQuery CSS jQuery Misc jQuery noConflict() AJAX AJAX with JavaScript Why AJAX & How it works Syntax (XMLHTTPRequest Object) Sending Requests to server Processing Response AJAX Events Example with PHP Server JQuery AJAX jQuery load jQuery Get/Post BOOTSTRAP How to Create a Layout in Bootstrap Grid Classes Basic Tags in Bootstrap Contextual colors and backgrounds Table in Bootstrap Bootstrap Basic Tables -Striped Rows, Bordered Table -Hover Rows, Condensed Table -Contextual Classes, Responsive Tables Navigation bar in Bootstrap Inverted Navigation Bar Fixed Navigation Bar Navigation Bar with Dropdown -Right-aligned Navigation Bar -Collapsing the Navigation Bar Form in Bootstrap Vertical Form Horizontal Form Inline Form Buttons in Bootstrap Button Styles Button Sizes Block Level Buttons Active/Disabled Buttons Images in Bootstrap Rounded Corners Image Circle Image Thumbnail Image Core PHP 1. PHP Introduction Introduction of Web Application Client-Server Architecture What is Open source? Why PHP? 2. Installation Installation Of PHP, MySQL And Apache. (XAMPP Tool) Installation Of Adobe Dreamweaver. 3. PHP Fundamentals Syntax Overview Data types Variables Constants Expressions Operator Types 4. Control structures Conditional statements Loops 5. PHP Functions What is a Function? Function syntax Built-in Functions include and include_once Require and require_once Header Function Date Functions User-defined Functions 6. Arrays Array Introduction 7. Strings Syntax of String Predefined String Functions 8. Working with Forms and Validations Retrieve value of form-PHP GET & PHP POST PHP Form Validation 9. Working with Sessions Introduction Create session Retrieve session Destroy session 10. Working with Cookies Introduction Create cookies Retrieve cookies Delete cookies 11. OOPS with PHP Overview Introduction Objects Class $this Keyword Access Modifiers (Public, private, protected) Constructor Destructor Parent:: and self:: keyword Static properties and methods Constant datamembrs Inheritance Polymorphism Interface Abstract class and method Final Magic methods 12. AJAX Introduction XMLHttpRequest Create Object Request Response readyState 13. File Handling & Emails File Handling, File uploading Open, read and closing file Create and write file Sending mails using PHP Database MySQL Introduction of DBMS and RDBMS Connection with Database DDL Operations (create ,alter , drop ,truncate/empty) DML Operations (insert, update, delete) DQL Operations (select) Executing queries Handling Query Results Handling Query Errors Joins Order By and Group By Like Patterns Stored Procedure Practice Application with Database Integration ADV PHP - CODEIGNITER Introduction and MVC Architecture CodeIgniter URLs Creating a Controller Creating a View Creating a Model Working with Helpers URL Helper Form Helper Download Helper Cookie Helper Email Helper Working With Libraries Database Library Session Library File Upload Library Ajax Implementation Daily Assignments and hands-on Topics covered. Interview Questions, Resume Formation, and Interview Tips. Soft Skills 1. Self Analysis Know yourself Personality types Areas of interest 2. Self Discovery SWOT Analysis – strength, weakness, opportunities, threats 3. Goal Setting Short-term plan Long-term plan Effective Time-management 4. Effective Self Presentation Personal grooming, Dressing, Hygiene 5. Effective Communication Verbal – Language Voice modulation – Tone, Pitch Clarity of Speech Listening skills – Active Listening, Selective Listening Written communication – general business correspondence 6. Email Etiquette 7. Body Language Understanding non-verbal communication Postures, Gestures, Eye contact 8. Tips to prepare impressive Resume 9. Tips for Group Discussion 10. Handling Telephonic interview 11. Mock – Technical interview 12. Mock – Personal Interview (PI) 13. Office Etiquettes and Mannerisms Aptitude 1. Quantitative Aptitude Number Systems LCM and HCF Percentages Profit, Loss, and Discount Interest (Simple and Compound) Speed, Time and Distance Ratio and Proportion Probability Permutation & Combination Time and Work Heights and Distances 2. Logical Reasoning Number and Letter Series Calendars Clocks Logical Sequence Blood Relations 3. Algebra Linear Equations Quadratic Equations Higher Degree Equations PHP Classes in Pune 3RI Technologies offers comprehensive PHP courses designed for aspiring developers. Whether you’re searching for “PHP classes near you” or looking for professional PHP training, our institute in Pune provides top-quality education. Our PHP course in Pune is structured to cover everything from basic PHP concepts to advanced web development techniques. With our experienced instructors and hands-on learning approach, you’ll gain in-depth knowledge and practical skills required to become a skilled PHP developer. Our PHP training institute offers courses suited for both beginners and experienced professionals looking to upgrade their skills. From fundamental PHP programming to complex project work, our courses are tailored to meet the demands of the ever-evolving tech industry. If you’re looking for “PHP professional training” or seeking a reliable “PHP institute near you,” 3RI Technologies is your go-to destination. Whether you want to pursue a PHP developer career or just want to sharpen your skills, our PHP course in Pune is designed for all levels. Enroll in our PHP developer courses today to get started on your path to success. With expert trainers, a structured curriculum, and job placement assistance, you will be ready to take your PHP career to the next level. ADVANTAGES OF PHP 3RI Technologies is offering one of the best PHP Classes in Pune. The reason is when we designed the course. We keep in mind that there should not be any prerequisite to join this course; also, the person who would like to learn PHP should get the basic knowledge of Web Designing course within this course. PHP is an Open Source, which is one the advantageous thing for any industry. Hence, PHP is readily available and is free to develop websites. PHP has a big list of advantages over any other scripting language. PHP is the most suitable and affordable technology for web development purposes. Below are the advantages of PHP; we will discuss briefly: Cross-Platform. PHP is platform-independent; any PHP Application can run on any platform. PHP is supported by almost all Operating Systems, and examples are UNIX, Linux, Winds, and Solaris. These platforms can be used to write a program in PHP and can also be view web pages or execute the PHP based applications. PHP can interface with Apache and MySQL both. PHP has a versatility that it can integrate with any other technology like Java, .NET, HTML, CSS, JavaSript, Angular JS, and there is no requirement of re-development. It saves time, money, and energy to invest in other development tasks. Easy database connection. Since PHP is executing directly on the server, for which the internet is using, and database connections are needed very often. Hence, the connection pf PHP with a database should be very smooth and operational with ease. Several websites that based on e-commerce, retail, or healthcare, need good DBMS. PHP has a module called “built-in,” which helps in a fast connection with DB. Therefore, PHP is always the first choice when the objective is to develop a web-based application. PHP needs less time to learn and develop any web application, even a user who knows a little of HTML, CSS and JavaScript can quickly become a web developer in PHP. Easy to use. PHP is popular and always the first choice of the web developer because it is easy to use. In comparison to other languages, PHP is simple, fluent, clean, and organized; hence it is beneficial for the newcomers. PHP has a simple and easy to remember and well-organized syntax. PHP syntax is similar to C, hence someone who knows C can start working on Python as well. Also, PHP is more comfortable to create and optimize the application. 3RI Technologies is offering PHP Training in Pune in which we offer a Web Designing course that consists of HTML, CSS, JavaScript, Bootstrap, AJAX, JQuery, Core PHP and Advanced PHP, Joomla, Codeigniter, and WordPress. Along with this course, we offer Mock tests, Interview preparation, and communication skills and aptitude classes. APPLICATIONS OF PHP In today’s scenario, any web application developed in the ecosystem should have the following features: Customizable Highly interactive UI Can perform online transactions Should integrate with DB Through its 3-tier architecture, server, and database system, PHP offers a ready, reliable solution to achieve the features mentioned above. As a survey, it said that PHP is used to develop 82% websites; over 200 million websites built on PHP. According to W3Techs’ data , PHP is used by 78.9% of all websites with a known server-side programming language. Almost 8 out of 10 sites you visit on the Internet use PHP in some way. Which brings us to this fact To be fair, that number is decreasing. In November 2017, W3Tech had PHP as the server language for 80.1% of sites. That number dropped to 79.6% in June 2018 and has now dropped to 78.9% when we published this post in November 2018. Popular sites using PHP Language Facebook.com Wikipedia.org Yahoo.com Tumblr.com Mailchimp.com Flickr.com WordPress.com Canva.com Istockphoto.com Baidu.com CMS – Content Management Systems PHP provides support to different databases like MySQL, Oracle, and MS Access and is capable of interacting with other services. Hence, PHP has been used to develop popular web Content Management Systems (CMS), along with WordPress, and it is plugins. e-Commerce Applications From small to large businesses, online selling of products is the requirement of everyone. PHP frameworks like CodeIgniter Magento and CakePHP allow the creation of eCommerce based applications swiftly and efficiently. Examples of their usages of PHP frameworks in Applications are OpenCart, PrestaShop, AgoraCart, and Ubercart.3RI Technologies is offering one of the finest Web Development Course in Pune using PHP because after the course. We take a LIVE Project for domains like website development, web-based application development, e-commerce based application development, etc. JOBS BASED ON PHP CLASSES IN PUNE 3RI Technologies has a track record that the candidates who have completed the PHP Classes in Pune course from here got placed within the course duration or within one to two months. PHP, the easy and versatile technology hence becoming the popular platform for websites and web applications these days. It is the best option for the IT freshers who recently completed their graduation and hunting for a job. As we understand that the fresher without knowledge of deep coding concepts, they can choose web development training with PHP to learn and master it easily with required concentration, practice, and best teaching. The recent survey done by Economic Times says that more than 40% of the worldwide portals found on the internet today like Facebook, Wikipedia, Yahoo, etc. are developed on PHP and hence obviously the demand for PHP as a global web development platform highly increased. For an individual looking a career in PHP Classes in Pune using PHP can see a lot of scope and wide career opportunities in the domestic and international market both. Job Oriented Courses STEP in Cloud Computing STEP in DevOps Mastering Data Science STEP in Python Full Stack STEP in JAVA Full Stack STEP in Software Testing STEP in MEAN Stack Angular STEP in MERN Stack ReactJS STEP in Salesforce STEP in PHP Python Programming Python Programming Web Development in Python Cloud Computing AWS – Amazon Web Services AWS Cloud Practitioner DevOps with AWS DevOps – Dockers And Kubernetes Salesforce Microsoft Azure Data Analytics Data Science Artificial Intelligence Hadoop 2.X BigData Analytics Apache Spark & Scala Hadoop Admin Business Intelligence Tableau – Data Visualization Informatica Development – datawarehosuing Qlikview QlikSense Software Testing Selenium with Java Selenium With Python Tosca Training API Testing JMeter Testing LoadRunner Testing ETL Testing QTP / UFT RPA - Robotic Process Automation RPA- Ui Path Automation Anywhere Java Technology Core Java Advanced Java Spring Hibernate Spring Framework Web Designing & Development UI Development Angular ReactJS MEAN Stack MERN Stack Web Development in Python Database Technology DBMS: Oracle SQL Oracle : PL/SQL Oracle : DBA I/II RAC with Oracle MS SQL SERVER Development MS SQL SERVER DBA MONGO DB Scripting Languages UNIX Shell Scripting Python Programming Perl scripting .Net Technology Diploma in .Net ASP.NET MVC C# Programming WPF Programming WCF Programming Internet Marketing Digital Marketing SEO Training Classes Mobile App Development Android App Development iOS App Development Soft Skills & Aptitude Soft Skills Training Aptitude Training Basic Programming Languages Fundamentals of Computer C Programming C++ Programming Data Structure Industrial Training Industrial Training Blockchain Blockchain Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Batch Schedule Schedule Your Batch at your convenient time. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 Web Design - React 25-Oct-26 Sat - Sun 11:30 AM Enroll Now 2 ReactJS 27-Oct-26 Tue - Fri 05:00 PM Enroll Now 3 ReactJS 24-Oct-26 Sat - Sun 11:30 AM Enroll Now 7 MySQL 27-Oct-26 Tue - Fri 05:30 PM Enroll Now 8 MySQL 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 9 Soft Skills 25-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 26-Oct-26 Mon - Fri 04:00 PM Enroll Now FAQs Most frequent questions and answers 1. Can I join this course as this is a part of my college curriculum? Yes, you can surely join this course. We have our course designed for students as per the college curriculum as well. 2. Will I get any certificate after this course? After the course completion, an exam will be conducted to judge your knowledge along with the live project work completion and you will be awarded a certificate from 3RI Technologies. 3. What Kind Of Projects will get conducted during the course? We conduct the live project during the course ,wherein you can apply your knowledge and skills that you acquired through our training. These projects could be from various fields like ecommerce, social networking,website development, enterprise application. 4. Will I get any placement assistance after the course completion? Yes, we provide placement assistance to our students. We have a dedicated team for Placement and tie ups with 300+ MNC’s and SME companies. I'm Interested in This Program Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Our Clients Students Reviews Hello everyone, 3RI Technologies is the best institute for networking. I am passionate about networking, visited many institutes. What I found in the 3RI technologies training center fit my criteria, so I joined there and Studying at 3RI is a great experience. Manali Khot ***** 3RI Technologies Faculty is very good the teaching staff is very experienced and they help you to understand the course very well, Lab training is also provided in a very detailed manner including the teaching techniques are very good. Suraj patil ***** 3RI Technologies is one such institute that is very productive from any student's point of view. It helps in clearing the concepts and the teachers are very helpful. It helps to concentrate in our careers. It provides a very good placement service. Manjunath ***** PHP Information PHP Interview Questions And Answers Python vs PHP Java vs PHP Related Courses Job Oriented Courses STEP in Full Stack – Python STEP in JAVA STEP in Software Testing",
     "images": [
       {
         "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
@@ -520,7 +269,752 @@
         "alt": "",
         "title": ""
       }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/",
+      "https://www.3ritechnologies.com/course/Mongo-DB-NoSQLDatabase/",
+      "https://www.3ritechnologies.com/course/Perl-Scripting/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/android-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+      "https://www.3ritechnologies.com/course/aptitude/",
+      "https://www.3ritechnologies.com/course/asp-net-mvc-training-in-pune/",
+      "https://www.3ritechnologies.com/course/asp-net-wpf-training-course/",
+      "https://www.3ritechnologies.com/course/automation-anywhere-training-in-pune/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
+      "https://www.3ritechnologies.com/course/big-data-hadoop-training-in-pune/",
+      "https://www.3ritechnologies.com/course/blockchain-training-in-pune/",
+      "https://www.3ritechnologies.com/course/c-programming-classes-pune/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/cpp-programming-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/csharp-training-institute-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/data-structure-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/digital-marketing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-informatica-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/fundamentals-of-computer/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/hadoop-admin-training-in-pune/",
+      "https://www.3ritechnologies.com/course/industrial-training-company-for-bca-mca-students-pune/",
+      "https://www.3ritechnologies.com/course/ios-app-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-j2ee-training-in-pune/",
+      "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/ms-sql-server-dba-training/",
+      "https://www.3ritechnologies.com/course/oracle-dba-certification-course-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-rac-training-in-pune/",
+      "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/qliksense-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qlikview-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qtp-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/reactjs-training-in-pune/",
+      "https://www.3ritechnologies.com/course/rpa-training-in-pune/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/seo-training-in-pune/",
+      "https://www.3ritechnologies.com/course/softskill-training-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/spring-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/sqlserver-dba-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tableau-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/unix-shell-scripting-training/",
+      "https://www.3ritechnologies.com/course/wcf-training-course/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-dot-net-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
+      "https://www.3ritechnologies.com/course/webservices-with-soapui-testing-training/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/java-vs-php/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/php-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-vs-php/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Advantages-and-Benefits-of-Learning-PHP.jpg"
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+            "url": "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+            "name": "PHP Classes in Pune with Placement Record | 3RI Technologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
+            "datePublished": "2019-07-05T11:27:47+00:00",
+            "dateModified": "2025-06-09T05:19:02+00:00",
+            "description": "PHP Classes in Pune: 3RI Technologies is offering PHP Training since last decade and is always updated and has wide exposure such as Programming Basics",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/course/php-classes-in-pune/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
+            "width": 192,
+            "height": 192
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Courses",
+                "item": "https://www.3ritechnologies.com/course/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "PHP Classes in Pune with Placement Record"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          }
+        ]
+      }
     ]
   },
-  "priority": "MEDIUM"
+  "new": {
+    "h1": [
+      "PHP Courses in Pune"
+    ],
+    "content": "Classroom Live Online Hybrid (Projects On-Campus) PHP Courses in Pune Classroom • Live Online • Hybrid 3RI Technologies PHP Classes in Pune are ideal for both fresher and experienced professionals interested in a career as a PHP developer. 3RI Technologies offers expert PHP training in Pune for those looking to become proficient PHP developers. Our PHP courses are designed to cover all aspects of PHP programming, from the basics to advanced topics. Whether you’re searching for “PHP classes near you” or a “PHP training institute,” we provide top-tier professional training. Our PHP course in Pune is perfect for beginners and experienced developers alike. Join our PHP developer courses today and enhance your skills with hands-on training, career support, and a clear path to becoming a skilled PHP professional. 4.8/5 from 4,000+ Google Reviews 56K+ LinkedIn followers Pearson VUE | GASQ | ISO Certified Hands-on projects & portfolio Mock interviews & Q-banks Placement assistance lifecycle One Time Investment. EMI available. Join Free Demo (Online / On-Campus) Download Syllabus You’ll get WhatsApp confirmation and email with joining link / campus details. E&ICT – IIT Guwahati 15+ Years 700+ Placements/Year 50+ Hiring Partners TRUSTED BY Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Achievement Trainings Conducted 2500 + Batches Completed 3000 + Companies Tie-ups 400 + Students Placed 3500 + Corporate Trainings 400 + Nothing stops you from learning We provide EMI facility for you Apply Now EMI Plan Registration Percent EMI With 0% Interest On Registration 10% 1st installment – 1st month of joining 70% 2nd installment – 2nd month 20% Key Features Course Duration : 5 months Real-Time Projects : 2 Project Based Learning EMI Option Available Certification & Job Assistance 24 x 7 Support Syllabus Overview Batch Schedule FAQ's Reviews Enroll Now PHP Syllabus The detailed syllabus is designed for freshers as well as working professionals Download Brochure Basic Foundation Course 1. Programming Basics Fundamentals of Computer Understanding Applications Using Windows Explorer & File Structure Number Systems Application Software 2. Operating System & Networking Need for operating system Functions of Operating System Types of operating system TCP/IP fundamentals Networks and computer networks 2 tier, 3 tier and n-tier architecture 3. C Language Introduction to C Keywords, Constants and Variables Data Types in C Operator and Expressions Control Structure Functions Arrays Structure Preprocessor Directives Dynamic Memory Allocation 4. Object-Oriented Concepts using C++ Introduction to OOPs Beginning with C++ Functions in C++ Default arguments inline functions) reference variable Class, Objects Basics Constructor, Data Members Destructors Polymorphism Operator Overloading Overriding Inheritance Dynamic memory allocation 5. Linux Foundations Introduction to UNIX and its flavours UNIX architecture File System User and Group Policies Unix general commands Concept of Files and Directories in Unix File Permission and related commands Filter Commands and their options Vi Editor 6. Introduction to Database Management Systems Introduction to Database DBMS, RDBMS, ORDBMS DDL, DML, DCL, TCL Data types SELECT Statement Restricting and Sorting Data Aggregating Data using Group Functions Manipulating Data Sub queries Important Functions Joins and different types UI Development HTML: Hyper Text Markup Language HTML Basic What is Markup Language Basic Structure of HTML Meta Tags External Link Tags HTML Elements Basics, Elements , Attributes Paragraphs and Formatting HTML Skeleton, Links Creating an HTML Document Basic Content Structure Headings Horizontal Rules Line Breaks Images Optimizing web graphics – JPEG, GIF & NG Getting images from Photoshop Embedding Images in a Web Page Using Graphics as Links Using Background Images Setting image properties via HTML Hyperlinks Href, Name, Title, Target Div & Tables Creating of Div Tag Creating and Modifying Tables Formatting Tables Table Headers and Captions Form Name, Action, Method Text, Hidden, Password Radio Button, Checkbox Select, Textarea Submit, Reset, Button HTML5 HTML5 Structural Elements Section, Article, Aside Header, Hgroup Footer, Nav HTML5 Content Elements Figure, Figcaption, Video Audio, Embed, Canvas HTML5 New Application Focused Elements Meter, Details, Summary Progress, Time HTML5 Input Types Color, date, DateTime email, month, number range, search, tel time, url, week HTML5 Form Attributes autocomplete novalidate form/formaction autofocus multiple pattern(regexp) placeholder required CSS: Cascading Style Sheet 1. Understanding CSS Versions of CSS Types of CSS Rules CSS and Markup Languages CSS Basics Adding Styles to an HTML Tag Adding Styles to a Web Page and Web Site Redefining an HTML Tag Defining Classes to Create Your Own Tags Defining IDs to Identify an Object Defining Styles with the Same Rules Adding Comments to CSS Style Sheet Strategies Font Properties Understanding Typography on the Web Setting the Font Size Making Text Italic and Setting Bold, Bolder,Boldest Creating Small Caps Setting Multiple Font Values Text Properties Adjusting Text Spacing Setting Text Case Aligning Text Horizontally and Vertically Indenting Paragraphs. Setting Text and Foreground Color Decorating Text Setting Text Direction Setting Page Breaks for Printing Color and Background Properties Choosing Color Palettes Setting Text and Foreground Color Setting a Background Color Setting a Background Image Setting Multiple Background Values Box Properties Setting an Element’s Margins Setting an Element’s Border Setting an Element’s Outline Setting an Element’s Padding Setting the Width and Height of an Element CSS Border Border, width, color, style Positioning Static, relative, absolute Fixed, z-index Floating None, left, right Initial, inherits Pseudo – elements and CSS classes CSS List list-style list-style-image list-style-position list-style-type CSS3 Borders CSS3 Backgrounds, CSS3 Gradients CSS3 Shadows, CSS3 Text Effects CSS3 Fonts, CSS3 2D/3D Transforms CSS3 Transitions, CSS3 Animations CSS3 Multiple Columns Create a Layout Using CSS Property JAVASCRIPT Introduction Statements & Comments Variables Data types Operators Conditional Statements and Loops User Defined Functions HTML Events Window Event Attributes -onload –onunload Form Events -onblur -onchange -onfocus -oninput -onselect -onsubmit Keyboard Events -onkeydown -onkeypress -onkeyup JS Validations JQUERY Introduction JQuery Syntax jQuery Selectors jQuery Events jQuery Effects jQuery Hide/Show jQuery Fade jQuery Slide jQuery Animate jQuery Stop() jQuery callback jQuery chaining JQuery HTML jQuery Get jQuery Set jQuery Add jQuery Remove jQuery CSS Classes jQuery CSS jQuery Misc jQuery noConflict() AJAX AJAX with JavaScript Why AJAX & How it works Syntax (XMLHTTPRequest Object) Sending Requests to server Processing Response AJAX Events Example with PHP Server JQuery AJAX jQuery load jQuery Get/Post BOOTSTRAP How to Create a Layout in Bootstrap Grid Classes Basic Tags in Bootstrap Contextual colors and backgrounds Table in Bootstrap Bootstrap Basic Tables -Striped Rows, Bordered Table -Hover Rows, Condensed Table -Contextual Classes, Responsive Tables Navigation bar in Bootstrap Inverted Navigation Bar Fixed Navigation Bar Navigation Bar with Dropdown -Right-aligned Navigation Bar -Collapsing the Navigation Bar Form in Bootstrap Vertical Form Horizontal Form Inline Form Buttons in Bootstrap Button Styles Button Sizes Block Level Buttons Active/Disabled Buttons Images in Bootstrap Rounded Corners Image Circle Image Thumbnail Image Core PHP 1. PHP Introduction Introduction of Web Application Client-Server Architecture What is Open source? Why PHP? 2. Installation Installation Of PHP, MySQL And Apache. (XAMPP Tool) Installation Of Adobe Dreamweaver. 3. PHP Fundamentals Syntax Overview Data types Variables Constants Expressions Operator Types 4. Control structures Conditional statements Loops 5. PHP Functions What is a Function? Function syntax Built-in Functions include and include_once Require and require_once Header Function Date Functions User-defined Functions 6. Arrays Array Introduction 7. Strings Syntax of String Predefined String Functions 8. Working with Forms and Validations Retrieve value of form-PHP GET & PHP POST PHP Form Validation 9. Working with Sessions Introduction Create session Retrieve session Destroy session 10. Working with Cookies Introduction Create cookies Retrieve cookies Delete cookies 11. OOPS with PHP Overview Introduction Objects Class $this Keyword Access Modifiers (Public, private, protected) Constructor Destructor Parent:: and self:: keyword Static properties and methods Constant datamembrs Inheritance Polymorphism Interface Abstract class and method Final Magic methods 12. AJAX Introduction XMLHttpRequest Create Object Request Response readyState 13. File Handling & Emails File Handling, File uploading Open, read and closing file Create and write file Sending mails using PHP Database MySQL Introduction of DBMS and RDBMS Connection with Database DDL Operations (create ,alter , drop ,truncate/empty) DML Operations (insert, update, delete) DQL Operations (select) Executing queries Handling Query Results Handling Query Errors Joins Order By and Group By Like Patterns Stored Procedure Practice Application with Database Integration ADV PHP - CODEIGNITER Introduction and MVC Architecture CodeIgniter URLs Creating a Controller Creating a View Creating a Model Working with Helpers URL Helper Form Helper Download Helper Cookie Helper Email Helper Working With Libraries Database Library Session Library File Upload Library Ajax Implementation Daily Assignments and hands-on Topics covered. Interview Questions, Resume Formation, and Interview Tips. Soft Skills 1. Self Analysis Know yourself Personality types Areas of interest 2. Self Discovery SWOT Analysis – strength, weakness, opportunities, threats 3. Goal Setting Short-term plan Long-term plan Effective Time-management 4. Effective Self Presentation Personal grooming, Dressing, Hygiene 5. Effective Communication Verbal – Language Voice modulation – Tone, Pitch Clarity of Speech Listening skills – Active Listening, Selective Listening Written communication – general business correspondence 6. Email Etiquette 7. Body Language Understanding non-verbal communication Postures, Gestures, Eye contact 8. Tips to prepare impressive Resume 9. Tips for Group Discussion 10. Handling Telephonic interview 11. Mock – Technical interview 12. Mock – Personal Interview (PI) 13. Office Etiquettes and Mannerisms Aptitude 1. Quantitative Aptitude Number Systems LCM and HCF Percentages Profit, Loss, and Discount Interest (Simple and Compound) Speed, Time and Distance Ratio and Proportion Probability Permutation & Combination Time and Work Heights and Distances 2. Logical Reasoning Number and Letter Series Calendars Clocks Logical Sequence Blood Relations 3. Algebra Linear Equations Quadratic Equations Higher Degree Equations PHP Classes in Pune 3RI Technologies offers comprehensive PHP courses designed for aspiring developers. Whether you’re searching for “PHP classes near you” or looking for professional PHP training, our institute in Pune provides top-quality education. Our PHP course in Pune is structured to cover everything from basic PHP concepts to advanced web development techniques. With our experienced instructors and hands-on learning approach, you’ll gain in-depth knowledge and practical skills required to become a skilled PHP developer. Our PHP training institute offers courses suited for both beginners and experienced professionals looking to upgrade their skills. From fundamental PHP programming to complex project work, our courses are tailored to meet the demands of the ever-evolving tech industry. If you’re looking for “PHP professional training” or seeking a reliable “PHP institute near you,” 3RI Technologies is your go-to destination. Whether you want to pursue a PHP developer career or just want to sharpen your skills, our PHP course in Pune is designed for all levels. Enroll in our PHP developer courses today to get started on your path to success. With expert trainers, a structured curriculum, and job placement assistance, you will be ready to take your PHP career to the next level. ADVANTAGES OF PHP 3RI Technologies is offering one of the best PHP Classes in Pune. The reason is when we designed the course. We keep in mind that there should not be any prerequisite to join this course; also, the person who would like to learn PHP should get the basic knowledge of Web Designing course within this course. PHP is an Open Source, which is one the advantageous thing for any industry. Hence, PHP is readily available and is free to develop websites. PHP has a big list of advantages over any other scripting language. PHP is the most suitable and affordable technology for web development purposes. Below are the advantages of PHP; we will discuss briefly: Cross-Platform. PHP is platform-independent; any PHP Application can run on any platform. PHP is supported by almost all Operating Systems, and examples are UNIX, Linux, Winds, and Solaris. These platforms can be used to write a program in PHP and can also be view web pages or execute the PHP based applications. PHP can interface with Apache and MySQL both. PHP has a versatility that it can integrate with any other technology like Java, .NET, HTML, CSS, JavaSript, Angular JS, and there is no requirement of re-development. It saves time, money, and energy to invest in other development tasks. Easy database connection. Since PHP is executing directly on the server, for which the internet is using, and database connections are needed very often. Hence, the connection pf PHP with a database should be very smooth and operational with ease. Several websites that based on e-commerce, retail, or healthcare, need good DBMS. PHP has a module called “built-in,” which helps in a fast connection with DB. Therefore, PHP is always the first choice when the objective is to develop a web-based application. PHP needs less time to learn and develop any web application, even a user who knows a little of HTML, CSS and JavaScript can quickly become a web developer in PHP. Easy to use. PHP is popular and always the first choice of the web developer because it is easy to use. In comparison to other languages, PHP is simple, fluent, clean, and organized; hence it is beneficial for the newcomers. PHP has a simple and easy to remember and well-organized syntax. PHP syntax is similar to C, hence someone who knows C can start working on Python as well. Also, PHP is more comfortable to create and optimize the application. 3RI Technologies is offering PHP Training in Pune in which we offer a Web Designing course that consists of HTML, CSS, JavaScript, Bootstrap, AJAX, JQuery, Core PHP and Advanced PHP, Joomla, Codeigniter, and WordPress. Along with this course, we offer Mock tests, Interview preparation, and communication skills and aptitude classes. APPLICATIONS OF PHP In today’s scenario, any web application developed in the ecosystem should have the following features: Customizable Highly interactive UI Can perform online transactions Should integrate with DB Through its 3-tier architecture, server, and database system, PHP offers a ready, reliable solution to achieve the features mentioned above. As a survey, it said that PHP is used to develop 82% websites; over 200 million websites built on PHP. According to W3Techs’ data , PHP is used by 78.9% of all websites with a known server-side programming language. Almost 8 out of 10 sites you visit on the Internet use PHP in some way. Which brings us to this fact To be fair, that number is decreasing. In November 2017, W3Tech had PHP as the server language for 80.1% of sites. That number dropped to 79.6% in June 2018 and has now dropped to 78.9% when we published this post in November 2018. Popular sites using PHP Language Facebook.com Wikipedia.org Yahoo.com Tumblr.com Mailchimp.com Flickr.com WordPress.com Canva.com Istockphoto.com Baidu.com CMS – Content Management Systems PHP provides support to different databases like MySQL, Oracle, and MS Access and is capable of interacting with other services. Hence, PHP has been used to develop popular web Content Management Systems (CMS), along with WordPress, and it is plugins. e-Commerce Applications From small to large businesses, online selling of products is the requirement of everyone. PHP frameworks like CodeIgniter Magento and CakePHP allow the creation of eCommerce based applications swiftly and efficiently. Examples of their usages of PHP frameworks in Applications are OpenCart, PrestaShop, AgoraCart, and Ubercart.3RI Technologies is offering one of the finest Web Development Course in Pune using PHP because after the course. We take a LIVE Project for domains like website development, web-based application development, e-commerce based application development, etc. JOBS BASED ON PHP CLASSES IN PUNE 3RI Technologies has a track record that the candidates who have completed the PHP Classes in Pune course from here got placed within the course duration or within one to two months. PHP, the easy and versatile technology hence becoming the popular platform for websites and web applications these days. It is the best option for the IT freshers who recently completed their graduation and hunting for a job. As we understand that the fresher without knowledge of deep coding concepts, they can choose web development training with PHP to learn and master it easily with required concentration, practice, and best teaching. The recent survey done by Economic Times says that more than 40% of the worldwide portals found on the internet today like Facebook, Wikipedia, Yahoo, etc. are developed on PHP and hence obviously the demand for PHP as a global web development platform highly increased. For an individual looking a career in PHP Classes in Pune using PHP can see a lot of scope and wide career opportunities in the domestic and international market both. Job Oriented Courses STEP in Cloud Computing STEP in DevOps Mastering Data Science STEP in Python Full Stack STEP in JAVA Full Stack STEP in Software Testing STEP in MEAN Stack Angular STEP in MERN Stack ReactJS STEP in Salesforce STEP in PHP Python Programming Python Programming Web Development in Python Cloud Computing AWS – Amazon Web Services AWS Cloud Practitioner DevOps with AWS DevOps – Dockers And Kubernetes Salesforce Microsoft Azure Data Analytics Data Science Artificial Intelligence Hadoop 2.X BigData Analytics Apache Spark & Scala Hadoop Admin Business Intelligence Tableau – Data Visualization Informatica Development – datawarehosuing Qlikview QlikSense Software Testing Selenium with Java Selenium With Python Tosca Training API Testing JMeter Testing LoadRunner Testing ETL Testing QTP / UFT RPA - Robotic Process Automation RPA- Ui Path Automation Anywhere Java Technology Core Java Advanced Java Spring Hibernate Spring Framework Web Designing & Development UI Development Angular ReactJS MEAN Stack MERN Stack Web Development in Python Database Technology DBMS: Oracle SQL Oracle : PL/SQL Oracle : DBA I/II RAC with Oracle MS SQL SERVER Development MS SQL SERVER DBA MONGO DB Scripting Languages UNIX Shell Scripting Python Programming Perl scripting .Net Technology Diploma in .Net ASP.NET MVC C# Programming WPF Programming WCF Programming Internet Marketing Digital Marketing SEO Training Classes Mobile App Development Android App Development iOS App Development Soft Skills & Aptitude Soft Skills Training Aptitude Training Basic Programming Languages Fundamentals of Computer C Programming C++ Programming Data Structure Industrial Training Industrial Training Blockchain Blockchain Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Batch Schedule Schedule Your Batch at your convenient time. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 Web Design - React 31-Oct-26 Sat - Sun 11:30 AM Enroll Now 2 ReactJS 3-Nov-26 Tue - Fri 05:00 PM Enroll Now 3 ReactJS 31-Oct-26 Sat - Sun 11:30 AM Enroll Now 7 MySQL 3-Nov-26 Tue - Fri 05:00 PM Enroll Now 8 MySQL 31-Oct-26 Sat - Sun 10:00 AM Enroll Now 9 Soft Skills 31-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 2-Nov-26 Mon - Fri 04:00 PM Enroll Now FAQs Most frequent questions and answers 1. Can I join this course as this is a part of my college curriculum? Yes, you can surely join this course. We have our course designed for students as per the college curriculum as well. 2. Will I get any certificate after this course? After the course completion, an exam will be conducted to judge your knowledge along with the live project work completion and you will be awarded a certificate from 3RI Technologies. 3. What Kind Of Projects will get conducted during the course? We conduct the live project during the course ,wherein you can apply your knowledge and skills that you acquired through our training. These projects could be from various fields like ecommerce, social networking,website development, enterprise application. 4. Will I get any placement assistance after the course completion? Yes, we provide placement assistance to our students. We have a dedicated team for Placement and tie ups with 300+ MNC’s and SME companies. I'm Interested in This Program Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Our Clients Students Reviews Hello everyone, 3RI Technologies is the best institute for networking. I am passionate about networking, visited many institutes. What I found in the 3RI technologies training center fit my criteria, so I joined there and Studying at 3RI is a great experience. Manali Khot ***** 3RI Technologies Faculty is very good the teaching staff is very experienced and they help you to understand the course very well, Lab training is also provided in a very detailed manner including the teaching techniques are very good. Suraj patil ***** 3RI Technologies is one such institute that is very productive from any student's point of view. It helps in clearing the concepts and the teachers are very helpful. It helps to concentrate in our careers. It provides a very good placement service. Manjunath ***** PHP Information PHP Interview Questions And Answers Python vs PHP Java vs PHP Related Courses Job Oriented Courses STEP in Full Stack – Python STEP in JAVA STEP in Software Testing",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/11/tcs.png",
+        "alt": "tcs",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/11/cognizant.png",
+        "alt": "cognizant",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/11/infosys.png",
+        "alt": "infosys",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/11/ibm.png",
+        "alt": "ibm",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/11/bmc.png",
+        "alt": "bmc",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/2249165.png",
+        "alt": "EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/05/eduvanz.png",
+        "alt": "Eduvanz EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Advantages-and-Benefits-of-Learning-PHP.jpg",
+        "alt": "Advantages and Benefits of Learning PHP",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/02/PHP-Training-Institute-in-Pune-3RI-Technologies.jpg",
+        "alt": "PHP Training in Pune-3RI Technologies",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/01/22.png",
+        "alt": "Enquire about the 3RI Technologies training program",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon41.jpg",
+        "alt": "ZS",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon40.png",
+        "alt": "Zensar",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon39.png",
+        "alt": "bmc",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon38.png",
+        "alt": "thoughtworks",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon36-768x261.png",
+        "alt": "tata consultancy",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon34.gif",
+        "alt": "synerzip",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon33-e1604575181323.png",
+        "alt": "survik",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon32.png",
+        "alt": "siemens",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon31.jpg",
+        "alt": "R systems",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon30.png",
+        "alt": "pubmatic",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon29.png",
+        "alt": "citi",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon28.jpg",
+        "alt": "persistance",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon26.gif",
+        "alt": "Mphasis",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon25.png",
+        "alt": "Market Reports Center",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon24-e1604575512879.png",
+        "alt": "market and market",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon23-e1604575367263.png",
+        "alt": "accenture",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon22.png",
+        "alt": "sungard",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon21.jpg",
+        "alt": "kpit",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon20.png",
+        "alt": "comp-icon20",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon18.jpg",
+        "alt": "comp-icon18",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon17.png",
+        "alt": "comp-icon17",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon14.png",
+        "alt": "comp-icon14",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon13-e1654928115125.jpg",
+        "alt": "comp-icon13",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon12.png",
+        "alt": "comp-icon12",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon11.png",
+        "alt": "comp-icon11",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon10-e1654925790405.png",
+        "alt": "comp-icon10",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon9.png",
+        "alt": "comp-icon9",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon8.jpg",
+        "alt": "comp-icon8",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon7.jpg",
+        "alt": "comp-icon7",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon6.png",
+        "alt": "comp-icon6",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon5.png",
+        "alt": "comp-icon5",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon4.png",
+        "alt": "comp-icon4",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon3.png",
+        "alt": "comp-icon3",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon2.png",
+        "alt": "comp-icon2",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon1-1.png",
+        "alt": "comp-icon1",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/3d-lpm-logo.jpg",
+        "alt": "3d lpm logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/veritas-logo.jpg",
+        "alt": "veritas logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/synecron-logo.jpg",
+        "alt": "synecron logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/calsoft-logo.jpg",
+        "alt": "calsoft logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=PHP+Classes+in+Pune+with+Placement+Record&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=658&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcourse%2Fphp-classes-in-pune%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/Mongo-DB-NoSQLDatabase/",
+      "https://www.3ritechnologies.com/course/Perl-Scripting/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/android-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+      "https://www.3ritechnologies.com/course/aptitude/",
+      "https://www.3ritechnologies.com/course/asp-net-mvc-training-in-pune/",
+      "https://www.3ritechnologies.com/course/asp-net-wpf-training-course/",
+      "https://www.3ritechnologies.com/course/automation-anywhere-training-in-pune/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
+      "https://www.3ritechnologies.com/course/big-data-hadoop-training-in-pune/",
+      "https://www.3ritechnologies.com/course/blockchain-training-in-pune/",
+      "https://www.3ritechnologies.com/course/c-programming-classes-pune/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/cpp-programming-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/csharp-training-institute-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/data-structure-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/digital-marketing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-informatica-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/fundamentals-of-computer/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/hadoop-admin-training-in-pune/",
+      "https://www.3ritechnologies.com/course/industrial-training-company-for-bca-mca-students-pune/",
+      "https://www.3ritechnologies.com/course/ios-app-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-j2ee-training-in-pune/",
+      "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+      "https://www.3ritechnologies.com/course/job-oriented-courses/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/ms-sql-server-dba-training/",
+      "https://www.3ritechnologies.com/course/oracle-dba-certification-course-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-rac-training-in-pune/",
+      "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/qliksense-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qlikview-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qtp-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/reactjs-training-in-pune/",
+      "https://www.3ritechnologies.com/course/rpa-training-in-pune/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/seo-training-in-pune/",
+      "https://www.3ritechnologies.com/course/softskill-training-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/spring-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/sqlserver-dba-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tableau-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/unix-shell-scripting-training/",
+      "https://www.3ritechnologies.com/course/wcf-training-course/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-dot-net-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
+      "https://www.3ritechnologies.com/course/webservices-with-soapui-testing-training/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/java-vs-php/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/php-interview-questions-and-answers/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/python-vs-php/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/",
+      "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Advantages-and-Benefits-of-Learning-PHP.jpg"
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+            "url": "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+            "name": "PHP Classes in Pune with Placement Record | 3RI Technologies",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Advantages-and-Benefits-of-Learning-PHP.jpg",
+            "datePublished": "2019-07-05T11:27:47+00:00",
+            "dateModified": "2026-10-30T07:40:06+00:00",
+            "description": "PHP Classes in Pune: 3RI Technologies is offering PHP Training since last decade and is always updated and has wide exposure such as Programming Basics",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/course/php-classes-in-pune/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Advantages-and-Benefits-of-Learning-PHP.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/01/Advantages-and-Benefits-of-Learning-PHP.jpg"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/course/php-classes-in-pune/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Courses",
+                "item": "https://www.3ritechnologies.com/course/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "PHP Classes in Pune with Placement Record"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "priority": "HIGH"
 }

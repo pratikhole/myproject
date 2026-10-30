@@ -7,45 +7,6 @@
   "old": {
     "images": [
       {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
-        "alt": "3RI Technologies logo",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/08/Can-You-Become-a-Data-Scientist-with-Just-Python-2-3-768x432.jpg",
-        "alt": "Recruiters share what they expect from AI & Data Science freshers in 2025. Discover in-demand skills and career prep tips.",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business-768x512.jpg",
-        "alt": "Data analyst career scope bridges the gap with 3RI data analysis course in Pune.",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/DIFFERENCE-BETWEEN-DATA-ANALYTICS-DATA-ANALYSIS-DATA-MINING-DATA-SCIENCE-MACHINE-LEARNING-AND-BIG-DATA-2-1-768x512.jpg",
-        "alt": "DIFFERENCE BETWEEN DATA ANALYTICS, DATA ANALYSIS, DATA MINING, DATA SCIENCE, MACHINE LEARNING AND BIG DATA",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/08/WhatsApp-Image-2019-08-10-at-5.12.53-PM-2-768x358.jpeg",
-        "alt": "",
-        "title": ""
-      },
-      {
-        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
-        "alt": "WhatsApp",
-        "title": ""
-      },
-      {
-        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=Big+Data&cd%5Bpost_type%5D=category&cd%5Bpost_id%5D=276&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcategory%2Fblog%2Fbig-data%2F",
-        "alt": "",
-        "title": ""
-      }
-    ]
-  },
-  "new": {
-    "images": [
-      {
         "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
         "alt": "3RI Technologies logo",
         "title": ""
@@ -72,6 +33,45 @@
       },
       {
         "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=Big+Data&cd%5Bpost_type%5D=category&cd%5Bpost_id%5D=276&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcategory%2Fblog%2Fbig-data%2F",
+        "alt": "",
+        "title": ""
+      }
+    ]
+  },
+  "new": {
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/08/Can-You-Become-a-Data-Scientist-with-Just-Python-2-3-768x432.jpg",
+        "alt": "Recruiters share what they expect from AI & Data Science freshers in 2025. Discover in-demand skills and career prep tips.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/10/The-secret-to-avoiding-burnout-in-your-business-768x512.jpg",
+        "alt": "Data analyst career scope bridges the gap with 3RI data analysis course in Pune.",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/09/DIFFERENCE-BETWEEN-DATA-ANALYTICS-DATA-ANALYSIS-DATA-MINING-DATA-SCIENCE-MACHINE-LEARNING-AND-BIG-DATA-2-1-768x512.jpg",
+        "alt": "DIFFERENCE BETWEEN DATA ANALYTICS, DATA ANALYSIS, DATA MINING, DATA SCIENCE, MACHINE LEARNING AND BIG DATA",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/08/WhatsApp-Image-2019-08-10-at-5.12.53-PM-2-768x358.jpeg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
         "alt": "WhatsApp",
         "title": ""
       },

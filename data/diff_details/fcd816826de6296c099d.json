@@ -1,27 +1,11 @@
 {
   "url": "https://www.3ritechnologies.com/course/mean-stack-online-training-course/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
     "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "MEAN Stack Online Course with Certification | 3RI Technologies",
-    "meta_description": "MEAN Stack Online Course with Certification covers MongoDB, ExpressJS, AngularJS, and NodeJS. Learn from industry Experts and get placed.",
-    "h1": [
-      "Mean Course"
-    ],
+  "old": {
     "content": "Home > Courses > MEAN Stack Online Training Course Mean Course Mean Certification Kickstart your career with 3RI Technologies’ MEAN stack online training. Our MEAN stack course offers a comprehensive approach to mastering MongoDB, Express.js, Angular, and Node.js, empowering you to become a full-stack developer. Whether you’re looking for a MEAN stack developer course online or preparing for MEAN certification, our online MEAN stack courses provide hands-on experience and real-world projects. With flexible scheduling, our MEAN stack developer online course is designed for professionals looking to upgrade their skills. Join us and dive into the world of modern web development with the MEAN stack developer course. ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.1 out of 5 ★ ★ ★ ★ ★ Rated 5 out of 5 Course Duration 2 Months Live Project 2 Project Certification Guaranteed Training Format Live Online /Self-Paced/Classroom Enroll Now Download Brochure Chat Now Achievement Trainings Conducted 2500 + Batches Completed 3000 + Companies Tie-ups 400 + Students Placed 3500 + Corporate Trainings 400 + Nothing stops you from learning We provide EMI facility for you Apply Now EMI Plan Registration Percent EMI With 0% Interest On Registration 10% 1st installment – 1st month of joining 70% 2nd installment – 2nd month 20% Key Features Overview Syllabus Projects Batch Schedule Certification Reviews FAQ's Enroll Now Key Features Course Duration : 3 Months Real-Time Projects : 2 Online Live Training EMI Option Available Certification & Job Assistance 24 x 7 Lifetime Support Our Industry Expert Trainer We are a team of 10+ Years of Industry Experienced Trainers, who conduct the training with real-time scenarios. The Global Certified Trainers are Excellent in knowledge and highly professionals. The Trainers follow the Project-Based Learning Method in the Interactive sessions. Chat Now MEAN Stack Online Training Overview About MEAN Stack Online Course Master the MEAN stack with 3RI Technologies’ online training and unlock the skills required for modern full-stack web development. This comprehensive MEAN stack course covers essential technologies like MongoDB, Express.js, Angular, and Node.js, giving you the expertise to build dynamic, data-driven applications. Whether you’re aiming for MEAN certification or looking to enhance your career as a full-stack developer, our MEAN stack courses are designed to provide hands-on experience through real-world projects. Our MEAN stack developer course online is structured to offer flexibility for working professionals, while also offering a deep dive into both front-end and back-end technologies. With personalized support and a focus on practical skills, this MEAN stack online training prepares you to take on challenging development roles. Get ready to pursue your career goals with our MEAN full stack developer course that ensures you gain the most relevant skills and knowledge for the tech industry. Whether you’re just starting out or looking to advance your expertise, this course is tailored to make you job-ready. Course Features Key Features Job Assistance Flexible Timings Interactive Sessions 24/7 Access & Support Industry Expert Instructors Self-development Sessions Real-time Projects Live sessions DURATION: 7 Weeks(Weekday Batch) 8 Weekends(Weekend Batch) PREREQUISITES: Basic knowledge of JavaScript and HTML/HTML5 WHO CAN JOIN THIS COURSE? Web Developers Skills Required No Prerequisites for MEAN Stack Online Certification Training. Basic knowledge of Web Designing will be Advantageous. Certifications 0 + 24x7 Support and Access 24x 60 to 70 Hrs Course Duration 60- 0 Extra Activities, Sessions 0 % MEAN Stack Online Course Syllabus Best in Class Content by Leading Faculty & Industry Leaders in the form of Videos, Case Studies and Projects, Assignments and Live Sessions. Download Brochure Download Brochure Module 1: MongoDB 1. Design Goals, Architecture, and Installation What is the need for Non-RDBMS Benefits of using Document-based databases 2. CRUD Operations Understanding of CRUD Operations Functional usage of CRUD Read / Write Operations with CRUD 3. Schema Design and Data Modelling Schema Design and Data Modelling in MongoDB® Various Data Structure and Tools to Manage Data Model in MongoD Module 2: NodeJS 1. Introduction to Node JS Introduction & Foundation Introduction to the Node JS framework Installing NodeJS Using NodeJS to execute scripts The Node Package Manager The package.json configuration file Global vs local package installation Automating tasks with Gulp The HTTP protocol Building an HTTP server Rendering a response Using Representational State Transfer Express Framework Connecting to Mongo databases Performing CRUD operations The NodeJS framework Installing NodeJS Using NodeJS to execute scripts 2. NodeJS Projects The Node Package Manager NodeJS Creating a project The package.json configuration file Global vs local package installation Automating tasks with Gulp. 3. HTTP The HTTP protocol Building an HTTP server Rendering a response Processing query strings NodeJS using Representational State Transfer Configuring TLS Module 3: ExpressJS An Introduction to Express JS Routing Setting Up Router Route Parameter and queries HTTP Interaction Handling Form Data Handling Query Parameters Error Handling Creating and Consuming RESTful Services Using Templates The model-view-controller pattern Defining Jade and Handlebars templates Building a front-end controller Defining routes Creating actions Configuring Express to use Handlebars Using REST Reading POST data Building Handlebars helpers Adding middleware Data Sources How Node.JS connects to databases RDBMS databases and NoSQL databases Connecting to RDBMS and NoSQL databases Module 4: Angular 1 Getting Started Introduction What is Angular 2? How Angular Works? Difference between Angular and Other Framework Advantages of AngularJS 2. Typescript What is typescript? Compare typescript with Javascript Data Types & Variables Variable & Operators Control Structure and Decision making & loops Typescript Functions & Strings Typescript Object Class, Abstract Class Constructor Method Type of Assertion Interfaces 3. Application setup Installing Angular JS Configuration of Angular JS Creating an Angular 2 project Creating an Angular 2 project using CLI 4. Node package manager Setup Commands What is NPM Install Nom for Angular. 5. Architecture Module Component Template Metadata Data binding Directive Attribute Directive Structural Directive, Services Dependency Injection 6. Angular UI design patterns FlexBox What is flexbox How to design your user interface with flexbox model Material Design What is material design How to use and setup material environment Material components and layouts: Material cards Mat-Icons Mat table Bootstrap How to install bootstrap in angular environment Bootstrap layout and components 7. Directives Understanding Directives Directives Overview Different kinds of directives Build attribute directive Apply the attribute directive to an element in a template Respond to user-initiated events Pass value into the directive with an @Input data binding Custom Attribute Directive 8. Structural a nd Attribute Directive What is structural directive? NgIf case study NgFor, NgSwitch What is attribute Directives Using the NgStyle Directive Using the NgClass Directive The element 9. Service What is service? Create a service Understanding Services Injecting Concepts Async service and promise Introduction to Observable What is web service how to create web service how to consume rest service posting data to client server architecture Introduction to Material Design Introduction to card Material Design . What is Json Server . Install json server and run and up into your local machine crud operation using son server. 10. Dependency Injection Why dependency injection? Angular dependency injection Injector provider 11. Data Binding Interpolation Property binding Event binding Attribute binding Class binding Style binding Multiple components & passing data 12. Display data Class Binding Style Binding Event Binding Two-way Binding Component Data Binding Component Events Ng-Model 13. User input Binding to user input events Get user input from the $event object Get user input from a template reference variable Key event filtering (with key.enter) 14. Form Types of Forms in Angular4 Introduction to Template Driven Forms. Validation of Template Driven Forms. Introduction Model Driven Forms. Validation of Model Driven Forms. Two way data binding using ngModel. Model Driven Forms With Form Builder How to post data via a angular forms with rest service. 15. Pipes Introduction to Pipes Why pipes are useful. Type of pipes Built-in pipes parametrized pipes how to create custom pipes 16. Router Setting Up Router Imperative Routing Route Parameter Child Routing 17. What are the change in every version of angular Difference and changes in various angular versions. Latest angular version and it’s features Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes We are happy to help you 24/7 Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Who can apply for the course? Any graduates who want to pursue their career into Web Technologies. BE / BTech / MCA passed aspirants to make their career in Web Development Angular. IT-Professionals who want to get career in MEAN Stack. Professionals from non-IT bkg, and want to establish in IT. Candidate who would like to restart their career after a gap. Web Designers for next level of their career. Want an Expert Opinion? Book an Appointment Chat Now Industry Projects Learn through real-life industry projects sponsored by top companies across industries Project Implementation with Real-Time Scenario. Dedicated Industry Experts Mentors Receive 1:1 career counselling sessions & mock interviews with hiring managers. Further your career with our 300+ hiring partners. Batch Schedule Schedule Your Batch at your convenient time. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 Web Design - React 25-Oct-26 Sat - Sun 11:30 AM Enroll Now 2 ReactJS 27-Oct-26 Tue - Fri 05:00 PM Enroll Now 3 ReactJS 24-Oct-26 Sat - Sun 11:30 AM Enroll Now 7 MySQL 27-Oct-26 Tue - Fri 05:30 PM Enroll Now 8 MySQL 24-Oct-26 Sat - Sun 03:00 PM Enroll Now 9 Soft Skills 25-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 26-Oct-26 Mon - Fri 04:00 PM Enroll Now MEAN Stack Online Course Certification Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Frequently Asked Questions 1. What are the pre-requisites for taking Mean Stack Online Course from 3RI Technologies? Basic knowledge of JavaScript will be like a cheery on the cake, as it will help you understand the concepts and grasp things faster. And some knowledge about HTML, CSS, Database, and Serverside scripting will help. 2. What is the demand for Mean Stack Developer? MEAN Stack comprises of Angular JS, MongoDB, Express JS, and Node JS. The requirement for MEAN stack developers and adopters is increasing rapidly. Mean Stack provides flexibility, power, speed, and security. It is becoming more and more popular these days. You can always take a look at all the recruiting platforms like Indeed, Naukri, etc. There you will see tremendous job opportunities for a MEAN stack developer. 3. Who are the instructors for this course, and how are they assigned? All of our extremely adequate trainers are industry specialists with 10+ years of relevant teaching experience. Each of them has gone through a meticulous selection process that includes profile screening, technical evaluation, and a training demo before they are certified to train for us. And they are 247 available for you to clear your queries and doubts. 4. What is the salary provided for a Mean Stack Developer? According to numbers available on different recruiting sites, the average salary of a MEAN stack developer is four lakhs per annum approx. Freshers earn in the range of 1.7 to 3 lakhs, whereas junior developers make between 2 to 8 lakhs per year. A senior developer, on the other hand, earns much higher. I'm Interested in This Program Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Our Clients MEAN Stack Online Training Testimonials What our students talks about us. If you were student of 3RI and wants to share your thought about us, kindly mail or call us. It's an awesome place for learning full-stack development especially MongoDB, ExpressJS, AngularJS, and Nodejs... Nice experience👍🏻... Mr.Abhishek sir is superb. One of the best trainers for angular, node js, and especially MongoDB... Shantanu Varpe 1 weeks ago Best Institute for real-time Online training in Mean stack. It has been a great experience with real-time experts. Just want to recommend all to go for it. Hina Khan 2 weeks ago I attended Online Mean Stack training from 3RI by Abhishek Sir. He has good experience and his experience in Mean stack makes it easy to understand the topics. I really appreciate Abhishek sir for his deep knowledge about the subject and the effort that he invests to help everyone understand concepts thoroughly. Geeta Vahadane 2 weeks ago MEAN Stack Information What Is Mongo DB? Why Use Mongo DB? What is mean Stack Developer? MEAN Stack Developer Salary in India MEAN Stack Interview Questions and Answers Angular Developer Salary In India AngularJS Interview Questions and Answers Full Stack Vs Mean Stack What Is The Difference Between Angular And AngularJS? MEAN Stack Vs MERN Stack Angularjs Features Lazy Loading in Angular: Improving Performance by Loading Modules on Demand AngularJS Vs NodeJS Angular Vs React AngularJS Vs JQuery Our Gallery Web Design Online Exam A hands-on lab session focused on practicing Python, Machine Learning, and Data Science concepts. Data Science classes near me Join practical Data Science classes near you and gain experience through hands-on projects. Career-focused Data Science training with practical learning and placement assistance. Join practical Data Science classes near you and gain experience through hands-on projects. Looking for a Data Science course near me? Explore practical classroom training and career guidance. Students learning Data Science through instructor-led sessions and hands-on practice. Classroom learning and practical sessions at a Data Science institute in Pune. Web Design Online Exam Students working on live projects after AngularJS class completion Students Completing Practical Assignments on AngularJS AngularJS Training in Pimple Saudagar Branch Pune AngularJS Training in Deccan Branch Pune AngularJS Training at 3RI Technologies Pimple Saudagar Branch Pune AngularJS Training at 3RI Technologies Deccan Branch Pune",
     "images": [
       {
@@ -379,227 +363,367 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/angular-developer-salary-in-india/",
-      "https://www.3ritechnologies.com/angular-vs-angularjs/",
-      "https://www.3ritechnologies.com/angular-vs-react/",
-      "https://www.3ritechnologies.com/angularjs-features/",
-      "https://www.3ritechnologies.com/angularjs-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/angularjs-vs-jquery-3ri-technologies-pvt-ltd/",
-      "https://www.3ritechnologies.com/angularjs-vs-nodejs/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-online-training-course/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-vs-mean-stack/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/lazy-loading-in-angular-improving-performance-by-loading-modules-on-demand/",
-      "https://www.3ritechnologies.com/mean-stack-developer-salary-in-india/",
-      "https://www.3ritechnologies.com/mean-stack-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/mean-stack-vs-mern-stack/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/what-is-and-why-mongo-db/",
-      "https://www.3ritechnologies.com/what-is-mean-stack-developer/",
-      "https://www.3ritechnologies.com/wp-content/uploads/2020/02/AngularJS-Training-at-3RI-Technologies-Deccan-Branch-Pune.jpg",
-      "https://www.3ritechnologies.com/wp-content/uploads/2020/02/AngularJS-Training-at-3RI-Technologies-Pimple-Saudagar-Branch-Pune.jpg",
-      "https://www.3ritechnologies.com/wp-content/uploads/2020/02/AngularJS-Training-in-Deccan-Branch-Pune.jpg",
-      "https://www.3ritechnologies.com/wp-content/uploads/2020/02/AngularJS-Training-in-Pimple-Saudagar-Branch-Pune.jpg",
-      "https://www.3ritechnologies.com/wp-content/uploads/2020/02/Students-Completing-Practical-Assignments-on-AngularJS.jpg",
-      "https://www.3ritechnologies.com/wp-content/uploads/2020/02/Students-working-on-live-projects-after-AngularJS-class-completion.jpg",
-      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-3.webp",
-      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-4.webp",
-      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-5.webp",
-      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-6.webp",
-      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/1-7.webp",
-      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/2-3.webp",
-      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/2-4.webp",
-      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/2-5.webp",
-      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/2-6.webp",
-      "https://www.3ritechnologies.com/wp-content/uploads/2022/09/3-2.webp"
-    ],
-    "canonical": "https://www.3ritechnologies.com/course/mean-stack-online-training-course/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "MEAN Stack Online Course with Certification | 3RI Technologies",
-    "og_description": "MEAN Stack Online Course with Certification covers MongoDB, ExpressJS, AngularJS, and NodeJS. Learn from industry Experts and get placed.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "content": "Home > Courses > MEAN Stack Online Training Course Mean Course Mean Certification Kickstart your career with 3RI Technologies’ MEAN stack online training. Our MEAN stack course offers a comprehensive approach to mastering MongoDB, Express.js, Angular, and Node.js, empowering you to become a full-stack developer. Whether you’re looking for a MEAN stack developer course online or preparing for MEAN certification, our online MEAN stack courses provide hands-on experience and real-world projects. With flexible scheduling, our MEAN stack developer online course is designed for professionals looking to upgrade their skills. Join us and dive into the world of modern web development with the MEAN stack developer course. ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.5 out of 5 ★ ★ ★ ★ ★ Rated 4.1 out of 5 ★ ★ ★ ★ ★ Rated 5 out of 5 Course Duration 2 Months Live Project 2 Project Certification Guaranteed Training Format Live Online /Self-Paced/Classroom Enroll Now Download Brochure Chat Now Achievement Trainings Conducted 2500 + Batches Completed 3000 + Companies Tie-ups 400 + Students Placed 3500 + Corporate Trainings 400 + Nothing stops you from learning We provide EMI facility for you Apply Now EMI Plan Registration Percent EMI With 0% Interest On Registration 10% 1st installment – 1st month of joining 70% 2nd installment – 2nd month 20% Key Features Overview Syllabus Projects Batch Schedule Certification Reviews FAQ's Enroll Now Key Features Course Duration : 3 Months Real-Time Projects : 2 Online Live Training EMI Option Available Certification & Job Assistance 24 x 7 Lifetime Support Our Industry Expert Trainer We are a team of 10+ Years of Industry Experienced Trainers, who conduct the training with real-time scenarios. The Global Certified Trainers are Excellent in knowledge and highly professionals. The Trainers follow the Project-Based Learning Method in the Interactive sessions. Chat Now MEAN Stack Online Training Overview About MEAN Stack Online Course Master the MEAN stack with 3RI Technologies’ online training and unlock the skills required for modern full-stack web development. This comprehensive MEAN stack course covers essential technologies like MongoDB, Express.js, Angular, and Node.js, giving you the expertise to build dynamic, data-driven applications. Whether you’re aiming for MEAN certification or looking to enhance your career as a full-stack developer, our MEAN stack courses are designed to provide hands-on experience through real-world projects. Our MEAN stack developer course online is structured to offer flexibility for working professionals, while also offering a deep dive into both front-end and back-end technologies. With personalized support and a focus on practical skills, this MEAN stack online training prepares you to take on challenging development roles. Get ready to pursue your career goals with our MEAN full stack developer course that ensures you gain the most relevant skills and knowledge for the tech industry. Whether you’re just starting out or looking to advance your expertise, this course is tailored to make you job-ready. Course Features Key Features Job Assistance Flexible Timings Interactive Sessions 24/7 Access & Support Industry Expert Instructors Self-development Sessions Real-time Projects Live sessions DURATION: 7 Weeks(Weekday Batch) 8 Weekends(Weekend Batch) PREREQUISITES: Basic knowledge of JavaScript and HTML/HTML5 WHO CAN JOIN THIS COURSE? Web Developers Skills Required No Prerequisites for MEAN Stack Online Certification Training. Basic knowledge of Web Designing will be Advantageous. Certifications 0 + 24x7 Support and Access 24x 60 to 70 Hrs Course Duration 60- 0 Extra Activities, Sessions 0 % MEAN Stack Online Course Syllabus Best in Class Content by Leading Faculty & Industry Leaders in the form of Videos, Case Studies and Projects, Assignments and Live Sessions. Download Brochure Download Brochure Module 1: MongoDB 1. Design Goals, Architecture, and Installation What is the need for Non-RDBMS Benefits of using Document-based databases 2. CRUD Operations Understanding of CRUD Operations Functional usage of CRUD Read / Write Operations with CRUD 3. Schema Design and Data Modelling Schema Design and Data Modelling in MongoDB® Various Data Structure and Tools to Manage Data Model in MongoD Module 2: NodeJS 1. Introduction to Node JS Introduction & Foundation Introduction to the Node JS framework Installing NodeJS Using NodeJS to execute scripts The Node Package Manager The package.json configuration file Global vs local package installation Automating tasks with Gulp The HTTP protocol Building an HTTP server Rendering a response Using Representational State Transfer Express Framework Connecting to Mongo databases Performing CRUD operations The NodeJS framework Installing NodeJS Using NodeJS to execute scripts 2. NodeJS Projects The Node Package Manager NodeJS Creating a project The package.json configuration file Global vs local package installation Automating tasks with Gulp. 3. HTTP The HTTP protocol Building an HTTP server Rendering a response Processing query strings NodeJS using Representational State Transfer Configuring TLS Module 3: ExpressJS An Introduction to Express JS Routing Setting Up Router Route Parameter and queries HTTP Interaction Handling Form Data Handling Query Parameters Error Handling Creating and Consuming RESTful Services Using Templates The model-view-controller pattern Defining Jade and Handlebars templates Building a front-end controller Defining routes Creating actions Configuring Express to use Handlebars Using REST Reading POST data Building Handlebars helpers Adding middleware Data Sources How Node.JS connects to databases RDBMS databases and NoSQL databases Connecting to RDBMS and NoSQL databases Module 4: Angular 1 Getting Started Introduction What is Angular 2? How Angular Works? Difference between Angular and Other Framework Advantages of AngularJS 2. Typescript What is typescript? Compare typescript with Javascript Data Types & Variables Variable & Operators Control Structure and Decision making & loops Typescript Functions & Strings Typescript Object Class, Abstract Class Constructor Method Type of Assertion Interfaces 3. Application setup Installing Angular JS Configuration of Angular JS Creating an Angular 2 project Creating an Angular 2 project using CLI 4. Node package manager Setup Commands What is NPM Install Nom for Angular. 5. Architecture Module Component Template Metadata Data binding Directive Attribute Directive Structural Directive, Services Dependency Injection 6. Angular UI design patterns FlexBox What is flexbox How to design your user interface with flexbox model Material Design What is material design How to use and setup material environment Material components and layouts: Material cards Mat-Icons Mat table Bootstrap How to install bootstrap in angular environment Bootstrap layout and components 7. Directives Understanding Directives Directives Overview Different kinds of directives Build attribute directive Apply the attribute directive to an element in a template Respond to user-initiated events Pass value into the directive with an @Input data binding Custom Attribute Directive 8. Structural a nd Attribute Directive What is structural directive? NgIf case study NgFor, NgSwitch What is attribute Directives Using the NgStyle Directive Using the NgClass Directive The element 9. Service What is service? Create a service Understanding Services Injecting Concepts Async service and promise Introduction to Observable What is web service how to create web service how to consume rest service posting data to client server architecture Introduction to Material Design Introduction to card Material Design . What is Json Server . Install json server and run and up into your local machine crud operation using son server. 10. Dependency Injection Why dependency injection? Angular dependency injection Injector provider 11. Data Binding Interpolation Property binding Event binding Attribute binding Class binding Style binding Multiple components & passing data 12. Display data Class Binding Style Binding Event Binding Two-way Binding Component Data Binding Component Events Ng-Model 13. User input Binding to user input events Get user input from the $event object Get user input from a template reference variable Key event filtering (with key.enter) 14. Form Types of Forms in Angular4 Introduction to Template Driven Forms. Validation of Template Driven Forms. Introduction Model Driven Forms. Validation of Model Driven Forms. Two way data binding using ngModel. Model Driven Forms With Form Builder How to post data via a angular forms with rest service. 15. Pipes Introduction to Pipes Why pipes are useful. Type of pipes Built-in pipes parametrized pipes how to create custom pipes 16. Router Setting Up Router Imperative Routing Route Parameter Child Routing 17. What are the change in every version of angular Difference and changes in various angular versions. Latest angular version and it’s features Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes We are happy to help you 24/7 Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Who can apply for the course? Any graduates who want to pursue their career into Web Technologies. BE / BTech / MCA passed aspirants to make their career in Web Development Angular. IT-Professionals who want to get career in MEAN Stack. Professionals from non-IT bkg, and want to establish in IT. Candidate who would like to restart their career after a gap. Web Designers for next level of their career. Want an Expert Opinion? Book an Appointment Chat Now Industry Projects Learn through real-life industry projects sponsored by top companies across industries Project Implementation with Real-Time Scenario. Dedicated Industry Experts Mentors Receive 1:1 career counselling sessions & mock interviews with hiring managers. Further your career with our 300+ hiring partners. Batch Schedule Schedule Your Batch at your convenient time. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 Web Design - React 31-Oct-26 Sat - Sun 11:30 AM Enroll Now 2 ReactJS 3-Nov-26 Tue - Fri 05:00 PM Enroll Now 3 ReactJS 31-Oct-26 Sat - Sun 11:30 AM Enroll Now 7 MySQL 3-Nov-26 Tue - Fri 05:00 PM Enroll Now 8 MySQL 31-Oct-26 Sat - Sun 10:00 AM Enroll Now 9 Soft Skills 31-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 2-Nov-26 Mon - Fri 04:00 PM Enroll Now MEAN Stack Online Course Certification Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Frequently Asked Questions 1. What are the pre-requisites for taking Mean Stack Online Course from 3RI Technologies? Basic knowledge of JavaScript will be like a cheery on the cake, as it will help you understand the concepts and grasp things faster. And some knowledge about HTML, CSS, Database, and Serverside scripting will help. 2. What is the demand for Mean Stack Developer? MEAN Stack comprises of Angular JS, MongoDB, Express JS, and Node JS. The requirement for MEAN stack developers and adopters is increasing rapidly. Mean Stack provides flexibility, power, speed, and security. It is becoming more and more popular these days. You can always take a look at all the recruiting platforms like Indeed, Naukri, etc. There you will see tremendous job opportunities for a MEAN stack developer. 3. Who are the instructors for this course, and how are they assigned? All of our extremely adequate trainers are industry specialists with 10+ years of relevant teaching experience. Each of them has gone through a meticulous selection process that includes profile screening, technical evaluation, and a training demo before they are certified to train for us. And they are 247 available for you to clear your queries and doubts. 4. What is the salary provided for a Mean Stack Developer? According to numbers available on different recruiting sites, the average salary of a MEAN stack developer is four lakhs per annum approx. Freshers earn in the range of 1.7 to 3 lakhs, whereas junior developers make between 2 to 8 lakhs per year. A senior developer, on the other hand, earns much higher. I'm Interested in This Program Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Our Clients MEAN Stack Online Training Testimonials What our students talks about us. If you were student of 3RI and wants to share your thought about us, kindly mail or call us. It's an awesome place for learning full-stack development especially MongoDB, ExpressJS, AngularJS, and Nodejs... Nice experience👍🏻... Mr.Abhishek sir is superb. One of the best trainers for angular, node js, and especially MongoDB... Shantanu Varpe 1 weeks ago Best Institute for real-time Online training in Mean stack. It has been a great experience with real-time experts. Just want to recommend all to go for it. Hina Khan 2 weeks ago I attended Online Mean Stack training from 3RI by Abhishek Sir. He has good experience and his experience in Mean stack makes it easy to understand the topics. I really appreciate Abhishek sir for his deep knowledge about the subject and the effort that he invests to help everyone understand concepts thoroughly. Geeta Vahadane 2 weeks ago MEAN Stack Information What Is Mongo DB? Why Use Mongo DB? What is mean Stack Developer? MEAN Stack Developer Salary in India MEAN Stack Interview Questions and Answers Angular Developer Salary In India AngularJS Interview Questions and Answers Full Stack Vs Mean Stack What Is The Difference Between Angular And AngularJS? MEAN Stack Vs MERN Stack Angularjs Features Lazy Loading in Angular: Improving Performance by Loading Modules on Demand AngularJS Vs NodeJS Angular Vs React AngularJS Vs JQuery Our Gallery Web Design Online Exam A hands-on lab session focused on practicing Python, Machine Learning, and Data Science concepts. Data Science classes near me Join practical Data Science classes near you and gain experience through hands-on projects. Career-focused Data Science training with practical learning and placement assistance. Join practical Data Science classes near you and gain experience through hands-on projects. Looking for a Data Science course near me? Explore practical classroom training and career guidance. Students learning Data Science through instructor-led sessions and hands-on practice. Classroom learning and practical sessions at a Data Science institute in Pune. Web Design Online Exam Students working on live projects after AngularJS class completion Students Completing Practical Assignments on AngularJS AngularJS Training in Pimple Saudagar Branch Pune AngularJS Training in Deccan Branch Pune AngularJS Training at 3RI Technologies Pimple Saudagar Branch Pune AngularJS Training at 3RI Technologies Deccan Branch Pune",
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/course/mean-stack-online-training-course/",
-            "url": "https://www.3ritechnologies.com/course/mean-stack-online-training-course/",
-            "name": "MEAN Stack Online Course with Certification | 3RI Technologies",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/course/mean-stack-online-training-course/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/course/mean-stack-online-training-course/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon-150x150.png",
-            "datePublished": "2020-09-14T10:14:55+00:00",
-            "dateModified": "2025-06-13T12:14:57+00:00",
-            "description": "MEAN Stack Online Course with Certification covers MongoDB, ExpressJS, AngularJS, and NodeJS. Learn from industry Experts and get placed.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/course/mean-stack-online-training-course/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/course/mean-stack-online-training-course/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/course/mean-stack-online-training-course/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/04/IOS_Google_icon.png",
-            "width": 192,
-            "height": 192
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/course/mean-stack-online-training-course/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Courses",
-                "item": "https://www.3ritechnologies.com/course/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "MEAN Stack Online Training Course"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTEgOTIiIHdpZHRoPSI5MSIgaGVpZ2h0PSI5MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjI1IDIyNSIgd2lkdGg9IjIyNSIgaGVpZ2h0PSIyMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2IDczIiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjczIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE3OSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxNzkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Eduvanz EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjQwIDk2MCIgd2lkdGg9IjY0MCIgaGVpZ2h0PSI5NjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDUxMiIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjI1IDYyNSIgd2lkdGg9IjYyNSIgaGVpZ2h0PSI2MjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Enquire about the 3RI Technologies training program",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjIwIDIyMCIgd2lkdGg9IjIyMCIgaGVpZ2h0PSIyMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "ZS",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDE2IDQxNiIgd2lkdGg9IjQxNiIgaGVpZ2h0PSI0MTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Zensar",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDE2IDQxNiIgd2lkdGg9IjQxNiIgaGVpZ2h0PSI0MTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "bmc",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "thoughtworks",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDI2MSIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSIyNjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "tata consultancy",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjEzIDIxMyIgd2lkdGg9IjIxMyIgaGVpZ2h0PSIyMTMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "synerzip",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjE5IDEyNSIgd2lkdGg9IjIxOSIgaGVpZ2h0PSIxMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "survik",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDIwMCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "siemens",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDE2IDQxNiIgd2lkdGg9IjQxNiIgaGVpZ2h0PSI0MTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "R systems",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "pubmatic",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "citi",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUyIDIwMCIgd2lkdGg9IjI1MiIgaGVpZ2h0PSIyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "persistance",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTUwIDM0NCIgd2lkdGg9IjU1MCIgaGVpZ2h0PSIzNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Mphasis",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Market Reports Center",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQ5IDIwMiIgd2lkdGg9IjI0OSIgaGVpZ2h0PSIyMDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "market and market",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "accenture",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "sungard",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "kpit",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon20",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon18",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon17",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon14",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDYyIiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjYyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "comp-icon13",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon12",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon11",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDEzNiIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIxMzYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon10",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon9",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjI1IDIyNSIgd2lkdGg9IjIyNSIgaGVpZ2h0PSIyMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon8",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon7",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjg5IDE3NCIgd2lkdGg9IjI4OSIgaGVpZ2h0PSIxNzQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon6",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon5",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon4",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon3",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon2",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwIDEyMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "comp-icon1",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTM4IDQ2IiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjQ2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3d lpm logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTM4IDQ2IiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjQ2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "veritas logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTM4IDQ2IiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjQ2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "synecron logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTM4IDQ2IiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjQ2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "calsoft logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Web Design Online Exam",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "SQL Offline Exam",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "SQL Classroom Exam",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "SQL Exam at 3RI Technologies",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "SQL Classroom Training",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "SQL classes in Pune",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "DBMS SQL",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "DBMS SQL Classes",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "SQL Online Exam",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDM3NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Web Design Online Exam",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Students working on live projects after AngularJS class completion",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Students Completing Practical Assignments on AngularJS",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "AngularJS Training in Pimple Saudagar Branch Pune",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "AngularJS Training in Deccan Branch Pune",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "AngularJS Training at 3RI Technologies Pimple Saudagar Branch Pune",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "AngularJS Training at 3RI Technologies Deccan Branch Pune",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=MEAN+Stack+Online+Training+Course&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=24010&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcourse%2Fmean-stack-online-training-course%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

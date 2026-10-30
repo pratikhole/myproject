@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/python-developer-skills-required/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "ython Developer Skills Required in 2026 | 3RI",
-    "meta_description": "Explore the complete Python developer skills list for 2026 — covering Django, FastAPI, AI/ML, cloud, and salary data for India. Whether you're a fresher or experienced professional, this guide breaks down every Python developer skill set required to get hired. Includes job roles, resume tips, and a structured learning path.",
-    "h1": [
-      "What are the Python developer skills & Python Developer Job role."
-    ],
-    "content": "Skip to content Home > What are the Python developer skills & Python Developer Job role. What are the Python developer skills & Python Developer Job role. Discover the complete Python developer skill set required in 2026 — from Django, FastAPI, and AI/ML libraries to cloud, async programming, and salary insights. A practical guide for students and professionals building job-ready Python developer skills in India. Table of Contents PriyankaS3ri March 14, 2023 2:39 pm Python continues to dominate the global technology landscape with unmatched momentum. According to the TIOBE Index 2025–2026, Python holds the #1 position with a 23.85% rating — reflecting 8.22% year-on-year growth. Over 1.19 million job listings on LinkedIn currently require Python skills, driven by explosive demand across artificial intelligence, data science, web development, and automation. If you are planning a career in tech, understanding the complete python developer skill set is the most important step you can take today. For those based in Maharashtra, enrolling in a structured Python training in Pune is one of the most direct ways to build these skills with industry-aligned mentorship and hands-on projects. This guide covers the full python developer skills list that employers look for in 2026 — from core programming fundamentals to cloud, AI/ML, and modern frameworks. Whether you are a fresher mapping out your learning path or an experienced professional benchmarking your expertise, this is the most comprehensive breakdown of python developer skills required to stay competitive in the current job market. If you are looking to accelerate your growth, a job-focused Python course in Pune at 3RI Technologies gives you practical exposure to every skill on this list — from Django and FastAPI to AI/ML integration and cloud deployment. What Are the Python Developer Skills Required in 2026? The python developer skill set has expanded significantly over the past two years. Core programming remains the foundation, but employers now expect proficiency across AI/ML tooling, cloud platforms, async programming, and modern API frameworks. Below is the definitive python developer skills list for 2026, organised by category. Skill Category Key Skills (2026) Why It Matters Core Python Syntax, OOP, data types, decorators, async/await, generators Foundation for every Python role; tested in all interviews Web Frameworks Django, Flask, FastAPI FastAPI is now a top-3 required skill in backend job listings AI / ML Libraries TensorFlow, PyTorch, scikit-learn, Hugging Face, LangChain #1 growth driver for Python hiring in 2025–2026 Data Science NumPy, Pandas, Matplotlib, Seaborn, SciPy Essential for data analyst and data engineer roles Databases PostgreSQL, MySQL, MongoDB, Redis, SQLAlchemy Every role requires at least one SQL + one NoSQL skill Cloud & DevOps AWS / GCP / Azure, Docker, Kubernetes, GitHub Actions Production deployment is now a baseline expectation API Development REST, GraphQL, OpenAPI / Swagger, JSON Most Python roles involve building or consuming APIs Version Control Git, GitHub / GitLab, branching strategies Non-negotiable for any collaborative development role Testing PyTest, Unittest, TDD, CI/CD pipelines Code quality expectation has risen sharply since 2023 Async Programming asyncio, async/await, concurrent.futures Critical for high-performance APIs and real-time systems Soft Skills Problem-solving, communication, teamwork, time management Frequently cited as a top differentiator by hiring managers Full Stack Python programmers must be well-versed in front-end and back-end programming. They should be capable of designing and developing databases and user interfaces. Students will design and develop front-end user interfaces using HTML, CSS, and JavaScript.Server-side logic will be developed using frameworks such as Django and Flask. They will utilize databases such as MySQL, MongoDB, and PostgreSQL. Additionally, they will deploy apps utilizing web servers such as Apache and NGINX. Full Stack Python Programmer must have excellent problem-solving and technical skills. They should be able to think deeply and generate novel solutions to challenges. Also, they should be able to work independently and communicate well with a group of engineers. You will also have to talk to clients to determine what they need and devise ways to meet those needs. You may be the greatest candidate for this job if you possess the abovementioned talents and attributes. AI/ML Skills for Python Developers Python Developer Skills for AI and Machine Learning in 2026 The single biggest change in the python developer required skills landscape between 2023 and 2026 is the centrality of AI and machine learning. Python’s dominance in ML — through libraries like TensorFlow, PyTorch, and scikit-learn — has made it the de facto standard for building intelligent systems. If you are targeting high-growth roles, adding AI/ML to your python developer skill set is no longer optional. Core AI/ML Libraries Every Python Developer Should Know AI and machine learning have become the fastest-growing area within the Python developer skill set, with libraries like TensorFlow, PyTorch, scikit-learn, and Hugging Face now appearing as required skills in the majority of Python developer job listings in 2026. Mastering even two or three of these core Top libraries in Python can significantly expand your career options — opening doors to data science, machine learning engineering, and AI development roles that command some of the highest salaries in the Indian tech market. TensorFlow & Keras —TensorFlow (by Google) and its high-level API Keras are used for building and training deep learning models. Understanding tensor operations, model architecture, and training loops is a foundational python developer skill required for AI/ML roles. PyTorch —PyTorch (by Meta) is the preferred framework in research and increasingly in production AI. Its dynamic computation graph and intuitive debugging make it a core part of the modern python developer skill set for ML engineers. scikit-learn —The most widely used library for classical machine learning. Covers regression, classification, clustering, and model evaluation. Part of the python developer skills list for data science and data analyst roles. Hugging Face Transformers —For NLP tasks such as text classification, summarisation, and question-answering. Hugging Face has become the standard library for working with pre-trained language models — a fast-rising python developer required skill in 2026. LangChain & GenAI tooling —With the rise of generative AI applications, LangChain is now listed in job descriptions for AI/ML Python engineers. It enables building LLM-powered workflows, RAG (Retrieval-Augmented Generation) pipelines, and AI agents. Why AI/ML Is Now a Core Python Developer Skill Required Organisations across industries — fintech, healthcare, e-commerce, and logistics — are embedding intelligence into their products. A Python developer who understands how to integrate ML models into production systems commands significantly higher salaries (₹12–25+ LPA) compared to developers without these skills. The python developer skills required for AI roles overlap heavily with standard backend development, making the transition achievable for any developer with a solid Python foundation. Now that you understand what a full-stack Python developer is let’s look at the full-stack Python developer skills. Python Developer Salary in India 2026 — Experience-Wise Breakdown One of the most common questions from developers researching python developer skills is: what salary can I expect? The answer in 2026 is encouraging — Python remains one of the highest-paying skills in the Indian tech market, with salaries growing consistently across experience levels. Below is a data-backed breakdown based on Glassdoor, Naukri, and AmbitionBox salary reports updated in early 2026. Experience Level Years Average Salary (LPA) Key Skills at This Level Fresher / Entry-level 0–2 yrs ₹3 LPA – ₹5 LPA Core Python, Django/Flask, SQL basics, Git Junior Developer 2–4 yrs ₹5 LPA – ₹9 LPA REST APIs, PostgreSQL, Docker basics, PyTest Mid-level Developer 4–6 yrs ₹9 LPA – ₹15 LPA Cloud (AWS/GCP), CI/CD, FastAPI, async programming Senior Developer 6–10 yrs ₹15 LPA – ₹25 LPA System design, Kubernetes, team leadership AI/ML Python Specialist 3–8 yrs ₹12 LPA – ₹35 LPA TensorFlow/PyTorch, LangChain, LLM engineering Full Stack (Python) 3–7 yrs ₹8 LPA – ₹18 LPA Django/FastAPI + React/Angular, cloud deployment City-Wise Python Developer Salary in India (2026) City Average Salary Range Key Industries Bangalore ₹6 – ₹25 LPA (avg ₹10 LPA) AI/ML, SaaS, fintech, global product companies Pune ₹4.5 – ₹15 LPA IT services, automotive tech, MNCs Hyderabad ₹5 – ₹18 LPA Cloud, analytics, pharma tech, SaaS Mumbai ₹5 – ₹18 LPA Fintech, media, e-commerce, legacy IT Delhi NCR ₹5 – ₹16 LPA Startups, government tech, global MNCs Chennai ₹5 – ₹14 LPA Health tech, SaaS, IT services Developers who combine the core python developer skill set with in-demand specialisations such as AI/ML engineering or cloud architecture consistently command salaries at the upper end of these ranges. Investing in the right python developer skills required for your target role is the most direct lever for salary growth. Python Developer Job Roles in 2026 — Updated With Salary Ranges The python developer skills list you build determines which roles you are eligible for. Below are the most in-demand Python job roles in 2026, updated with current salary ranges and the specific python developer required skills each role demands. 1. Python Backend Developer Salary Range: ₹6 – ₹18 LPA Key Python Developer Skills Required: Django, FastAPI, REST APIs, PostgreSQL, Docker, Git Responsible for server-side logic, API development, and database management. FastAPI is now a frequently listed python developer required skill in backend roles alongside Django. 2. Full Stack Python Developer Salary Range: ₹8 – ₹20 LPA Key Python Developer Skills Required: Django/FastAPI + React or Angular, HTML/CSS/JS, SQL, Docker, AWS Handles both frontend and backend development. The python developer skills required for this role span frameworks, databases, cloud basics, and at least one frontend framework. 3. Data Scientist Salary Range: ₹8 – ₹22 LPA Key Python Developer Skills Required: Python, Pandas, NumPy, scikit-learn, TensorFlow/PyTorch, SQL, Tableau/Power BI Analyses complex data to support business decisions. Python has become the dominant language for this role — making it core python developer skills required for the data domain. 4. AI / LLM Engineer (New in 2026) Salary Range: ₹12 – ₹35 LPA Key Python Developer Skills Required: Python, PyTorch, Hugging Face, LangChain, RAG pipelines, FastAPI, vector databases A fast-growing new role focused on building, fine-tuning, and deploying large language model applications. This is the highest-growth area in the python developer skill set today. 5. Data Engineer Salary Range: ₹8 – ₹20 LPA Key Python Developer Skills Required: Python, Apache Spark, Airflow, SQL, AWS/GCP, ETL pipelines, dbt Builds and maintains data pipelines and infrastructure. A significant and growing role that was underrepresented in earlier python developer skills lists. 6. Machine Learning Engineer Salary Range: ₹10 – ₹28 LPA Key Python Developer Skills Required: Python, TensorFlow, PyTorch, scikit-learn, MLOps, Docker, Kubernetes, cloud ML platforms Takes ML models from prototype to production. The python developer required skills here bridge both software engineering and data science. 7. Python DevOps / Automation Engineer Salary Range: ₹7 – ₹18 LPA Key Python Developer Skills Required: Python scripting, Ansible, Docker, Kubernetes, CI/CD, AWS Lambda, Bash Uses Python to automate infrastructure, testing, and deployment workflows. A strong python developer skill set for automation opens doors in DevOps and SRE roles. 8. Automation Testing Engineer Salary Range: ₹5 – ₹14 LPA Key Python Developer Skills Required: Python, Selenium, PyTest, Appium, CI/CD integration Writes automated test scripts to ensure software quality. Python proficiency is now the standard — Selenium with Python is among the most commonly listed python developer skills in QA job descriptions. Skills Required For Python Full Stack Developer Front-end Languages and Frameworks : HTML & CSS HTML is the way text and images look on the screen and is controlled by a hypertext markup language. It allows you to format text into various formats, such as headings, paragraphs, pop-ups, etc. Most of the time, it is made up of tags that change the meaning of the text in a document structure. CSS is a style file that allows you to modify many website elements’ font, size, spacing, etc. It makes the page’s content look more pretty. JavaScript This powerful client-side programming language aims to increase user interaction with the application. It offers several frameworks and libraries, including JQuery, Angular, React, and Vue. It is required that a full-stack developer has experience with at least one of these tools. Explore our python course to get ahead in your career and improve python skills Backend Technologies and Frameworks JavaScript and its applications, including NodeJS and ExpressJS. Node is a free, cross-platform runtime environment that permits developers to build JavaScript applications and server-side utilities. Required familiarity with the complete command line, including npm (Node Package Manager). Java was created specifically for server-side execution. The two most popular Java frameworks are Spring and Java Server Faces. Python is currently the most popular programming language. It is flexible and easy to use. Flask and Django are two Python frameworks used for backend development. Django, a robust Python web framework, enables the rapid development of websites. It is open-source, has a large and active user community, and is free. According to many developers, c # is the most popular architecture for backend development in Windows environments. PHP, Perl, and Ruby are additional languages. Database Management Systems A full-stack developer uses relational mapping to construct code to extract data from the database. Oracle Database, MySQL, SQL Server, PostgreSQL, and MongoDB are the most prevalent database management systems. A comprehensive understanding of their activities is required. Version Control Version control systems help users keep track of their things’ history and project files. Git, Github, and Subversion are well-known ones. Git helps manage the files for a project. It remembers every project the user has ever worked on. Git is used for version control on GitHub, a web-based service. The user can review the code of others, find weaknesses or errors, and even propose adjustments. Web Hosting Platforms You can get your products out there with a web server and a cloud storage solution. Microsoft Azure, Heroku, Google Cloud Platform, and Amazon Web Services are well-known cloud computing platforms. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Soft Skills: Additionally, a full-stack developer must possess some fundamental soft skills. 1. Creativity: The developer needs to know the project’s goals and make a product that will interest the audience. 2. Strategic preparation: Planning is an essential component of any growth process. The developer must be capable of strategic planning for the design, development, and implementation phases. This improves the efficiency of the procedure. 3. Analytical abilities: As the name implies, these abilities enable you to assess information accurately and reach defensible conclusions. This allows you to maximize your productivity. Now, these are practice-based talents. Nonetheless, you must possess a keen sense of comprehension. 4. Again, problem-solving skills are essential to foresee errors and develop an application free of bugs. From a business perspective, problem-solving skills are essential for completing tasks efficiently. 5. Abilities in time management: The developer must meet deadlines while assuring the effective completion of his duties. How to Write Python Developer Skills on Your Resume in 2026 Knowing the python developer skills list is only half the equation — presenting those skills effectively on your resume is equally critical. Most companies in 2026 use Applicant Tracking Systems (ATS), which means your resume must use the right keyword phrasing to even reach a human recruiter. Use a dedicated ‘Technical Skills’ section: List your python developer skill set using the exact terminology from job descriptions — e.g., ‘FastAPI’, ‘PyTorch’, ‘asyncio’, ‘Docker’. ATS systems match on exact keywords. Demonstrate skills through projects, not just lists: Instead of listing ‘Django’ alone, write: ‘Built a REST API with Django REST Framework serving 10,000+ requests/day’. This proves the python developer skills required and shows real impact. Tailor for each role type: For a data science role, lead with Pandas, NumPy, and scikit-learn. For a backend role, lead with Django, FastAPI, and PostgreSQL. The same python developer skills required differ in priority by role. Include certifications and course completions: Certifications in AWS, TensorFlow, or Python full-stack development signal that your python developer skill set is current and verified — not just self-reported. Use the right action verbs: Verbs like ‘developed’, ‘deployed’, ‘automated’, ‘optimised’, and ‘integrated’ make your python developer required skills feel applied and practical, not academic. Add a GitHub link: In 2026, a GitHub portfolio with real Python projects is often weighted more heavily than degree qualifications. Link to projects that demonstrate your python developer skills list in action. What A Full Stack Developer Has To Do In front-end development, interactive user interfaces utilize JavaScript and HTML/CSS tools and frameworks. Construct the backend of the application: To obtain server data, he needs to design a robust architecture. Building databases and servers: These systems must resist outages and operate indefinitely. Cross-platform compatibility: Programs must run efficiently on various platforms, including Windows, Mac OS X, and Linux. API development: The developer is responsible for creating APIs based on the application’s layout. These APIs perform essential activities such as data retrieval from the server. Meet all technical and customer requirements: The developer must be capable of creating responsive apps that satisfy consumer requirements and maintain their attention. Looking forward to becoming a Python Developer? Then get certified with Python Online Training Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send How to Become Full-stack Python Developers? 1. Master the fundamentals of Python programming. An internet application’s front and back ends can be written in Python. To work as a full-stack Python developer, you must become fluent in the language’s foundational concepts. This requires understanding fundamental programming concepts and developing and executing Python programs. After creating a solid Python foundation, you can proceed to more sophisticated concepts. 2. Explore the Most Popular Python Libraries If you’re a full-stack Python developer, you should have experience with the most popular Python libraries. Pandas, NumPy, SciPy, matplotlib, and seaborn are just a few of the libraries available for data science. Python’s scikit-learn is for Machine Learning, whereas Django, Flask, and Pyramid are used for full-stack web development. You can use Python to make powerful and complex apps by learning these libraries. 3. Develop Your HTML, CSS, and Javascript Skills A full-stack Python developer requires a thorough understanding of HTML and CSS. Python is a strong programming language, but HTML and CSS decide how a website looks and works. Thus, full-stack Python developers need to be fluent in both languages to build websites that are visually appealing and easy to navigate. Expertise with JavaScript, AJAX, jQuery, HTML, and CSS is a must for Python full-stack engineers. These tools can construct interactive, engaging, and responsive online applications. Python full-stack developers can establish themselves as authorities in the industry by polishing their abilities across the board in web development. 4. Study Database Systems As a full-stack Python developer, you must also be familiar with database systems.This involves knowledge of database design, construction, and querying. You must also have a solid understanding of data structures and algorithms. By studying database systems, you can store and retrieve data efficiently. 5. Get Expertise with Well-known Frameworks You can construct online apps using popular Python frameworks like AIOHTTP, CherryPy, Dash, Django, and Falcon. You can create scalable and robust web applications by gaining familiarity with these frameworks. Also, you can utilize these frameworks to study Python development best practices. 6. Learn About The Most Popular IDEs And Code Editors Python applications can be developed using common code editors and integrated development environments (IDEs). Such integrated development environments (IDEs) include PyCharm, Atom, and Microsoft Studio Code. By gaining familiarity with these IDEs, you can construct Python applications more quickly. The best practices for Python development can be learned using these IDEs. 3RI Technologies Provides Full Stack Online Course as well as Full Stack Course in Pune Let’s talk about full-stack developer python jobs now that you know how to become one. Roles of a Full Stack Developer Full stack development is the method of developing both the front end and the back end of any type of website or web-based application. Developers with the required skills usually carry out full stack web development. Full Stack Developers need to be informed regarding web architecture. Because their primary duty is to construct sophisticated software systems from the ground up, they must grasp how to structure the code, classify the files, manage the data in databases, and perform the necessary computational tasks. Full-stack web developers might establish both the front end and the back end of a website.”Full stack technology” describes a computer system’s software application’s depth in its entirety. All the features that are accessible to clients or site visitors are located in the front end of a website. • Managing the entire software development procedure, including design to implementation • Maintaining and updating the program after it has been deployed. • Managing the entire software and application development life cycle. • Supervising and directing the analysis, development, and application of software. • Overseeing automated testing and providing management with feedback while the project is being developed. • Altering current programs and putting the changes to the test. • Investigating and resolving bugs and other coding problems. • Producing efficient APIs. • Producing technical writing. • collaborating with data scientists to enhance the software’s functionality. Benefits and Drawbacks of Full Stack Developer You may have observed that full-stack developers are in short supply. On opposing sides of the argument are those who view full stack developers as the mythical unicorns of the software industry and those who believe they are overextending themselves. Here is a brief summary of full-stack development’s advantages and disadvantages. Benefits : • Finding employment as a Full Stack developer is simple. • An expert in all facets of application development, a full stack developer. • They are independent of any dependencies and can manage the entire program. • Since the developer is familiar with all of the applications, new applications may be created without any repetition. • Since the developer has worked on several projects as a front-end or back-end developer, their experience aids in the creation of applications in a variety of ways. • They can obtain a complete picture of the design and development of the application. This aids in the project’s appropriate management. • They can create the application or website user-friendly because they keep up with all technological developments. • The developers are familiar with every stage of the project, which facilitates effective product communication with the client. Additionally, they are far better than others at making presentations and documentation. •A Full Stack developer can simply troubleshoot the software. Disadvantages: • A Full-Stack developer will not perform as well as a language expert. An individual who is a “jack of all trades, master of none” is a full-stack developer. • A developer cannot learn things completely since they have to comprehend everything about the application. • When managing many languages, the developer must continually watch oneself, which can make the entire process of working exceedingly slow. Why It is challenging to replace developers; taking time off or delegating work is a long-held goal. Experience Required to Become a Full Stack Developer Learning the knowledge and abilities necessary to succeed as a full stack developer takes time. In order for communication between them to be straightforward and fluid, they must not only be conversant with both front-end and back-end science and technology but also genuinely comprehend each. The following actions will help a candidate gain this experience: becoming familiar with the fundamentals of HTML; setting up an HTML website; selecting one back-end language and converting it to HTML; setting up a virtual server for deployment; operating a dynamic application; getting familiar with the basic principles of CSS; and learning JavaScript for creating client-facing behavior. If you would like to pursue a career as a Full Stack developer, you must be well-versed regarding both back-end and front-end development. It also implies that you need to understand how websites and applications work in addition to being able to create them.It is necessary to have prior experience with single-page applications and front-end technologies (Angular, JavaScript, TypeScript). Requirements: It also implies that you must be able to design mobile applications and websites as well as understand how they work. knowledge with XML, JSON, PowerShell, and batch scripting. Characteristics of a Full Stack Developer Strong technical aptitude is necessary for full stack engineers, but they also require certain psychological attributes to be successful in their position. Full stack developers are typically associated with the following personality traits: Professionalism : Full stack developers often work on endeavors that have a direct impact on clients and businesses Gaining the trust of stakeholders, colleagues, and clients requires professionalism in all spheres of work ethics, relationships, and accountability to uphold a high standard of genuineness in one’s employment. The aforementioned personality qualities are only a few of the typical ones that can help a full stack developer succeed. It’s important to keep in mind, though, that personality traits can differ greatly among individuals and that, based on their particular set of abilities and experiences, an effective full-stack developer may possess a combination of multiple traits. Mindset for solving challenges : Full stack engineers routinely handle difficult jobs, such as debugging code and fixing issues in a live environment. It’s essential to come up with original solutions, have a strong problem-solving mindset, and be skilled at problem analysis and debugging. Curiosity and Constant Learner : Since the technological world is always evolving, full stack developers must constantly learn new skills and improve their existing ones in order to remain relevant. It’s essential to keep an open mind, take initiative to look for fresh information, and never stop learning and developing yourself. Adaptability : Being open to learning new skills and adapting to various development settings is essential for full stack developers because they deal with a variety of frameworks, tools, and technologies and frequently need to respond quickly to changing requirements and technologies. Collaboration and Teamwork : While working in a team environment, full stack developers frequently collaborate with different developers, designers, and stakeholders. Effective interpersonal interactions, the capacity to collaborate effectively, and teamwork are all necessary for efficient operations. Detail-Oriented : To guarantee that the code is accurate and of high quality, it is crucial to pay attention to the details. The coding techniques of full stack developers must be precise, including adherence to coding standards, developing clear, effective code, and correctly documenting their work. Time Management and Organization : As they regularly work on multiple projects at once, full stack developers must effectively manage their time. Being organized, setting priorities, and using time wisely are essential for finishing assignments on time and producing high-quality work. Attention to User Experience : A thorough comprehension of UI and UX design is essential. It’s essential to be able to create applications that are visually appealing, user-friendly, and provide a positive user experience. Flexibility and Resilience : Because of rushed timelines, changed specifications, and unforeseen failures, full stack development may be challenging. Being able to handle pressure and uncertainty as well as being adaptive, flexible, and persistent in the face of difficulties are crucial. Passion and Creativity : In addition to developing code, full stack development also means creating novel solutions to complex problems. It is possible to achieve success as a full stack developer by being passionate about coding, creative in coming up with new ideas, and driven to improve constantly. What is Frontend Web Development? Front-end web development is the method of creating a website’s user interface in a graphical manner with the help of JavaScript, HTML, and CSS so that users are able to engage with it. Compared to back-end programming, Python front-end development is still in its early stages. HTML, JavaScript, and CSS are therefore frequently utilized in front-end development. But recently, a few front-end frameworks using Python have been developed, including Skulpt, Brython, and Anvil. We’ll talk about Anvil because it’s a little older. It is possible to construct a website’s front end and back end using the Anvil full-stackfull stack framework. Anvil can be used to generate graphical user interface (GUI) components for websites by allowing users to drag and drop substances into the interface. Additionally, we may change the UI elements’ characteristics and link them to specific events (Python functions). All back-end tasks, such as user authentication, database manipulation, and file management,are handled by Anvil. What is Backend Web Development ? The phrase “back end development” refers to work done while web programs are being executed. As opposed to frontend development, which focuses on services and programs that interact with customers, backend development manages the functionality and integration of server-side web applications in addition to tasks like building libraries, interacting with system components, and designing APIs. The code that permits database and application interactions is written by backend programmers. Backend developers are in charge of managing the databases, servers, and applications that make up a website’s back end. They control that which is invisible to you. It is essential that, following your brief introduction to backend development, you comprehend the role. A backend developer’s responsibilities include developing code that interfaces between the user’s the internet browser and the web page’s database, scripting, and website building design. It is necessary to guarantee data consistency and integrity. Continue reading to find out more about the duties of a backend developer. A backend developer is not the right job for everyone. It requires a certain set of abilities. Let’s examine a few of these abilities. Back End vs. Front End Development For every website, front-end and back-end development are required. The front-end creation process focuses on a website’s visual aspects, or the parts that users can see and interact with. Back-end development encompasses the data, logic, structure, and infrastructure of a website. Together, front-end and back-end web development create visually stunning, captivating websites. Both kinds of developers must be skilled programmers. Computer languages are used by front-end developers when building a website’s client side. Its development necessitates technical, artistic, and interpersonal skills. Back-end programmers utilize server-side programming languages to guarantee that websites function properly. Front-end developers concentrate on establishing the exterior design of websites by using front-end programming languages. The visual components of a website, including its fonts, colors, layout, and images, are created through front-end development. Back-end developers concentrate on the website’s server side. They use their technical know-how to handle the background work that creates a website’s general structure and functionality, making the front end of the site possible. These experts create the databases, application programming interface (API), and operations of websites. Back-end developers to create the structure and logic of a website utilize server-side programming platforms. They write computer code that gives websites instructions on how to run front-end programming languages. The website experience for customers is highly esteemed in front-end development. Front-end developers make sure that users have no trouble communicating with and navigate websites by utilizing a variety of technologies, design know-how, and programming languages. They create the website’s layouts, visuals, and drop-down menu designs. Front-end developers use HTML, CSS, JavaScript, and other computer programming languages to create websites. Each language serves a specific purpose. The website’s content and structure are laid out in HTML, while CSS adds design elements and JavaScript develops sophisticated interactive capabilities. Less frequently, front-end developers are proficient in Python, PHP, or Ruby. These programmers need to know how to use frameworks and libraries like AngularJS, EmberJS, Bootstrap, and jQuery. Unlike libraries, which condense code into more manageable and faster packages, frameworks ensure that data appears correctly across all platforms. In addition to code editing tools like Notepad or Eclipse, front-end developers might utilize Photoshop or Sketch for graphic design work. Front-end developers to build websites use programming languages like CSS, JavaScript, and HTML. Every language serves a specific function. The website’s structure and content are laid out in HTML, while JavaScript and CSS are utilized to provide complex design elements and interactive capabilities, respectively. There are fewer front-end engineers that are proficient in Python, PHP, or Ruby. Among other libraries and frameworks, these programmers must be fluent in jQuery, Bootstrap, AngularJS, and EmberJS. Unlike libraries, which pack code into quicker, smaller containers, frameworks make sure that data appears correctly on all kinds of devices. Front-end developers may also use Photoshop or Sketch for graphic design in addition to code editing programs like Notepad or Eclipse. The tool like SQL Server and Oracle are used by back-end developers for managing, storing, and editing data. Employers frequently seek candidates with experience in version control software, PHP frameworks, and back-end system and application debugging. To comprehend the objectives of every project, back-end developers work in tandem with front-end developers, enterprise, and management constituents. Python Full Stack Developer Jobs Software Developer/Engineer A software developer/engineer must be proficient in object-relational mappers, web frameworks, and core Python. They must know the multi-process architecture and RESTful APIs to link apps with other components. For a software developer, proficiency in front-end programming and database knowledge are desirable traits. You must be able to manage systems and build Python programs if you want to work as a software engineer. Python Web Developer A Python web developer is required for server-side web feature development. The foundational languages of web development, HTML and CSS, and web frameworks should be familiar to them. Python programming abilities and database knowledge are desirable qualifications. An important library for GUI-based web applications is Tkinter. After mastering these skills, you will be a Python web developer. Data Analyst The services of a data analyst are required for data interpretation and analysis. They should possess a solid grasp of maths and statistics. Python libraries such as Numpy, Pandas, Matplotlib, and seaborn are used for data visualization and manipulation; hence, knowing Python could be useful in this industry. Data Scientist A data scientist’s expertise in analysis, interpretation, manipulation, mathematics, and statistics allows them to aid in decision-making. Also, they must be knowledgeable in all machine learning techniques, including regression analysis and naive Bayes. A data scientist should be familiar with several library frameworks like Tensorflow, scikit-learn, and others. A data scientist’s duties require development in several areas. Machine Learning Engineer A machine learning engineer must also understand deep learning concepts, neural network construction, machine learning algorithms, and mathematics and statistics. A machine learning engineer requires an expert in techniques like gradient descent, regression analysis, and creating prediction models. The following list includes a few popular Python libraries for machine learning. More than just coding is demanded of a machine learning engineer. They are required to program a machine to perform any individual tasks. An engineer specializing in machine learning harnesses the potential of creativity and transforms it into innovative solutions. AI Engineer An AI engineer must be able to program and comprehend Data Science and Data Modelling concepts. You also need to know about deep learning and neural networks. The role of an AI engineer is to train computers to think or act as humans would in a given situation. A mental simulation is the cause of all of these events. Reasoning, representing knowledge, processing natural language, and having general intelligence are all tasks that are done often. Automation Testing Engineer Programming skills serve as a cornerstone for any automation test engineer. The Selenium web driver and any related technologies are necessary. Examples include the ATLC method and TestNG. You will be responsible for finding software operations that can be automated as an automation engineer. They must write and execute automation scripts to validate processes’ functionality and develop testing methodologies and automation frameworks. So, they are all full-stack Python jobs ; you can choose whichever interests you most. Learn more at Python Web Development Course Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes The Bottom Line We’ve listed skills for Python full-stack developers as well as a few basic actions to assist you in getting started on your path to becoming a full-stack Python developer in this article.We suggest beginning with the foundations and progressively developing your skill set with increasingly challenging tutorials and projects. You’ll be able to create your web applications using Python with enough practice and devotion. Being a full-stack Python developer is an attainable aim that will pay off in marketability and job chances in the long run. Following these easy instructions, you can take significant steps toward becoming a full-stack Python developer. What exactly are you waiting for? Enrol in 3RI Technologies ‘ full-stack online course right now!! Prev Previous Appium vs Selenium vs Calabash: Which Automation Testing Framework Fits Your Needs? Next Python vs Node.js: Which One Performs Better? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -84,255 +66,71 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2023/03/14/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appium-vs-selenium-vs-calabash/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/full-stack-python-web-developer-online-training/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/python-developer-skills-required/",
-      "https://www.3ritechnologies.com/python-libraries-top-lists-uses-how-to-choose/",
-      "https://www.3ritechnologies.com/python-vs-nodjs/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/what-is-python-programming-learn-python-in-hindi-step-by-step-guide/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/python-developer-skills-required/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "ython Developer Skills Required in 2026 | 3RI",
-    "og_description": "Explore the complete Python developer skills list for 2026 — covering Django, FastAPI, AI/ML, cloud, and salary data for India. Whether you're a fresher or experienced professional, this guide breaks down every Python developer skill set required to get hired. Includes job roles, resume tips, and a structured learning path.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/python-developer-skills-required/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/python-developer-skills-required/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "What are the Python developer skills &amp; Python Developer Job role.",
-            "datePublished": "2023-03-14T09:09:57+00:00",
-            "dateModified": "2026-05-07T06:39:00+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/python-developer-skills-required/"
-            },
-            "wordCount": 5981,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/python-developer-skills-required/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/03/Python-Full-Stack-Developer-Skills-and-Jobs.jpg",
-            "keywords": [
-              "Python Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "Python"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/python-developer-skills-required/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/python-developer-skills-required/",
-            "url": "https://www.3ritechnologies.com/python-developer-skills-required/",
-            "name": "ython Developer Skills Required in 2026 | 3RI",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/python-developer-skills-required/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/python-developer-skills-required/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/03/Python-Full-Stack-Developer-Skills-and-Jobs.jpg",
-            "datePublished": "2023-03-14T09:09:57+00:00",
-            "dateModified": "2026-05-07T06:39:00+00:00",
-            "description": "Explore the complete Python developer skills list for 2026 — covering Django, FastAPI, AI/ML, cloud, and salary data for India. Whether you're a fresher or experienced professional, this guide breaks down every Python developer skill set required to get hired. Includes job roles, resume tips, and a structured learning path.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/python-developer-skills-required/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/python-developer-skills-required/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/python-developer-skills-required/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/03/Python-Full-Stack-Developer-Skills-and-Jobs.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/03/Python-Full-Stack-Developer-Skills-and-Jobs.jpg",
-            "width": 1000,
-            "height": 667
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/python-developer-skills-required/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "What are the Python developer skills &amp; Python Developer Job role."
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Python Online Training",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Python&cd%5Bpage_title%5D=What+are+the+Python+developer+skills+%26amp%3B+Python+Developer+Job+role.&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=77700&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fpython-developer-skills-required%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

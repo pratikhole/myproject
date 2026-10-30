@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/what-is-data-science-with-example/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "What Is Data Science With Example[Data Science in 2024]",
-    "meta_description": "Discover the world of data science with examples. Learn about the applications ,job roles, tools, technologies, benefits, and more.",
-    "h1": [
-      "What Is Data Science With Example"
-    ],
-    "content": "Skip to content Home > What Is Data Science With Example What Is Data Science With Example Data science is a new field that is becoming increasingly important every day. It is the newest buzzword in the IT industry, and interest in purchasing it has been steadily increasing. The need for organisations to turn data into insights is making the need for Data Scientists to develop.In this article, we'll find out - what is the Data Science, what is Data Science job, what are uses and benefits of Data Science and so on. Table of Contents PriyankaS3ri February 16, 2023 3:03 pm Data science is a new field that is becoming increasingly important every day. It is the newest buzzword in the IT industry, and interest in purchasing it has been steadily increasing. The need for organisations to turn data into insights is making the need for Data Scientists to develop. Google, Amazon, Microsoft, and Apple are just a few of the largest companies that hire Data Scientists. IT pros are also becoming interested in the field of Data science course in Pune In this article, we’ll find out – what is the Data Science, what is Data Science in python , what is Data Science job , what is Data Science and AI and so on. What Is Data Science? The field of data science combines mathematics, statistics, computer science, and machine learning. Data science is the process of gathering, analysing, and making sense of data to produce insights that can aid in decision-making. Data science is employed in almost every industry today because it can predict customer behaviour and trends and find new business opportunities. Businesses can use it to make smart choices about developing and marketing their products. It is a tool that is used to uncover fraud and improve processes. Governments also use Data Science to improve the way public services are given. In simple terms, Data Science is a way to look at data and figure out what it means by combining statistics and math, programming skills, and subject knowledge. Now you know what is mean by Data Science, let’s move forward. If you wish to pursue a Data Science course in Pune, then you can always drop by at 3RI Technologies. Data Science Examples Below are some examples of Data Science to illustrate its significance: It helps get an idea of what customers want to buy or eat based on what they have purchased or consumed. This will enable online food delivery services to determine what their clients want. With the help of Data Science, they can find out from what area and on what days of the week they get the most orders. Also, they can give some customers more deals on certain charges based on what they have bought. This suggestion can be made by using information about the customer, such as age, income, browsing history, and what they have bought before. Companies that let people order food can grow their business by focusing on what customers want. Data science also helps people guess what will happen in the future. For example, airlines can determine how much their flights will cost based on what customers have paid. Airlines can look at their most recent flight reservations to see when and where most people book flights and when. By knowing this pattern, airlines can figure out how much to charge for their flights and make the most money possible. Data science may also be used to obtain recommendations. As an example, Netflix can make suggestions based on how users have watched videos in the past and how they have rated those videos. Users can be told about new videos that might interest them based on the videos they’ve already watched. This can keep people on these sites longer and make the company more money. Now that you know what is Data Science with example , let’s move further. 1. What Exactly is Data Science? Data science refers to the study of data to gain business insights. This strategy takes a multidisciplinary approach to data analysis by integrating ideas from fields as diverse as mathematics, statistics, AI, and computer science. This analysis provides answers to queries like “what happened,” “why it happened,” “what will happen,” and “what can be done with this information” for data scientists. 2. Data Science Applications Even though data science is frequently concerned with making sense of abstract data points, its influence is seen very visibly worldwide. Here are a few common examples of services that are powered by data science or that are present all around us: a. Healthcare Data science uses are especially helpful in health care, where they are used for many things, such as: Medical image processing Genomic and genetic research Pharmaceutical development and research Health-related bots and virtual assistants Data science advancements have aided even medical operations. Malignancies, artery stenosis, and organ delineation have all been detected using various techniques and frameworks, including MapReduce. Machine learning techniques for classifying solid textures include wavelet analysis, support vector machines (SVM), and content-based healthcare image indexing. b. E-commerce Data science has had many effects on the e-commerce industry. It has helped companies find their target markets, predict goods and services, and set prices in the best way possible. Natural language processing (NLP) and recommendation systems, in particular, have been very helpful to e-commerce companies that use them to look at what customers buy and figure out how they could grow. NLP is also used to look at texts and online surveys, which helps companies give their customers better service. c. Transportation Over the past twenty years, some of the most significant advancements in transportation have been driven by data science. While self-driving cars are undoubtedly the most prominent use of data science in the field of transportation, data scientists have also played a key role in the generation of fuel usage statistics, the analysis of driver behavior, and the monitoring of vehicle performance. Automobile makers may develop smarter, safer vehicles with better logistical routes by fusing automation with reinforcement learning. 3. Data Science Jobs There are various careers available in the field of data science. Some of the most well-liked jobs are as follows: Database Administrator Business Analyst Product Analyst Financial Analyst Data System Developer Machine Learning Engineer Data Engineer Data Analyst Data Scientist 4. Common Certifications for Data Science Whether you’re seeking certification from a recognized university, getting more training as a new graduate, improving your skills with a certain vendor, or showing off your data analytics skills, you can find a useful certification program. For a job in data science to become data Scientist do read the complete Data Scientist guide for you , it is common to get the following certifications: Dell EMC Data Science (EMCDS) Track Google Certified Professional Data Engineer IBM Data Science Expert Certification Microsoft Certified: Associate Azure Data Scientist Certified Open Data Scientist (Certified Open CDS) Certified Cloudera Professional (CCP) Data Engineer Certified SAS Data Scientists Certification as a Tensorflow Developer 5. Data Science Skills And Tools Data scientists must have excellent technical and practical abilities to do their jobs as effectively as possible. Some of the most important skills you’ll need to do well are: Workplace Abilities Receptivity/openness of mind Interaction Empathy Feeling A way to run a business Teamwork New ideas Technical Abilities Algebraic linear Approaches for machine learning Numerous-variable calculus Statistics Recognizing algorithms Developing and preserving algorithms Datasets for information retrieval Data Science Tools AWS has many tools to help data experts all over the world: Data Storage Amazon Redshift can run complex queries on both organised and unstructured data for data warehousing. AWS Glue is a tool for managing and searching data that analysts and data scientists can utilize. The data in the data lake is automatically catalogued by AWS Glue and given metadata to enable discovery. Machine Learning The Amazon Elastic Compute Cloud (EC2) hosts Amazon SageMaker, a fully-managed machine learning service. It facilitates data organization, model development, training, deployment, and operational scaling. Analytics : Due to Amazon Athena, an interactive query tool, analyzing data in Amazon S3 or Glacier is simple. It functions with common SQL queries and is quick. Big data is processed utilizing servers like Spark and Hadoop by Amazon Elastic MapReduce (EMR). 6. Workplace Skills Receptivity/openness of mind Interaction Empathy Feeling A way to run a business Teamwork New ideas 7. Technical Skills Algebraic linear Approaches for machine learning Numerous-variable calculus Statistics Recognizing algorithms Developing and preserving algorithms Datasets for information retrieval 8. Tools Data scientists are important decision-makers whose job is to look at and change a lot of data, both organized and unstructured. To do this, data scientists use many tools and computer languages, with SAS, Excel, Tableau, and Apache Spark being some of the most popular. 9. What is Data Science Used For? To study data, data science is used in four main ways. . Descriptive Evaluation Descriptive analysis aims to find out what happened or what’s taking place in the data context. It comprises pie charts, bar charts, line graphs, tables, and automatically produced stories. Diagnostic Evaluation The diagnostic analysis is a deep dive or a thorough look at data to determine what happened and why.Methods like drill-down, data discovery, data mining, and correlations describe it. Each method can put a data set through several operations and changes to find unique patterns. Predictive Evaluation The predictive analysis examines historical data trends to create accurate projections about the future. Techniques like machine learning, forecasting, pattern matching, and prediction modeling are used in this field. In each method, computers are taught to find the links between events in the data. Prescriptive Evaluation The use of prognostic data is enhanced by predictive analytics.Not only does it forecast what is most likely to take place, but it also recommends the most effective strategy for coping with the outcome it predicts. It can evaluate the potential effects of several options and recommend the most effective course of action.It uses simulation, graph analysis, neural networks, complex event processing, simulation, and recommendation systems that learn independently. 10. What Are The Benefits of Data Science for Business? Data science is transforming how businesses run. No of their size, many firms require a strong data science approach to encourage growth and keep a competitive edge. Key advantages include: . Find Out About Unknown Trends of Chang Businesses can use data science to find novel links and patterns that can change the organization. It can show low-cost resource management adjustments that will impact profit margins the most. An e-commerce corporation, for instance, employs data science to identify that excessive numbers of client inquiries are being created outside of normal business hours. According to research, clients are more inclined to purchase if they get a quick response instead of one that comes the next business day. The company increases its income by 30% by instituting 24-hour customer service. Develop Innovative Products and Solutions Data science can highlight errors and issues that could otherwise go unreported. A greater understanding of consumer preferences, client feedback, and corporate procedures can spur innovation in both internal processes and third-party products. Data science is used, for instance, by an online payment system to gather and examine social media user reviews of the business. According to analysis, users dislike the present password retrieval mechanism and frequently forget their passwords during busy shopping seasons. The business can develop a superior solution and observe a notable rise in client satisfaction. 11. What Are The Data Science Techniques? People who engage in data science adhere to the data science procedure. The top tools that data scientists use are: . Classification Classification is putting information into groups or types that make sense.The ability to locate and organise information is taught to computers. Known data sets are employed to build decision engines in a computer that quickly processes and sorts the data. For example: Sort products according to their popularity. Sort insurance forms based on their riskiness. Sort the comments on social media into three groups: good, negative, and neutral. Data science professionals adhere to the data science methodology. Regression Using regression, one can discover a connection between two data points that share no other characteristics. The link is typically shown in the form of a graph or curve that is derived from a mathematical formula. When the value of the first data point is known, a regression can be used to make educated guesses about the value of the other data point. As an example: The rate of airborne disease transmission. The relationship between the number of employees and customer satisfaction. The relationship between the number of injuries caused by fires and the distribution of fire stations in a certain area. Clustering Clustering is a way to look for trends and outliers by putting together data sets that are very similar. Clustering differs from sorting because the data can’t be put into clear groups. So, the data is put into groups based on the most likely links between them. Clustering is a way to find new patterns and connections. 12. What Are Different Data Science Technologies? Data science professionals utilize complex technologies, including: . Artificial Intelligence Machine learning models and the accompanying tools are utilised to perform predictive and prescriptive analysis. Cloud Computing Cloud computing has given data scientists the flexibility and processing power they need to do more complex data analyses. Internet of Things Various devices that have an automatic internet connection are referred to as IoT. These devices collect data for initiatives employing data science. They generate massive volumes of data that may be mined and collected. Quantum Computing Quantum computers can quickly complete a great deal of mathematically complex work. Data scientists are skilled at what they do and use these tools to construct intricate quantitative systems. 13. What are Different Data Science Tools? Data Science contains numerous tools. Let’s look at the same: . Apache Hadoop This open-source framework makes simple programming models and uses thousands of computer clusters to handle large data sets. Hadoop works well for both studying and making things. Hadoop is great for doing complicated calculations. Apache Spark This all-powerful analytics engine, sometimes called “Spark,” is the most famous tool for data science. It is renowned for providing incredibly fast cluster computing. Spark can access a wide variety of data sources, some of which are Cassandra, HDFS, HBase, and S3. Large datasets can also be easily managed without any difficulty. BigML This tool is another top-rated resource for data science. It gives users a fully interactive, cloud-based GUI experience that is perfect for running ML algorithms. Depending on your wants, you can make a free or paid account, and the website is easy to use. Data Robot This tool is called an advanced base for automating machine learning. It helps data scientists, executives, IT workers, and software engineers build better and faster predictive models. 1 4. What Are The Challenges Faced By Data Scientists? . Several Sources of Data Data is made in many different ways by different programmes and tools. To ensure consistency, data must be cleaned and prepared by data scientists. It can take a lot of time and effort to do this. Recognizing The Business Issue To identify the problem that needs to be solved, data scientists must collaborate with various stakeholders and business managers. This can be difficult, particularly in large organizations with numerous teams with different needs. Bias Elimination Due to the partial accuracy of machine learning tools, some bias or uncertainty may exist.Biases are discrepancies in the training data or the model’s behaviour when it comes to producing predictions for distinct groups, such as those based on age or economic level. For instance, if the tool is trained mostly on data from individuals in their forties and fifties, it may need to do better when making predictions about people in their twenties and thirties. By identifying and analyzing biases in the data and model, machine learning offers a chance to fix them. What Is The Data Science Life Cycle? Now, we’ll examine the various phases of a data scientist’s career. Thorough familiarity with the data science life cycle is crucial for comprehending the various phases that make up any given data science endeavour.The main parts of the data science life cycle are described below: Phase 1 : Business Knowledge The first step is to define the business problem because a clear problem statement identifies a particular objective and is essential to the project’s success. The primary aim is to understand the business problem, its scope, and the type of solution the business is looking for. The right questions must be asked to comprehend the business problem fully. It should respond to the following queries: 1. What is the business’s goal? 2. What does the business want to happen because of this business problem? Phase 2 : Data Gathering The next step is to get the data. Assuming a problem statement has been formulated after a thorough understanding of the issue from a business perspective has been achieved, the next step is to gather the necessary information. In machine learning, this is also often called “data acquisition.” Data collection is an important part of data science because the data needs to be useful for solving business problems correctly. Even though there are many ways to get data, it’s important to get it from a reliable source to ensure it’s correct since garbage data will only lead to garbage results. Because of this, a data scientist should be very careful when collecting data to ensure it is accurate and up-to-date. Check out the Data Science online training and get certified today. Phase 3 : Preparation of Data Data preparation is an important part of a Data Science project because it helps clean up the data and get it in the right shape for further analysis and modelling. This could also be called “cleaning up the data.” As part of preparing the data, we deal with problems like missing values and outliers, and we also change the data into the format that is needed. For example, if the data we’ve collected has been recorded at the transaction level, but we need to analyse it at the customer level, we may need to “roll it up” to the customer level. This step is important to the data science project because you can’t get a good result from data if you don’t clean it first. This step only gives data scientists a chance to decide how they need to handle this data for building models in the future. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send Phase 4 : Analyzing Exploratory Data Summaries and visual representations of the data are used in exploratory data analysis (EDA) to identify trends and outliers. This is a relatively simple step, but it is a very effective way to find useless patterns that may be very useful. The exploratory analysis also finds out how the different variables are related in the form of correlations. Here, a data scientist gets a better understanding of the data by learning which variables might be useful for further analyses that will eventually help the business meet its goals. The scientist then gets rid of the data that isn’t useful. Phase 5 : Model Construction After the data has been prepared and all hidden insights and patterns have been uncovered, the next step is to construct the model. There are two types of data modelling: descriptive analytics, which involves gaining insights based on historical data, and predictive modelling, which consists in making predictions. Model Designing is regarded as the most exciting step of a Data Science project. Still, a data scientist must devote sufficient time to the preceding stage to obtain the most accurate solution. This step selects features to determine which are relevant and can be eliminated. Depending on the nature of the business problem and the data, there are a variety of model-building techniques. The business issue could involve classification, regression, time series, clustering, or recommendations. This allows for selecting the appropriate algorithm to apply to the data. Model accuracy is calculated to determine whether the constructed model is acceptable and performs well during the testing phase. Phase 6 : Model Installation and Maintenance The model is prepared for use in the real world once it has been constructed. The deployment can take place offline, online, in the cloud, or using any iOS or Android app. In general, the constructed and deployed models’ accuracy varies.This is because the model was developed using a specific data set and then applied to various data sets. The Data Science project’s long-term success is watched over and kept up. Any necessary adjustments can be made as part of the maintenance if there is any performance degradation. An iterative data science project has a life cycle like this. These steps are repeated until the business problem is solved using a good model that produces good results. Interested to begin a career in Data Analytics? Enroll now for Data Analytics Courses in Pune. What Is The Role Of Data Science? You know what data science is, and you’re probably wondering what is data science’s role – here’s the answer.A data scientist examines company data to produce useful insights. In other words, a data scientist follows a series of steps to resolve business problems, including: Before collecting and analysing data, the data scientist finds the problem by asking the right questions and trying to understand it. The data scientist then selects the optimal mix of variables and data sets. The data scientist gathers data that is both structured and unstructured from a variety of unrelated sources, including public and corporate databases. After collecting data, a data scientist processes it into a usable form for further study. The data needs to be cleaned and validated to guarantee uniformity, completeness, and accuracy. After the data has been turned into a form that can be used, it is fed into an ML algorithm or a statistical model. The data scientists examine and spot patterns and trends at this point. The data scientist interprets the data after it has been fully rendered to identify opportunities and solutions. The data scientists complete the task by gathering the findings and insights to share with the relevant parties and disseminating the results. Hope so now you are familiar with – what is data science do, so let’s continue. Secure your personalized career counseling session today! Book Now Book Your Time-slot for Counselling ! Email Phone Send Use Of Data Science 1.Data science can find patterns in seemingly unstructured or unrelated data, which makes it possible to draw conclusions and make predictions. 2. Tech companies that get user data can use strategies to turn that data into something useful or profitable. 3. Data science has also made progress in the transportation industry, like with cars that don’t need drivers. Using vehicles that don’t need a driver is a simple way to reduce accidents. Data Science trains algorithms in areas like driverless cars by providing them with information like speed limits on highways and busy streets. 4. Data Science applications make it simpler to customise treatments for each person through research in genetics and genomics. Data Science Prerequisites Here are a few technical ideas you should know before you start learning about what is data science in simple words. Statistics Using sophisticated machine-learning techniques, data science relies on statistics to identify and convert data patterns into verifiable evidence. Programming The most used programming languages are Python, R, and SQL. For a data science project to go well, it’s important to learn a little about programming. Machine Learning Machine Learning, an essential component of data science, makes it possible to make accurate predictions and estimates. For success in the field of data science, a comprehensive understanding of machine learning is required. Databases In this field, you need to understand how databases work and know how to manage and get data from them. Modeling You can quickly calculate and predict using mathematical models and the data you already possess. Modelling assists in determining which algorithm addresses a specific problem most effectively and how to train these models. Looking forward to becoming an expert in Data Science? Then get certified with Data Science And Machine Learning Course. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes Benefits of Data Science Boosts business forecasts Data that is hard to understand Better decision making Creating new products Improves data security Creating products with the user in mind Now you are also aware of – what is Data Science and its benefits. Final Words Using tools and methods from data science can be very helpful for businesses. As a result of the high demand for candidates with the right skills and knowledge, companies are willing to pay above-average salaries to attract and retain the best and brightest minds as they undergo their digital transformations. Business Analysts, Data Analysts, Data Engineers, Analytics Engineers, and other positions could all use your data science skills.Take a look at 3RI Technologies ‘ Data Science course to learn the skills you need to succeed in the field, including how to use the most up-to-date tools and methods, as well as real-world examples drawn from the business world. Prev Previous What is ChatGPT? Exploring the Top Uses of the AI Phenomenon Next Future Scope of Software Testing: Is It Still a Good Career? Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -79,252 +61,66 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2023/02/16/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/how-to-become-a-data-scientist/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/software-testing-scope-in-future/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/what-is-chatgpt-used-for/",
-      "https://www.3ritechnologies.com/what-is-data-science-with-example/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/what-is-data-science-with-example/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "What Is Data Science With Example[Data Science in 2024]",
-    "og_description": "Discover the world of data science with examples. Learn about the applications ,job roles, tools, technologies, benefits, and more.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/what-is-data-science-with-example/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/what-is-data-science-with-example/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "What Is Data Science With Example",
-            "datePublished": "2023-02-16T09:33:49+00:00",
-            "dateModified": "2026-02-20T08:28:28+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/what-is-data-science-with-example/"
-            },
-            "wordCount": 4116,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/what-is-data-science-with-example/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/What-Is-Data-Science-With-Example.jpg",
-            "keywords": [
-              "Data Science Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "Data Analytics"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/what-is-data-science-with-example/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/what-is-data-science-with-example/",
-            "url": "https://www.3ritechnologies.com/what-is-data-science-with-example/",
-            "name": "What Is Data Science With Example[Data Science in 2024]",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/what-is-data-science-with-example/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/what-is-data-science-with-example/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/What-Is-Data-Science-With-Example.jpg",
-            "datePublished": "2023-02-16T09:33:49+00:00",
-            "dateModified": "2026-02-20T08:28:28+00:00",
-            "description": "Discover the world of data science with examples. Learn about the applications ,job roles, tools, technologies, benefits, and more.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/what-is-data-science-with-example/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/what-is-data-science-with-example/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/what-is-data-science-with-example/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/What-Is-Data-Science-With-Example.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2023/02/What-Is-Data-Science-With-Example.jpg",
-            "width": 500,
-            "height": 334
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/what-is-data-science-with-example/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "What Is Data Science With Example"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDMzNCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzMzQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Data Science Online Training",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+Data+Analytics&cd%5Bpage_title%5D=What+Is+Data+Science+With+Example&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=76437&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fwhat-is-data-science-with-example%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

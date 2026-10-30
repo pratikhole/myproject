@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "Top Jenkins Interview Questions and Answers for Experienced Professionals",
-    "meta_description": "Prepare effectively with the most important Jenkins interview questions and answers. Boost your career by enrolling in the expert-led DevOps course in Pune at 3RI Technologies.",
-    "h1": [
-      "Jenkins Interview Questions and Answers(For 2023-24)"
-    ],
-    "content": "Skip to content Home > Jenkins Interview Questions and Answers(For 2023-24) Jenkins Interview Questions and Answers(For 2023-24) Q1. How is Jenkins different from Bamboo? Anybody can use Jenkins can use it as it is open source and free of cost, whereas Bamboo is not it is one of Table of Contents PriyankaS3ri October 14, 2020 10:32 am Jenkins Interview Questions and Answers for Experienced Professionals Preparing for Jenkins interviews can be challenging, especially when you want to stand out with confident answers. This guide covers crucial interview questions on Jenkins that every experienced professional should know. Whether you are revising Jenkins interview questions and answers or exploring the nuances of Jenkins pipeline, our curated list will boost your readiness. At 3RI Technologies, our comprehensive DevOps course in Pune offers practical knowledge and hands-on training to help you master Jenkins and secure your dream job in DevOps. Get ready to impress interviewers with in-depth understanding and clear solutions. Master Key Jenkins Interview Questions to Ace Your Next DevOps Role Q1. How is Jenkins different from Bamboo? Anybody can use Jenkins can use it as it is open source and free of cost, whereas Bamboo is not it is one of the significant difference between Jenkins and Bamboo. Jenkins is open source, so it is free whereas for using Bamboo you got to pay as per the required build agents. An operating system like Windows, Linux, and Solaris support Bamboo, but OS supports for Jenkins are Windows, Ubuntu, Red Hat, and Mac OS. The browser that supports Bamboo is Firefox, Chrome, Safari, and Edge, whereas browsers that support are Firefox, Chrome, and Internet Explorer. Jenkins is an open-source, so many organizations supports and Jenkins supports almost all plugins compared to Bamboo which supports only a few plugins. Q2. What is Jenkins? Anyone can use Jenkins as it is free of cost as it is open-source. Jenkins is an automation tool which uses script/codes written in Java and supports almost all the plugins that can be used for continuous integration processes as Jenkins is an open-source and many organization supports Jenkins. A fresh build is available easily as they can integrate changes easily as Jenkins follows the process build and test your software projects continuously. As the integration of a large number of testing and deployment technologies is possible; therefore, you can deliver software always. Q3. Explain the process of Jenkins. The explanation for the Jenkins process is as follows. Developers firstly stores the executed code in the source code repository. There is a lookout for changes in the repository at appropriate time intervals by Jenkins server. When the server detects the changes that occurred in the source code repository, Jenkins will pry out those changes, and new build preparation will begin. Build failure will be notified to the concerned team. Jenkins then deploys a successful build to the build in the test server. Jenkins generates feedback, and notification is sent to the developer about the build and its test result. This process keeps on repeating as the Jenkins server repository lookout for changes at regular intervals. Q4. What are the benefits of using Jenkins? The benefits of Jenkins are as follows At the integration, stage user can do cache build failures For every change that may occur User get a generated report regarding automatic build notification LDAP mail server helps Jenkins as they both are integrated to give the developer a build reports success or failure notification Jenkins uses nimble development, and the developments are test influenced, thus achieves continuous integration Error tracking and resolving the errors and issues can be done during the infancy stages of development Q5. List the prerequisites for using Jenkins? The prerequisites for using Jenkins are as follows Similar to the Git repository, the source code repository used for Jenkins should be easily accessible. Jenkins needs a working build script like a Maven script that checks the repository. Q6. Explain the relation between Hudson and Jenkins? Early versions of Jenkins were named Hudson. Therefore, you can say Hudson and Jenkins are the same. Due to some issues, the Hudson project was renamed as Jenkins. Q7. List out the useful Jenkins plugins Jenkins supports all plugins, some of the useful plugins are as follows Maven 2 project Git Amazon EC2 HTML publisher Copy artefact Join Green Balls Q8. How do you install Jenkins? For Jenkin installation follow the steps given below Java Version 8 needs to be installed first as Jenkins is an application based on Java; therefore, Java is a must. You need to install Apache Tomcat Version 9 as it is required to deploy Jenkins war file Tomcat. Then download Jenkins war File, and it is must download to install Jenkins. Jenkins war File is deployed as Jenkins war file is deployed using Tomcat to run Jenkins. The necessary plugin, you need to install as suggested by the Jenkin plugin list. When Jenkins installation is successful, Jenkins appears on the dashboard Q9. List the components that can be integrated Jenkins with? Two components can be integrated Jenkins with are as follows A control system is needed for Jenkins SVN version like GIT Apache maven is essential as it is a working build tool Q10. Explain Maven and the benefit of integrating Maven with Jenkins? The working build management tool in Jenkin is Maven. Simple pom.xml is used to configure all the dependencies that are needed to build, test, and to run the code in Jenkins Maven is used. Maven handles the complete lifecycle of the project. The Maven web driver will be responsible for project build and test execution. Q11. How can you start Jenkins manually? To start Jenkins manually, you can follow the below commands, To start Jenkins, click on jenkins.exe start To stop Jenkins, click on Jenkins.exe stop To restart Jenkins, you need to click on Jenkins.exe restart Q12. Which SCM tools Jenkins supports? SCM tools are Accu Rev, CVS, Subversion, Git, Mercurial, Perforce, Clear case, RTC, and others Q13. What do you mean by Post in Jenkins? When pipeline completion takes place, the post section in Jenkins contains several additional steps that are executed. If all the steps are executed in the condition blocks, then the pipeline acquires the completion status. Modified build and its success, failure, instability, and abortion are all included in the condition block. Q14. Explain the Parameters in Jenkins? Various used cases pipelines are supported by parameters in Jenkins, which are supported by the Agent section, which are the high-level of the pipeline. Q15. Explain Groovy? For the Java platform, Groovy that is from Apache language is designed. The native scripting languages in Jenkins is none other than Groovy. Due to plugins that are based on Groovy, Jenkins benefits with great interfaces and builds reports which are active and steady by nature. Want to check out for Job Oriented Courses? Check this out at 3RI Technologies Q16. Can Git Repository be cloned via Jenkins? Yes, cloning a Git repository via Jenkins is possible. First, the User has to login to the Jenkins system by entering the email and user name to get into Jenkins System. Secondly, the User got to execute the Git configuration command, i.e. “git config” and also need to switch the directory. Q17. How you’ll be able to create a Jenkins job? Follow the subsequent steps to form created Jenkins jobs. Visit the Jenkins high page. First, you would like to pick out a New Job. You got to choose to Build a free vogue package project. Select the weather of the free vogue job from the subsequent selections Optional SCM like CVS or wherever source code text file resides that subversion Optional triggers that take over the management once build is performed in Jenkins. The build like the ant, Maven, shell script, batch file, etc. that performs some build script wherever actual work happens. Optional steps that are needed to gather the knowledge out of the build like storage artefacts or recording java doc and check results. Optional steps to supply notification to a different system with its build result, e.g. causation emails, Ims, change concerning problems and following bugs, etc. Q18. How will a user produce a backup and replica files in Jenkins? Users got to keep a copy JENKINS_HOME directory frequently. Build jobs configuration, slave node configuration, and build history are all held on in backup and replica files in Jenkins. The User will produce a backup for his or her Jenkins set up by the repetition of this directory. By repetition of the working directory, you’ll be able to clone or replicate employment or rename the directory. Q19. How can you secure Jenkins? User will secure Jenkins by mistreatment following steps Global security should be ON always. Verify whether or not a useful Jenkins plugin is integrated with my company’s user directory. You got to continuously verify that the matrix/project matrix is enabled for fine standardization access The method of setting rights/privileges ought to be machine-controlled with the custom version of the controlled script in Jenkins. Jenkins’s data/folder ought to have restricted physical access. At regular intervals, security audits must be done. Q20. List out the steps to deploy a custom build of a core plugin? You can deploy a custom build of a core plugin by following the below steps. Users must stop Jenkins. The custom HPI to $Jenkins_Home/plugins must be derived. The antecedently dilated plugin directory is required to be deleted. hpi.pinned empty file must be created. The User will begin Jenkins. Q21. A broken build for your project in Jenkins what can be done for it? When you see a broken build for your project in Jenkin, follow the steps given below, Open the output console of the broken build and check if any changes are lost within the file. With the on top of step still, you’re unable to try and do something, then you must clean and update the native geographic point, that may replicate the matter on native geographic point and take a look at to resolve it. Q22. List out the assorted ways in which within which build will be regular in Jenkins? Ways within which a build will be regular ar as follows Commits source code text file management It will be done near when the completion of different build At a specified time, it will be regular to run Via Manual Build Requests Q23. Justify the employment of Pipelines in Jenkins? Pipelines in Jenkins helps to urge to grasp concerning the stages or tasks that must be performed in keeping with their sequence. It helps the team to handle the task by reviewing, written material and iterating. The pipeline is long-lasting and might stop voluntarily and look forward to human/user response before acting on a successive task. A pipeline is scalable, and it works in parallel format. The pipeline supports advanced CD demand task. Want to Upskill to get ahead in your career? Check out the DevOps Online Training Q24. Outline terms Agent, post-section, Jenkinsfile Agent: It acts as a directive that relates Jenkins once to execute the pipeline in a particular order and manner. Post-section: Post alternatives run at the top of each pipeline’s execution so it’ll let Jenkins understand if the User had to feature some notification and a task must be performed at the top of the pipeline. Jenkinsfile: Jenkinsfile will be outlined because of the check file wherever all definition of pipelines is asserted. It checks the supply management repository. Q25. Does one understand cloud computing? Justify, however, Jenkins will work into a cloud computing environment? Justify with AN example. Yes, we tend to do understand cloud computing and AWS cloud services work okay with Jenkins plugins and pipelines. The CI/CD model from cloud computing services, as they will push their work to the purchasers and acquire feedback unendingly. For automating the CI/CD pipelines, Jenkins is employed. several of the AWS services like Amazon EC2 and ECS loads Jenkins plugins are accessible. Q26. What’s Kubernetes? How are you able to integrate Jenkins with Kubernetes? An instrumentality orchestration tool is nothing. However, Kubernetes. to attain additional fault tolerance, Kubernetes will produce multiple instrumentality instances. With Jenkins, the Kubernetes deploy plugin will be used for continuous deploy. Q27. Have you ever run machine-driven tests on Jenkins? How is it done? Yes, you’ll be able to run machine-driven tests on Jenkins simply. Tools like element or star will run machine-driven tests. Developers is in a position to look at the take a look at results and take a look at reports via Jenkins displays. Q28. Let us say you’ve got a pipeline. If the initial job was self-made, however, the second fails then what ought to be done next? If this state of affairs happens, you don’t need to panic simply restart the pipeline from the purpose once failure had occurred by doing restart from the stage. Q29. What square measures the uses of JENKINS HOME directory? JENKINS_HOME directory stores all the settings, logs, and configurations. Q30. What’s a backup plugin? Why is it used? Backup plugin backs up all the vital settings and configurations which will be employed in the longer term. Backup plugins become helpful once failure happens and that we don’t lose the setting. Q31. What’s a trigger? For example, make a case for how the repository is polled once a brand new commit is detected. Triggers are vital since it becomes deciding issue pipeline as trigger defines pipeline execution. When SCM tools are integrated with Jenkins, e.g. Git, the repository is polled anytime commit happens. Installation and setup are finished for the plugin. Next, build a trigger that continually specifies once new build ought to be started. E.g. User will produce employment that polls the repository, and it triggers a build whenever an amendment is committed. Q32. Outline parameters for incorporate Jenkins? A build desires many parameters, whereas execution. E.g. you’ll be able to run just one take a look at the suite, albeit you’ve got multiple take a look at suites at that point. With the assistance of parameters, all the take a look at suites are ready to run because it decides that one ought to run at that point by setting a parameter. If you wish to let the parameters to try and do its job, you wish to specify whereas shaping the parameters. A string, a file, or a custom something will be a parameter. Q33. Make a case for the various ways to assemble Jenkins node agent to speak with Jenkins master? There square measure 2 ways to assemble the Jenkins node agent to speak with Jenkins master. Browser A JNLP file is downloaded if the Jenkins agent is launched via a browser. It helps to launch a brand new method that runs jobs for shopper machine. Command-line A workable agent.jar file is required from the client-aspect to begin node agent command-line instruction. This agent.jar file finishes a method that’s needed to make a communication link between the client and Jenkins master to run the build jobs. Q34. How will Jenkins certify users? Jenkins authenticates a user by command line instruction in three ways that square measure as follows Via default method within which user knowledge and user-written document square measure keep in a piece of interior information. Authentication mechanism that square measure outlined by the applying server Jenkins is organized. LDAP server acts against assembling Jenkins Q35. Make a case for the uses of third-party tools in Jenkins? The third-party tools will be used as given below. You got to install the third-party software system. Then you wish to transfer the plugin that supports the third-party tool. In the admin console, the third-party is organized. After the higher than steps, you’ll be able to use the specified plugin from the Jenkins build job. The procedure could dissent consistently with totally different third-party tools. It’s not an enormous distinction, however slight amendment. Q35. How does the User use the third-party tool in Jenkins? The third-party tools may be used as given below. You ought to install the third-party software system. Then you wish to transfer the plugin that supports the third-party tool. In the admin console, the third-party is organized. After the higher than steps, you’ll be able to use the desired plugin from the Jenkins build job. The procedure could dissent in keeping with totally different third-party tools. It’s not an enormous distinction, however, slight modification. Q36. List the categories of pipelines in Jenkins? The 3 varieties of pipelines in Jenkin are as follows Continuous Integration Continuous Delivery pipelines (CI/ CD) Scripted pipeline Declarative pipeline Q37. that syntax will Jenkins use to schedule build job or SVN polling? Jenkins uses the Cron syntax to schedule build job or SVN polling. Five asterisks every separated by an area represents Cron syntax. The syntax for Cron is as follows. Cron Syntax: <[Minutes] [Hours] [Day of the month] [Month] [Day of the week].> E.g., A Cron for a setup like for each Monday at eleven.59 pm it’ll be shown as follows 59 eleven * * one Q38. Make a case for DevOps and during which stage will Jenkins match in? DevOps may be a combo of software system development and IT operations. DevOps makes the development lifecycle easy and short wherever constant build delivery, fixes, updates, and options are feasible. For automation of the build, testing, and readying method, Jenkins plays a crucial role. Q39. Are there the other Continuous Integration tools? Is Jenkins higher than any of those? Continuous Integration (CI) tools are as follows, Team City Bamboo Perforce Circle CI Go Thought Works Integrity Travis CI Above are the few CI tools that are listed out there still more. As each has its distinctive feature, you can’t suggest Jenkins because of the higher one. E.g., TeamCity provides nice .NET support; however, it’s tedious and dear, Travis CI is open supply similar to Jenkins and additionally has smart documentation. Bamboo provides economic and speedy builds; however, they are just part free. Q40. List out Jenkins’s surroundings variable you have got employed in a shell script or batch file. List of usually used Jenkins surroundings variable that may be employed in a shell script or batch file. $JOB_NAME $NODE_NAME $WORKSPACE $BUILD_URL $JOB_URL More surroundings variables become obtainable once a brand new Jenkins plugin is organized. E.g. surroundings variable like $GIT_COMMIT and $GIT_URL becomes obtainable to be employed in numerous script once the rat plugin is organized in Jenkins. Interested to begin a career in DevOps? Enroll now for DevOps Certification Training Q41. What’s Continuous Integration in Jenkins? As you a great many recognize in whereas developing any software system, it’s split into numerous segments so that several developers will work on these sections, and also the method for software system development becomes quick. However, this software system sections have to be integrated collectively certain same net application that the software system is developed. Software system section may be thought-about as modules; these modules have to be tested before integration. An automatic method is formed, so every segment of code is tested on a routine during this means all codes are tested. This machine-driven method is named as continuous integration. Q42. How does one perform continuous integration mistreatment, Jenkins? To realize continuous integration mistreatment Jenkins, you bought to travel as follows Shared Git repository stores the modified source code text file that is committed by the developers. The shared Git repository is checked at regular intervals by the Jenkins server; detected changes are then taken into the build. Respective developers get the build results and check results The machine-driven checks are run, and also the engineered application are displayed on a test server similar to Selenium. The production server is usually deployed by the clean and tested build. Q43. Make a case for line Jenkins? The line plugin/Job line consists of 2 components DSL (Domain Specific Language) that with the assistance of Groovy-based language permits the User to explain jobs Jenkins plugin that helps in the change of the Jenkins that is created and maintained as a result and additionally manages the scripts Q44. Make a case for Multibranch Pipeline in Jenkins? You can assign different Jenkinsfiles for various branches of the ongoing project in a very Multibranch Pipeline project kind. Jenkins mechanically discovers, manages, and executes pipeline for branches that additionally includes Jenkinsfiles in supply management. Q.45 List out the categories of jobs or comes in Jenkins? The types of jobs/projects in Jenkins ar as follows, Freestyle project Maven project Pipeline Multibranch Pipeline External Job Multi-configuration project Github organization Q46. What is the blue ocean in Jenkins? The blue ocean Jenkins project was designed alongside Jenkins so that the User will rethink the user expertise relating to Jenkin and use Jenkins. Blue ocean Jenkins is modelling based mostly and presenting the method of delivery of a code b egression the knowledge required that is very important to development groups, and this is often finished few clicks whereas still staying at intervals bounds of Jenkins. Blue ocean Jenkins may be thought of as an alpha version. It may be used and is put in side-by-side with Jenkins Classic UI via a plugin. Q47. How you’ll move or copy Jenkins from one server to another? The ways through which you’ll move or copy Jenkins from one server to a different are as follows. Simply repeating the corresponding job directory from one Jenkin server to a different, during this means you’ll move employment from one installation. Make a twin of associate degree existing job by repeating and saving with a completely different name. By renaming the directory, you’ll rename the present job. However, you would like to create positive the opposite jobs don’t have the same name. Q48. How does one integrate Git with Jenkins? The step to integrate Git with Jenkins are as follows 1.Click Manage Jenkins button on the Jenkins dashboard: 2. Click on Manage Plugins. Currently on Plugins Page You’ve got to pick out Git Plugin Click Install while not restart. It’ll take time for downloading because it depends on the net speed OR Select the possibility transfer currently and Install it when restart. Currently, you’ll see “No updates available” and acquire a message if the crumb plugin is already put in. When putting in the plugins, check Manage Jenkins on your Jenkins dashboard. All the plugins are listed among the remainder. Q49. How are you able to briefly close up Jenkins security if the executive users have fastened themselves out of the admin console? In the JENKINS_HOME includes a file config.xml. This file consists of the associate degree XML part referred to as use Security, once it’s modified to true the safety is enabled. Once this is often modified to false once the Jenkins restart it disables the safety. But you can’t disable security if disabled bonk was temporary after the problem is resolved to change the safety once more. Q50. are you able to outline endless Delivery Workflow? The following steps describe the continual Delivery workflow. Git Clone Compile Unit check Packaging Deploy Q51. What does one mean by Pipeline as a Code? Pipelined job processes with code commit, hold on and versions that are held on in repository. These are the options that Jenkins pipeline offers. This option helps in eliminating manual job creation and management would like and additionally enable Jenkins to get, manage, and run jobs for multiple supply repository. Projects should contain a file named Jenkinsfile within the repository root, and it contains a “Pipeline script.” Additionally, one among the sanctioning jobs has to be organized in Jenkins: Jenkins has to be organized for sanctioning jobs. Multibranch Pipeline: mechanically one repository for multiple branch build. Organization Folders: GitHub Organization scan OR mechanically making Multibranch jobs, i.e. Bitbucket Team to discover a company repository 3RI Technologies provides Online DevOps Training as well as DevOps Training in Pune where you can enhance your knowledge about DevOps tools. Prev Previous What Is Microsoft Azure? A Clear & Simple Explanation Next What is Kubernetes? Your Essential Guide to Container Orchestration Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -64,256 +46,51 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2020/10/14/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/devops-training-in-pune",
-      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/what-is-kubernetes/",
-      "https://www.3ritechnologies.com/what-is-microsoft-azure/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Top Jenkins Interview Questions and Answers for Experienced Professionals",
-    "og_description": "Prepare effectively with the most important Jenkins interview questions and answers. Boost your career by enrolling in the expert-led DevOps course in Pune at 3RI Technologies.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": "Jenkins Interview Questions and Answers(For 2023-24)",
-            "datePublished": "2020-10-14T05:02:34+00:00",
-            "dateModified": "2025-05-28T05:04:07+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/"
-            },
-            "wordCount": 4011,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/Jenkins-Interview-Questions-Answers.jpg",
-            "keywords": [
-              "DevOps Blog Design"
-            ],
-            "articleSection": [
-              "Blog",
-              "DevOps",
-              "Interview Questions And Answers",
-              "Trending Articles"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/",
-            "url": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/",
-            "name": "Top Jenkins Interview Questions and Answers for Experienced Professionals",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/Jenkins-Interview-Questions-Answers.jpg",
-            "datePublished": "2020-10-14T05:02:34+00:00",
-            "dateModified": "2025-05-28T05:04:07+00:00",
-            "description": "Prepare effectively with the most important Jenkins interview questions and answers. Boost your career by enrolling in the expert-led DevOps course in Pune at 3RI Technologies.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/Jenkins-Interview-Questions-Answers.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/Jenkins-Interview-Questions-Answers.jpg",
-            "width": 1000,
-            "height": 667,
-            "caption": "Jenkins Interview Questions & Answers"
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/jenkins-interview-questions-and-answers/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Jenkins Interview Questions and Answers(For 2023-24)"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Jenkins Interview Questions & Answers",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "https://www.3ritechnologies.com/salesforce-interview-questions-and-answers/",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzI1IDM1MSIgd2lkdGg9IjcyNSIgaGVpZ2h0PSIzNTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Manage Jenkins",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjI0IDU2MyIgd2lkdGg9IjYyNCIgaGVpZ2h0PSI1NjMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Manage Jenkins Plugins",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzg0IDI5NyIgd2lkdGg9Ijc4NCIgaGVpZ2h0PSIyOTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "Jenkins Plugin List",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=Blog%2C+DevOps%2C+Interview+Questions+And+Answers%2C+Trending+Articles&cd%5Bpage_title%5D=Jenkins+Interview+Questions+and+Answers%28For+2023-24%29&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=28667&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fjenkins-interview-questions-and-answers%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }

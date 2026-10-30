@@ -1,24 +1,14 @@
 {
   "url": "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
     "h1",
     "content",
     "images",
     "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "schema"
   ],
-  "old": {},
-  "new": {
-    "title": "DevOps - Dockers And Kubernetes Training in Pune - 3RI Technologies Pvt Ltd",
-    "meta_description": "DevOps - Dockers And Kubernetes Training in Pune at 3RI Technologies is a complete course providing you in depth understanding and imparting knowledge about DevOps - Dockers And Kubernetes.",
+  "old": {
     "h1": [
       "Docker Kubernetes Training"
     ],
@@ -393,10 +383,6 @@
       "https://www.3ritechnologies.com/software-testing-certification-courses/",
       "https://www.3ritechnologies.com/terms/"
     ],
-    "canonical": "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "DevOps - Dockers And Kubernetes Training in Pune - 3RI Technologies Pvt Ltd",
-    "og_description": "DevOps - Dockers And Kubernetes Training in Pune at 3RI Technologies is a complete course providing you in depth understanding and imparting knowledge about DevOps - Dockers And Kubernetes.",
     "schema": [
       {
         "@context": "https://schema.org",
@@ -516,8 +502,508 @@
           }
         ]
       }
-    ],
-    "status_code": 200
+    ]
   },
-  "priority": "MEDIUM"
+  "new": {
+    "h1": [
+      "Docker Kubernetes Training in Pune"
+    ],
+    "content": "Classroom Live Online Hybrid (Projects On-Campus) Docker Kubernetes Training in Pune Classroom • Live Online • Hybrid 3RI Technologies offers Docker Kubernetes training to help you master containerization and orchestration. The Docker & Kubernetes course in Pune provides comprehensive knowledge of deploying, managing, and scaling applications using these powerful technologies. This Kubernetes Docker course focuses on real-world applications and hands-on practice to ensure you gain the skills needed for today’s cloud-based environments. Learn Docker training in Pune and enhance your career in DevOps with expert-led guidance in Kubernetes and Docker training 4.8/5 from 4,000+ Google Reviews 56K+ LinkedIn followers Pearson VUE | GASQ | ISO Certified Hands-on projects & portfolio Mock interviews & Q-banks Placement assistance lifecycle One Time Investment. EMI available. Join Free Demo (Online / On-Campus) Download Syllabus You’ll get WhatsApp confirmation and email with joining link / campus details. E&ICT – IIT Guwahati 15+ Years 700+ Placements/Year 50+ Hiring Partners TRUSTED BY Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Achievement Trainings Conducted 2500 + Batches Completed 3000 + Companies Tie-ups 400 + Students Placed 3500 + Corporate Trainings 400 + Nothing stops you from learning We provide EMI facility for you Apply Now EMI Plan Registration Percent EMI With 0% Interest On Registration 10% 1st installment – 1st month of joining 70% 2nd installment – 2nd month 20% Key Features Course Duration : 6 Weeks Real-Time Projects : 2 Project Based Learning EMI Option Available Certification & Job Assistance 24 x 7 Support Syllabus Overview Batch Schedule FAQ's Reviews Enroll Now - Payment DevOps - Dockers And Kubernetes Syllabus The detailed syllabus is designed for freshers as well as working professionals Download Brochure Download Brochure Module I: 1. DevOps Introduction What is DevOps? Why DevOps is needed? DevOps Transition? Technical Challenges DevOps Market Trends Various DevOps Tools DevOps pipelines 2. Basic Linux and Networking Concepts Architecture and Filesystem of Linux Linux Bash Commands Managing Services on Linux User and Group management Filesystem usage. IP assignment and Service Ports Installing and Configuring Apache 3. Cloud Computing with AWS Fundamentals of Cloud Computing Introduction to AWS AWS Cloud – EC2, Security Groups, Amazon Machine Images Key Management, Elastic & Public IP IAAS PAAS SAAS,S3,Roles,Policies etc. VPC creation and understanding Networking in AWS Hypervisor, Baremetals, KVM,XEN Why Cloud is required for DevOps AWS – Defining EC2 Instances Introduction to ELB, CDN, Auto Scaling 4. Shell Scripting Understanding fundamentals of Software Programming Scripting Introduction Shell Scripting – Learning to automate Operating System 5. Source Code Management and Version Control Source Code Management using GitHub History of version control systems Centralized vs Distributed version control system Source Code Management System using Github Working on Git Command Line and GitHub GUI Cloning and check-in and committing. Repository creation etc Build Tools (Maven/Graddle) Understanding Branching, Merging, Forking, pull etc 6. Continuous integration with Jenkins Jenkins – Installation Jenkins – Configuration Jenkins – Management Jenkins – Setup Build Jobs Integration of JENKINS with GIT Integration of Maven with Jenkins Jenkins Dashboard Remote Builds and user management in Jenkins Understating Plugins and dependency Pipeline Creation using Jenkins for CI Jenkins – Testing 7. Chef and its Component Chef: Introduction Chef: knife Chef: knife demo Chef: knife with chef-server Chef: Roles 8. Continuous Monitoring with Nagios Host Monitoring using Nagios Installation Nagios Coding Language Windows Monitoring Linux Monitoring Port Monitoring 9. Ansible, Infrastructure as a Code Understanding Configuration Management Understanding Configuration Automation Understanding Desired State Configuration Management Understanding Continuous Configuration Automation Understanding Server Client based Configuration Automation Understanding Remote Configuration Automation 10. Ansible Tool Introduction of Ansible tool Introduction to YAML Syntax How to Install Ansible? Ansible: Playbooks and Modules live examples on several industry scenarios Basic: Running Commands Ansible: Roles, Files, Templates, Handlers Ansible: Best Practices 11. Docker Session & Orchestration Tools Introduction to micro services Introduction to Docker Introduction to Docker commands practical Working with containers Introduction to docker HUB Docker Demo Docker Swarm Docker Compose 12. Kubernetes What is Kubernetes Technical Overview of Kubernetes 13. Terraform What is Terraform Build infrastructure using Terraform code Change, destroy, manage infrastructure Integrating Terraform on AWS Updates to existing setup using Terraform Project Work & Case Studies 1. Ansible Case Studies: Ansible playbook to install apache and configure httpd.conf as per required. httpd daemon should be started and change index.html using lineinmodule for specific parameters Ansible playbook using copy module to copy the vsftpd/httpd conf file to /var/www location Replace all instances of ‘AllowOverride None’ with ‘AllowOverride AuthConfig’ in /etc/httpd/conf/httpd.conf using replace module or lineinmodule Files copied should have backup in place and read permissions for all users Playbook to copy /usr/local/bin/runme.sh to /usr/bin/runme.sh on all nodes and the files should have execute permissions and owned by DevOps users Ansible playbook to create users and add them to respective groups Ansible playbook to execute multiple playbooks at same time without executing single yml every time Hardening of AWS instances to be done where httpd/nfs needs to be installed Users can be created with specific privileges, crontabs should be added with desired ask DNS entries needs to be updated etc/httpd/conf/httpd Understand Templates, Roles, Handlers etc in Ansible and best practices being used in Production environment 2. Terraform Case Studies: Terraform code to create 5-7 EC2 instances at same time Terraform code for dependency module Code to create multiple EC2 instances only if s3 bucket exists else discard the spawning. Create multiple users in AWS using terraform code at same time with specific privileges How to destroy only specific type instances from an existing code or run only specific task for an existing terraform code without hampering other running infrastructure. Best other practices for terraform and limitations 3. Jenkins Case Studies: Jenkins project to integrate Git with it. Run remote builds using Jenkins and later push/pull the builds from Git so that its automatically picked via Jenkins Project to integrate Maven with Jenkins and automate project to do Maven build using Jenkins User management using specific plugins in Jenkins so that all users doesn’t have access to all projects in Jenkins. Security tuning in Jenkins Other best practices used in companies for Jenkins Pipeline creation using Jenkins to automate several tasks. Several scenarios to do actual troubleshooting in Jenkins related to errors, failures in builds. Module II: Docker 1. Understanding Containers? 2. Start with Docker 3. Install docker on Linux/windows 4. Understand : Docker images Containers Docker repository Docker commands Dockerfile 5. Run your first containers 6. build container images 7. Mount local volumes to docker container 8. Get into a container, login to a container 9. Deploy static html website using docker 10. Deploy java application using docker container 12. See container insights using docker stats 13. Docker best practices Kubernetes 1. Why Kubernetes? 2. What is Kubernetes? 3. Install Kubernetes/minikube and kubetools 4. understand: Kubernetes architecture kubedns kubescheduler kubeapi-server kube-controller kubeproxy kubelet etcd nodes pods 5. Understand use case of Kubernetes 6. deploy first container in Kubernetes 7. learn data persistence 8. Access kube dashboard 9. Scale your containers 10. Load balance containers 11. Kubernetes best practices DevOps - Dockers And Kubernetes Classes in Pune Introduction of Docker & Kubernetes Course 3RI Technologies offers comprehensive Docker Kubernetes training in Pune, specifically designed for professionals seeking expertise in containerization and orchestration technologies. The Docker & Kubernetes course is ideal for developers, system admins, and IT professionals looking to enhance their skills in managing microservices architectures with Docker and Kubernetes. This training program combines both theoretical and practical sessions to ensure hands-on experience, helping participants to effectively deploy and manage applications in cloud environments. Our Docker training in Pune offers deep insights into containerization technology, covering essential topics such as Docker images, containers, and Docker Compose. Simultaneously, the Kubernetes and Docker training dives into Kubernetes fundamentals, focusing on orchestration, scaling, and automated deployments. By enrolling in our Kubernetes Docker course, you’ll gain proficiency in Docker containerization and Kubernetes orchestration, two of the most sought-after skills in modern DevOps and cloud computing. This training prepares you for real-world projects, ensuring you are equipped with the knowledge to manage applications effectively in a containerized environment. The course is suitable for those looking to expand their knowledge in cloud-native technologies and gain a strong understanding of Docker Kubernetes training. With our expert instructors, you can be assured of gaining industry-relevant skills and expertise. What are Docker and Kubernetes? What is Docker? Docker is a prominent software containerization platform that packages the application into one standardized unit, enfolding it into an entire file system that includes everything required to execute on a server. What is Kubernetes? Kubernetes is a software developed by Google to self-regulate the deployment, ascending, and supervision of containerized applications. Concisely, these two software together makes it easier to install, transport, and maintain complicated software applications anytime, anywhere. Essential features of Docker Docker is very necessarily needed during the development, analyzing, testing, and also on the deployment processes of a software project. The fact is, the docker container works in the same way in each environment; it’s seamless the implementation of a software application into a complicated environment. It works in isolated environments for managing the applications It can be easily Modeling It has a version control It has an application Agility It offers operational Efficiencies It provides productivity for developers Essential features of Kubernetes Kubernetes is a robust tool able to perform a lot of tasks. It makes sure that the production application is executing in the ways as it should be. Briefly, it turns the applications self-healing. It means it assists in finding out detects or errors at the time when an existing container goes to an unresponsive state, and it takes a new one to swap it. It offers easy service with pods It is the biggest community among container orchestration tools. It provides a different storage option like public clouds, on-premises SANs, etc. It was developed by Google. Drawbacks of Docker and Kubernetes The biggest drawback of Kubernetes is that it has a massively complicated configuration or configuration process while the Docker isn’t able to ensure any storage option. Why From 3RI? To learn about Kubernetes & Dockers from the best provider is essential, 3RI is deemed as the best destination to learn about these. It makes the users aware of the following: It offers wide hands-on with Kubernetes & Dockers components It includes Kubernetes & Dockers Components, installation, and architecture It will make the users learn how to expose the app outside the cluster It makes the users aware of the process of setting up stateless and stateful apps on the cluster It makes the users know the cases of Docker and Containers What will you learn? VMs & Containers You will learn about Containers and know the basic difference between VMs and Containers. Docker installation You will learn how to install Docker and know all the concepts needed for Docker Architecture, installation, and Components. Docker Orchestration You will learn how to use Docker Orchestration Services comprising Docker Compose and Docker Swarm. Microservices & Monolithic applications You will learn about the basic difference between Monolithic and Microservices applications. Docker Registry You will be able to know the work to do with the docker Registry for pushing and pulling images and find out the other features. Docker Volumes & Networks You will know the exact understanding of the concepts near Docker Volumes and Docker Networks. Kubernetes You will be able to learn how to install Kubernetes, along with its role and advantages. Docker Swarm & Kubernetes You will gain the information along with the difference between Docker Swarm and Kubernetes. Create with Kubernetes You will gain knowledge of how to work with Kubernetes to create Pods, deployments, and services. Job Oriented Courses STEP in Cloud Computing STEP in DevOps Mastering Data Science STEP in Python Full Stack STEP in JAVA Full Stack STEP in Software Testing STEP in MEAN Stack Angular STEP in MERN Stack ReactJS STEP in Salesforce STEP in PHP Python Programming Python Programming Web Development in Python Cloud Computing AWS – Amazon Web Services AWS Cloud Practitioner DevOps with AWS DevOps – Dockers And Kubernetes Salesforce Microsoft Azure Data Analytics Data Science Artificial Intelligence Hadoop 2.X BigData Analytics Apache Spark & Scala Hadoop Admin Business Intelligence Tableau – Data Visualization Informatica Development – datawarehosuing Qlikview QlikSense Software Testing Selenium with Java Selenium With Python Tosca Training API Testing JMeter Testing LoadRunner Testing ETL Testing QTP / UFT RPA - Robotic Process Automation RPA- Ui Path Automation Anywhere Java Technology Core Java Advanced Java Spring Hibernate Spring Framework Web Designing & Development UI Development Angular ReactJS MEAN Stack MERN Stack Web Development in Python Database Technology DBMS: Oracle SQL Oracle : PL/SQL Oracle : DBA I/II RAC with Oracle MS SQL SERVER Development MS SQL SERVER DBA MONGO DB Scripting Languages UNIX Shell Scripting Python Programming Perl scripting .Net Technology Diploma in .Net ASP.NET MVC C# Programming WPF Programming WCF Programming Internet Marketing Digital Marketing SEO Training Classes Mobile App Development Android App Development iOS App Development Soft Skills & Aptitude Soft Skills Training Aptitude Training Basic Programming Languages Fundamentals of Computer C Programming C++ Programming Data Structure Industrial Training Industrial Training Blockchain Blockchain Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Batch Schedule Schedule Your Batch at your convenient time. Sr. No. Module Name Batch Start Date Batch Days Timing Enroll 1 AWS 31-Oct-26 Sat - Sun 10:00 AM Enroll Now 2 Linux 3-Nov-26 Tue - Fri 05:00 PM Enroll Now 3 AWS 16-Nov-26 Sat - Sun 09:00 AM Enroll Now 4 Salesforce 31-Oct-26 Sat - Sun 10:00 AM Enroll Now 5 DevOps 31-Oct-26 Sat - Sun 09:00 AM Enroll Now 7 MySQL 3-Nov-26​ Tue - Fri 05:00 PM Enroll Now 8 MySQL 31-Oct-26 Sat - Sun 10:00 AM Enroll Now 9 Soft Skills 31-Oct-26 Sat - Sun 12:30 PM Enroll Now 10 Aptitude 2-Nov-26 Mon - Fri 04:00 PM Enroll Now I'm Interested in This Program Get Free Career Counseling Talk to a counselor in 5 minutes Full Name Mobile Number Email Course Interested In Select a Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Preferred Mode Select mode Classroom (Pune) Live Online Hybrid (Projects On-Campus) City I agree to be contacted on phone/WhatsApp & email regarding my enquiry. Request Callback No spam, ever Response in working hours WhatsApp confirmation Having trouble? Call us at 8308103366 or Chat on WhatsApp . Our Clients Students Reviews Best Institute in Pune for IT courses and very nice infrastructure. Trainers are very good and supportive.. Worth to join for freshers. Placement services are provided with very little cost. Labs are well equipped Administration staff is also very helpful for batch management and adjustments... Go for 3RI Technologies. Arti Wagh ***** I have joined the DevOps course here & I personally feel they have talented staff for teaching and they try their best to explain what, why and how?... I have learned Dockers And Kubernetes from scratch to advance...Interview questions along with assignments are provided which will help you to crack interviews easily .Everything is explained clearly and each concept is simplified with examples. Nice institute. samadhan ***** This is a nice institute where you can learn advanced technologies, Aptitude skills and get help to kick start your first job as well. All the Trainers are well qualified and supportive. They give plenty of placement calls until you get placed. Neha ***** Our Cloud Computing Programs in Pune STEP in Cloud Computing STEP in DevOps AWS - Solution Architect Associate DevOps with AWS DevOps & AWS Packages Mastering in DevOps Engineering AWS - Cloud Practitioner Salesforce Azure DevOps with Azure Kubernetes GCP - Google Cloud Platform Our Cloud Computing Online Programs AWS - Amazon Web Services DevOps & AWS Package Salesforce GCP - Google Cloud Platform Azure Azure DevOps",
+    "images": [
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/11/tcs.png",
+        "alt": "tcs",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/11/cognizant.png",
+        "alt": "cognizant",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/11/infosys.png",
+        "alt": "infosys",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/11/ibm.png",
+        "alt": "ibm",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2025/11/bmc.png",
+        "alt": "bmc",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/05/2249165.png",
+        "alt": "EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2021/05/eduvanz.png",
+        "alt": "Eduvanz EMI financing partner logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2024/01/22.png",
+        "alt": "Enquire about the 3RI Technologies training program",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon41.jpg",
+        "alt": "ZS",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon40.png",
+        "alt": "Zensar",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon39.png",
+        "alt": "bmc",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon38.png",
+        "alt": "thoughtworks",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon36-768x261.png",
+        "alt": "tata consultancy",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon34.gif",
+        "alt": "synerzip",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/compicon33-e1604575181323.png",
+        "alt": "survik",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon32.png",
+        "alt": "siemens",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon31.jpg",
+        "alt": "R systems",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon30.png",
+        "alt": "pubmatic",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon29.png",
+        "alt": "citi",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon28.jpg",
+        "alt": "persistance",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon26.gif",
+        "alt": "Mphasis",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon25.png",
+        "alt": "Market Reports Center",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon24-e1604575512879.png",
+        "alt": "market and market",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon23-e1604575367263.png",
+        "alt": "accenture",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon22.png",
+        "alt": "sungard",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon21.jpg",
+        "alt": "kpit",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon20.png",
+        "alt": "comp-icon20",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon18.jpg",
+        "alt": "comp-icon18",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon17.png",
+        "alt": "comp-icon17",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon14.png",
+        "alt": "comp-icon14",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon13-e1654928115125.jpg",
+        "alt": "comp-icon13",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon12.png",
+        "alt": "comp-icon12",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon11.png",
+        "alt": "comp-icon11",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon10-e1654925790405.png",
+        "alt": "comp-icon10",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon9.png",
+        "alt": "comp-icon9",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon8.jpg",
+        "alt": "comp-icon8",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon7.jpg",
+        "alt": "comp-icon7",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon6.png",
+        "alt": "comp-icon6",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon5.png",
+        "alt": "comp-icon5",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon4.png",
+        "alt": "comp-icon4",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon3.png",
+        "alt": "comp-icon3",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon2.png",
+        "alt": "comp-icon2",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon1-1.png",
+        "alt": "comp-icon1",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/3d-lpm-logo.jpg",
+        "alt": "3d lpm logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/veritas-logo.jpg",
+        "alt": "veritas logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/synecron-logo.jpg",
+        "alt": "synecron logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2022/06/calsoft-logo.jpg",
+        "alt": "calsoft logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.3ritechnologies.com/wp-content/uploads/2020/10/icons8-whatsapp-144.png",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpage_title%5D=DevOps+-+Dockers+And+Kubernetes+Training+in+Pune&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=4831&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fcourse%2Fdockers-and-kubernetes-training-in-pune%2F",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "internal_links": [
+      "https://www.3ritechnologies.com/",
+      "https://www.3ritechnologies.com/about-us/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
+      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
+      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
+      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
+      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
+      "https://www.3ritechnologies.com/appointment/",
+      "https://www.3ritechnologies.com/become-an-instructor/",
+      "https://www.3ritechnologies.com/blog/",
+      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
+      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
+      "https://www.3ritechnologies.com/contact-us",
+      "https://www.3ritechnologies.com/contact-us/",
+      "https://www.3ritechnologies.com/corporate-training/",
+      "https://www.3ritechnologies.com/course/Mongo-DB-NoSQLDatabase/",
+      "https://www.3ritechnologies.com/course/Perl-Scripting/",
+      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
+      "https://www.3ritechnologies.com/course/android-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/angular-js-training-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/angularjs-online-training/",
+      "https://www.3ritechnologies.com/course/apache-spark-and-scala/",
+      "https://www.3ritechnologies.com/course/aptitude/",
+      "https://www.3ritechnologies.com/course/asp-net-mvc-training-in-pune/",
+      "https://www.3ritechnologies.com/course/asp-net-wpf-training-course/",
+      "https://www.3ritechnologies.com/course/automation-anywhere-training-in-pune/",
+      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
+      "https://www.3ritechnologies.com/course/aws-certified-cloud-practitioner-training/",
+      "https://www.3ritechnologies.com/course/aws-online-training/",
+      "https://www.3ritechnologies.com/course/azure-devops-az-400-certification-online-training/",
+      "https://www.3ritechnologies.com/course/big-data-hadoop-training-in-pune/",
+      "https://www.3ritechnologies.com/course/blockchain-training-in-pune/",
+      "https://www.3ritechnologies.com/course/c-programming-classes-pune/",
+      "https://www.3ritechnologies.com/course/core-java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/cpp-programming-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/csharp-training-institute-pune/",
+      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
+      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
+      "https://www.3ritechnologies.com/course/data-structure-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
+      "https://www.3ritechnologies.com/course/devops-engineer-training/",
+      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
+      "https://www.3ritechnologies.com/course/devops-online-training/",
+      "https://www.3ritechnologies.com/course/devops-training-in-pune/",
+      "https://www.3ritechnologies.com/course/devops-with-aws-training/",
+      "https://www.3ritechnologies.com/course/digital-marketing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
+      "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-informatica-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/etl-testing-training-in-pune/",
+      "https://www.3ritechnologies.com/course/fundamentals-of-computer/",
+      "https://www.3ritechnologies.com/course/gcp-google-cloud-online-training/",
+      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
+      "https://www.3ritechnologies.com/course/hadoop-admin-training-in-pune/",
+      "https://www.3ritechnologies.com/course/industrial-training-company-for-bca-mca-students-pune/",
+      "https://www.3ritechnologies.com/course/ios-app-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/java-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/java-j2ee-training-in-pune/",
+      "https://www.3ritechnologies.com/course/jmeter-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-online-training/",
+      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
+      "https://www.3ritechnologies.com/course/ms-sql-server-dba-training/",
+      "https://www.3ritechnologies.com/course/oracle-dba-certification-course-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/oracle-rac-training-in-pune/",
+      "https://www.3ritechnologies.com/course/php-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/pl-sql-training-in-pune/",
+      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
+      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
+      "https://www.3ritechnologies.com/course/python-programming-training-in-pune/",
+      "https://www.3ritechnologies.com/course/qliksense-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qlikview-business-intelligence/",
+      "https://www.3ritechnologies.com/course/qtp-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/reactjs-online-training/",
+      "https://www.3ritechnologies.com/course/reactjs-training-in-pune/",
+      "https://www.3ritechnologies.com/course/rpa-training-in-pune/",
+      "https://www.3ritechnologies.com/course/salesforce-online-training/",
+      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
+      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
+      "https://www.3ritechnologies.com/course/seo-training-in-pune/",
+      "https://www.3ritechnologies.com/course/softskill-training-in-pune/",
+      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
+      "https://www.3ritechnologies.com/course/spring-framework-training-in-pune/",
+      "https://www.3ritechnologies.com/course/sqlserver-dba-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
+      "https://www.3ritechnologies.com/course/tableau-training-in-pune/",
+      "https://www.3ritechnologies.com/course/tosca-certification-training/",
+      "https://www.3ritechnologies.com/course/unix-shell-scripting-training/",
+      "https://www.3ritechnologies.com/course/wcf-training-course/",
+      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-dot-net-training-classes-in-pune/",
+      "https://www.3ritechnologies.com/course/web-development-in-python-training-in-pune/",
+      "https://www.3ritechnologies.com/course/webservices-with-soapui-testing-training/",
+      "https://www.3ritechnologies.com/data-analytics-courses/",
+      "https://www.3ritechnologies.com/data-science-certification-courses/",
+      "https://www.3ritechnologies.com/devops-certification-courses/",
+      "https://www.3ritechnologies.com/full-stack-certification-courses/",
+      "https://www.3ritechnologies.com/hire-from-us/",
+      "https://www.3ritechnologies.com/iit-courses/",
+      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
+      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
+      "https://www.3ritechnologies.com/it-courses-in-delhi/",
+      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
+      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
+      "https://www.3ritechnologies.com/payment/",
+      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
+      "https://www.3ritechnologies.com/placement-reviews/",
+      "https://www.3ritechnologies.com/privacy-policy/",
+      "https://www.3ritechnologies.com/refer-a-friend/",
+      "https://www.3ritechnologies.com/refunds-policy/",
+      "https://www.3ritechnologies.com/software-testing-certification-courses/",
+      "https://www.3ritechnologies.com/terms/"
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
+            "url": "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/",
+            "name": "DevOps - Dockers And Kubernetes Training in Pune - 3RI Technologies Pvt Ltd",
+            "isPartOf": {
+              "@id": "https://www.3ritechnologies.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon41.jpg",
+            "datePublished": "2019-11-29T10:49:09+00:00",
+            "dateModified": "2026-10-30T07:27:03+00:00",
+            "description": "DevOps - Dockers And Kubernetes Training in Pune at 3RI Technologies is a complete course providing you in depth understanding and imparting knowledge about DevOps - Dockers And Kubernetes.",
+            "breadcrumb": {
+              "@id": "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/#primaryimage",
+            "url": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon41.jpg",
+            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2019/03/comp-icon41.jpg",
+            "width": 220,
+            "height": 220,
+            "caption": "ZS"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.3ritechnologies.com/course/dockers-and-kubernetes-training-in-pune/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.3ritechnologies.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Courses",
+                "item": "https://www.3ritechnologies.com/course/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "DevOps &#8211; Dockers And Kubernetes Training in Pune"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.3ritechnologies.com/#website",
+            "url": "https://www.3ritechnologies.com/",
+            "name": "3RI Technologies Pvt Ltd",
+            "description": "Learn the way industry wants it...",
+            "publisher": {
+              "@id": "https://www.3ritechnologies.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.3ritechnologies.com/#organization",
+            "name": "3RI Technologies",
+            "url": "https://www.3ritechnologies.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
+              "url": "",
+              "contentUrl": "",
+              "caption": "3RI Technologies"
+            },
+            "image": {
+              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/3ritechnologies/",
+              "https://x.com/3ritechnologies",
+              "https://www.instagram.com/3ritechnologies/",
+              "https://in.linkedin.com/company/3rinfotech",
+              "https://in.pinterest.com/3ritechnology/",
+              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "priority": "HIGH"
 }

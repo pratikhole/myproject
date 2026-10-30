@@ -1,28 +1,10 @@
 {
   "url": "https://www.3ritechnologies.com/concept-of-api-testing/",
-  "type": "new",
+  "type": "changed",
   "changed_fields": [
-    "title",
-    "meta_description",
-    "h1",
-    "content",
-    "images",
-    "internal_links",
-    "canonical",
-    "robots",
-    "og_title",
-    "og_description",
-    "schema",
-    "status_code"
+    "images"
   ],
-  "old": {},
-  "new": {
-    "title": "Understanding API Testing: Concepts, Methods & How to Test API | 3RI Technologies",
-    "meta_description": "Learn what is API testing, how to do API testing, and explore effective API testing methods. Enroll in 3RI Technologies’ Software Testing Course to master API testing and boost your software quality skills.",
-    "h1": [
-      "Comprehensive Guide to API Testing: Concepts and Methods"
-    ],
-    "content": "Skip to content Home > Comprehensive Guide to API Testing: Concepts and Methods Comprehensive Guide to API Testing: Concepts and Methods Table of Contents PriyankaS3ri June 3, 2024 5:18 pm As part of software testing, API testing confirms that application programming interfaces (APIs) work as expected and are safe and secure. API tests let different parts, systems, and platforms talk to each other and share data. They serve as the foundation for many modern software programs. This article will explain what API testing is and why it’s important to use good software and have a good experience with it. API testing is a crucial process in software development that ensures seamless communication between different software components. Understanding what is API testing and how to do API testing is essential for delivering reliable and efficient applications. It involves validating APIs through various API testing methods to detect errors early and improve functionality. Whether you’re a beginner or looking to advance your skills, learning how to test API effectively is a game-changer. At 3RI Technologies, our Software Testing Course offers hands-on training to master API testing concepts and tools, preparing you for real-world software testing challenges. What Is API Testing and How to Test API Effectively Analyzing an application program interface (API) to ensure it meets intended functionality, security, performance, and stability is known as API testing. These are either performed directly on the API or as part of an integration test. An API is a piece of code that enables data exchange between two software programs. One of the numerous layers that comprise a typical application is the API layer. The primary focus of API layers, which also define the data formats and request methods, is the business logic of apps. API tester differs from user interface (UI) testing in that it concentrates on examining the application’s business logic with security and data replies rather than just verifying the application’s appearance and feel. Making calls to one or more API endpoints and comparing the answers with the anticipated outcomes is the standard procedure for carrying out an API test. Automated API testing is a common component of continuous testing techniques developed, quality assurance, and DevOps teams use. Calling API endpoints with software to verify the system’s response is the standard method of performing API testing. Kickstart your career in AWS! Enroll now for AWS Training in Pune. Why API Testing? Automated API testing is a common component of continuous testing techniques developed, quality assurance, and DevOps teams use. This may lead to bugs remaining at the server or unit levels, which would be an expensive error that would need a significant amount of rewriting work to fix and significantly postpone the product’s release. Thanks to API testing tools, developers can begin testing early in the development cycle, even before the user interface is finished. Any request that cannot produce the right value at the server layer will not be displayed on the user interface layer. That way, developers may fix at least half of the current bugs before they become more significant issues. To uncover security vulnerabilities, testers can also submit requests that are not feasible through the user interface. Microservices enable more effective software deployment, which is why many businesses utilize them for their software applications. The app’s other sections can keep working normally even while one is updating. Different instructions for dealing with the data storage are available in each application area. Since most microservices rely on APIs, API testing will be increasingly important as more companies utilize microservices to ensure everything is operating as it should. Agile software development, in which immediate feedback is essential for the process flow, also relies heavily on API testing.When working with an Agile framework, it is preferable to use unit and API tests rather than GUI tests because they are more efficient and easier to maintain. GUI tests often require significant rethinking to keep up with the rapid changes in an Agile scenario. As the development lifecycle progresses, engineering and development teams can reap the benefits of test-driven development by incorporating API testing. Customers then receive these advantages in the form of better software and services. Are you looking after Career Guidance from Experts? Book Now Want Free Career Counseling? Just fill in your details, and one of our expert will call you ! Email Phone Send Why is API testing Necessary in an API-first World? In today’s fiercely competitive software market, people are becoming less tolerant of malfunctioning apps. User-facing mistakes or delays resulting from problems at the application’s API layer can damage consumer confidence, increase attrition, and harm the company. Development teams are pressured to provide highly performant and continuously available APIs. Several teams have opted to use the API-first development strategy to address this difficulty, which entails conceptualizing and developing apps as a collection of external and internal services made available via APIs. This approach prioritizes API quality by treating APIs as essential infrastructure elements. As teams strive to create a seamless digital experience, API testing is essential to the API-first approach because it allows them to regularly validate their endpoints’ quality, health, and performance. Sign up for ou r AWS Online Training today! What Connection Exists Between Monitoring and Testing APIs? While maintaining the dependability and performance of APIs is the common objective of both API testing and API monitoring, both procedures are usually carried out at separate phases of the API lifecycle. The main goal of API testing, which takes place during development, is to assist teams in identifying problems before they arise in production and affect users. This same testing rationale may be used for API monitoring, which happens after the API has been put into production. In addition, API monitoring entails obtaining and displaying API telemetry data, which groups may utilize to uncover long-term performance patterns and conduct historical research. API Testing Types There are numerous API testing approaches, and each has its own function. Though countless variations exist within each category, the following list covers four popular ways teams can create a unique API testing plan. Take Action! Book a Free Expert Session Book Now Get Free Career Counseling from Experts ! Email Phone Send 1. Validation Testing Validation testing evaluates API projects using three criteria: the API’s usability as a product, transactional behavior, and operational efficiency. Here are some common questions posed during validation testing: Does the API’s design accomplish its intended purpose or fix the problem? Were there any significant coding errors that would have caused the API to become unmaintainable? Does the API follow established policies while accessing data? Does the API follow security and compliance guidelines when storing data? Would any changes to the code enhance the functioning of the API as a whole? 2. Functional testing Functional testing ensures that the API functions precisely as intended. This test looks at specific functions inside the codebase to verify that the API functions within expected constraints and is capable of handling errors when the outputs depart from the stated parameters. 3. Load testing Load testing is one method for finding out an API’s throughput. At the end of each unit or codebase, it is common practice to run this test to see if the theoretical solution holds up under a certain load. 4. Reliability testing Reliability testing guarantees that the platform connection is dependable and that the API can generate consistent results. 5. Security testing Verifying the API’s encryption methods and access control architecture is the goal of security testing. It involves verifying authorization checks for user rights management and resource access. 6. Penetration Testing The foundation of security testing is penetration testing. This kind of test involves someone who isn’t very knowledgeable about software attacking the API. This makes it possible for testers to examine the attack vector externally. Penetration testing attacks can focus on particular components of the API or cover the entire system. 7. Fuzz Testing Fuzz testing involves flooding the system with large amounts of noise or random data to cause undesirable behaviors like forced crashes or overflows. Learn from industry experts and become a pro AWS practitioner by enrolling in our Amazon Web Services course. Claim your free expert counseling session today! Book Now Do you want to book a FREE Demo Session? Email Phone Course Opted For Select Course Career Counselling AWS DevOps Python Data Science Tableau Selenium with Python Angular ReactJS Python FullStack Java FullStack PHP FullStack MEAN Stack MERN Stack Diploma In Sofware Testing Python Web Development UI Developmnet Digital Marketing Artificial Intelligence Blockchain Selenium with Java RPA ui Path ETL Testing Azure Machine Learning C Programming Salesforce Soft Skills Web Design OS/Linux PowerBI Data Analytics yes 8. Unit Testing Unit testing involves examining each unit—the smallest tested component of an application—independently and separately to ensure it functions as intended. Unit testing an API entails testing individual endpoints with a single request. 9. Integration Testing Software testing that involves testing an application’s various elements, modules, or components as a whole is known as integration testing. When two or more applications are integrated, an integration test is conducted to evaluate the API’s ability to do so. What Advantages Does API Testing Offer? API testing ensures that APIs function properly, adhere to regulations, and provide reliable results. This increases faith in the API’s actions. It assists in finding and fixing flaws early on before they become issues with the finished product. API testing enhances security by looking at the API’s authorization, data protection, and authentication mechanisms. It verifies performance parameters such as reaction times to determine whether the system is reliable and can support many users. API testing facilitates seamless communication between various software systems, accelerating development and encouraging collaboration. Organizations can produce high-quality software, satisfy consumers, and lower the risk of significant failures by conducting extensive API testing. By performing thorough API testing, you can ensure that software applications relying on these APIs integrate smoothly and operate effectively. It’s similar to ensuring all lines of communication are open, allowing various systems to function as a unit. Tools for API Testing Postman: Create and execute automated tests with Postman, a well-liked tool for API testing. Swagger/OpenAPI: Tools for designing, creating, and testing APIs utilizing the OpenAPI Specification are Swagger and OpenAPI. SoapUI: For functional and load testing of RESTful and SOAP APIs, use SoapUI, an open-source tool. JMeter: Frequently used to test APIs for load and gauge performance under varied loads. RestAssured: Java library RestAssured: for testing RESTful APIs. Enhance your skills with DevOps with AWS Trainin g. What Are a Few API Testing Best Practices? Teams may execute an effective and long-lasting API testing plan by following a few best practices. These ideal procedures consist of the following: Establish a special testing environment . Teams must do API testing in a staging environment before releasing updates to production. They can contain any problems and prevent user-facing downtime with this method. Ensuring that the testing environment closely resembles production settings is crucial. However, it should also provide safe fake data manipulation and replacement capabilities. ● Make your API tests automatic . While test automation allows teams to standardize their approach to ensure consistent coverage and lower the risk of human error, manual API testing can assist developers in debugging specific issues. Teams can use a range of tools to build test suites and plan for executions to happen in CI/CD pipelines after each push or commit at predetermined times or frequency. ● Test your API at every stage of its lifecycle The conventional method of testing APIs, which happens after development is finished, might let problems go unnoticed until they become firmly embedded and challenging to resolve. For this reason, teams should do API testing at each phase of the API lifecycle. Different test types will be more pertinent at different phases. For example, unit tests are frequently written throughout development and in continuous integration/development pipelines. In contrast, contract tests are usually developed during the design stage and run against all future revisions. Early and frequent testing enables teams to identify problems early and address them fast, enabling them to provide customers with high-quality APIs. ● Create reusable subtests While each API endpoint has a distinct function and should thus be tested using bespoke logic, some guidelines might apply to all API endpoints. Teams could want to stipulate that all replies must be in JSON format or that all requests must receive a response within a specific time frame. They can make subtests that they can utilize repeatedly in their test suite instead of repeatedly implementing this logic. This method guarantees uniformity in testing every endpoint while lowering the possibility of human mistakes. ● Organize the tests well. Teams should use a rational, scalable organizational structure for their API test suite, particularly when the API expands and undergoes modifications. To make it easier to run batches of related tests with a single command, teams should, for example, tag each test according to its objective. Additionally, they should keep unit and end-to-end tests apart and develop unique test suites for every API resource. Maintaining organization will make it easier to avoid duplicating test logic, eliminate out-of-date tests, and facilitate the fastest onboarding of new engineers. Connect with industry experts and get all your questions answered! Book Now Meet the industry person, to clear your doubts ! Email Phone Send API Testing Process Test Planning: Determining the goals, needs, and parameters for API testing is known as test planning. Test Design: Test design creates scenarios and test cases grounded in functional requirements and use cases. Test Execution: Test execution is the process of carrying out test cases and collecting results. Defect Reporting: Reporting defects is the process of recording and disclosing any problems that arise during testing. Test Maintenance: Test maintenance keeps test cases current when the application and API change. Other Frequently Asked Questions Regarding API Testing 1. What distinguishes unit testing from API testing? While unit testing concentrates on checking individual code units inside an application, API testing assesses APIs’ overall performance, dependability, usefulness, and security. 2. How should one test an API the best? For comprehensive API testing, it is best to use frameworks like Nightwatch.js to combine automated and manual testing. Manual testing involves sending queries and inspecting answers by hand. 3. Which methodology is the web API tested using? The most popular approach to testing web APIs is REST (Representational State Transfer), which emphasizes standard HTTP methods and stateless data transmission in formats such as JSON or XML. 4. What role does automated API testing play? Automating API testing entails running API tests in CI/CD pipelines or at predefined intervals. It helps teams iterate quickly and confidently while increasing testing efficiency and lowering the possibility of human error. 5. Which three layers make up API testing? The three layers of API testing are typically known as end-to-end, integration, and unit testing. Want to Book A Free Expert Guidance Session? Book Now Get FREE career counselling from Experts ! Email Phone Send The Bottom Line Now is the moment to conclude!Application programming interface testing is an essential part of developing software. . It guarantees that APIs function as intended and get along with other systems. Understanding the fundamentals of API testing, including the many tests, tools, and techniques involved, is essential if you’re new to the game. After reading this guide, which covers the fundamentals of API testing, you should feel well-equipped to begin testing your APIs. However, note that API testing is a continuous process that you must maintain to keep your APIs in optimal condition. It’s not a one-time event. Continue studying, experimenting, and refining those APIs!To learn from AWS Experts do check 3RI Technologies AWS Courses. Prev Previous AWS vs Google Cloud: A 2025 Comparison for Learners & Professionals Next The Five Biggest Challenges with Large-Scale Cloud Migration Next Get in Touch 3RI team help you to choose right course for your career. Let us know how we can help you. Name Email Phone Message Send 3RI Technologies Learn the way industry wants it… Twitter Facebook-f Youtube Linkedin Instagram Whatsapp +91-830 810 3366 +91-962 386 8215 [email protected] Get Free Career Counseling Our expert career counsellor will call you within 30 min* Name Email Phone Number Select Course Select Course Mastering in Data Science Mastering in Data Analytics Mastering in AWS DevOps Mastering in GenAI & AgenticAI Java Full Stack Python Full Stack MERN Stack - React JS Mastering in Software Testing AWS DevOps AWS with DevOps React JS Selenium PowerBI Salesforce Azure TOSCA Playwright Cybersecurity I authorize 3RI Technologies team to communicate me via Email, SMS, WhatsApp and Call. It will override the registry on DND/NDNC. Send Upskill to Advance Your IT Career Personalized upskilling roadmap in a 15 – minute expert call 15+ Years Legacy in IT Training Trusted by 22,000+ Learners Placement & Career Guidance Support NASSCOM FutureSkills Prime University & Industry Recognized Programs Get Your Free Career Call Full Name Mobile Number Email Address Get My Free Career Call No spam | One call only | Free resume review after your call",
+  "old": {
     "images": [
       {
         "src": "https://www.3ritechnologies.com/wp-content/uploads/2026/09/Screenshot_6-2-2026_2370_www.3ritechnologies.com_.jpeg",
@@ -99,253 +81,86 @@
         "alt": "",
         "title": ""
       }
-    ],
-    "internal_links": [
-      "https://www.3ritechnologies.com/",
-      "https://www.3ritechnologies.com/2024/06/03/",
-      "https://www.3ritechnologies.com/about-us/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-devops/",
-      "https://www.3ritechnologies.com/advanced-certification-in-cloud-computing-python-programming/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-analytics/",
-      "https://www.3ritechnologies.com/advanced-certification-in-data-science-ai/",
-      "https://www.3ritechnologies.com/advanced-certification-in-full-stack-development/",
-      "https://www.3ritechnologies.com/advanced-certification-in-react-js-and-angular-web-development/",
-      "https://www.3ritechnologies.com/appointment/",
-      "https://www.3ritechnologies.com/author/priyankas3ri/",
-      "https://www.3ritechnologies.com/become-an-instructor/",
-      "https://www.3ritechnologies.com/blog/",
-      "https://www.3ritechnologies.com/cdn-cgi/l/email-protection",
-      "https://www.3ritechnologies.com/cloud-computing-certification-courses/",
-      "https://www.3ritechnologies.com/concept-of-api-testing/",
-      "https://www.3ritechnologies.com/contact-us",
-      "https://www.3ritechnologies.com/contact-us/",
-      "https://www.3ritechnologies.com/corporate-training/",
-      "https://www.3ritechnologies.com/course/ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/amazon-web-services-course/",
-      "https://www.3ritechnologies.com/course/angularjs-online-training/",
-      "https://www.3ritechnologies.com/course/aws-amazon-web-services/",
-      "https://www.3ritechnologies.com/course/aws-online-training/",
-      "https://www.3ritechnologies.com/course/data-analyst-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-analytics-course-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-training-in-pune/",
-      "https://www.3ritechnologies.com/course/data-science-with-python-and-machine-learning-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-and-aws-certification-training/",
-      "https://www.3ritechnologies.com/course/devops-foundation-certification/",
-      "https://www.3ritechnologies.com/course/devops-online-training/",
-      "https://www.3ritechnologies.com/course/devops-with-aws-training/",
-      "https://www.3ritechnologies.com/course/diploma-in-full-stack/",
-      "https://www.3ritechnologies.com/course/generative-ai-training-in-pune/",
-      "https://www.3ritechnologies.com/course/java-classes-in-pune/",
-      "https://www.3ritechnologies.com/course/mean-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/mern-stack-training-in-pune/",
-      "https://www.3ritechnologies.com/course/microsoft-azure-training-in-pune/",
-      "https://www.3ritechnologies.com/course/playwright-automation-training-in-pune/",
-      "https://www.3ritechnologies.com/course/power-bi-course-in-pune/",
-      "https://www.3ritechnologies.com/course/reactjs-online-training/",
-      "https://www.3ritechnologies.com/course/salesforce-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-in-pune/",
-      "https://www.3ritechnologies.com/course/selenium-training-with-python-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-institute-in-pune/",
-      "https://www.3ritechnologies.com/course/software-testing-training/",
-      "https://www.3ritechnologies.com/course/tableau-online-training-certification/",
-      "https://www.3ritechnologies.com/course/tosca-certification-training/",
-      "https://www.3ritechnologies.com/course/web-design-course-in-pune/",
-      "https://www.3ritechnologies.com/data-analytics-courses/",
-      "https://www.3ritechnologies.com/data-science-certification-courses/",
-      "https://www.3ritechnologies.com/devops-certification-courses/",
-      "https://www.3ritechnologies.com/full-stack-certification-courses/",
-      "https://www.3ritechnologies.com/hire-from-us/",
-      "https://www.3ritechnologies.com/iit-courses/",
-      "https://www.3ritechnologies.com/it-courses-in-ahmedabad/",
-      "https://www.3ritechnologies.com/it-courses-in-bangalore/",
-      "https://www.3ritechnologies.com/it-courses-in-delhi/",
-      "https://www.3ritechnologies.com/it-courses-in-hyderabad/",
-      "https://www.3ritechnologies.com/it-courses-in-mumbai/",
-      "https://www.3ritechnologies.com/pearson-vue-testing-center-in-pune/",
-      "https://www.3ritechnologies.com/placement-reviews/",
-      "https://www.3ritechnologies.com/privacy-policy/",
-      "https://www.3ritechnologies.com/refer-a-friend/",
-      "https://www.3ritechnologies.com/refunds-policy/",
-      "https://www.3ritechnologies.com/software-testing-certification-courses/",
-      "https://www.3ritechnologies.com/terms/",
-      "https://www.3ritechnologies.com/the-five-biggest-challenges-with-large-scale-cloud-migration/",
-      "https://www.3ritechnologies.com/which-is-better-aws-vs-google-cloud/"
-    ],
-    "canonical": "https://www.3ritechnologies.com/concept-of-api-testing/",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "og_title": "Understanding API Testing: Concepts, Methods & How to Test API | 3RI Technologies",
-    "og_description": "Learn what is API testing, how to do API testing, and explore effective API testing methods. Enroll in 3RI Technologies’ Software Testing Course to master API testing and boost your software quality skills.",
-    "schema": [
+    ]
+  },
+  "new": {
+    "images": [
       {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Article",
-            "@id": "https://www.3ritechnologies.com/concept-of-api-testing/#article",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/concept-of-api-testing/"
-            },
-            "author": {
-              "name": "PriyankaS3ri",
-              "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f"
-            },
-            "headline": " Comprehensive Guide to API Testing: Concepts and Methods",
-            "datePublished": "2024-06-03T11:48:59+00:00",
-            "dateModified": "2025-05-26T05:29:47+00:00",
-            "mainEntityOfPage": {
-              "@id": "https://www.3ritechnologies.com/concept-of-api-testing/"
-            },
-            "wordCount": 2436,
-            "commentCount": 0,
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/concept-of-api-testing/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/API-Testing.jpg",
-            "keywords": [
-              "AWS Blog Design"
-            ],
-            "articleSection": [
-              "aws"
-            ],
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://www.3ritechnologies.com/concept-of-api-testing/#respond"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://www.3ritechnologies.com/concept-of-api-testing/",
-            "url": "https://www.3ritechnologies.com/concept-of-api-testing/",
-            "name": "Understanding API Testing: Concepts, Methods & How to Test API | 3RI Technologies",
-            "isPartOf": {
-              "@id": "https://www.3ritechnologies.com/#website"
-            },
-            "primaryImageOfPage": {
-              "@id": "https://www.3ritechnologies.com/concept-of-api-testing/#primaryimage"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/concept-of-api-testing/#primaryimage"
-            },
-            "thumbnailUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/API-Testing.jpg",
-            "datePublished": "2024-06-03T11:48:59+00:00",
-            "dateModified": "2025-05-26T05:29:47+00:00",
-            "description": "Learn what is API testing, how to do API testing, and explore effective API testing methods. Enroll in 3RI Technologies’ Software Testing Course to master API testing and boost your software quality skills.",
-            "breadcrumb": {
-              "@id": "https://www.3ritechnologies.com/concept-of-api-testing/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.3ritechnologies.com/concept-of-api-testing/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "ImageObject",
-            "inLanguage": "en-US",
-            "@id": "https://www.3ritechnologies.com/concept-of-api-testing/#primaryimage",
-            "url": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/API-Testing.jpg",
-            "contentUrl": "https://www.3ritechnologies.com/wp-content/uploads/2024/06/API-Testing.jpg",
-            "width": 1000,
-            "height": 667
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.3ritechnologies.com/concept-of-api-testing/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.3ritechnologies.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": " Comprehensive Guide to API Testing: Concepts and Methods"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.3ritechnologies.com/#website",
-            "url": "https://www.3ritechnologies.com/",
-            "name": "3RI Technologies Pvt Ltd",
-            "description": "Learn the way industry wants it...",
-            "publisher": {
-              "@id": "https://www.3ritechnologies.com/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.3ritechnologies.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://www.3ritechnologies.com/#organization",
-            "name": "3RI Technologies",
-            "url": "https://www.3ritechnologies.com/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/",
-              "url": "",
-              "contentUrl": "",
-              "caption": "3RI Technologies"
-            },
-            "image": {
-              "@id": "https://www.3ritechnologies.com/#/schema/logo/image/"
-            },
-            "sameAs": [
-              "https://www.facebook.com/3ritechnologies/",
-              "https://x.com/3ritechnologies",
-              "https://www.instagram.com/3ritechnologies/",
-              "https://in.linkedin.com/company/3rinfotech",
-              "https://in.pinterest.com/3ritechnology/",
-              "https://www.youtube.com/channel/UCQrYtU3mlW9rEy7YqDgXpuw"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https://www.3ritechnologies.com/#/schema/person/aa9feea2443b32fc4ae05b4dfe3e135f",
-            "name": "PriyankaS3ri",
-            "image": {
-              "@type": "ImageObject",
-              "inLanguage": "en-US",
-              "@id": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "url": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "contentUrl": "https://secure.gravatar.com/avatar/6490992859c01bbe5ace5efb323253fb61e4e3776e65fe30ef725a1e5905ba59?s=96&d=mm&r=g",
-              "caption": "PriyankaS3ri"
-            },
-            "url": "https://www.3ritechnologies.com/author/priyankas3ri/"
-          }
-        ]
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzQ4IDYzIiB3aWR0aD0iMzQ4IiBoZWlnaHQ9IjYzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "alt": "3RI Technologies logo",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA2NjciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA0MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "Become An AWS Certified Professional",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2NDciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY0NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODEiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA2ODEiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ0IDE0NCIgd2lkdGg9IjE0NCIgaGVpZ2h0PSIxNDQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+        "alt": "WhatsApp",
+        "title": ""
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=2631310427326485&ev=PageView&noscript=1&cd%5Bpost_category%5D=aws&cd%5Bpage_title%5D=%C2%A0Comprehensive+Guide+to+API+Testing%3A+Concepts+and+Methods&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=95055&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.3ritechnologies.com%2Fconcept-of-api-testing%2F",
+        "alt": "",
+        "title": ""
       }
-    ],
-    "status_code": 200
+    ]
   },
   "priority": "MEDIUM"
 }
